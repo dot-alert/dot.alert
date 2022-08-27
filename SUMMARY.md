@@ -23,6 +23,10 @@
 * [Our contributors](acknowledgements/our-contributors.md)
 * [Our supporters](acknowledgements/our-supporters.md)
 
+## Community
+
+* [Social channels](community/social-channels.md)
+
 ## legal
 
 * [Cookie policy](legal/cookie-policy.md)

@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/DotContributors (1).JPG
+cover: ../.gitbook/assets/DotContributors (2).JPG
 coverY: 0
 ---
 
