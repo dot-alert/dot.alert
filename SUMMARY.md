@@ -26,4 +26,4 @@
 ## legal
 
 * [Cookie policy](legal/cookie-policy.md)
-* [Open Source License](legal/open-source-license.md)
+* [Open Source license](legal/open-source-license.md)
