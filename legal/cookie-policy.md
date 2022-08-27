@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/DotPrivacy.JPG
+cover: ../.gitbook/assets/DotPrivacy (1).JPG
 coverY: 0
 ---
 

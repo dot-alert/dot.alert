@@ -1,6 +1,6 @@
-# Open Source License
+# Open Source license
 
-**Dot.alert()** is hosted on a public [GitHub repository](https://github.com/anaelleltd/dot.alert) under _GNU GPL v3.0_ licensing.
+**Dot.alert()** is hosted on a public [GitHub repository](https://github.com/dot-alert/dot.alert) under _GNU GPL v3.0_ licensing.
 
 _"The GNU General Public License is a free, copyleft license for software and other kinds of works." (Source:_ [_https://www.gnu.org/licenses/gpl-3.0.en.html_](https://www.gnu.org/licenses/gpl-3.0.en.html)_)_
 

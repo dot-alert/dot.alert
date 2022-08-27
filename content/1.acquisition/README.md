@@ -1,6 +1,6 @@
 ---
 description: Sending, receiving, and teleporting assets.
-cover: ../../.gitbook/assets/DotAcquisition (1).JPG
+cover: ../../.gitbook/assets/DotAcquisition.JPG
 coverY: 0
 ---
 
