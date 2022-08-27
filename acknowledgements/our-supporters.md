@@ -11,7 +11,7 @@ _<mark style="background-color:green;">Those who give us feedback.</mark>_
 
 \[Get your name here!]
 
-_<mark style="color:green;">Anonymous Reddit user</mark>_
+<figure><img src="../.gitbook/assets/Feedback.JPG" alt=""><figcaption><p><em><mark style="color:green;">Anonymous Reddit user</mark></em> </p></figcaption></figure>
 
 ## **Fundraiser(s)**
 
