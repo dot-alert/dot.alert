@@ -29,6 +29,8 @@ You will need a DotSama account to receive your coins/tokens, along with some un
 * Depending on the dapps that you use, you might need to investigate address formats.
 * Depending on the methods that you choose, you might need to make use of transaction explorers.
 
+<figure><img src="../../.gitbook/assets/A_DotMarketcap.JPG" alt=""><figcaption><p>Overview of listed ecosystem tokens/coins on <a href="https://www.dotmarketcap.com/listed">DotMarketCap</a>.</p></figcaption></figure>
+
 
 
 **In this section, we review key parameters for sending, receiving, and teleporting assets safely across DotSama networks.**&#x20;
