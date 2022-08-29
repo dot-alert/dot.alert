@@ -22,6 +22,8 @@ Once an account has been activated on-chain with an existential deposit, its dat
 
 You can get very specific information about any account through transaction explorers, such as what date and time the account was activated, how many coins are available or locked on the account, on which parachain the account has sent assets, with which addresses, platforms, and web3 services the account has interacted, etc.&#x20;
 
+<figure><img src="../../.gitbook/assets/A_TEPortfolio.png" alt=""><figcaption><p>Customisable view of assets on <a href="https://substrate-portfolio.github.io/polkadot-portfolio/">Polkadot Portfolio</a> with no account sign-in needed.</p></figcaption></figure>
+
 
 
 ## Why are they important?
