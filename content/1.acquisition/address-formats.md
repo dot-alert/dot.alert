@@ -14,6 +14,8 @@ Fortunately, there is no need to open or connect your wallet every time you need
 
 ![View all address formats for the same account on Subscan](../../.gitbook/assets/A\_AFSubscan.JPG)
 
+<figure><img src="../../.gitbook/assets/A_AFSubID.JPG" alt=""><figcaption><p> <a href="https://sub.id/">SubID</a> gives a much more user-friendly access to account formats.</p></figcaption></figure>
+
 
 
 ## How do they work?
