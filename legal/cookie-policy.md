@@ -31,5 +31,5 @@ If you want to restrict or block the cookies that are set by our website, you ca
 
 ## **Contacting us**
 
-If you have any questions about this policy or our use of cookies, please contact us at [anaelleltd@gmail.com](mailto:anaelleltd@gmail.com).
+If you have any questions about this policy or our use of cookies, please contact us at **dot.alert@proton.me**. &#x20;
 
