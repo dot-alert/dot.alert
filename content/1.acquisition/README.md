@@ -33,6 +33,6 @@ You will need a DotSama account to receive your coins/tokens, along with some un
 
 
 
-**In this section, we review key parameters for sending, receiving, and teleporting assets safely across DotSama networks.**&#x20;
+**In this section, we review key information for sending, receiving, and teleporting assets safely across DotSama networks.**&#x20;
 
 ****
