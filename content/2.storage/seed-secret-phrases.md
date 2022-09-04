@@ -36,7 +36,7 @@ Always remember that it is your seed/secret phrase (**not** your wallet!) that h
 
 ![Validating a seed/secret phrase backup on Parallel wallet.](../../.gitbook/assets/S\_SPParallel.JPG)
 
-Since a seed/secret phrase is made of a unique sequence of random English words, it is important to store these words in the correct order and with the correct spelling. Users who have a visual impairment, dyslexia, and/or who are not proficient in written English will find it challenging to copy the words on a piece of paper one-by-one, but they must take the time to do so properly. Storing a screenshot and/or a copy of a seed/secret phrase in a digital device is not recommended, because these files can be accidentally leaked and/or deleted.
+Since a seed/secret phrase is made of a unique sequence of random English words, it is important to store these words in the correct order and with the correct spelling. Users who have a visual impairment, dyslexia, and/or who are not proficient in written English might find it challenging to copy the words on a piece of paper one-by-one, but they must take the time to do so properly. Storing a screenshot and/or a copy of a seed/secret phrase in a digital device is not recommended, because these files can be accidentally leaked and/or deleted.
 
 ![Checking a seed/secret phrase sequence on Polkawallet.](../../.gitbook/assets/S\_SPPolkawallet.jpg)
 
