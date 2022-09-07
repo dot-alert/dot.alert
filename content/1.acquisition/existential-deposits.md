@@ -32,7 +32,7 @@ Before you can receive custom assets on Common Good parachains, you will need to
 
 ![Statemine accounts need an existential deposit to receive assets from Karura.](<../../.gitbook/assets/A\_EDStatemine (1).JPG>)
 
-Numerous DotSama projects use data related to active accounts and on-chain activity as a benchmark when running their rewards and airdrop campaigns. An account that is accidentally deactivated, even for as little as a few minutes, could therefore disqualify you from receiving these extra perks.
+Numerous DotSama projects use data related to active accounts and on-chain activity as a benchmark when running their reward and airdrop campaigns. An account that is accidentally deactivated, even for as little as a few minutes, could therefore disqualify you from receiving these extra perks.
 
 In the past, many users have made the mistake of keeping fractions of the existential deposit after spinning a new account, and then lost their funds. Because they didn't know about existential deposits, they concluded that their wallet was hacked or that the network was faulty. Also, given the fluctuations in coin valuations, what might have been a small amount at the time of the loss could very well become a substantial sum that will never be recovered.
 
