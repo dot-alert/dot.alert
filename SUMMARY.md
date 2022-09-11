@@ -15,6 +15,7 @@
   * [Transaction explorers](content/1.acquisition/transaction-explorers.md)
 * [2.Storage](content/2.storage/README.md)
   * [Seed/Secret phrases](content/2.storage/seed-secret-phrases.md)
+  * [JSON backups](content/2.storage/json-backups.md)
 * [3.Operations](content/3.operations.md)
 * [4.Social support](content/4.social-support.md)
 * [5.Regulations](content/5.regulations.md)
