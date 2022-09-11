@@ -10,7 +10,7 @@ JSON backups are files that contain an encrypted version of the cryptographic ke
 
 
 
-Any DotSama account can generate a JSON backup file, even if there is no seed/secret phrase associated to it, as it is the case with derived accounts. JSON files can be used to recreate/import an account in any wallet, however, in practice, they are more often used in the context of browser extensions.&#x20;
+Any DotSama account can generate a JSON backup file, even if there is no seed/secret phrase associated to it, as it is the case with derived accounts. JSON backup files can be used to recreate/import an account in any wallet, however, in practice, they are more often used in the context of browser extensions.&#x20;
 
 <figure><img src="../../.gitbook/assets/S_JBPJS.JPG" alt=""><figcaption><p>Exporting an account from <a href="https://polkadot.js.org/extension/">Polkadot-JS Extension</a> for use on another wallet and/or device. </p></figcaption></figure>
 
@@ -18,7 +18,7 @@ Any DotSama account can generate a JSON backup file, even if there is no seed/se
 
 ## How do they work?
 
-As soon as an account is created through a wallet, a JSON file can be downloaded/exported to store this account for later or immediate use. Although each wallet has its own specific procedure for downloading/exporting JSON backups, this functionality is usually password-protected because there is sensitive information at stake. The same password that you used to download/export the JSON backup from your account will be required when recreating/importing the account into another wallet.
+As soon as an account is created through a wallet, a JSON backup file can be downloaded/exported to store this account for later or immediate use. Although each wallet has its own specific procedure for downloading/exporting JSON backups, this functionality is usually password-protected because there is sensitive information at stake. The same password that you used to download/export the JSON backup from your account will be required when recreating/importing the account into another wallet.
 
 <figure><img src="../../.gitbook/assets/S_JBSubwallet.JPG" alt=""><figcaption><p>Account export interface from <a href="https://subwallet.app/">Subwallet</a>.</p></figcaption></figure>
 
