@@ -20,7 +20,8 @@
   * [Bidding](content/3.operations/bidding/README.md)
     * [Kappa Sigma Mu (KΣM) membership](content/3.operations/bidding/kappa-sigma-mu-ksm-membership.md)
     * [Parachain slot lease](content/3.operations/bidding/parachain-slot-lease.md)
-* [4.Social support](content/4.social-support.md)
+* [4.Social support](content/4.social-support/README.md)
+  * [Docs](content/4.social-support/docs.md)
 * [5.Regulations](content/5.regulations.md)
 
 ## Acknowledgements
