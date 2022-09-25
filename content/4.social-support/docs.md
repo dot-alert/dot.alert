@@ -38,7 +38,7 @@ Docs are often used to evaluate the quality of a project, especially at inceptio
 
 
 
-Since Docs are not standardised and evolve alongside a project, their structure and content might be lacking in early stages. This is because teams often prioritise technical developments and will not always put forward the time and resources needed to prepare a documentation for the general audience. Users who attempt to operate on the project's platform without the minimal guidance provided by the docs are therefore at risk of losing their assets through human errors.
+Since Docs are not standardised and evolve alongside a project, their structure and content might be lacking in early stages. This is because teams often prioritise technical developments and will not always put forward the time and resources needed to prepare a documentation for the general audience. Users who attempt operations on the project's platform without the minimal guidance provided by the docs are therefore at risk of losing their assets through human errors.
 
 <figure><img src="../../.gitbook/assets/S_DInterlay.JPG" alt=""><figcaption><p>User-friendly structure of <a href="https://docs.interlay.io/#/"><em>Interlay's docs</em></a>.</p></figcaption></figure>
 
