@@ -13,6 +13,10 @@ _<mark style="background-color:green;">Those who give us feedback.</mark>_
 
 <figure><img src="../.gitbook/assets/Feedback.JPG" alt=""><figcaption><p><em><mark style="color:green;">Anonymous Reddit user</mark></em> </p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Feedbackb.JPG" alt=""><figcaption><p><em><mark style="color:green;">u/Bitman321</mark></em></p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Feedback6.JPG" alt=""><figcaption><p><em><mark style="color:green;">u/Gr33nhatt3r</mark></em></p></figcaption></figure>
+
 ## **Fundraiser(s)**
 
 _<mark style="background-color:green;">Those who fund our developments.</mark>_
