@@ -33,6 +33,7 @@
 
 * [Social channels](community/social-channels.md)
 * [Monthly quizzes](community/monthly-quizzes.md)
+* [Jobs](community/jobs.md)
 
 ## legal
 
