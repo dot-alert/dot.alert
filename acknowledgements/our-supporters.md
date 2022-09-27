@@ -21,7 +21,7 @@ _<mark style="background-color:green;">Those who give us feedback.</mark>_
 
 _<mark style="background-color:green;">Those who fund our developments.</mark>_
 
-\[TBC]
+[**The Polkadot Treasury**](https://polkadot.subsquare.io/council/motion/263)****
 
 ## Donator(s)
 
