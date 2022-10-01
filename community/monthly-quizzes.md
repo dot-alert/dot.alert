@@ -11,7 +11,9 @@ Take our monthly quiz to find out and enter a draw to win **cash prizes of 🥇$
 
 
 
-👉🏿 [**Monthly quiz #1: 26th September 2022 11:00 UTC - 30th September 2022 23:00 UTC**](https://forms.gle/66szM18pictwQbra9)  **** &#x20;
+\[Finished]
 
-Monthly quiz #0: 29th August 2022 11:00 UTC - 31st August 2022 23:00 UTC \[Finished]
+Monthly quiz #1: 26th September 2022 11:00 UTC - 30th September 2022 23:00 UTC ****&#x20;
+
+Monthly quiz #0: 29th August 2022 11:00 UTC - 31st August 2022 23:00 UTC&#x20;
 
