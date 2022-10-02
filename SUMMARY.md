@@ -22,6 +22,7 @@
     * [Parachain slot lease](content/3.operations/bidding/parachain-slot-lease.md)
 * [4.Social support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
+  * [GitHub](content/4.social-support/github.md)
 * [5.Regulations](content/5.regulations.md)
 
 ## Acknowledgements
