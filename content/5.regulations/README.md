@@ -17,6 +17,7 @@ In the DotSama ecosystem, the same asset can take on various forms because of co
 * canary networks
 * common good chains
 * remark tokens
+* cross-chain transfers
 * liquid crowdloans
 * staking derivatives
 
