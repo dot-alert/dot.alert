@@ -17,11 +17,3 @@ _<mark style="background-color:blue;">Those who build our platform.</mark>_
 
 _Anaelle LTD_
 
-
-
-## Well-wisher(s)
-
-_<mark style="background-color:blue;">Those who spread the word about our platform.</mark>_
-
-\[Get your name here!]
-

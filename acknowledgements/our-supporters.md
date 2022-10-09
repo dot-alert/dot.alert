@@ -17,16 +17,11 @@ _<mark style="background-color:green;">Those who give us feedback.</mark>_
 
 <figure><img src="../.gitbook/assets/Feedback6.JPG" alt=""><figcaption><p><em><mark style="color:green;">u/Gr33nhatt3r</mark></em></p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Feedbackc.JPG" alt=""><figcaption><p><em><mark style="color:green;">u/elodie_w3f</mark></em></p></figcaption></figure>
+
 ## **Fundraiser(s)**
 
 _<mark style="background-color:green;">Those who fund our developments.</mark>_
 
-[**The Polkadot Treasury**](https://polkadot.subsquare.io/council/motion/263)****
+[**The Polkadot Treasury**](https://polkadot.subsquare.io/council/motion/263) ****&#x20;
 
-## Donator(s)
-
-_<mark style="background-color:green;">Those who endorse our project.</mark>_
-
-\[TBC]
-
-****

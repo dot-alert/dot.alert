@@ -23,7 +23,9 @@
 * [4.Social support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)
-* [5.Regulations](content/5.regulations.md)
+* [5.Regulations](content/5.regulations/README.md)
+  * [Networks](content/5.regulations/networks/README.md)
+    * [Infrastructure](content/5.regulations/networks/infrastructure.md)
 
 ## Acknowledgements
 
