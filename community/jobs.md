@@ -50,7 +50,7 @@ Applications close on **Wednesday 19th October 2022 23:00 UTC**.
 
 ## 👨🏻‍💼👩🏾‍💼Contributors
 
-**Dot.alert()** is looking for contributors to create and promote its platform’s content.
+**Dot.alert()** is looking for contributors to create and disseminate its platform’s content.
 
 There are up to 6 positions to fill, as indicated below:
 
