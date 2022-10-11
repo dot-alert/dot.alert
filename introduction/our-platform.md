@@ -14,4 +14,7 @@ Browse through to:
 * review advanced safety setups
 * explore ongoing regulatory developments
 
-&#x20;
+_<mark style="background-color:red;"></mark>_
+
+_<mark style="background-color:red;">Disclaimer: All articles presented on our platform are written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. They should not be used as a substitute for competent financial or legal advice from a licensed professional.</mark>_&#x20;
+
