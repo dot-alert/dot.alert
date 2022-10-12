@@ -30,15 +30,15 @@ _Rates:_ $250/fortnight.
 
 
 
-### **3. HR officer**&#x20;
+### <mark style="background-color:red;">**3. HR officer  \[FILLED]**</mark>
 
-_Number of positions:_ 1 (Temporary: Oct-Dec 2022).
+_<mark style="background-color:red;">Number of positions:</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">1 (Temporary: Oct-Dec 2022).</mark>
 
-_Tasks:_ Recruitment campaigns for contributors. Advertise open positions, brief applicants, and shortlist candidates.
+_<mark style="background-color:red;">Tasks:</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">Recruitment campaigns for contributors. Advertise open positions, brief applicants, and shortlist candidates.</mark>
 
-_Requirements:_ 1+ year of active community involvement in DotSama.
+_<mark style="background-color:red;">Requirements:</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">1+ year of active community involvement in DotSama.</mark>
 
-_Rates:_ $200/fortnight.
+_<mark style="background-color:red;">Rates:</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">$200/fortnight.</mark>
 
 
 
@@ -56,7 +56,7 @@ There are up to 6 positions to fill, as indicated below:
 
 ### **1. Technical writers for** [**sections 2, 3 and 4**](https://docs.google.com/document/d/1TXH0E2CD12aLhXjQWdHUvx0gZ6jyUn5HZbGIisgb4Eo/edit?usp=sharing)**.**&#x20;
 
-_Number of positions:_ 4 (Casual).
+_Number of positions:_ 3 (Casual).
 
 _Requirements:_ 3+ months involvement in DotSama, Ambassadors/Moderators preferred.
 
