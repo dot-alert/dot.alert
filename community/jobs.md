@@ -4,7 +4,7 @@
 
 **Dot.alert()** is looking for team members to manage and develop its platform’s operations.
 
-There are 2 ongoing positions and 1 temporary/casual position to fill, as indicated below:
+There are 2 ongoing positions, as indicated below:
 
 ### **1. QA officer**
 
@@ -30,18 +30,6 @@ _Rates:_ $250/fortnight.
 
 
 
-### <mark style="background-color:red;">**3. HR officer  \[FILLED]**</mark>
-
-_<mark style="background-color:red;">Number of positions:</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">1 (Temporary: Oct-Dec 2022).</mark>
-
-_<mark style="background-color:red;">Tasks:</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">Recruitment campaigns for contributors. Advertise open positions, brief applicants, and shortlist candidates.</mark>
-
-_<mark style="background-color:red;">Requirements:</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">1+ year of active community involvement in DotSama.</mark>
-
-_<mark style="background-color:red;">Rates:</mark>_ <mark style="background-color:red;"></mark><mark style="background-color:red;">$200/fortnight.</mark>
-
-
-
 Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)to get in touch with us.
 
 Applications close on **Wednesday 19th October 2022 23:00 UTC**.
@@ -52,7 +40,7 @@ Applications close on **Wednesday 19th October 2022 23:00 UTC**.
 
 **Dot.alert()** is looking for contributors to create and disseminate its platform’s content.
 
-There are up to 6 positions to fill, as indicated below:
+There are up to 5 positions to fill, as indicated below:
 
 ### **1. Technical writers for** [**sections 2, 3 and 4**](https://docs.google.com/document/d/1TXH0E2CD12aLhXjQWdHUvx0gZ6jyUn5HZbGIisgb4Eo/edit?usp=sharing)**.**&#x20;
 
