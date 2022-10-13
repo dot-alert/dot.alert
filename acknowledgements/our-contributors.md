@@ -1,19 +1,27 @@
 ---
-cover: ../.gitbook/assets/DotContributors (2).JPG
+cover: ../.gitbook/assets/DotSupporters.JPG
 coverY: 0
 ---
 
 # Our contributors
 
-## Writer(s) and editor(s)
+## Writer(s) and Editor(s)
 
 _<mark style="background-color:blue;">Those who create our content.</mark>_
 
 _Anaelle LTD_
 
-## Designer(s)
+## Builder(s)
 
-_<mark style="background-color:blue;">Those who build our platform.</mark>_
+_<mark style="background-color:blue;">Those who shape our platform.</mark>_
 
-_Anaelle LTD_
+_Anaelle LTD (Design)_
+
+_Funmilayo L (SEO)_
+
+## **Fundraiser(s)**
+
+_<mark style="background-color:green;">Those who fund our developments.</mark>_
+
+[**The Polkadot Treasury**](https://polkadot.subsquare.io/council/motion/263) ****&#x20;
 

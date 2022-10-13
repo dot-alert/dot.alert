@@ -29,8 +29,8 @@
 
 ## Acknowledgements
 
+* [Our team members](acknowledgements/our-team-members.md)
 * [Our contributors](acknowledgements/our-contributors.md)
-* [Our supporters](acknowledgements/our-supporters.md)
 
 ## Community
 
