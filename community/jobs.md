@@ -49,7 +49,7 @@ There are up to 5 positions to fill, as indicated below:
 
 ### **1. Technical writers for** [**sections 2, 3 and 4**](https://docs.google.com/document/d/1TXH0E2CD12aLhXjQWdHUvx0gZ6jyUn5HZbGIisgb4Eo/edit?usp=sharing)**.**&#x20;
 
-_Number of positions:_ 2 (Casual).
+_Number of positions:_ 3 (Casual).
 
 _Requirements:_ 3+ months involvement in DotSama, Ambassadors/Moderators preferred.
 
