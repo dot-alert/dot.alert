@@ -21,7 +21,7 @@ _Funmilayo L (SEO)_
 
 ## **Fundraiser(s)**
 
-_<mark style="background-color:green;">Those who fund our developments.</mark>_
+_<mark style="background-color:blue;">Those who fund our developments.</mark>_
 
-[**The Polkadot Treasury**](https://polkadot.subsquare.io/council/motion/263) ****&#x20;
+<mark style="background-color:blue;"></mark>[**The Polkadot Treasury**](https://polkadot.subsquare.io/council/motion/263) ****&#x20;
 
