@@ -16,6 +16,7 @@
 * [2.Storage](content/2.storage/README.md)
   * [Seed/Secret phrases](content/2.storage/seed-secret-phrases.md)
   * [JSON backups](content/2.storage/json-backups.md)
+  * [Browser extensions](content/2.storage/browser-extensions.md)
 * [3.Operations](content/3.operations/README.md)
   * [Bidding](content/3.operations/bidding/README.md)
     * [Kappa Sigma Mu (KΣM) membership](content/3.operations/bidding/kappa-sigma-mu-ksm-membership.md)
@@ -29,8 +30,8 @@
 
 ## Acknowledgements
 
-* [Our team members](acknowledgements/our-team-members.md)
-* [Our contributors](acknowledgements/our-contributors.md)
+* [Our team members](acknowledgements/our-contributors.md)
+* [Our contributors](acknowledgements/our-supporters.md)
 
 ## Community
 
