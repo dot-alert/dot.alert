@@ -2,13 +2,13 @@
 
 Docs or Documentation (also called Wiki or Guide) serve as the single source of truth for most ecosystem projects because they are produced under the direct supervision of project team members. Docs provide essential information to a wide range of people: users, node operators, developers, investors, marketing reps, Press, etc.
 
-<figure><img src="../../.gitbook/assets/S_DPolkadot.JPG" alt=""><figcaption><p>Overview of the <a href="https://support.polkadot.network/support/home">support knowledgebase</a> of Polkadot.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_DPolkadot.JPG" alt=""><figcaption><p>Overview of the <a href="https://support.polkadot.network/support/home">support knowledgebase</a> of Polkadot network.</p></figcaption></figure>
 
 
 
 ## How-to:
 
-There is no set content that docs must present to the general public: each project is free to organise and publish articles as they see fit.&#x20;
+There is no set content that docs must present to the general public: each Polkadot project is free to organise and publish articles as they see fit.&#x20;
 
 At minima, docs provide the following information:
 
@@ -24,9 +24,9 @@ At minima, docs provide the following information:
 
 
 
-Docs can also provide a condensed summary of core blockchain concepts as well as an overview of how new technologies can be integrated into the network that is being developed. For this reason, some docs can be used as a learning resource for the non-technical audience looking to get a stronger understanding of the DotSama ecosystem at large.&#x20;
+Docs can also provide a condensed summary of core blockchain concepts as well as an overview of how new technologies can be integrated into the network that is being developed. For this reason, some docs can be used as a learning resource for the non-technical audience looking to get a stronger understanding of the Polkadot ecosystem at large.&#x20;
 
-<figure><img src="../../.gitbook/assets/S_DAstar.JPG" alt=""><figcaption><p><em></em><a href="https://docs.astar.network/"><em>Astar's docs</em></a> include an extensive summary on XCM technologies.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_DAstar.JPG" alt=""><figcaption><p><em></em><a href="https://docs.astar.network/"><em>Astar's docs</em></a> include an extensive summary on Polkadot's XCM technologies.</p></figcaption></figure>
 
 
 

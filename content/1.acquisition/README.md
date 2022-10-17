@@ -6,7 +6,7 @@ coverY: 0
 
 # 1.Acquisition
 
-There are various avenues for obtaining DotSama assets ahead of **onboarding the ecosystem**.&#x20;
+There are various avenues for obtaining Polkadot assets ahead of **onboarding the ecosystem**.&#x20;
 
 These include :
 
@@ -23,7 +23,7 @@ These include :
 
 
 
-You will need a DotSama account to receive your coins/tokens, along with some understanding of the following concepts:&#x20;
+You will need a Polkadot account to receive your coins/tokens, along with some understanding of the following concepts:&#x20;
 
 * Depending on the coins/tokens that you receive, you might need to pay attention to existential deposits.
 * Depending on the dapps that you use, you might need to investigate address formats.
@@ -33,6 +33,6 @@ You will need a DotSama account to receive your coins/tokens, along with some un
 
 
 
-**In this section, we review key information for sending, receiving, and teleporting assets safely across DotSama networks.**&#x20;
+**In this section, we review key information for sending, receiving, and teleporting assets safely across Polkadot networks.**&#x20;
 
 ****

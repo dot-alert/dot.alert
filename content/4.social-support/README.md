@@ -6,7 +6,7 @@ coverY: 0
 
 # 4.Social support
 
-With so much innovation happening in the ecosystem, you will need to find a way to keep up with the latest tech developments. An update can make a big difference in how people manage their assets, so users often **source information** in the following ways:
+With so much innovation happening in the Polkadot ecosystem, you will need to find a way to keep up with the latest tech developments. An update can make a big difference in how people manage their assets, so users often **source information** in the following ways:
 
 * directly from project team members (Founders, Community managers, Ambassadors)
 * indirectly from projects publications (Docs, GitHub repos, Polkassembly posts, blogs)
@@ -21,4 +21,4 @@ Decentralised networks are made of communities that are not always visible or vo
 
 
 
-**In this section, we present how to troubleshoot DotSama-related issues and how to handle security settings when discussing and reviewing assets on social networks.**
+**In this section, we present how to troubleshoot Polkadot-related issues and how to handle security settings when discussing and reviewing assets on social networks.**

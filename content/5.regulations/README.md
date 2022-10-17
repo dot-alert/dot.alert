@@ -12,7 +12,7 @@ There are still a lot of legal unknowns in this ecosystem, because there are new
 
 
 
-In the DotSama ecosystem, the same asset can take on various forms because of concepts such as:
+In the Polkadot ecosystem, the same asset can take on various forms because of concepts such as:
 
 * canary networks
 * common good chains
@@ -21,7 +21,7 @@ In the DotSama ecosystem, the same asset can take on various forms because of co
 * liquid crowdloans
 * staking derivatives
 
-Depending on jurisdictions, this modularity can introduce further complexity in regulatory risk management for the holders.
+Depending on jurisdictions, this modularity can introduce more complexity in regulatory risk management by the holders.
 
 
 
@@ -31,6 +31,6 @@ In the end, the burden of **compliance** remains the biggest challenge for users
 
 ****
 
-**In this section, we cross-reference DotSama technologies with existing legislations and review some essential ecosystem tools for assets management.**&#x20;
+**In this section, we cross-reference Polkadot network's technologies with existing legislations and review some essential ecosystem tools for assets management.**&#x20;
 
 &#x20;

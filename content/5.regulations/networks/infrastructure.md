@@ -4,7 +4,7 @@ _<mark style="background-color:red;">Disclaimer: This article is made by</mark> 
 
 <mark style="background-color:red;">****</mark>
 
-Blockchain infrastructure represents the hardware and software needed to provide access to Digital Ledger Technology (DLT) to end-users. In the DotSama ecosystem, Substrate is the core component of this infrastructure; with blockchain engineers, application developers, user interface designers, and users all interacting with the framework at different levels.
+Blockchain infrastructure represents the hardware and software needed to provide access to Digital Ledger Technology (DLT) to end-users. In the Polkadot ecosystem, Substrate is the core component of this infrastructure; with blockchain engineers, application developers, user interface designers, and users all interacting with the framework at different levels.
 
 ## Legal framework:
 
@@ -22,7 +22,7 @@ Currently, there isn't any comprehensive law or bill that gives clear guidelines
 
 * Assets&#x20;
 
-With the exception of Common Good parachains, all chains that are currently running in the DotSama ecosystem use a native token that was launched at genesis. Networks often give a general outline of the terms and conditions attached to the distribution, release, and use cases of their native coin in the Tokenomics section of their whitepaper. Similarly, most active community projects and/or DAOs make use of tokens (fungible or not) to give certain rights to the holders.&#x20;
+With the exception of Common Good parachains, all chains that are currently running in the Polkadot ecosystem use a native token that was launched at genesis. Networks often give a general outline of the terms and conditions attached to the distribution, release, and use cases of their native coin in the Tokenomics section of their whitepaper. Similarly, most active community projects and/or DAOs make use of tokens (fungible or not) to give certain rights to the holders.&#x20;
 
 <figure><img src="../../../.gitbook/assets/R_NPolkadex.jpg" alt=""><figcaption><p>Token economics of <a href="https://polkadex.trade/">Polkadex</a>.</p></figcaption></figure>
 
@@ -60,7 +60,7 @@ There have been instances in the past whereby individual investors have [sued](h
 
 * Ecological
 
-There have been a lot of discussions regarding the sustainability of decentralised networks, because there is the pervasive belief that a significant amount of power is needed to run and maintain their infrastructure. Although current research has proved that DotSama networks are among the greenest in the blockchain space, variations remain at the scale of individual node operators.&#x20;
+There have been a lot of discussions regarding the sustainability of decentralised networks, because there is the pervasive belief that a significant amount of power is needed to run and maintain their infrastructure. Although current research has proved that Polkadot networks are among the greenest in the blockchain space, variations remain at the scale of individual node operators.&#x20;
 
 <figure><img src="../../../.gitbook/assets/R_NSequester.JPG" alt=""><figcaption><p><a href="https://bitgreen.org/blog/polkadot-climate-positive">BitGreen and Sequester</a> propose parachain operations built around carbon credits.</p></figcaption></figure>
 

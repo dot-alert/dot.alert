@@ -9,7 +9,7 @@ coverY: 0
 
 Browse through to:
 
-* learn about core DotSama technologies
+* learn about core Polkadot technologies
 * discover popular ecosystem tools
 * review advanced safety setups
 * explore ongoing regulatory developments

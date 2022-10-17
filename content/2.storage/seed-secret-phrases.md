@@ -10,7 +10,7 @@ Seed/Secret phrases are the human-readable representation of the cryptographic k
 
 
 
-A DotSama account can be created from a variety of cryptography types based on the same seed/secret phrase. It is this seed/secret phrase that will be used to re-create/import the account across different wallets and/or different devices, provided there is support for the cryptography type used upon creation.
+A Polkadot account can be created from a variety of cryptography types based on the same seed/secret phrase. It is this seed/secret phrase that will be used to re-create/import the account across different wallets and/or different devices, provided there is support for the cryptography type used upon creation.
 
 ![An overview of some cryptography types and the corresponding seed/secret phrase on Polkadot-JS Apps.](../../.gitbook/assets/S\_SPPJSApps.JPG)
 
@@ -18,7 +18,7 @@ A DotSama account can be created from a variety of cryptography types based on t
 
 ## How do they work?
 
-When you create a DotSama account, your wallet generates a seed/secret phrase for that specific account. You must note down this seed/secret phrase carefully, as it is the actual "key" needed to gain access to your assets. It is also possible to create new accounts from an existing account without generating additional seed/secret phrases: this is done via a process called "derivation".&#x20;
+When you create a Polkadot account, your wallet generates a seed/secret phrase for that specific account. You must note down this seed/secret phrase carefully, as it is the actual "key" needed to gain access to your assets. It is also possible to create new accounts from an existing account without generating additional seed/secret phrases: this is done via a process called "derivation".&#x20;
 
 ![Main and Derived accounts on Enkrypt wallet.](../../.gitbook/assets/S\_SPEnkrypt.JPG)
 

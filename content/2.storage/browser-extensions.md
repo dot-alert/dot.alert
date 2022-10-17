@@ -18,13 +18,13 @@ Unlike web wallets that are managed by a third-party entity, browser extension w
 
 ## How do they work?
 
-At a basic level, browser extension wallets allow users to create new accounts, import existing accounts, transfer tokens, and connect to ecosystem dapps to sign transactions. However, a growing number of extensions now incorporate extra functionalities such as staking tokens, contributing to crowdloans, and sending NFTs.&#x20;
+At a basic level, browser extension wallets allow users to create new accounts, import existing accounts, transfer tokens, and connect to Polkadot ecosystem dapps to sign transactions. However, a growing number of extensions now incorporate extra functionalities such as staking tokens, contributing to crowdloans, and sending NFTs.&#x20;
 
 <figure><img src="../../.gitbook/assets/S_BESubwallet.JPG" alt=""><figcaption><p><a href="https://subwallet.app/">Subwallet</a>'s functionalities include NFT transfers.</p></figcaption></figure>
 
 
 
-Browser extension wallets are designed to support a variety of coins and tokens from multiple DotSama networks and projects. For convenience, they can also work as a computer-based middleware to handle operations between offline devices and online dapps. Browser extension wallets are automatically updated as soon as a newer release becomes available, which helps maintain their security features.
+Browser extension wallets are designed to support a variety of coins and tokens from multiple Polkadot networks and projects. For convenience, they can also work as a computer-based middleware to handle operations between offline devices and online dapps. Browser extension wallets are automatically updated as soon as a newer release becomes available, which helps maintain their security features.
 
 <figure><img src="../../.gitbook/assets/S_BEEnkrypt.JPG" alt=""><figcaption><p>Security features of <a href="https://www.enkrypt.com/">Enkrypt</a> wallet. </p></figcaption></figure>
 
@@ -32,7 +32,7 @@ Browser extension wallets are designed to support a variety of coins and tokens 
 
 ## Why are they important?
 
-Although some browser extension wallets aim to become entirely self-sufficient by providing users with fiat on-ramp entry into the DotSama ecosystem, the majority don't. This means that a lot users still rely on Centralised exchanges to make their first crypto purchases and manually send the assets into their own accounts. For this reason, it is important to review the onboarding experience of a range of extension wallets before making your final choice.
+Although some browser extension wallets aim to become entirely self-sufficient by providing users with fiat on-ramp entry into the Polkadot ecosystem, the majority don't. This means that a lot users still rely on Centralised exchanges to make their first crypto purchases and manually send the assets into their own accounts. For this reason, it is important to review the onboarding experience of a range of extension wallets before making your final choice.
 
 <figure><img src="../../.gitbook/assets/S_BETalisman.jpg" alt=""><figcaption><p><a href="https://talisman.xyz/">Talisman</a> supports in-wallet purchases of various DotSama assets.</p></figcaption></figure>
 

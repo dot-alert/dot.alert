@@ -2,7 +2,7 @@
 
 ## What are they?
 
-JSON backups are files that contain an encrypted version of the cryptographic key (also called "private key") that secures the access to an account. JSON is a format that is used for storing and transporting data, and, in the case of a DotSama account backup, this data is secured by a password.
+JSON backups are files that contain an encrypted version of the cryptographic key (also called "private key") that secures the access to an account. JSON is a format that is used for storing and transporting data, and, in the case of a Polkadot account backup, this data is secured by a password.
 
 {% hint style="info" %}
 **JSON backups do not store seed/secret phrases. Instead, they represent an alternative way of storing an account's private key.**
@@ -10,7 +10,7 @@ JSON backups are files that contain an encrypted version of the cryptographic ke
 
 
 
-Any DotSama account can generate a JSON backup file, even if there is no seed/secret phrase associated to it, as it is the case with derived accounts. JSON backup files can be used to recreate/import an account in any wallet, however, in practice, they are more often used in the context of browser extensions.&#x20;
+Any Polkadot account can generate a JSON backup file, even if there is no seed/secret phrase associated to it, as it is the case with derived accounts. JSON backup files can be used to recreate/import an account in any wallet, however, in practice, they are more often used in the context of browser extensions.&#x20;
 
 <figure><img src="../../.gitbook/assets/S_JBPJS.JPG" alt=""><figcaption><p>Exporting an account from <a href="https://polkadot.js.org/extension/">Polkadot-JS Extension</a> for use on another wallet and/or device. </p></figcaption></figure>
 

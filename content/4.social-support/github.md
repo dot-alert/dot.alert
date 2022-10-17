@@ -1,6 +1,6 @@
 # GitHub
 
-GitHub is a platform on which open source projects collaborate and coordinate efforts to improve their code. Within the DotSama ecosystem, GitHub plays an essential role in giving investors, developers, and users a sneak peek into projects and their potentially innovative solutions.
+GitHub is a platform on which open source projects collaborate and coordinate efforts to improve their code. Within the Polkadot ecosystem, GitHub plays an essential role in giving investors, developers, and users a sneak peek into projects and their potentially innovative solutions.
 
 <figure><img src="../../.gitbook/assets/S_GRobonomics.JPG" alt=""><figcaption><p>Overview of <a href="https://github.com/airalab">Robonomics</a>' solutions on GitHub.</p></figcaption></figure>
 
@@ -14,7 +14,7 @@ At a basic level, the code is organised into different folders called repositori
 
 
 
-All GitHub repositories come under a license that is specified by the team of developers. This license indicates what permissions and restrictions are given to people who want to use the code for their personal and organisational needs. Most DotSama projects run under various forms of [Open source licensing](https://www.digitalocean.com/community/tutorials/understanding-open-source-software-licenses) so that people can use, change, and distribute the software through forks.&#x20;
+All GitHub repositories come under a license that is specified by the team of developers. This license indicates what permissions and restrictions are given to people who want to use the code for their personal and organisational needs. Most Polkadot projects run under various forms of [Open source licensing](https://www.digitalocean.com/community/tutorials/understanding-open-source-software-licenses) so that people can use, change, and distribute the software through forks.&#x20;
 
 
 

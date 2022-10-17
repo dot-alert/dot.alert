@@ -1,6 +1,6 @@
 # Bidding
 
-Bidding operations are fairly limited in scope within the DotSama ecosystem. Currently, there are only a couple of platforms on which users can place bids for very specific purposes such as:
+Bidding operations are fairly limited in scope within the Polkadot ecosystem. Currently, there are only a couple of platforms on which users can place bids for very specific purposes such as:
 
 * a [membership](kappa-sigma-mu-ksm-membership.md) on _Kappa Sigma Mu_ Society (Kusama)
 * a [parachain slot lease](parachain-slot-lease.md) during Parachain auctions (Kusama and Polkadot)

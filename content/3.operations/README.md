@@ -26,4 +26,4 @@ Nevertheless, operating on blockchain by your own means requires you to pay clos
 
 
 
-**In this section, we look at how to optimise your interactions with various DotSama protocols and avoid signing your assets away.**
+**In this section, we look at how to optimise your interactions with various Polkadot  network protocols and avoid signing your assets away.**
