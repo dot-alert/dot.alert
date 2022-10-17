@@ -1,6 +1,6 @@
 # Docs
 
-Docs or Documentation (also called Wiki or Guide) serve as the single source of truth for most ecosystem projects because they are produced under the direct supervision of project team members. Docs provide essential information to a wide range of people: users, node operators, developers, investors, marketing reps, Press, etc.
+Docs or Documentation (also called Wiki or Guide) serve as the single source of truth for most Polkadot ecosystem projects because they are produced under the direct supervision of project team members. Docs provide essential information to a wide range of people: users, node operators, developers, investors, marketing reps, Press, etc.
 
 <figure><img src="../../.gitbook/assets/S_DPolkadot.JPG" alt=""><figcaption><p>Overview of the <a href="https://support.polkadot.network/support/home">support knowledgebase</a> of Polkadot network.</p></figcaption></figure>
 

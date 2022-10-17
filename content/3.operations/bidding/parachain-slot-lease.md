@@ -1,6 +1,10 @@
+---
+description: A project-centric option for onboarding the Polkadot ecosystem.
+---
+
 # Parachain slot lease
 
-Any individual or project that wants to run a parachain must first lease a slot on Kusama or Polkadot. They can lease a parachain slot for up to 48 weeks on Kusama or 96 weeks on Polkadot. During this time, they will benefit from the shared security scheme of the Relay chains and also be able to exchange assets with other parachains through the XCMP (currently HRMP) protocol.
+Any individual or project that wants to run a parachain must first lease a slot on Kusama or Polkadot relay chains. They can lease a parachain slot for up to 48 weeks on Kusama or 96 weeks on Polkadot. During this time, they will benefit from the shared security scheme of the Relay chains and also be able to exchange assets with other parachains through the XCMP (currently HRMP) protocol.
 
 ![Two Kusama parachain slot lease bids placed on Polkadot-JS Apps.](../../../.gitbook/assets/O\_BSlots.JPG)
 
@@ -30,9 +34,13 @@ For these reasons, it is possible to have the biggest bid for the longest time a
 
 ![Chart of a Polkadot auction batch by Parachains.info.](../../../.gitbook/assets/O\_BParachaininfo.JPG)
 
+
+
 Parachain slot leases can be broken down into different lease periods, each of either 6 weeks on Kusama or 3 months on Polkadot. This means that individuals and projects can configure their lease for a short as 6 weeks and as long as 96 weeks, depending on their needs.&#x20;
 
 <figure><img src="../../../.gitbook/assets/O_BDotMarketcap.JPG" alt=""><figcaption><p><a href="https://www.dotmarketcap.com/auction/polkadot">DotMarketcap</a>'s overview of funds collated by OmiBTC for a Polkadot auction.</p></figcaption></figure>
+
+
 
 However, there is an extra layer complexity in the bidding process because the VRF is designed to optimise the number of lease periods locked during an auction at the time it selects the winner. Therefore, it is often recommended to bid for the full duration of the lease period to maximise the chances of winning a bid, and also to allow for some buffer time during the gradual deployment of the parachain.
 
