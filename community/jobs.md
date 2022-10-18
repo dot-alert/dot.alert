@@ -9,7 +9,7 @@ coverY: 0
 
 **Dot.alert()** is looking for team member(s) to manage and develop its platform’s operations.
 
-### **SEO officer**&#x20;
+### **1) SEO officer**&#x20;
 
 _Number of positions:_ 1 (Ongoing).
 
@@ -18,6 +18,14 @@ _Tasks:_ Audits of communications. Conduct keyword research, upgrade content arc
 _Requirements:_ 3+ months involvement in DotSama, 1+ year industry experience.
 
 _Rates:_ $250/fortnight.
+
+### **2) Others:**
+
+_Titles:_ Graphic designer, Social Network officer.
+
+_Tasks:_ Improvements. Upgrade visuals (banners, covers), summarise content via infographics, run social media campaigns, increase platform's visibility.
+
+_Rates: TBD._
 
 
 
