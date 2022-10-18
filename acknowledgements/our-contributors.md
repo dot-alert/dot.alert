@@ -13,4 +13,8 @@ _Anaelle LTD_
 
 _Abdulaziz K_
 
+## QA Officer:
+
+_Abdulbasit S_
+
 __
