@@ -11,6 +11,8 @@ _<mark style="background-color:blue;">Those who create our content.</mark>_
 
 _Anaelle LTD_
 
+_Abdulaziz K_
+
 ## Builder(s):
 
 _<mark style="background-color:blue;">Those who shape our platform.</mark>_
