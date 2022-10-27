@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Dotalertbanner.png
+cover: .gitbook/assets/DotHalloweenBanner2b.png
 coverY: 0
 ---
 
