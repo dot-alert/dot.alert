@@ -13,8 +13,6 @@ _Anaelle LTD_
 
 _Abdulaziz K_
 
-
-
 ## Builder(s):
 
 _<mark style="background-color:blue;">Those who shape our platform.</mark>_
@@ -22,8 +20,6 @@ _<mark style="background-color:blue;">Those who shape our platform.</mark>_
 _Anaelle LTD (Design)_
 
 _Funmilayo L (SEO)_
-
-****
 
 ## **Fundraiser(s):**
 
