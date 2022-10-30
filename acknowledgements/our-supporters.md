@@ -9,9 +9,11 @@ coverY: 0
 
 _<mark style="background-color:blue;">Those who create our content.</mark>_
 
-_Anaelle LTD_
+__[_Anaelle LTD_](https://t.me/AnaelleLTD)__
 
-_Abdulaziz K_
+__[_Abdulaziz K_](https://twitter.com/akdatti94)__
+
+
 
 ## Builder(s):
 
@@ -21,9 +23,11 @@ _Anaelle LTD (Design)_
 
 _Funmilayo L (SEO)_
 
+****
+
 ## **Fundraiser(s):**
 
 _<mark style="background-color:blue;">Those who fund our developments.</mark>_
 
-<mark style="background-color:blue;"></mark>[**The Polkadot Treasury**](https://polkadot.subsquare.io/council/motion/263) ****&#x20;
+<mark style="background-color:blue;"></mark>[The Polkadot Treasury](https://polkadot.subsquare.io/council/motion/263)&#x20;
 

@@ -7,18 +7,18 @@ coverY: 0
 
 ## Project manager:
 
-_Anaelle LTD_
+__[_Anaelle LTD_](https://t.me/AnaelleLTD)__
 
 __
 
 ## HR Officer:
 
-_Abdulaziz K_
+__[_Abdulaziz K_](https://twitter.com/akdatti94)__
 
 __
 
 ## QA Officer:
 
-_Abdulbasit S_
+__[_Abdulbasit S_](https://twitter.com/DocAmoka)__
 
 __
