@@ -23,6 +23,7 @@
     * [Parachain slot lease](content/3.operations/bidding/parachain-slot-lease.md)
   * [Voting](content/3.operations/voting/README.md)
     * [Direct democracy](content/3.operations/voting/direct-democracy.md)
+    * [Democracy delegation](content/3.operations/voting/democracy-delegation.md)
 * [4.Social support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)
