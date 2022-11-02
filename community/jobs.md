@@ -23,11 +23,11 @@ _Rates:_ $250/fortnight.
 
 ### **2) Other**
 
-_Positions:_ Graphic designer, Social Network officer.
+_Position:_ Graphic designer.
 
 _Requirements:_ 3+ months involvement in DotSama.
 
-_Tasks:_ Improvements. Upgrade visuals (banners, covers), summarise content via infographics, run social media campaigns, increase platform's visibility.
+_Tasks:_ Improvements. Upgrade visuals (banners, covers), summarise content via infographics.
 
 _Rates: TBD._
 
