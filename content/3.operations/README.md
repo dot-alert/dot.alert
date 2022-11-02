@@ -12,8 +12,8 @@ Being the custodian of your assets allows you to access a wide range of protocol
 
 Depending on your interests, you will be able to:
 
-* enrol in collectives
-* participate in decision-making
+* enrol in [collectives](bidding/kappa-sigma-mu-ksm-membership.md)
+* participate in [decision-making](voting/)
 * secure the networks
 * obtain funding
 * join crypto finance

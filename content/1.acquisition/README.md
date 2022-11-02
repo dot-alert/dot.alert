@@ -25,14 +25,14 @@ These include :
 
 You will need a Polkadot account to receive your coins/tokens, along with some understanding of the following concepts:&#x20;
 
-* Depending on the coins/tokens that you receive, you might need to pay attention to existential deposits.
-* Depending on the dapps that you use, you might need to investigate address formats.
-* Depending on the methods that you choose, you might need to make use of transaction explorers.
+* Depending on the coins/tokens that you receive, you might need to pay attention to [existential deposits](existential-deposits.md).
+* Depending on the dapps that you use, you might need to investigate [address formats](address-formats.md).
+* Depending on the methods that you choose, you might need to make use of [transaction explorers](transaction-explorers.md).
 
 <figure><img src="../../.gitbook/assets/A_DotMarketcap.JPG" alt=""><figcaption><p>Overview of listed ecosystem tokens/coins on <a href="https://www.dotmarketcap.com/listed">DotMarketCap</a>.</p></figcaption></figure>
 
 
 
-**In this section, we review key information for sending, receiving, and teleporting assets safely across Polkadot networks.**&#x20;
+**In this section, we review key information for sending, receiving, and teleporting assets safely across Polkadot ecosystem's networks.**&#x20;
 
 ****
