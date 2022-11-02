@@ -1,5 +1,5 @@
 ---
-description: A summary of regulatory discussions around Polkadot network's infrastructure.
+description: A summary of regulatory discussions about network infrastructure.
 ---
 
 # Infrastructure
