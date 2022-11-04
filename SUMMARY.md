@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Untitled](README.md)
+* [Welcome!](README.md)
 
 ## Introduction
 
