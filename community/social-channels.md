@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/DotSocials.JPG
+cover: ../.gitbook/assets/DotSocials (1).JPG
 coverY: 0
 ---
 
