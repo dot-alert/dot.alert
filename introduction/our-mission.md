@@ -11,5 +11,5 @@ _Relay chains, Parachains, Crowdloans and Cross-chain transactions_ are technolo
 
 With this alluring novelty come a lot of unwanted risks: errors when transferring funds, incompatibility between account types, limited integration of cold storage devices, hacks on experimental trading protocols, phishing on community forums, lack of clarity around legal obligations, etc.
 
-**Dot.alert()** brings forth insights and must-have resources to guide Polkadot users throughout their journey.
+****[**Dot.alert()**](../) **** brings forth insights and must-have resources to guide Polkadot users throughout their journey.
 
