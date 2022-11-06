@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/DotMovemberBanner2.png
+cover: .gitbook/assets/Dotalertbanner2 (1).png
 coverY: 0
 layout: landing
 ---
