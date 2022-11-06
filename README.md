@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/DotMovemberBanner1.png
-coverY: 19.8019801980198
+cover: .gitbook/assets/DotMovemberBanner1 (1).png
+coverY: 0
 layout: landing
 ---
 
