@@ -1,5 +1,5 @@
 ---
-description: An overview of regulatory perspectives on network participation.
+description: An overview of regulatory perspectives on blockchain network participation.
 ---
 
 # Participation
