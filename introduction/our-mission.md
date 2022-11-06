@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/DotPlatform (1).jpg
+cover: ../.gitbook/assets/DotPlatform (1) (1).jpg
 coverY: 0
 ---
 

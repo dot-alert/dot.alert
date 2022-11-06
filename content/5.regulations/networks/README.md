@@ -11,5 +11,5 @@ The Polkadot ecosystem is made of various networks that:
 
 
 
-This novel architecture of the digital space represents opportunities for builders who [create its infrastructure](infrastructure.md), operators who participate in its consensus, and activists who advocate for privacy-preservation. But this innovation also challenges established laws that are enforced in real life by governments bodies and institutional authorities.&#x20;
+This novel architecture of the digital space represents opportunities for builders who [create its infrastructure](infrastructure.md), operators who [participate in its consensus](participation.md), and activists who advocate for privacy-preservation. But this innovation also challenges established laws that are enforced in real life by governments bodies and institutional authorities.&#x20;
 

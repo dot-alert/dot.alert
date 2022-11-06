@@ -30,6 +30,7 @@
 * [5.Regulations](content/5.regulations/README.md)
   * [Networks](content/5.regulations/networks/README.md)
     * [Infrastructure](content/5.regulations/networks/infrastructure.md)
+    * [Participation](content/5.regulations/networks/participation.md)
 
 ## Acknowledgements
 
