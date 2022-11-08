@@ -23,11 +23,11 @@ _Rates:_ $250/fortnight.
 
 ### **2) Other**
 
-_Position:_ Graphic designer.
+_Position:_ Graphics designer.
 
 _Requirements:_ 3+ months involvement in DotSama.
 
-_Tasks:_ Improvements. Upgrade visuals (banners, covers), summarise content via infographics.
+_Tasks:_ Improvements. Upgrade visuals (banners, covers, logo), summarise content via infographics.
 
 _Rates: TBD._
 
@@ -59,7 +59,7 @@ _Number of positions:_ 2 (Ongoing).
 
 _Requirements:_ 6+ months involvement in DotSama, Law/Finance student/graduate preferred.
 
-_Rates:_ $400/400-word article.
+_Rates:_ $400-$500/400-word article.
 
 
 
