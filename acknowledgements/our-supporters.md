@@ -13,6 +13,8 @@ __[_Anaelle LTD_](https://t.me/AnaelleLTD)__
 
 __[_Abdulaziz K_](https://twitter.com/akdatti94)__
 
+__[_Abdulkadir I_](https://twitter.com/Gambo00004)__
+
 
 
 ## Builder(s):

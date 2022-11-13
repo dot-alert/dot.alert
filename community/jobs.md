@@ -59,7 +59,7 @@ _Number of positions:_ 2 (Ongoing).
 
 _Requirements:_ 6+ months involvement in DotSama, Law/Finance student/graduate preferred.
 
-_Rates:_ $400-$500/400-word article.
+_Rates:_ $500/400-word article.
 
 
 
