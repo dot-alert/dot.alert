@@ -4,7 +4,7 @@ description: A summary of regulatory discussions about blockchain network infras
 
 # Infrastructure
 
-_<mark style="background-color:red;">Disclaimer: This article is made by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal advice from a licensed professional lawyer or attorney in your country.</mark>_
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal advice from a licensed professional lawyer or attorney in your country.</mark>_
 
 <mark style="background-color:red;">****</mark>
 
@@ -34,13 +34,13 @@ With the exception of Common Good parachains, all chains that are currently runn
 
 
 
-From a regulatory perspective, matching digital assets to existing financial instruments would be one way to give them legitimacy without straying far from current directives. Under this approach, utility tokens would be considered the blockchain equivalent of commodities and/or securities, and thus be subject to laws related to disclosure documentation. Meanwhile, derivative tokens would be comparable to futures, options, swaps, and CFDs; all of which come with specific rules regarding [consumer protection](https://www.sec.gov/news/speech/gensler-sec-speaks-090822).&#x20;
+From a regulatory perspective, matching digital assets to existing financial instruments would be one way to give them some legitimacy while enforcing current directives. Under this approach, utility tokens would be considered the blockchain equivalent of commodities and/or securities, and thus be subject to laws related to disclosure documentation. Meanwhile, derivative tokens would be comparable to futures, options, swaps, and CFDs; all of which come with specific rules regarding [consumer protection](https://www.sec.gov/news/speech/gensler-sec-speaks-090822).&#x20;
 
 
 
 ## Risks:
 
-* Transactional
+* Jurisdictional
 
 The major threat to a network infrastructure lies in whether or not the procedures that were put in place at the time the network completed its public token offerings violated any of the existing national and international regulations relative to financial markets and products. However, in the absence of a unified perspective on this matter, it is still down to each nation or state to define and adopt its own regulatory framework.
 
@@ -48,7 +48,7 @@ The major threat to a network infrastructure lies in whether or not the procedur
 
 
 
-In recent times, there have been [lawsuits](https://www.sec.gov/news/press-release/2020-338) issued by financial institutions and governments to blockchain network executive teams whose initial coin offerings happened much earlier on. Projects that are looking to launch their own parachains and/or organise themselves in DAOs can consider investigating the terms of these lawsuits as a regulatory guide for their own pre-launch operations.&#x20;
+In recent times, some [lawsuits](https://www.sec.gov/news/press-release/2020-338) have been issued by financial institutions and governments to blockchain network executive teams whose initial coin offerings happened much earlier on. Projects that are looking to launch their own parachains and/or organise themselves in DAOs have considered investigating the terms of these lawsuits as a regulatory guide for their own pre-launch operations.&#x20;
 
 
 
@@ -72,5 +72,5 @@ There have been a lot of discussions regarding the sustainability of decentralis
 
 
 
-For this reason, Relay chain validators and Parachain collators will still need to pay attention to their own carbon footprint and take proactive steps to reduce its environmental impact over time. Furthermore, in the context of [international agreements](https://www.whitehouse.gov/ostp/news-updates/2022/09/08/fact-sheet-climate-and-energy-implications-of-crypto-assets-in-the-united-states/) on climate change, network infrastructure providers need to ensure that the energy sources that they use do not go against the standards outlined by their local authorities.&#x20;
+For this reason, Relay chain validators and Parachain collators still need to pay attention to their own carbon footprint and take proactive steps to reduce its environmental impact over time. Furthermore, in the context of [international agreements](https://www.whitehouse.gov/ostp/news-updates/2022/09/08/fact-sheet-climate-and-energy-implications-of-crypto-assets-in-the-united-states/) on climate change, network infrastructure providers need to ensure that the energy sources that they use do not go against the standards outlined by their local authorities.&#x20;
 
