@@ -34,7 +34,7 @@ Browser extension wallets are designed to support a variety of coins and tokens 
 
 Although some browser extension wallets aim to become entirely self-sufficient by providing users with fiat on-ramp entry into the Polkadot ecosystem, the majority don't. This means that a lot users still rely on Centralised exchanges to make their first crypto purchases and manually send the assets into their own accounts. For this reason, it is important to review the onboarding experience of a range of extension wallets before making your final choice.
 
-<figure><img src="../../.gitbook/assets/S_BETalisman.jpg" alt=""><figcaption><p><a href="https://talisman.xyz/">Talisman</a> supports in-wallet purchases of various DotSama assets.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_BETalisman.jpg" alt=""><figcaption><p><a href="https://talisman.xyz/">Talisman</a> supports in-wallet purchases of various crypto assets.</p></figcaption></figure>
 
 
 
