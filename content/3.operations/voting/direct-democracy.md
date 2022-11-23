@@ -10,7 +10,7 @@ Direct voting is when you cast your votes from your own Polkadot account(s). Thi
 
 
 
-Slightly different from voting is endorsing proposals submitted by other community members. It entails locking up your tokens for an indeterminate amount of time on any proposal you find interesting. This helps move that proposal up the queue, giving it a higher chance of being picked to be a referendum soon after. It is essential to note that the [Governance 2.0](https://polkadot.network/blog/gov2-polkadots-next-generation-of-decentralised-governance/) upgrade will entirely overhaul this endorsement process and allow many different classes of referendum to take place at the same time.
+Slightly different from voting is endorsing proposals submitted by other community members. It entails locking up your tokens for an indeterminate amount of time on any proposal you find interesting. This helps move that proposal up the queue, giving it a higher chance of being picked to be a referendum soon after. It is essential to note that the [Gov 2.0 (also called OpenGov)](https://polkadot.network/blog/gov2-polkadots-next-generation-of-decentralised-governance/) upgrade will entirely overhaul this endorsement process and allow many different classes of referendum to take place at the same time.
 
 
 
