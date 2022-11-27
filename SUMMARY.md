@@ -27,6 +27,7 @@
     * [Democracy delegation](content/3.operations/voting/democracy-delegation.md)
   * [Crowdfunding](content/3.operations/crowdfunding/README.md)
     * [Crowdloans](content/3.operations/crowdfunding/crowdloans.md)
+    * [Treasury spends](content/3.operations/crowdfunding/treasury-spends.md)
 * [4.Social support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)
