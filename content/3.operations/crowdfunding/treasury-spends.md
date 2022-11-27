@@ -12,7 +12,7 @@ Relay chains come with on-chain treasuries whose funds are used to finance or re
 
 ## How-to:
 
-Anyone can apply and receive treasury funding, so long as their spending proposal gets passed by the community for an automatic allocation via on-chain governance. Spend proposals are usually submitted for major tasks or activities (eg. Software development, community events, ecosystem-wide tools, education hubs, etc.) that require advanced funding.&#x20;
+Anyone can apply and receive treasury funding, so long as their spending proposal gets passed by community votes for an automatic allocation via on-chain governance (i.e OpenGov's _BigSpender_ referendum track). Spend proposals are usually submitted for major tasks or activities (eg. Software development, community events, ecosystem-wide tools, education hubs, etc.) that require advanced funding.&#x20;
 
 <figure><img src="../../../.gitbook/assets/O_TSSubsquare.JPG" alt=""><figcaption><p>Treasury spends proposal submitted under OpenGov's <em>BigSpender</em> track on <a href="https://kusama.subsquare.io/referenda/treasurer">Subsquare</a>.</p></figcaption></figure>
 
@@ -29,7 +29,9 @@ The application process requires extensive project documentation with clear spec
 
 
 
-By contrast, bounties are used to reward specific tasks that need to be completed over a given period. They are normally supervised by a curator who allocates rewards directly from the Treasury pot.  However, this process would be too complicated for relatively smaller but notable contributions (eg. translation, tutorials, dashboards, etc.). In such cases, it is simpler to apply for a payout via the tipping mechanism.
+By contrast, bounties are used to reward specific tasks that need to be completed over a given period. They are normally supervised by a curator who allocates rewards directly from the Treasury pot.  However, this process would be too complicated for relatively smaller but notable contributions (eg. translation, tutorials, dashboards, etc.). In such cases, it is simpler to apply for a payout via the tipping mechanism (i.e OpenGov's _SmallTipper_ or _BigTipper_ referendum tracks).
+
+<figure><img src="../../../.gitbook/assets/O_TSTrackinfo.JPG" alt=""><figcaption><p>On-chain information from <a href="https://kusama.subsquare.io/polkassembly/post/1940">Ordum</a>'s Treasury spend proposal.</p></figcaption></figure>
 
 
 
