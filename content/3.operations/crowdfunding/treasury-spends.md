@@ -12,7 +12,7 @@ Relay chains come with on-chain treasuries whose funds are used to finance or re
 
 ## How-to:
 
-Anyone can apply and receive treasury funding, so long as their spending proposal gets passed by community votes for an automatic allocation via on-chain governance (i.e OpenGov's _BigSpender_ referendum track). Spend proposals are usually submitted for major tasks or activities (eg. Software development, community events, ecosystem-wide tools, education hubs, etc.) that require advanced funding.&#x20;
+Anyone can apply and receive treasury funding, so long as their spend proposal gets passed by community votes for an automatic allocation via on-chain governance (i.e OpenGov's referendum tracks). Spend proposals are usually submitted for major tasks or activities (eg. Software development, community events, ecosystem-wide tools, education hubs, etc.) that require advanced funding.&#x20;
 
 <figure><img src="../../../.gitbook/assets/O_TSSubsquare.JPG" alt=""><figcaption><p>Treasury spends proposal submitted under OpenGov's <em>BigSpender</em> track on <a href="https://kusama.subsquare.io/referenda/treasurer">Subsquare</a>.</p></figcaption></figure>
 
