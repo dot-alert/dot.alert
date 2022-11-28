@@ -14,8 +14,8 @@ Depending on your interests, you will be able to:
 
 * enrol in [collectives](bidding/kappa-sigma-mu-ksm-membership.md)
 * participate in [decision-making](voting/)
-* secure the networks
 * obtain [funding](crowdfunding/)
+* secure networks
 * join crypto finance
 * use NFT marketplaces
 * capitalise on surveys
