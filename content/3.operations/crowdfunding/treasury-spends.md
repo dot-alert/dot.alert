@@ -25,7 +25,7 @@ Proposals can be divided into two categories:&#x20;
 
 The application process requires extensive project documentation with clear specifications and deliverables, as well as a deposit prior to submission and a report upon milestone completion.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_TSGuidelines.JPG" alt=""><figcaption><p>The official <a href="https://docs.google.com/document/d/1IZykdp2cyQavcRyZd_dgNj5DcgxgZR6kAqGdcNARu1w/edit">Polkadot guidelines for Treasury spending proposals</a> has step-by-step instructions.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_TSGuidelines (2).JPG" alt=""><figcaption><p>The standardised Treasury spending proposal <a href="https://docs.google.com/document/d/1O_84mXYFERCavmnJyxbIPKFkG0bVBySRjCVy-d-VKcc/edit">template.</a></p></figcaption></figure>
 
 
 
