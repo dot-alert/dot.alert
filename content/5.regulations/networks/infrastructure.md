@@ -1,5 +1,5 @@
 ---
-description: A summary of regulatory discussions about blockchain network infrastructure.
+description: Regulatory discussions about blockchain network infrastructure.
 ---
 
 # Infrastructure
