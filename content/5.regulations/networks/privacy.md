@@ -82,7 +82,7 @@ While privacy-focused services architect their solutions in response to users' a
 
 Privacy-by-default is an approach that has garnered a lot of support from blockchain and non-blockchain users, in light of recurrent hacks and tampering done on centralised platforms. This has given birth to formal activist movements that pro-actively fund, research, and develop privacy solutions within the Web3 stack. But there are also more and more individually-maintained initiatives and dapps specifically [designed to counter governments' surveillance](https://home.treasury.gov/news/press-releases/jy0916). &#x20;
 
-<figure><img src="../../../.gitbook/assets/R_NZerochain.JPG" alt=""><figcaption><p><a href="https://medium.com/layerx/announcing-zerochain-5b08e158355d">Zerochain</a> was among the first blockchains to deliver privacy-preserving infrastructure for Dapps.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R_NZerochain.JPG" alt=""><figcaption><p><a href="https://medium.com/layerx/announcing-zerochain-5b08e158355d">Zerochain</a> was among the first Substrate chains to deliver privacy-preserving infrastructure for Dapps.</p></figcaption></figure>
 
 
 
