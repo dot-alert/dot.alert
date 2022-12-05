@@ -2,11 +2,6 @@
 
 * [Welcome!](README.md)
 
-## Introduction
-
-* [Our mission](introduction/our-mission.md)
-* [Our platform](introduction/our-platform.md)
-
 ## Content
 
 * [1.Acquisition](content/1.acquisition/README.md)
@@ -37,10 +32,12 @@
     * [Participation](content/5.regulations/networks/participation.md)
     * [Privacy](content/5.regulations/networks/privacy.md)
 
-## Acknowledgements
+## About
 
-* [Our team members](acknowledgements/our-contributors.md)
-* [Our contributors](acknowledgements/our-supporters.md)
+* [Our mission](about/our-mission.md)
+* [Our platform](about/our-platform.md)
+* [Our team members](about/our-team-members.md)
+* [Our contributors](about/our-contributors.md)
 
 ## Community
 
