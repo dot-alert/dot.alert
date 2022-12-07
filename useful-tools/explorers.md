@@ -1,5 +1,5 @@
 ---
-description: Assets aggregators for the Polkadot ecosystem.
+description: Aggregators for the Polkadot ecosystem.
 ---
 
 # Explorers
