@@ -1,5 +1,5 @@
 ---
-description: Aggregators for the Polkadot ecosystem.
+description: Assets aggregators for the Polkadot ecosystem.
 ---
 
 # Explorers
@@ -10,9 +10,9 @@ description: Aggregators for the Polkadot ecosystem.
 
 [StateScan](https://statemine.statescan.io/)
 
-[SubID](https://sub.id/)
-
 [Subscan](https://polkadot.subscan.io/)
+
+[SubID](https://sub.id/)
 
 [Wallety](https://wallety.org/)
 

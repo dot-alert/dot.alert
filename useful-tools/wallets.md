@@ -10,11 +10,11 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 [Subwallet](https://subwallet.app/)
 
+[Talisman](https://talisman.xyz/)
+
 [Polkadot-JS](https://polkadot.js.org/extension/)
 
 [Polkagate (Formerly Polkadot-js Plus)](http://polkadotjs.plus/)
-
-[Talisman](https://talisman.xyz/)
 
 
 
