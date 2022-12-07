@@ -16,5 +16,7 @@ description: Polkadot ecosystem news, tutorials, guides, collectives, etc.
 
 [Polkadot network Support](https://support.polkadot.network/)
 
+[The Kusamarian](https://www.youtube.com/@TheKusamarian/playlists)
+
 [WagMedia Weekly News](https://polkaverse.com/6111)
 
