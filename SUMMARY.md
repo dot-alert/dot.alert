@@ -32,12 +32,13 @@
     * [Participation](content/5.regulations/networks/participation.md)
     * [Privacy](content/5.regulations/networks/privacy.md)
 
-## About
+## Useful tools
 
-* [Our mission](about/our-mission.md)
-* [Our platform](about/our-platform.md)
-* [Our team members](about/our-team-members.md)
-* [Our contributors](about/our-contributors.md)
+* [Explorers](useful-tools/explorers.md)
+* [Staking](useful-tools/staking.md)
+* [Governance](useful-tools/governance.md)
+* [Crowdfunding](useful-tools/crowdfunding.md)
+* [Misc](useful-tools/misc.md)
 
 ## Community
 
@@ -45,6 +46,13 @@
 * [Monthly quizzes](community/monthly-quizzes.md)
 * [User surveys](community/user-surveys.md)
 * [Jobs](community/jobs.md)
+
+## About
+
+* [Our mission](about/our-mission.md)
+* [Our platform](about/our-platform.md)
+* [Our team members](about/our-team-members.md)
+* [Our contributors](about/our-contributors.md)
 
 ## legal
 
