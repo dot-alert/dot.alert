@@ -35,6 +35,7 @@
 ## Useful tools
 
 * [Explorers](useful-tools/explorers.md)
+* [Wallets](useful-tools/wallets.md)
 * [Staking](useful-tools/staking.md)
 * [Governance](useful-tools/governance.md)
 * [Crowdfunding](useful-tools/crowdfunding.md)
