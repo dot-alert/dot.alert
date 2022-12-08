@@ -23,15 +23,15 @@ In the Polkadot ecosystem, the same asset can take on various forms because of c
 * liquid crowdloans
 * staking derivatives
 
-Depending on jurisdictions, this modularity can introduce more complexity in regulatory risk management by the holders.
+Depending on jurisdictions, this modularity can introduce more complexity in regulatory risk management by the holders of parachain tokens.
+
+<figure><img src="../../.gitbook/assets/R_W3FDot.JPG" alt=""><figcaption><p>The W3F has outlined the process through which <a href="https://medium.com/web3foundation/less-trust-more-truth-polkadots-native-token-dot-has-morphed-and-is-not-a-security-b2a8847a70cc">DOT's status evolved from Security to Software</a>.</p></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/R_GBBC.JPG" alt=""><figcaption><p>The <a href="https://gbbcouncil.org/gsmi/">GBBC</a> proposes comprehensive resources on Blockchain-related legislations.</p></figcaption></figure>
+In the end, **compliance** remains the biggest challenge for users, investors, project teams, and VC institutions alike.
 
-In the end, the burden of **compliance** remains the biggest challenge for users, investors, project teams, and VC institutions alike.
 
-****
 
 **In this section, we cross-reference Polkadot network's technologies with existing legislations and review some essential ecosystem tools for assets management.**&#x20;
 

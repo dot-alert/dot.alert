@@ -10,7 +10,7 @@ description: Governance dapps for the Polkadot ecosystem.
 
 [Proof-of-Chaos](https://www.proofofchaos.app/)
 
-[Ryabina bots](https://ryabina.medium.com/track-anything-ultimate-guide-for-polkadot-and-kusama-telegram-bots-a47aa913f8b)
+[Ryabina bots](https://t.me/Polkadot\_Ryabina\_bot)
 
 [Subsquare](https://www.subsquare.io/)
 
