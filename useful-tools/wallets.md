@@ -8,11 +8,11 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 [Enkrypt](https://www.enkrypt.com/)
 
-[Subwallet](https://subwallet.app/)
-
 [Polkadot-JS](https://polkadot.js.org/extension/)
 
 [Polkagate (Formerly Polkadot-js Plus)](http://polkadotjs.plus/)
+
+[Subwallet](https://subwallet.app/)
 
 [Talisman](https://talisman.xyz/)
 
