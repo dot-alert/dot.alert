@@ -23,6 +23,8 @@
   * [Crowdfunding](content/3.operations/crowdfunding/README.md)
     * [Crowdloans](content/3.operations/crowdfunding/crowdloans.md)
     * [Treasury spends](content/3.operations/crowdfunding/treasury-spends.md)
+  * [Staking](content/3.operations/staking/README.md)
+    * [Nominating](content/3.operations/staking/nominating.md)
 * [4.Social support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)

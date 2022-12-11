@@ -6,7 +6,7 @@ coverY: 0
 
 # 1.Acquisition
 
-There are various avenues for obtaining Polkadot assets ahead of **onboarding the ecosystem**.&#x20;
+There are various avenues for obtaining assets ahead of **onboarding the Polkadot ecosystem**.&#x20;
 
 These include :
 
