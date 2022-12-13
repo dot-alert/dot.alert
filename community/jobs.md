@@ -43,7 +43,7 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 ### **Specialist writers for** [**section 5**](https://docs.google.com/document/d/1TXH0E2CD12aLhXjQWdHUvx0gZ6jyUn5HZbGIisgb4Eo/edit?usp=sharing)**.**&#x20;
 
-_Number of positions:_ 2 (Ongoing).
+_Number of positions:_ 1 (Ongoing).
 
 _Requirements:_ 6+ months involvement in DotSama, Law/Finance student/graduate preferred.
 
