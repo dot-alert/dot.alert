@@ -13,7 +13,13 @@ __[_Anaelle LTD_](https://t.me/AnaelleLTD)__
 
 __[_Abdulaziz K_](https://twitter.com/akdatti94)__
 
-__[_Abdulkadir I_](https://twitter.com/Gambo00004)__
+__[_Abdulkadir I_](https://twitter.com/Gambo00004)
+
+__[_Amed K_](https://twitter.com/Abdulra49391530)__
+
+__[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
+
+_Chinedu N_
 
 
 
