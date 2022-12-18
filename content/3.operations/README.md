@@ -16,7 +16,7 @@ Depending on your interests, you will be able to:
 * participate in [decision-making](voting/)
 * obtain [funding](crowdfunding/)
 * contribute to [network security](staking/)
-* swap, borrow, and lend assets
+* [swap](swapping/), borrow, and lend assets
 * use NFT marketplaces
 * capitalise on surveys
 

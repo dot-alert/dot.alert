@@ -1,5 +1,5 @@
 ---
-description: A summary of nomination strategies in the Polkadot ecosystem
+description: A summary of nomination strategies in the Polkadot ecosystem.
 ---
 
 # Nominating
