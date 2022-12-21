@@ -9,19 +9,7 @@ coverY: 0
 
 **Dot.alert()** is looking for team member(s) to manage and develop its platform’s operations.
 
-### **1) SEO officer**&#x20;
-
-_Number of positions:_ 1 (Ongoing).
-
-_Tasks:_ Audits of communications. Conduct keyword research, upgrade content architecture, recommend linking strategies.
-
-_Requirements:_ 3+ months involvement in DotSama, 1+ year industry experience.
-
-_Rates:_ $250/fortnight.
-
-
-
-### **2) Other**
+### Ad hoc roles:
 
 _Position:_ Graphics designer.
 
@@ -41,7 +29,7 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 **Dot.alert()** is looking for contributors to create and disseminate its platform’s content.
 
-### **Specialist writers for** [**section 5**](https://docs.google.com/document/d/1TXH0E2CD12aLhXjQWdHUvx0gZ6jyUn5HZbGIisgb4Eo/edit?usp=sharing)**.**&#x20;
+### **Specialist writer for** [**section 5**](https://docs.google.com/document/d/1TXH0E2CD12aLhXjQWdHUvx0gZ6jyUn5HZbGIisgb4Eo/edit?usp=sharing)**:**&#x20;
 
 _Number of positions:_ 1 (Ongoing).
 
