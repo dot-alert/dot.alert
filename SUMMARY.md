@@ -35,6 +35,7 @@
     * [Infrastructure](content/5.regulations/networks/infrastructure.md)
     * [Participation](content/5.regulations/networks/participation.md)
     * [Privacy](content/5.regulations/networks/privacy.md)
+  * [Platforms](content/5.regulations/platforms.md)
 
 ## Useful tools
 
