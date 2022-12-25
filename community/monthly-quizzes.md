@@ -9,7 +9,7 @@ How dot-alert are you? 👀
 
 Take our monthly quiz to find out and enter a draw to win **cash prizes of 🥇$30, 🥈$20, and 🥉$10 DOT.**&#x20;
 
-**Monthly quiz #4: 27th December 2022 10:00 UTC - 30th December 2022 22:00 UTC \[TBC]**
+**Monthly quiz #4: 26th December 2022 10:00 UTC - 30th December 2022 22:00 UTC \[TBC]**
 
 ****
 
