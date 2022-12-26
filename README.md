@@ -12,7 +12,7 @@ layout: landing
 
 > 📢 **NEW CONTENT!**
 >
-> __[_An overview of token swaps in the Polkadot ecosystem._](content/3.operations/swapping/pairs-availability.md)__
+> __[_A brief on air-gapped signers available in the Polkadot ecosystem_](content/2.storage/air-gapped-signers.md)__
 
 
 
