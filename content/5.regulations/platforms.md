@@ -8,5 +8,5 @@ However, it is the modularity of Relay chains' shared security and interoperabil
 
 
 
-In this open-ended environment ripe for experimentation and exploration, users are given access to unlimited token-based services; which contrasts with the licensing schedules followed by existing digital platforms and the compliance requirements imposed onto their operators.&#x20;
+In this open-ended environment ripe for experimentation and exploration, users are given access to unlimited token-based services; which contrasts with the licensing schedules followed by centralised platforms and the compliance requirements imposed onto their operators.&#x20;
 
