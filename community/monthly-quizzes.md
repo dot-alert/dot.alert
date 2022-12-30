@@ -9,11 +9,11 @@ How dot-alert are you? 👀
 
 Take our monthly quiz to find out and enter a draw to win **cash prizes of 🥇$30, 🥈$20, and 🥉$10 DOT.**&#x20;
 
-****[**Monthly quiz #4: 26th December 2022 10:00 UTC - 30th December 2022 22:00 UTC**](https://docs.google.com/forms/d/e/1FAIpQLSfvV5EQ01FUJBaQ1v5J8RC8qDQ6WZ6LF8FTa9Wywvst4jQmzg/viewform?usp=sf\_link)****
-
 ****
 
 _**Past editions:**_
+
+_Monthly quiz #4: 26th December 2022 10:00 UTC - 30th December 2022 22:00 UTC_
 
 _Monthly quiz #3: 26th November 2022 10:00 UTC - 30th November 2022 22:00 UTC_
 
