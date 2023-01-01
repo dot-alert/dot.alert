@@ -12,7 +12,7 @@ layout: landing
 
 > 📢 **NEW CONTENT!**
 >
-> __[_A brief on air-gapped signers available in the Polkadot ecosystem_](content/2.storage/air-gapped-signers.md)__
+> [_A brief on the role of **Polkassembly** in the Polkadot ecosystem_](content/4.social-support/polkassembly.md)__
 
 
 

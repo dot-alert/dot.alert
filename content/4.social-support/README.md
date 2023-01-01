@@ -11,7 +11,7 @@ coverY: 0
 With so much innovation happening in the Polkadot ecosystem, you will need to find a way to keep up with the latest tech developments. An update can make a big difference in how people manage their assets, so users often **source information** in the following ways:
 
 * directly from project team members (Founders, Community managers, Ambassadors)
-* indirectly from projects publications ([Docs](docs.md), [GitHub repos,](github.md) Polkassembly posts, blogs)
+* indirectly from projects publications ([Docs](docs.md), [GitHub repos,](github.md) [Polkassembly posts](polkassembly.md), blogs)
 * from official social media (Discord, Twitter, Telegram, Subsocial)
 * from unofficial threads and tags (Reddit, Youtube)
 
