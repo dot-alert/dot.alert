@@ -10,7 +10,7 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 [Polkadot-JS](https://polkadot.js.org/extension/)
 
-[Polkagate (Formerly Polkadot-js Plus)](http://polkadotjs.plus/)
+[Polkagate](https://polkagate.xyz/)
 
 [Subwallet](https://subwallet.app/)
 
@@ -40,5 +40,9 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 ## Cold storage devices
 
+[CoolWallet](https://www.coolwallet.io/coolwallet\_pro)
+
 [Ledger ](https://www.ledger.com/polkadot-wallet)
+
+[SafePal](https://store.safepal.com/safepal-s1-hardware-wallet.html)
 

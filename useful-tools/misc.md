@@ -18,5 +18,3 @@ description: Polkadot ecosystem news, tutorials, guides, collectives, etc.
 
 [The Kusamarian](https://www.youtube.com/@TheKusamarian/playlists)
 
-[WagMedia Weekly News](https://polkaverse.com/6111)
-

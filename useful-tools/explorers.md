@@ -16,3 +16,5 @@ description: Aggregators for the Polkadot ecosystem.
 
 [Wallety](https://wallety.org/)
 
+[Web3Go](https://app.web3go.xyz/#/)
+
