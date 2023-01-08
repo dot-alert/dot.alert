@@ -12,7 +12,7 @@ layout: landing
 
 > 📢 **NEW CONTENT!**
 >
-> __[_A review of cold storage options available for the Polkadot ecosystem_](content/2.storage/cold-storage-devices.md)__
+> __[_An overview of cold storage options available for the Polkadot ecosystem_](content/2.storage/cold-storage-devices.md)__
 
 
 
