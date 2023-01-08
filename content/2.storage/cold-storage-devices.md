@@ -26,15 +26,13 @@ Cold storage devices come with an array of security features which include an in
 
 The majority of cold storage devices can be used with third-party dapps, mobile apps, or their native desktop software to interact with blockchain networks. However, you will need to connect them to a computer or a mobile phone with internet access via USB or Bluetooth beforehand.&#x20;
 
-<figure><img src="../../.gitbook/assets/S_CSDSafePal.JPG" alt=""><figcaption><p><a href="https://store.safepal.com/safepal-s1-hardware-wallet.html">SafePal wallet</a> is a new generation of portable cold storage devices.</p></figcaption></figure>
-
 
 
 ## Why are they important?
 
 Although users of cold storage devices benefit from state of the art security technology, they still have to submit their personal information to manufacturers and retailers when ordering their hardware. In the past, there have been database breaches during which email and postal addresses of buyers were stolen and subsequently used for phishing and scams.&#x20;
 
-<figure><img src="../../.gitbook/assets/S_CSDTrezorData (1).JPG" alt=""><figcaption><p><a href="https://trezor.io/security">Trezor wallets</a> optimise all aspects of their devices' security.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_CSDSafePal.JPG" alt=""><figcaption><p><a href="https://store.safepal.com/safepal-s1-hardware-wallet.html">SafePal wallet</a> is a new generation of portable cold storage devices.</p></figcaption></figure>
 
 
 
