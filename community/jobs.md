@@ -27,17 +27,6 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 ## 👨🏻‍💼👩🏾‍💼Contributors
 
-**Dot.alert()** is looking for contributors to create and disseminate its platform’s content.
+No available position.
 
-### **Specialist writer for** [**section 5**](https://docs.google.com/document/d/1TXH0E2CD12aLhXjQWdHUvx0gZ6jyUn5HZbGIisgb4Eo/edit?usp=sharing)**:**&#x20;
-
-_Number of positions:_ 1 (Ongoing).
-
-_Requirements:_ 6+ months involvement in DotSama, Law/Finance student/graduate preferred.
-
-_Rates:_ $500/400-word article.
-
-
-
-Please complete our [**Expression Of Interest (EOI) form**](https://forms.gle/J7qvCvr9s5BRuowU7) to get in touch with us.
-
+****
