@@ -14,6 +14,7 @@
   * [Browser extensions](content/2.storage/browser-extensions.md)
   * [Mobile wallets](content/2.storage/mobile-wallets.md)
   * [Air-gapped signers](content/2.storage/air-gapped-signers.md)
+  * [Cold storage devices](content/2.storage/cold-storage-devices.md)
 * [3.Operations](content/3.operations/README.md)
   * [Bidding](content/3.operations/bidding/README.md)
     * [Kappa Sigma Mu (KΣM) membership](content/3.operations/bidding/kappa-sigma-mu-ksm-membership.md)

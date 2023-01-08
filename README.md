@@ -12,7 +12,7 @@ layout: landing
 
 > 📢 **NEW CONTENT!**
 >
-> [_A brief on the role of **Polkassembly** in the Polkadot ecosystem_](content/4.social-support/polkassembly.md)__
+> __[_A review of cold storage options available for the Polkadot ecosystem_](content/2.storage/cold-storage-devices.md)__
 
 
 

@@ -24,7 +24,7 @@ While token swaps used to have the reputation of being costly in transaction fee
 
 A unique feature of the swapping experience within the Polkadot ecosystem is the ability to carry operations across parachains without relying on any bridge or relayer. Communications between DEXes are handled by a cross-chain protocol supported by the relay chains (HRMP), which brings convenience, efficiency, and security to users while seamlessly validating transactions.
 
-<figure><img src="../../../.gitbook/assets/O_SwappingStellaswap.JPG" alt=""><figcaption><p><a href="https://app.stellaswap.com/exchange/swap">Stellaswap</a> deployed <a href="https://moonbeam.network/">Moonbeam network</a> integrates cross-chain and multichain functionalities.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SwappingStellaswap.JPG" alt=""><figcaption><p><a href="https://app.stellaswap.com/exchange/swap">Stellaswap</a> deployed on <a href="https://moonbeam.network/">Moonbeam network</a> integrates cross-chain and multichain functionalities.</p></figcaption></figure>
 
 
 
