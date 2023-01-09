@@ -17,6 +17,12 @@ __[_Abdulbasit S_](https://twitter.com/DocAmoka)__
 
 __
 
+## SEO Officer:
+
+_Moshood S_
+
+__
+
 ## SN Officer: __&#x20;
 
 [_Judge L_](https://twitter.com/Grizz375)__
