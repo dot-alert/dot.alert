@@ -7,7 +7,7 @@
 * [1.Acquisition](content/1.acquisition/README.md)
   * [Existential deposits](content/1.acquisition/existential-deposits.md)
   * [Address formats](content/1.acquisition/address-formats.md)
-  * [Transaction explorers](content/1.acquisition/transaction-explorers.md)
+  * [Transaction Explorers](content/1.acquisition/transaction-explorers.md)
 * [2.Storage](content/2.storage/README.md)
   * [Seed/Secret phrases](content/2.storage/seed-secret-phrases.md)
   * [JSON backups](content/2.storage/json-backups.md)
