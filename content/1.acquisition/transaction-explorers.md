@@ -1,7 +1,7 @@
 ---
 description: >-
-  An explanation of Transaction explorers' operations and their central role in
-  the Polkadot ecosystem.
+  An explainer on the central role of Transaction explorers in the Polkadot
+  ecosystem.
 ---
 
 # Transaction Explorers
