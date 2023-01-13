@@ -20,7 +20,7 @@ Since each chain sets its own existential deposit, users rely on [wallets](../2.
 
 
 
-## How do Existential Deposits work?
+### How do Existential Deposits Work?
 
 Existential deposits work as an anti-spam measure on the networks. If your Polkadot account's balance drops below this amount, your account will be deactivated and any balance that was left will be sent to the network's [Treasury](../3.operations/crowdfunding/treasury-spends.md). You can always reactivate an account at a later date by receiving an amount greater than the required existential deposit.
 
@@ -36,7 +36,7 @@ It is important to note that existential deposits apply to account balances alto
 
 
 
-## Why are Existential Deposits important?
+### Why are Existential Deposits Important?
 
 Before you can receive custom assets on Common Good parachains, you will need to activate your account on these Common Good networks. Being aware of existential deposit requirements for these networks will prevent delays and mishaps while transacting.
 

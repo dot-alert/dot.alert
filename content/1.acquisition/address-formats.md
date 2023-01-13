@@ -26,7 +26,7 @@ Fortunately, there is no need to open or connect your wallet every time you need
 
 
 
-## How do Address Formats work?
+### How do Address Formats Work?
 
 Even though the same Polkadot account will work on interoperable networks, address formats prevent Polkadot addresses from being interchangeable. Addresses are still strictly linked to a specific network and a Relay chain ecosystem when it comes to [transactions](../3.operations/).&#x20;
 
@@ -42,7 +42,7 @@ In practice, this means that:
 
 
 
-## Why are Address Formats important?
+### Why are Address Formats Important?
 
 Given that there is no universal method for handling these address formats, each wallet is free to adopt their own approach. Some wallets require you to manually select a network to have access to the relevant address, one network at a time. While other wallets allow you to search and select a specific address from all available network addresses. You will need to pay close attention to this feature when choosing your wallets.
 
