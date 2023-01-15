@@ -4,7 +4,7 @@ description: >-
   Polkadot ecosystem.
 ---
 
-# Address formats
+# Address Formats
 
 ## What are Address Formats?
 
@@ -18,19 +18,19 @@ Address formats are a method used to represent a single account across different
 
 Fortunately, there is no need to open or connect your wallet every time you need to access address formats for your account. There are some online utilities that will convert any Polkadot account address into all available address formats across all networks, provided that the address that you enter is valid.
 
-![View specific address formats for the same account on Polkadot-JS Apps.](../../.gitbook/assets/A\_AFPJS.JPG)
+<figure><img src="../../.gitbook/assets/A_AFPJS.JPG" alt="An image showing how to convert Polkadot address format to a statemint address format on Polkadot-JS App. "><figcaption><p>View specific address formats for the same account on <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpublic-rpc.pinknode.io%2Fstatemint#/utilities">Polkadot-JS Apps</a>.</p></figcaption></figure>
 
-![View all address formats for the same Polkadot account on Subscan.](../../.gitbook/assets/A\_AFSubscan.JPG)
+<figure><img src="../../.gitbook/assets/A_AFSubscan.JPG" alt="An image showing the transformation of a Polkadot address format to all other substrate address formats."><figcaption><p>View all address formats for the same Polkadot account on <a href="https://polkadot.subscan.io/tools/format_transform">Subscan</a>.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/A_AFSubID.JPG" alt=""><figcaption><p> <a href="https://sub.id/">SubID</a> gives a user-friendly access to account formats.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/A_AFSubID.JPG" alt="A view of the subID platform where you can input any substrate address format to retrieve all other substrate addresses."><figcaption><p> <a href="https://sub.id/">SubID</a> gives a user-friendly access to account formats.</p></figcaption></figure>
 
 
 
 ### How do Address Formats Work?
 
-Even though the same Polkadot account will work on interoperable networks, address formats prevent Polkadot addresses from being interchangeable. Addresses are still strictly linked to a specific network and a Relay chain ecosystem when it comes to [transactions](../3.operations/).&#x20;
+Even though the same Polkadot account will work on interoperable networks, address formats prevent Polkadot addresses from being interchangeable. Addresses are still strictly linked to a specific network and a Relay chain ecosystem when it comes to [transactions](../3.operations/).
 
-![Dashboard for Polkadot (Relay chain) and Acala (Polkadot parachain) assets on Astar (Polkadot parachain).](../../.gitbook/assets/A\_AFAstar.JPG)
+<figure><img src="../../.gitbook/assets/A_AFAstar.JPG" alt="A dashboard showing polkadot and Acala assets on Astar."><figcaption><p>Dashboard for Polkadot (Relay chain) and Acala (Polkadot parachain) assets on <a href="https://portal.astar.network/#/assets">Astar</a> (Polkadot parachain).</p></figcaption></figure>
 
 
 
@@ -46,9 +46,9 @@ In practice, this means that:
 
 Given that there is no universal method for handling these address formats, each wallet is free to adopt their own approach. Some wallets require you to manually select a network to have access to the relevant address, one network at a time. While other wallets allow you to search and select a specific address from all available network addresses. You will need to pay close attention to this feature when choosing your wallets.
 
-![Network search and selection functionality on SubWallet.](../../.gitbook/assets/A\_AFSubwallet.JPG)
+<figure><img src="../../.gitbook/assets/A_AFSubwallet.JPG" alt="This shows a network search and selection functionality on subwallet."><figcaption><p>Network search and selection functionality on <a href="https://subwallet.app/">SubWallet</a>.</p></figcaption></figure>
 
-![Address formats search and copy functionality on Talisman wallet.](../../.gitbook/assets/A\_AFTalisman.JPG)
+<figure><img src="../../.gitbook/assets/A_AFTalisman.JPG" alt="This shows various address formats, and the search and copy features on Talisman wallet."><figcaption><p>Address formats search and copy functionality on <a href="https://talisman.xyz/">Talisman</a> wallet.</p></figcaption></figure>
 
 
 

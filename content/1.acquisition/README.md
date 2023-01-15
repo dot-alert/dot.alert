@@ -25,7 +25,7 @@ These include :
 
 You will need a Polkadot account to receive your coins/tokens, along with some understanding of the following concepts:&#x20;
 
-* Depending on the coins/tokens that you receive, you might need to pay attention to [existential deposits](existential-deposits-on-polkadot.md).
+* Depending on the coins/tokens that you receive, you might need to pay attention to [existential deposits](existential-deposits.md).
 * Depending on the dapps that you use, you might need to investigate [address formats](address-formats.md).
 * Depending on the methods that you choose, you might need to make use of [transaction explorers](transaction-explorers.md).
 
