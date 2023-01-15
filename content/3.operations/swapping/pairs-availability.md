@@ -1,6 +1,6 @@
 ---
 description: >-
-  An overview of user-friendly solutions from DeFi platforms in the Polkadot
+  An overview of swapping solutions from DeFi platforms in the Polkadot
   ecosystem.
 ---
 
