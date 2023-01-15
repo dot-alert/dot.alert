@@ -1,5 +1,7 @@
 ---
-description: An overview of token swaps in the Polkadot ecosystem.
+description: >-
+  An overview of user-friendly solutions from DeFi platforms in the Polkadot
+  ecosystem.
 ---
 
 # Pairs availability
@@ -16,7 +18,7 @@ Traditional token trading on Centralized exchanges involves using the Orderbook 
 
 
 
-While token swaps used to have the reputation of being costly in transaction fees, this is no longer the case with application-specific chains. In the Polkadot ecosystem, the majority of DEXes are native to their parachains, which allows for an extensive customisation of their fee model. Some platforms operate with a "flexible fee" schedule whereby users can select any token they hold to pay for their transactions. Other platforms run with feeless transactions either temporarily, as part of a special offer, or permanently.
+While token swaps used to have the reputation of being costly in transaction fees, this is no longer the case with application-specific chains. In the Polkadot ecosystem, the majority of DEXes are native to their parachains, which allows for an extensive customisation of their fee model. Some platforms operate with a "flexible fee" schedule whereby users can select any token they hold to pay for their [transactions](../../1.acquisition/transaction-explorers.md). Other platforms run with feeless transactions either temporarily, as part of a special offer, or permanently.
 
 <figure><img src="../../../.gitbook/assets/O_SwappingAcalafees.JPG" alt=""><figcaption><p><a href="https://acala.network/">Acala network</a> implements minimal transaction fees that are payable in any token.</p></figcaption></figure>
 
@@ -40,7 +42,7 @@ The most notable downside of AMM-based swaps is slippage. When there isn't enoug
 
 
 
-Another drawback of swaps is front-running, which occurs when market participants watch information about upcoming transactions and manipulate network operations to their advantage. Bots are used to swiftly buy tokens in a given pair at low prices and then sell these to ordinary users at much higher prices. DEX users should take care to review their swaps information carefully before approving a transaction, as token valuations can quickly change from one moment to the next.
+Another drawback of swaps is front-running, which occurs when market participants watch information about upcoming transactions and manipulate network [operations](../) to their advantage. Bots are used to swiftly buy tokens in a given pair at low prices and then sell these to ordinary users at much higher prices. DEX users should take care to review their swaps information carefully before approving a transaction, as token valuations can quickly change from one moment to the next.
 
 <figure><img src="../../../.gitbook/assets/O_SwappingMangata.JPG" alt=""><figcaption><p><a href="https://www.mangata.finance/">Mangata DEX</a> offers protection against frontrunning.</p></figcaption></figure>
 

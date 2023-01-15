@@ -1,10 +1,12 @@
 ---
-description: A summary of crowdloan participation in the Polkadot ecosystem
+description: >-
+  A summary of crowdloan participation and lease offering evaluation in the
+  Polkadot ecosystem.
 ---
 
 # Crowdloans
 
-Crowdloaning is a way for projects to get the support of the community when trying to secure a Parachain slot lease. Funds loaned by the community under this process are locked up: they do not go to the project team and they remain inaccessible for the duration of the lease.
+Crowdloaning is a way for projects to get the support of the community when trying to secure a [Parachain slot lease](../bidding/parachain-slot-lease.md). Funds loaned by the community under this process are locked up: they do not go to the project team and they remain inaccessible for the duration of the lease.
 
 <figure><img src="../../../.gitbook/assets/O_CLCrust.JPG" alt=""><figcaption><p><a href="https://medium.com/crustnetwork/crust-will-participate-the-polkadot-slot-auction-26-32-crowdloan-is-live-99564cdd1af1">Crust Network</a>'s crowdloan campaign for a Parachain slot lease on the Polkadot Relay chain.</p></figcaption></figure>
 
@@ -36,5 +38,5 @@ Since there are many ways for contributing to crowdloans, there are also varying
 
 
 
-It is important that you do your research well and not just get carried away by beautiful project descriptions, strong personalities, or juicy rewards. When learning about crowdloan projects, confirm all information that you get by checking official channels and media. You should remember never to send tokens to any account yourself, because crowdloans accounts are created and funded with special transactions on the Polkadot and Kusama Relay chains.
+It is important that you do your research well and not just get carried away by beautiful project descriptions, strong personalities, or juicy rewards. When learning about crowdloan projects, confirm all information that you get by checking [official channels](../../4.social-support/) and media. You should remember never to send tokens to any account yourself, because crowdloans accounts are created and funded with special transactions on the Polkadot and Kusama Relay chains.
 

@@ -1,5 +1,7 @@
 ---
-description: A beginner-friendly option for onboarding the Polkadot ecosystem.
+description: >-
+  A beginner-friendly option for onboarding and discovering the Polkadot
+  ecosystem.
 ---
 
 # Kappa Sigma Mu (KΣM) membership
@@ -12,7 +14,7 @@ The _Kappa Sigma Mu_ is a Kusama-based collective whose objective is to create a
 
 ## How-to:
 
-To become a member, users need to deposit a certain amount of KSM into the protocol. They can either do so themselves through a bid or get somebody else to vouch for their suitability. After which, if shortlisted, they will need to meet the PoI requirements (i.e getting a tattoo) to become a member.&#x20;
+To become a member, users need to deposit a certain amount of KSM into the [protocol](../../5.regulations/networks/infrastructure.md). They can either do so themselves through a bid or get somebody else to vouch for their suitability. After which, if shortlisted, they will need to meet the PoI requirements (i.e getting a tattoo) to become a member.&#x20;
 
 <figure><img src="../../../.gitbook/assets/O_BGuideKappaSM.JPG" alt=""><figcaption><p>Step-by-step tutorials on Kappa Sigma Mu operations in the <a href="https://anaelleltd.github.io/polkadotjs-guide/2.network.html#society"><em>Guide to Polkadot-JS</em></a>.</p></figcaption></figure>
 

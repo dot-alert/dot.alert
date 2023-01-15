@@ -1,5 +1,7 @@
 ---
-description: A guide to on-chain Treasury funding in the Polkadot ecosystem
+description: >-
+  A guide to on-chain Treasury funding and its community-building role in the
+  Polkadot ecosystem.
 ---
 
 # Treasury spends
@@ -12,7 +14,7 @@ Relay chains come with on-chain treasuries whose funds are used to finance or re
 
 ## How-to:
 
-Anyone can apply and receive treasury funding, so long as their spend proposal gets passed by community votes for an automatic allocation via on-chain governance (i.e OpenGov's referendum tracks). Spend proposals are usually submitted for major tasks or activities (eg. Software development, community events, ecosystem-wide tools, education hubs, etc.) that require advanced funding.&#x20;
+Anyone can apply and receive treasury funding, so long as their spend proposal gets passed by community [votes](../voting/) for an automatic allocation via on-chain governance (i.e OpenGov's referendum tracks). Spend proposals are usually submitted for major tasks or activities (eg. Software development, community events, ecosystem-wide tools, education hubs, etc.) that require advanced funding.&#x20;
 
 <figure><img src="../../../.gitbook/assets/O_TSSubsquare.JPG" alt=""><figcaption><p>Treasury spend proposals submitted under OpenGov's <em>BigSpender</em> track on <a href="https://kusama.subsquare.io/referenda/treasurer">Subsquare</a>.</p></figcaption></figure>
 
@@ -43,7 +45,7 @@ While the opportunity to get financial support through Treasury spends encourage
 
 
 
-Furthermore, before submitting a proposal on-chain, it is important to gather support from a range of ecosystem participants that can follow through during the voting period. Since the Treasury is a common good that belongs to every token holders, proposers must listen to suggestions from community members and be ready to rework their proposals. Failing to acknowledge constructive feedback can negatively impact the outcome of proposal and also damage an individual's or a team's social standing for a long time.
+Furthermore, before submitting a proposal on-chain, it is important to gather support from a range of ecosystem [participants](../../5.regulations/networks/participation.md) that can follow through during the voting period. Since the Treasury is a common good that belongs to every token holders, proposers must listen to suggestions from community members and be ready to rework their proposals. Failing to acknowledge constructive feedback can negatively impact the outcome of proposal and also damage an individual's or a team's social standing for a long time.
 
 <figure><img src="../../../.gitbook/assets/O_TSBrightTreasury.JPG" alt=""><figcaption><p><a href="https://treasury.bright.dev/proposals?networkId=polkadot">BrightTreasury</a> gives a user-friendly interface for discussing and submitting Treasury proposals.</p></figcaption></figure>
 

@@ -1,5 +1,5 @@
 ---
-description: A project-centric option for onboarding the Polkadot ecosystem.
+description: A project-centric option for onboarding and navigating the Polkadot ecosystem.
 ---
 
 # Parachain slot lease
@@ -12,11 +12,11 @@ Any individual or project that wants to run a parachain must first lease a slot 
 
 ## How-to:
 
-To obtain a lease, individuals or projects need to register a Parathread and get a ParaID for their on-chain entity which will be used during cross-chain operations within the ecosystem. Individuals or projects also need to raise funds (through crowdfunding or self-funding) that will be used to place bids during parachain slot auctions.&#x20;
+To obtain a lease, individuals or projects need to register a Parathread and get a ParaID for their on-chain entity which will be used during cross-chain [operations](../) within the ecosystem. Individuals or projects also need to raise funds (through crowdfunding or self-funding) that will be used to place bids during parachain slot auctions.&#x20;
 
 ![Schedule of the 27th auction on Polkadot.](../../../.gitbook/assets/O\_BAuctionsTT.JPG)
 
-Slot auctions run in batches that are scheduled in advanced through on-chain governance, but the timings can vary depending on network activity. So far, auctions have been running every 7 days on Kusama and every 12 days on Polkadot. In between batches, unsuccessful bidders will refund their crowdloan contributors and take the time to review their strategies.
+Slot auctions run in batches that are scheduled in advanced through on-chain governance, but the timings can vary depending on network activity. So far, auctions have been running every 7 days on Kusama and every 12 days on Polkadot. In between batches, unsuccessful bidders will refund their [crowdloan](../crowdfunding/crowdloans.md) contributors and take the time to review their strategies.
 
 
 

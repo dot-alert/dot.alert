@@ -1,5 +1,7 @@
 ---
-description: A summary of nomination strategies in the Polkadot ecosystem.
+description: >-
+  A summary of nomination strategies for staking income optimisation in the
+  Polkadot ecosystem.
 ---
 
 # Nominating
@@ -18,7 +20,7 @@ Broadly-speaking, nominators have many options for participating in staking oper
 
 
 
-Staking directly on Relay chains involves bonding a minimum amount of tokens (i.e 0.1 KSM on Kusama and 10 DOT on Polkadot), selecting suitable validators (i.e up to 24 on Kusama and up to 16 on Polkadot), and claiming/receiving rewards. Recently, Nomination pools have been introduced to lower staking requirements. Token holders can start earning rewards with 1 DOT and the validators selection is tasked upon the pool administrator. However, pool participants cannot use their bonded tokens to participate in governance and the use of staking proxies is not yet permitted.
+Staking directly on Relay chains involves bonding a minimum amount of tokens (i.e 0.1 KSM on Kusama and 10 DOT on Polkadot), selecting suitable validators (i.e up to 24 on Kusama and up to 16 on Polkadot), and claiming/receiving rewards. Recently, Nomination pools have been introduced to lower staking requirements. Token holders can start earning rewards with 1 DOT and the validators selection is tasked upon the pool administrator. However, pool participants cannot use their bonded tokens to participate in [governance](../voting/) and the use of staking proxies is not yet permitted.
 
 <figure><img src="../../../.gitbook/assets/O_SDashboard.JPG" alt=""><figcaption><p>The <a href="https://staking.polkadot.network/#/nominate">Staking dashboard</a> is a one-stop platform for managing staking operations on Relay chains.</p></figcaption></figure>
 
@@ -34,7 +36,7 @@ By contrast, exchanges offer more flexible ways to stake your funds. Liquid stak
 
 Risk management best practices fall under three categories: using secure setups, choosing reliable validators, and monitoring staking parameters.
 
-For optimal security, you need to separate the stash account that holds and bonds your funds from the controller account that unbonds funds and nominates validators. Preferably, you should leave your stash in cold storage and use either a staking proxy for On-chain staking or a non-transfer proxy for Nomination pools. In case one of your private keys gets phished, this configuration will ensure that your bonded tokens and your staking income cannot be simultaneously accessed by the thief.
+For optimal security, you need to separate the stash account that holds and bonds your funds from the controller account that unbonds funds and nominates validators. Preferably, you should leave your stash in [cold storage ](../../2.storage/cold-storage-devices.md)and use either a staking proxy for On-chain staking or a non-transfer proxy for Nomination pools. In case one of your private keys gets phished, this configuration will ensure that your bonded tokens and your staking income cannot be simultaneously accessed by the thief.
 
 <figure><img src="../../../.gitbook/assets/O_SWallets (1).JPG" alt=""><figcaption><p>Secure staking setups are supported by a wide range of Treasury-funded <a href="https://support.polkadot.network/support/solutions/articles/65000068702-where-to-store-dot-polkadot-wallet-options">wallets</a> in the Polkadot ecosystem.</p></figcaption></figure>
 
