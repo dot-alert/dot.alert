@@ -5,7 +5,7 @@
 ## Content
 
 * [1.Acquisition](content/1.acquisition/README.md)
-  * [Existential deposits](content/1.acquisition/existential-deposits.md)
+  * [Existential Deposits on Polkadot](content/1.acquisition/existential-deposits-on-polkadot.md)
   * [Address formats](content/1.acquisition/address-formats.md)
   * [Transaction Explorers](content/1.acquisition/transaction-explorers.md)
 * [2.Storage](content/2.storage/README.md)

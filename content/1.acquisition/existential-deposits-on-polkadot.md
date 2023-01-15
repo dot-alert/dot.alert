@@ -4,27 +4,29 @@ description: >-
   Polkadot ecosystem.
 ---
 
-# Existential deposits
+# Existential Deposits on Polkadot
 
 ## What are Existential Deposits?
 
-Existential deposits (ED) are a specific number of coins needed to ensure that your account is kept "alive" on the network, whether it be a Relay chain (Polkadot, Kusama), a Parachain (Parallel Finance, Interlay) or a Common Good parachain (Statemine, Statemint).&#x20;
+Existential Deposits (ED) are a specific number of coins needed to ensure that your account is kept "alive" on the network, whether it be a Relay chain (Polkadot, Kusama), a Parachain (Parallel Finance, Interlay) or a Common Good parachain (Statemine, Statemint).&#x20;
 
 {% hint style="info" %}
 **An account is activated on a network once its balance is **_**above**_** the existential deposit.**&#x20;
 {% endhint %}
 
+
+
 Since each chain sets its own existential deposit, users rely on [wallets](../2.storage/) to keep track of existential deposits alongside their balances. Most wallets have in-built mechanisms to prevent accounts from falling below the existential deposit of their respective networks. Still, certain Polkadot wallets and dapps allow users to make custom decisions regarding existential deposits.
 
-![Management of existential deposits on Polkadot-JS Apps.](../../.gitbook/assets/A\_EDCustomSend.JPG)
+<figure><img src="../../.gitbook/assets/A_EDCustomSend.JPG" alt="This is an image of Polkadot-JS app showing the Kusama&#x27;s Existential Deposits of 0.0000333333 KSM and how users can enable/disable normal transfer without keep-alive checks or transferring full account balance."><figcaption><p>Management of existential deposits on <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpolkadot-rpc.dwellir.com#/accounts"><em>Polkadot-JS Apps</em></a>.</p></figcaption></figure>
 
 
 
 ### How do Existential Deposits Work?
 
-Existential deposits work as an anti-spam measure on the networks. If your Polkadot account's balance drops below this amount, your account will be deactivated and any balance that was left will be sent to the network's [Treasury](../3.operations/crowdfunding/treasury-spends.md). You can always reactivate an account at a later date by receiving an amount greater than the required existential deposit.
+Existential Deposits work as an anti-spam measure on the networks. If your Polkadot account's balance drops below this amount, your account will be deactivated and any balance that was left will be sent to the network's [Treasury](../3.operations/crowdfunding/treasury-spends.md). You can always reactivate your account later on, but the funds that were destroyed will not be restored.&#x20;
 
-![Polkadot network's existential deposit requirements on Polkadot Gifts.](../../.gitbook/assets/A\_EDGift.JPG)
+<figure><img src="../../.gitbook/assets/A_EDGift.JPG" alt="This image shows that the Polkadot network does not allow sending of gift cards less than 1 DOT, the existential deposit for Polkadot."><figcaption><p>Polkadot network's existential deposit requirements on <a href="https://gifts.polkadot.network/#/generate"><em>Polkadot Gifts</em></a>.</p></figcaption></figure>
 
 
 
@@ -40,7 +42,7 @@ It is important to note that existential deposits apply to account balances alto
 
 Before you can receive custom assets on Common Good parachains, you will need to activate your account on these Common Good networks. Being aware of existential deposit requirements for these networks will prevent delays and mishaps while transacting.
 
-![Statemine accounts need an existential deposit to receive assets from Karura.](<../../.gitbook/assets/A\_EDStatemine (1).JPG>)
+<figure><img src="../../.gitbook/assets/A_EDStatemine (1).JPG" alt="An image showing an unsuccessful transfer of assets from Kaura to Statemine account because the Statemine account doesn&#x27;t have the require Existential Deposit."><figcaption><p><em></em><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fstatemine.public.curie.radiumblock.xyz%2Fws#/assets"><em>Statemine</em></a> accounts need an existential deposit to receive assets from <a href="https://apps.karura.network/bridge"><em>Karura</em></a>.</p></figcaption></figure>
 
 
 
