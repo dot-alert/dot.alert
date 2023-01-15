@@ -1,10 +1,12 @@
 ---
-description: An outline of governance delegation in the Polkadot ecosystem.
+description: >-
+  A review of governance delegation and indirect voting procedures in the
+  Polkadot ecosystem.
 ---
 
 # Democracy delegation
 
-Indirect voting is when you delegate your funds to another account to represent you for voting. It works almost the same way as direct voting in terms of setups for  amounts and conviction. Only that, this time, your voting power is at the discretion of a third-party user called "delegated account".
+Indirect voting is when you delegate your funds to another account to represent you for voting. It works almost the same way as [direct voting](direct-democracy.md) in terms of setups for  amounts and conviction. Only that, this time, your voting power is at the discretion of a third-party user called "delegated account".
 
 <figure><img src="../../../.gitbook/assets/O_VDelegation.JPG" alt=""><figcaption><p><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpublic-rpc.pinknode.io%2Fpolkadot#/accounts">Polkadot-JS Apps</a> provides an interface for delegating democracy votes.</p></figcaption></figure>
 
@@ -20,14 +22,14 @@ With Gov2.0 (also called OpenGov), there will be a more flexible option for vote
 
 
 
-This is a huge improvement to the current modus operandi, as not all delegated accounts can be trusted to consistently take the best decisions in all governance activities. While one delegate may be best to handle _mid-spending_ proposals, another may be a better fit for handling _Root origin_ proposals.
+This is a huge improvement to the current modus operandi, as not all delegated accounts can be trusted to consistently take the best decisions in all governance activities. While one delegate may be best to handle _MediumSpender_ proposals, another may be a better fit for handling _Root origin_ proposals.
 
 In light of this, one could devise a series of criteria for choosing their representative for each referendum class. A useful checklist can include:
 
 * the account's previous track record of decision-making in a governance activity that matches the referendum class in question.&#x20;
 * the account’s role in the ecosystem; as a member of a certain rank from the Polkadot fellowship may be a better delegate for the _Root origin_ class.
 * the account's community activities in relation to a particular referendum class.&#x20;
-* the account's ability to make rational choices in governance-related discussions and debates.
+* the account's ability to make rational choices in [governance-related discussions](../../4.social-support/polkassembly.md) and debates.
 
 
 
