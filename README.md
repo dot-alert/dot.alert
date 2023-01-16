@@ -12,7 +12,7 @@ layout: landing
 
 > 📢 **NEW CONTENT!**
 >
-> __[_An overview of cold storage options available for the Polkadot ecosystem_](content/2.storage/cold-storage-devices.md)__
+> __[_A presentation on the role of DAO incubators in the Polkadot ecosystem_](content/3.operations/crowdfunding/dao-incubators.md)__
 
 
 
