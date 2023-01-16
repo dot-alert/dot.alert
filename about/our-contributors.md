@@ -7,9 +7,7 @@ coverY: 0
 
 ## Writer(s) and Editor(s):
 
-_<mark style="background-color:blue;">Those who create our content.</mark>_
-
-__[_Anaelle LTD_](https://t.me/AnaelleLTD)__
+_<mark style="background-color:blue;">Those who created our content.</mark>_
 
 __[_Abdulaziz K_](https://twitter.com/akdatti94)__
 
@@ -17,19 +15,23 @@ __[_Abdulkadir I_](https://twitter.com/Gambo00004)
 
 __[_Amed K_](https://twitter.com/Abdulra49391530)__
 
-__[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
+__[_Anaelle LTD_](https://t.me/AnaelleLTD)__
 
 _Chinedu N_
 
-__[_YungBeef_](https://mobile.twitter.com/cryptocowboyog)__
+__[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
+
+__[_Rhoda A_](https://twitter.com/Zoewrites1)__
 
 __[_Shashank R_](https://twitter.com/Shashank\_Rai\_)__
+
+__[_YungBeef_](https://mobile.twitter.com/cryptocowboyog)__
 
 
 
 ## Builder(s):
 
-_<mark style="background-color:blue;">Those who shape our platform.</mark>_
+_<mark style="background-color:blue;">Those who shaped our platform.</mark>_
 
 _Anaelle LTD (Design)_
 
@@ -39,7 +41,7 @@ _Funmilayo L (SEO)_
 
 ## **Fundraiser(s):**
 
-_<mark style="background-color:blue;">Those who fund our developments.</mark>_
+_<mark style="background-color:blue;">Those who funded our developments.</mark>_
 
 <mark style="background-color:blue;"></mark>[The Polkadot Treasury](https://polkadot.subsquare.io/council/motion/263)&#x20;
 
