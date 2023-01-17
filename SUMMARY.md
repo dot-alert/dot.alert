@@ -9,7 +9,7 @@
   * [Address Formats](content/1.acquisition/address-formats.md)
   * [Transaction Explorers](content/1.acquisition/transaction-explorers.md)
 * [2.Storage](content/2.storage/README.md)
-  * [Seed/Secret phrases](content/2.storage/seed-secret-phrases.md)
+  * [Seed/Secret Phrases](content/2.storage/seed-secret-phrases.md)
   * [JSON backups](content/2.storage/json-backups.md)
   * [Browser extensions](content/2.storage/browser-extensions.md)
   * [Mobile wallets](content/2.storage/mobile-wallets.md)
