@@ -17,7 +17,7 @@ __[_Amed K_](https://twitter.com/Abdulra49391530)__
 
 __[_Anaelle LTD_](https://t.me/AnaelleLTD)__
 
-_Chinedu N_
+__[_Chinedu N_](https://twitter.com/iam\_combi16)__
 
 __[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
 
