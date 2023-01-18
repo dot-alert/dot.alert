@@ -7,7 +7,7 @@ coverY: 0
 
 ## Project manager:
 
-__[_Anaelle LTD_](https://t.me/AnaelleLTD)__
+__[_Abdulaziz K_](https://twitter.com/akdatti94)__
 
 __
 
@@ -29,7 +29,7 @@ __
 
 
 
-## HR Officer:
+## Operations:
 
-__[_Abdulaziz K_](https://twitter.com/akdatti94)__
+__[_Anaelle LTD_](https://t.me/AnaelleLTD)__
 
