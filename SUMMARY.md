@@ -11,7 +11,7 @@
 * [2.Storage](content/2.storage/README.md)
   * [Seed/Secret Phrases](content/2.storage/seed-secret-phrases.md)
   * [JSON Backups](content/2.storage/json-backups.md)
-  * [Browser extensions](content/2.storage/browser-extensions.md)
+  * [Browser Extension Wallets](content/2.storage/browser-extension-wallets.md)
   * [Mobile wallets](content/2.storage/mobile-wallets.md)
   * [Air-gapped signers](content/2.storage/air-gapped-signers.md)
   * [Cold storage devices](content/2.storage/cold-storage-devices.md)
