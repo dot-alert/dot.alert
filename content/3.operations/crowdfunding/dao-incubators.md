@@ -36,9 +36,11 @@ Apart from providing a gateway to financial support, DAO incubators can also ass
 
 Before applying for an incubator programme, it is important to research the history of the platform itself to evaluate the transparency of processes in place. This is because funds raised from the community are often held on the platform's smart contracts or wallets before being disbursed to projects, and any hacks or misappropriation of funds by the DAO incubator's team can lead to irreparable losses for onboarded projects and their stakeholders.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_DIKabocha.JPG" alt=""><figcaption><p><a href="https://www.kabocha.network/">Kabocha</a> is an accelerator for experimental projects sustained by grassroot organisations.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_DIKabocha.JPG" alt=""><figcaption><p><a href="https://www.kabocha.network/">Kabocha</a> is designed for experimental projects sustained by grassroot organisations.</p></figcaption></figure>
 
 
 
 DAO incubators operate with different standards and requirements, which has a direct effect on the outcome of teams' applications. Depending on the platform used, priority can be given to technical, social, financial, or artistic initiatives. Going through published guidelines helps prevent common mistakes such as duplicated solutions, absence of technical specifications, or unclear schedules.&#x20;
+
+<figure><img src="../../../.gitbook/assets/O_DIMoonbeam.JPG" alt=""><figcaption><p><a href="https://moonbeamaccelerator.com/">Moonbeam network</a> runs a comprehensive programme for emerging Web3 startups. </p></figcaption></figure>
 
