@@ -1,7 +1,7 @@
 ---
 description: >-
-  An overview of swapping solutions from DeFi platforms in the Polkadot
-  ecosystem.
+  An overview of user-friendly solutions from token swap platforms developed in
+  the Polkadot ecosystem.
 ---
 
 # Pairs availability

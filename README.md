@@ -12,7 +12,7 @@ layout: landing
 
 > 📢 **NEW CONTENT!**
 >
-> __[_A presentation on the role of DAO incubators in the Polkadot ecosystem_](content/3.operations/crowdfunding/dao-incubators.md)__
+> [_A review of Portfolio management tools available in the Polkadot ecosystem_](content/3.operations/swapping/portfolio-management.md)__
 
 
 

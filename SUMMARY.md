@@ -30,6 +30,7 @@
     * [Nominating](content/3.operations/staking/nominating.md)
   * [Swapping](content/3.operations/swapping/README.md)
     * [Pairs availability](content/3.operations/swapping/pairs-availability.md)
+    * [Portfolio management](content/3.operations/swapping/portfolio-management.md)
 * [4.Social support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)
