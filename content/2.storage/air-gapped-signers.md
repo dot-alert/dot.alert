@@ -1,6 +1,6 @@
 ---
 description: >-
-  An overview of Air-gapped signers' procedures and setups in the Polkadot
+  An overview of Air-gapped signers' setups and procedures for the Polkadot
   ecosystem.
 ---
 

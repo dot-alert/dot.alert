@@ -1,10 +1,10 @@
 ---
 description: >-
   A beginner-friendly option for onboarding and discovering the Polkadot
-  ecosystem.
+  ecosystem via the Kappa Sigma Mu (KΣM) membership.
 ---
 
-# Kappa Sigma Mu (KΣM) membership
+# Kappa Sigma Mu (KΣM) Membership
 
 The _Kappa Sigma Mu_ is a Kusama-based collective whose objective is to create a Human blockchain via a process called "Proof-of-Ink". Members of this Society are eligible for rewards called "payouts" taken out of the Society's pot, which is funded by the Kusama Treasury.
 
