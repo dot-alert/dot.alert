@@ -13,7 +13,7 @@
   * [JSON Backups](content/2.storage/json-backups.md)
   * [Browser Extension Wallets](content/2.storage/browser-extension-wallets.md)
   * [Mobile Wallets](content/2.storage/mobile-wallets.md)
-  * [Air-gapped signers](content/2.storage/air-gapped-signers.md)
+  * [Air-gapped Signers](content/2.storage/air-gapped-signers.md)
   * [Cold storage devices](content/2.storage/cold-storage-devices.md)
 * [3.Operations](content/3.operations/README.md)
   * [Bidding](content/3.operations/bidding/README.md)
