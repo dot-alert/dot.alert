@@ -25,7 +25,7 @@
   * [Crowdfunding](content/3.operations/crowdfunding/README.md)
     * [Crowdloans](content/3.operations/crowdfunding/crowdloans.md)
     * [Treasury Spends](content/3.operations/crowdfunding/treasury-spends.md)
-    * [DAO incubators](content/3.operations/crowdfunding/dao-incubators.md)
+    * [DAO Incubators](content/3.operations/crowdfunding/dao-incubators.md)
   * [Staking](content/3.operations/staking/README.md)
     * [Nominating](content/3.operations/staking/nominating.md)
   * [Swapping](content/3.operations/swapping/README.md)
