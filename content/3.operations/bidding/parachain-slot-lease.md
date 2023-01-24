@@ -1,5 +1,7 @@
 ---
-description: A project-centric option for onboarding and navigating the Polkadot ecosystem.
+description: >-
+  Parachain slot leases as a project-centric option for onboarding and
+  navigating the Polkadot ecosystem.
 ---
 
 # Parachain slot lease
