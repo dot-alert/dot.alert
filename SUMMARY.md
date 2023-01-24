@@ -21,7 +21,7 @@
     * [Parachain Slot Lease](content/3.operations/bidding/parachain-slot-lease.md)
   * [Voting](content/3.operations/voting/README.md)
     * [Direct Democracy](content/3.operations/voting/direct-democracy.md)
-    * [Democracy delegation](content/3.operations/voting/democracy-delegation.md)
+    * [Democracy Delegation](content/3.operations/voting/democracy-delegation.md)
   * [Crowdfunding](content/3.operations/crowdfunding/README.md)
     * [Crowdloans](content/3.operations/crowdfunding/crowdloans.md)
     * [Treasury spends](content/3.operations/crowdfunding/treasury-spends.md)
