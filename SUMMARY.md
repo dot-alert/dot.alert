@@ -18,7 +18,7 @@
 * [3.Operations](content/3.operations/README.md)
   * [Bidding](content/3.operations/bidding/README.md)
     * [Kappa Sigma Mu (KΣM) Membership](content/3.operations/bidding/kappa-sigma-mu-ksm-membership.md)
-    * [Parachain slot lease](content/3.operations/bidding/parachain-slot-lease.md)
+    * [Parachain Slot Lease](content/3.operations/bidding/parachain-slot-lease.md)
   * [Voting](content/3.operations/voting/README.md)
     * [Direct democracy](content/3.operations/voting/direct-democracy.md)
     * [Democracy delegation](content/3.operations/voting/democracy-delegation.md)
