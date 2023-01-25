@@ -5,25 +5,25 @@ coverY: 0
 
 # Our team members
 
-## Project manager:
+## Project Manager:
 
 __[_Abdulaziz K_](https://twitter.com/akdatti94)__
 
 __
 
-## QA Officer:
+## Quality Assurance Officer:
 
 __[_Abdulbasit S_](https://twitter.com/DocAmoka)__
 
 __
 
-## SEO Officer:
+## Search Engine Optimisation Officer:
 
 _Moshood S_
 
 __
 
-## SN Officer: __&#x20;
+## Social Network Officer: __&#x20;
 
 [_Judge L_](https://twitter.com/Grizz375)__
 
