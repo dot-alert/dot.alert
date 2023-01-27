@@ -32,7 +32,7 @@ During periods of high price fluctuations, experienced users often carry out arb
 
 
 
-As there is [a growing number of assets](token-swaps.md) (i.e stablecoins, network tokens, NFTs, staking and crowdloan derivatives, etc.) that are traded over different dapps, users need customisable interfaces to build an in-depth view of their holdings. DeFi platforms and Data aggregators are partnering to give advanced network participants the opportunity to build their own native swapping solutions. Some of these include watching token pairs activities, retrieving price feeds, or running arbitrage bots.
+As there is [a growing number of assets](pairs-availability.md) (i.e stablecoins, network tokens, NFTs, staking and crowdloan derivatives, etc.) that are traded over different dapps, users need customisable interfaces to build an in-depth view of their holdings. DeFi platforms and Data aggregators are partnering to give advanced network participants the opportunity to build their own native swapping solutions. Some of these include watching token pairs activities, retrieving price feeds, or running arbitrage bots.
 
 <figure><img src="../../../.gitbook/assets/O_SwappingSubsquidAcala.JPG" alt=""><figcaption><p><a href="https://medium.com/subsquid/subsquid-partners-with-acala-on-evm-tooling-and-xcm-use-cases-9de22255b6b4">Subsquid and Acala</a> are developing interoperable tooling support for developers and DeFi users. </p></figcaption></figure>
 
