@@ -1,10 +1,10 @@
 ---
 description: >-
-  An overview of user-friendly solutions from token swap platforms developed in
-  the Polkadot ecosystem.
+  An overview of user-friendly solutions for token swaps in the Polkadot
+  ecosystem.
 ---
 
-# Pairs availability
+# Token swaps
 
 Swapping tokens on a DEX relies on the Automated Market Marker (AMM) model where a liquidity pool holds a pair of tokens and an algorithm is used to maintain a specific balance of tokens in the pool. The price of each token is adjusted dynamically, based on the ratio within the pair at the time the transaction is executed.
 

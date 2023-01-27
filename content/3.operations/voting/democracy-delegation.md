@@ -1,24 +1,26 @@
 ---
 description: >-
-  A review of governance delegation and indirect voting procedures in the
+  A review of governance delegation setups and indirect voting procedures in the
   Polkadot ecosystem.
 ---
 
-# Democracy delegation
+# Democracy Delegation
 
-Indirect voting is when you delegate your funds to another account to represent you for voting. It works almost the same way as [direct voting](direct-democracy.md) in terms of setups for  amounts and conviction. Only that, this time, your voting power is at the discretion of a third-party user called "delegated account".
+## What is Democracy Delegation?
 
-<figure><img src="../../../.gitbook/assets/O_VDelegation.JPG" alt=""><figcaption><p><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpublic-rpc.pinknode.io%2Fpolkadot#/accounts">Polkadot-JS Apps</a> provides an interface for delegating democracy votes.</p></figcaption></figure>
+Democracy delegation is when you delegate your funds to another account to represent you for voting. It works almost the same way as [direct democracy](direct-democracy.md) in terms of setups for amounts and conviction. Only that, this time, your voting power is at the discretion of a third-party user called "delegated account".
+
+<figure><img src="../../../.gitbook/assets/O_VDelegation.JPG" alt="An interface for delegating democracy on Polkadot JS app."><figcaption><p><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpublic-rpc.pinknode.io%2Fpolkadot#/accounts">Polkadot-JS Apps</a> provides an interface for delegating democracy votes.</p></figcaption></figure>
 
 
 
-## How-to:
+### How-to: Participating in Governance via Democracy Delegation
 
 In the current governance system, token holders can only delegate to one account at a time, and this account represents them for all governance decisions. In this setup, delegated accounts get the delegating account's voting balance, voting conviction, and lockup duration added to their own personal voting preferences at all time.&#x20;
 
 With Gov2.0 (also called OpenGov), there will be a more flexible option for vote delegation, since different referendum classes will run in parallel, each carrying many proposals. This will enable multirole delegation, a process in which voters delegate their power to different accounts across different referendum classes.
 
-<figure><img src="../../../.gitbook/assets/O_VGov2.png" alt=""><figcaption><p>A selection of referendum classes from the upcoming <a href="https://polkadot.network/blog/gov2-polkadots-next-generation-of-decentralised-governance/">Gov 2.0 upgrade</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VGov2.png" alt="A sample of referendum classes from the upcoming Gov 2.0 upgrade."><figcaption><p>A selection of referendum classes from the upcoming <a href="https://polkadot.network/blog/gov2-polkadots-next-generation-of-decentralised-governance/">Gov 2.0 upgrade</a>.</p></figcaption></figure>
 
 
 
@@ -33,11 +35,11 @@ In light of this, one could devise a series of criteria for choosing their repre
 
 
 
-## **Risks:**
+### **Risks: Mitigation Strategies for** Democracy Delegation procedures
 
 Democracy delegation should never be a set-and-forget endeavour. Handing over your voting power is a risky sacrifice that may result in unwanted outcomes if not managed properly. Delegated accounts can end up being victims of a hack and,  although your delegated funds are non-transferable by nature, this attack may result in a subsequent leverage of your votes for malicious proposals.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_VRyabinabot.jpg" alt=""><figcaption><p><a href="https://ryabina.medium.com/track-anything-ultimate-guide-for-polkadot-and-kusama-telegram-bots-a47aa913f8b">Ryabina Telegram bots</a> allow users to keep track of ecosystem governance activities. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VRyabinabot.jpg" alt="A sample of Ryabina Telegram bot keeping track of Polkadot governance activities."><figcaption><p><a href="https://ryabina.medium.com/track-anything-ultimate-guide-for-polkadot-and-kusama-telegram-bots-a47aa913f8b">Ryabina Telegram bots</a> allow users to keep track of ecosystem governance activities. </p></figcaption></figure>
 
 
 
