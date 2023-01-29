@@ -12,7 +12,7 @@ layout: landing
 
 > 📢 **NEW CONTENT!**
 >
-> [A summary of regulatory perceptions of Web3 platforms and services available in the Polkadot ecosystem.](content/5.regulations/platforms/services.md)
+> [_A review of Portfolio management tools available in the Polkadot ecosystem_](content/3.operations/swapping/portfolio-management.md)__
 
 
 
