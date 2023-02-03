@@ -18,19 +18,19 @@ Nominators play a central role in the election of the validators who approve tra
 
 Broadly-speaking, nominators have many options for participating in staking operations. There are relay chain-based options such as On-chain staking and Nomination pools, but there are also exchange-based options, namely Liquid staking on DEXes, and Earning programmes on CEXes.
 
-<figure><img src="../../../.gitbook/assets/O_SComparator.jfif" alt="A comparison of the staking options for KSM on Kusama, Bifrost and centralised exchanges (CEX)"><figcaption><p>A <a href="https://bifrost.app/vstaking/vKSM">comparison</a> of staking options for KSM.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SComparator.jfif" alt="A comparison of staking avenues for KSM on Kusama, Bifrost, and Centralised Exchanges (CEXes)."><figcaption><p>A <a href="https://bifrost.app/vstaking/vKSM">comparison</a> of staking options for KSM.</p></figcaption></figure>
 
 
 
 Staking directly on Relay chains involves bonding a minimum amount of tokens (i.e 0.1 KSM on Kusama and 10 DOT on Polkadot), selecting suitable validators (i.e up to 24 on Kusama and up to 16 on Polkadot), and claiming/receiving rewards. Recently, Nomination pools have been introduced to lower staking requirements. Token holders can start earning rewards with 1 DOT and the validators selection is tasked upon the pool administrator. However, pool participants cannot use their bonded tokens to participate in [governance](../voting/) and the use of staking proxies is not yet permitted.
 
-<figure><img src="../../../.gitbook/assets/O_SDashboard.JPG" alt="A snapshot of the Polkadot staking dashboard where users can manage their stakes on relay chains."><figcaption><p>The <a href="https://staking.polkadot.network/#/nominate">Staking dashboard</a> is a one-stop platform for managing staking operations on Relay chains.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SDashboard.JPG" alt="A screenshot of the Polkadot staking dashboard where users can manage their operations."><figcaption><p>The <a href="https://staking.polkadot.network/#/nominate">Staking dashboard</a> is a one-stop platform for managing staking operations on Relay chains.</p></figcaption></figure>
 
 
 
 By contrast, exchanges offer more flexible ways to stake your funds. Liquid staking eliminates the unbonding period (i.e 7 days on Kusama and 28 days on Polkadot) and provides users with staking derivative tokens that they can use across ecosystem DEXes. Meanwhile, CEXes often compete in providing participants with high staking returns in exchange for locking their funds on their platforms. An important point to note is that staking operations are entirely controlled by exchanges and comes with a mandatory acceptance of their terms and conditions.
 
-<figure><img src="../../../.gitbook/assets/O_SLiquid.JPG" alt="Frequently Asked Questions (FAQ) on the Parallelfi platform, including the liquid staking procedures."><figcaption><p>FAQ on <a href="https://app.parallel.fi/staking">ParallelFi's Liquid staking</a> procedures.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SLiquid.JPG" alt="Frequently Asked Questions (FAQ) on Parallel Finance, including liquid staking procedures."><figcaption><p>FAQ on <a href="https://app.parallel.fi/staking">ParallelFi's Liquid staking</a> procedures.</p></figcaption></figure>
 
 
 
@@ -40,7 +40,7 @@ Risk management best practices fall under three categories: using secure setups,
 
 For optimal security, you need to separate the stash account that holds and bonds your funds from the controller account that unbonds funds and nominates validators. Preferably, you should leave your stash in [cold storage ](../../2.storage/cold-storage-devices.md)and use either a staking proxy for On-chain staking or a non-transfer proxy for Nomination pools. In case one of your private keys gets phished, this configuration will ensure that your bonded tokens and your staking income cannot be simultaneously accessed by the thief.
 
-<figure><img src="../../../.gitbook/assets/O_SWallets (1).JPG" alt="A list of staking set ups supported by various wallets on Polkadot ecosysystem."><figcaption><p>Secure staking setups are supported by a wide range of Treasury-funded <a href="https://support.polkadot.network/support/solutions/articles/65000068702-where-to-store-dot-polkadot-wallet-options">wallets</a> in the Polkadot ecosystem.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SWallets (1).JPG" alt="A list of staking setups supported by various wallets of the Polkadot ecosystem."><figcaption><p>Secure staking setups are supported by a wide range of Treasury-funded <a href="https://support.polkadot.network/support/solutions/articles/65000068702-where-to-store-dot-polkadot-wallet-options">wallets</a> in the Polkadot ecosystem.</p></figcaption></figure>
 
 
 

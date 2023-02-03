@@ -4,5 +4,5 @@ Swapping tokens sits at the core of Decentralised finance (DeFi) operations unde
 
 In the Polkadot ecosystem, swapping functionalities are further boosted by interoperability protocols which allow parachains to leverage each other's assets without any intermediaries.
 
-<figure><img src="../../../.gitbook/assets/O_SwappingXCM.JPG" alt=""><figcaption><p>The <a href="https://polkadot.network/cross-chain-communication/">XCMP protocol</a> underpins trustless cross-chain swaps within the Polkadot ecosystem.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SwappingXCM.JPG" alt="A screenshot of a graph explaining the role of XCM messages in the Polkadot ecosystem."><figcaption><p>The <a href="https://polkadot.network/cross-chain-communication/">XCMP protocol</a> underpins trustless cross-chain swaps within the Polkadot ecosystem.</p></figcaption></figure>
 

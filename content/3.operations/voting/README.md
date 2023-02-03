@@ -8,5 +8,5 @@ Every token holder has the liberty to:&#x20;
 * vote directly for referenda
 * delegate their voting power to someone else
 
-<figure><img src="../../../.gitbook/assets/O_VPolkadotJS.JPG" alt=""><figcaption><p>Overview of referenda voting for Polkadot network on <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpolkadot.public.curie.radiumblock.io%2Fws#/democracy">Polkadot-JS Apps</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VPolkadotJS.JPG" alt="A screenshot of active governance referenda and democracy proposals on the Polkadot Relay chain."><figcaption><p>Overview of referenda voting for Polkadot network on <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpolkadot.public.curie.radiumblock.io%2Fws#/democracy">Polkadot-JS Apps</a>.</p></figcaption></figure>
 

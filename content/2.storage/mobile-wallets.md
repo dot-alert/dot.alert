@@ -18,7 +18,7 @@ Mobile wallets are a special kind of mobile apps that allow cryptocurrency users
 
 Although they have similar use cases, mobile wallets and digital wallets are strictly different in nature. Most digital wallets (i.e _Paypal, Venmo, Cash App_, etc.) provide an interface to access and use payment information that is linked to an identifiable party (i.e a person's identity, a charity's bank account, a seller's email address, etc.) during transactions. Meanwhile, mobile wallets support decentralised payment systems in which cryptocurrency users do not need to submit their identities or locations.
 
-<figure><img src="../../.gitbook/assets/S_MWPolkawallet.JPG" alt="A sample of Polkadot accounts on Polkawallet"><figcaption><p>Pseudonymous Polkadot accounts on <a href="https://polkawallet.io/">Polkawallet</a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_MWPolkawallet.JPG" alt="A sample of Polkadot accounts on Polkawallet."><figcaption><p>Pseudonymous Polkadot accounts on <a href="https://polkawallet.io/">Polkawallet</a>.</p></figcaption></figure>
 
 
 
@@ -26,7 +26,7 @@ Although they have similar use cases, mobile wallets and digital wallets are str
 
 There are two categories of mobile wallets available to Polkadot ecosystem users. There are generic multi-coins mobile wallets that can be used to store, send, and receive DOT and KSM, alongside other cryptocurrencies like BTC, ETH, XMR, etc. The issue with these mobile wallets is that they cannot always be used to interact with ecosystem dapps. There is a growing number of native [mobile wallets that are custom-made for the Polkadot](https://dot-alert.gitbook.io/dot.alert/useful-tools/wallets) ecosystem. They support parachains assets so that users can operate seamlessly across networks.
 
-<figure><img src="../../.gitbook/assets/S_MWFearless.JPG" alt="A view of Fearless Wallet"><figcaption><p><a href="https://fearlesswallet.io/">Fearless Wallet</a> provides direct onboarding for parachain networks.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_MWFearless.JPG" alt="A view of Polkadot ecosystem coins on Fearless Wallet."><figcaption><p><a href="https://fearlesswallet.io/">Fearless Wallet</a> provides direct onboarding for parachain networks.</p></figcaption></figure>
 
 
 

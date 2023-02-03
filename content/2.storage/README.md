@@ -13,7 +13,7 @@ There are many options available for storing your assets, but you will first nee
 * **Security features:** How valuable are these assets?
 * **Storage duration:** How long are you going to hold onto these assets?
 
-<figure><img src="../../.gitbook/assets/S_Wallets.JPG" alt=""><figcaption><p>Polkadot <a href="https://wiki.polkadot.network/docs/build-wallets">wallets</a> ensure the availability of assets across devices and platforms.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_Wallets.JPG" alt="A screenshot of all logos for popular wallets in the Polkadot ecosystem."><figcaption><p>Polkadot <a href="https://wiki.polkadot.network/docs/build-wallets">wallets</a> ensure the availability of assets across devices and platforms.</p></figcaption></figure>
 
 
 

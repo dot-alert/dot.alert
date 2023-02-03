@@ -20,7 +20,7 @@ In the current governance system, token holders can only delegate to one account
 
 With Gov2.0 (also called OpenGov), there will be a more flexible option for vote delegation, since different referendum classes will run in parallel, each carrying many proposals. This will enable multirole delegation, a process in which voters delegate their power to different accounts across different referendum classes.
 
-<figure><img src="../../../.gitbook/assets/O_VGov2.png" alt="A sample of referendum classes from the upcoming Gov 2.0 upgrade."><figcaption><p>A selection of referendum classes from the upcoming <a href="https://polkadot.network/blog/gov2-polkadots-next-generation-of-decentralised-governance/">Gov 2.0 upgrade</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VGov2.png" alt="A sample of referendum classes from the upcoming Gov 2.0/OpenGov upgrade."><figcaption><p>A selection of referendum classes from the upcoming <a href="https://polkadot.network/blog/gov2-polkadots-next-generation-of-decentralised-governance/">Gov 2.0 upgrade</a>.</p></figcaption></figure>
 
 
 

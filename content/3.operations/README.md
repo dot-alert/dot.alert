@@ -20,7 +20,7 @@ Depending on your interests, you will be able to:
 * use NFT marketplaces
 * capitalise on surveys
 
-<figure><img src="../../.gitbook/assets/O_Dashboard.JPG" alt=""><figcaption><p><a href="https://staking.polkadot.network/dashboard#/overview">Polkadot Dashboard</a> for staking assets on network's validators.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/O_Dashboard.JPG" alt="A screenshot of the official Staking dashboard of the Polkadot and Kusama Relay chains."><figcaption><p><a href="https://staking.polkadot.network/dashboard#/overview">Polkadot Dashboard</a> for staking assets on network's validators.</p></figcaption></figure>
 
 
 

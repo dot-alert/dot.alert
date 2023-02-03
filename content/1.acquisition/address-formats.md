@@ -46,7 +46,7 @@ In practice, this means that:
 
 Given that there is no universal method for handling these address formats, each wallet is free to adopt their own approach. Some wallets require you to manually select a network to have access to the relevant address, one network at a time. While other wallets allow you to search and select a specific address from all available network addresses. You will need to pay close attention to this feature when choosing your wallets.
 
-<figure><img src="../../.gitbook/assets/A_AFSubwallet.JPG" alt="This shows a network search and selection functionality on subwallet."><figcaption><p>Network search and selection functionality on <a href="https://subwallet.app/">SubWallet</a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/A_AFSubwallet.JPG" alt="This shows a network search and selection functionality on Subwallet."><figcaption><p>Network search and selection functionality on <a href="https://subwallet.app/">SubWallet</a>.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/A_AFTalisman.JPG" alt="This shows various address formats, and the search and copy features on Talisman wallet."><figcaption><p>Address formats search and copy functionality on <a href="https://talisman.xyz/">Talisman</a> wallet.</p></figcaption></figure>
 

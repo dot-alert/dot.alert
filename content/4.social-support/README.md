@@ -15,7 +15,7 @@ With so much innovation happening in the Polkadot ecosystem, you will need to fi
 * from official social media (Discord, Twitter, Telegram, Subsocial)
 * from unofficial threads and tags (Reddit, Youtube)
 
-<figure><img src="../../.gitbook/assets/S_Communities.JPG" alt=""><figcaption><p>Overview of the various platforms that host <a href="https://polkadot.network/community/">Polkadot Communities</a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_Communities.JPG" alt="A screenshot showcasing all social network platforms from which Polkadot ecosystem participants can get support."><figcaption><p>Overview of the various platforms that host <a href="https://polkadot.network/community/">Polkadot Communities</a>.</p></figcaption></figure>
 
 
 

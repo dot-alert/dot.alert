@@ -18,7 +18,7 @@ Any individual or project that wants to run a parachain must first lease a slot 
 
 To obtain a lease, individuals or projects need to register a Parathread and get a ParaID for their on-chain entity which will be used during cross-chain [operations](../) within the ecosystem. Individuals or projects also need to raise funds (through crowdfunding or self-funding) that will be used to place bids during parachain slot auctions.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_BAuctionsTT.JPG" alt="A view of action schedule of the 27th auction on Polkadot."><figcaption><p>Schedule of the 27th auction on <a href="https://polkadot.network/auctions/"><em>Polkadot</em></a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BAuctionsTT.JPG" alt="A view of an auction schedule for the Polkadot Relay chain."><figcaption><p>Schedule of the 27th auction on <a href="https://polkadot.network/auctions/"><em>Polkadot</em></a>.</p></figcaption></figure>
 
 Slot auctions run in batches that are scheduled in advanced through on-chain governance, but the timings can vary depending on network activity. So far, auctions have been running every 7 days on Kusama and every 12 days on Polkadot. In between batches, unsuccessful bidders will refund their [crowdloan](../crowdfunding/crowdloans.md) contributors and take the time to review their strategies.
 
@@ -36,13 +36,13 @@ Parachain slot auctions are an intricate combination of a candle auction mechani
 
 For these reasons, it is possible to have the biggest bid for the longest time and until the end, yet still fail to secure a parachain slot at a given auction.
 
-<figure><img src="../../../.gitbook/assets/O_BParachaininfo.JPG" alt="A sample chart of Polkadot auction batch."><figcaption><p>Chart of a Polkadot auction batch by <a href="https://parachains.info/auctions"><em>Parachains.info</em></a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BParachaininfo.JPG" alt="A sample chart of a Polkadot auction batch."><figcaption><p>Chart of a Polkadot auction batch by <a href="https://parachains.info/auctions"><em>Parachains.info</em></a>.</p></figcaption></figure>
 
 
 
 Parachain slot leases can be broken down into different lease periods, each of either 6 weeks on Kusama or 3 months on Polkadot. This means that individuals and projects can configure their lease for a short as 6 weeks and as long as 96 weeks, depending on their needs.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_BDotMarketcap.JPG" alt="An overview of the funds collated by OmiBTC during a polkadot auction."><figcaption><p><a href="https://www.dotmarketcap.com/auction/polkadot">DotMarketcap</a>'s overview of funds collated by OmiBTC for a Polkadot auction.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BDotMarketcap.JPG" alt="An overview of the funds collated by OmiBTC during a Polkadot auction."><figcaption><p><a href="https://www.dotmarketcap.com/auction/polkadot">DotMarketcap</a>'s overview of funds collated by OmiBTC for a Polkadot auction.</p></figcaption></figure>
 
 
 

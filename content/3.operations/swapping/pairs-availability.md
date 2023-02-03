@@ -28,7 +28,7 @@ While token swaps used to have the reputation of being costly in transaction fee
 
 A unique feature of the swapping experience within the Polkadot ecosystem is the ability to carry operations across parachains without relying on any bridge or relayer. Communications between DEXes are handled by a cross-chain protocol supported by the relay chains (HRMP), which brings convenience, efficiency, and security to users while seamlessly validating transactions.
 
-<figure><img src="../../../.gitbook/assets/O_SwappingStellaswap.JPG" alt="The Stellaswap functionality integrated in the Moonbeam network allows crosschain and multichain interaction."><figcaption><p><a href="https://app.stellaswap.com/exchange/swap">Stellaswap</a> deployed on <a href="https://moonbeam.network/">Moonbeam network</a> integrates cross-chain and multichain functionalities.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SwappingStellaswap.JPG" alt="Stellaswap is a DEX of the Moonbeam network that allows cross-chain and multichain swaps."><figcaption><p><a href="https://app.stellaswap.com/exchange/swap">Stellaswap</a> deployed on <a href="https://moonbeam.network/">Moonbeam network</a> integrates cross-chain and multichain functionalities.</p></figcaption></figure>
 
 
 
@@ -40,11 +40,11 @@ It is also worth mentioning that most ecosystem DEXes have integrated bridging p
 
 The most notable downside of AMM-based swaps is slippage. When there isn't enough liquidity for a given pair on a platform, users have to pay above market prices for their swaps. As a result, the larger the value of the tokens requested, the costlier the swap operation. To minimise slippage, some DEXes use various protocols to source liquidity within and outside the ecosystem, however users can also manually set slippage limits while swapping to avoid unexpected losses.
 
-<figure><img src="../../../.gitbook/assets/O_SwappingZenlink.JPG" alt="The swapping interface of Zenlink DEX."><figcaption><p><a href="https://dex.zenlink.pro/#/swap">Zenlink DEX</a>'s interface provides warnings about high slippage swaps.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SwappingZenlink.JPG" alt="The swapping interface of Zenlink DEX warning users about slippage fees.."><figcaption><p><a href="https://dex.zenlink.pro/#/swap">Zenlink DEX</a>'s interface provides warnings about high slippage swaps.</p></figcaption></figure>
 
 
 
 Another drawback of swaps is front-running, which occurs when market participants watch information about upcoming transactions and manipulate network [operations](../) to their advantage. Bots are used to swiftly buy tokens in a given pair at low prices and then sell these to ordinary users at much higher prices. DEX users should take care to review their swaps information carefully before approving a transaction, as token valuations can quickly change from one moment to the next.
 
-<figure><img src="../../../.gitbook/assets/O_SwappingMangata.JPG" alt="The homepage of Mangata DEX indicating that they offer gasless swaps, no-front-running feature and intuitive UI."><figcaption><p><a href="https://www.mangata.finance/">Mangata DEX</a> offers protection against frontrunning.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SwappingMangata.JPG" alt="The homepage of Mangata DEX indicating that they offer gasless swaps, front-running protection, and an intuitive UI."><figcaption><p><a href="https://www.mangata.finance/">Mangata DEX</a> offers protection against frontrunning.</p></figcaption></figure>
 
