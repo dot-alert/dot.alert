@@ -1,7 +1,7 @@
 ---
 description: >-
   A summary of on-chain Treasury spends mechanisms and their community-building
-  in the Polkadot ecosystem.
+  role in the Polkadot ecosystem.
 ---
 
 # Treasury Spends
