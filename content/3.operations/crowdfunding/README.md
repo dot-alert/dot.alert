@@ -7,7 +7,7 @@ Currently, the most accessible fundraising avenues include:
 * [Crowdloans](crowdloans.md)
 * [Treasury spends](treasury-spends.md)
 * [DAO incubators](dao-incubators.md)
-* Initial DEX Offerings
+* [Initial DEX Offerings](initial-dex-offerings.md)
 
 <figure><img src="../../../.gitbook/assets/O_Fundraising.JPG" alt="A screenshot of the Polkadot network website promoting participation in crowdloans for parachain slot leases."><figcaption><p><a href="https://polkadot.network/crowdloans/">Crowdloans</a> empower Web3 projects to launch a parachain on Polkadot.</p></figcaption></figure>
 
