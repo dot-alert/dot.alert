@@ -7,7 +7,7 @@ coverY: 0
 
 How dot-alert are you? 👀
 
-Take our monthly quiz to find out and enter a draw to win **cash prizes of 🥇$50, 🥈$30, and 🥉$20 DOT.**&#x20;
+Take our monthly quiz to find out and enter a draw to win **one of our 5x 🏅$20 DOT cash prizes.**&#x20;
 
 
 
