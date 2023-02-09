@@ -49,7 +49,7 @@
 * [Wallets](useful-tools/wallets.md)
 * [Explorers](useful-tools/explorers.md)
 * [Staking tools](useful-tools/staking-tools.md)
-* [Governance platforms](useful-tools/governance-platforms.md)
+* [Governance platforms](useful-tools/governance.md)
 * [Crowdfunding dapps](useful-tools/crowdfunding.md)
 * [Misc](useful-tools/misc.md)
 
