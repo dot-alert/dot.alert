@@ -2,7 +2,7 @@
 description: >-
   Monitoring, tracking, and accounting for Web3 assets in the Polkadot
   ecosystem.
-cover: ../../.gitbook/assets/DotRegulations (1).JPG
+cover: ../../.gitbook/assets/DotRegulations02 (1).png
 coverY: 0
 ---
 

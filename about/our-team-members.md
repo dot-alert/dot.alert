@@ -1,9 +1,10 @@
 ---
-cover: ../.gitbook/assets/DotContributors (2).JPG
+description: A list of team members responsible for the daily operations of Dot.alert().
+cover: ../.gitbook/assets/DotTeamMembers02.png
 coverY: 0
 ---
 
-# Our team members
+# Our Team Members
 
 ## Project Manager:
 

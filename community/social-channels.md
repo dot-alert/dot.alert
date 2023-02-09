@@ -1,6 +1,6 @@
 ---
 description: A list of social channels for Dot.alert().
-cover: ../.gitbook/assets/DotSocials.JPG
+cover: ../.gitbook/assets/DotSocials02.png
 coverY: 0
 ---
 

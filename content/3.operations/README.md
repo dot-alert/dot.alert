@@ -2,7 +2,7 @@
 description: >-
   Configuring, transacting, and signing with Web3 assets in the Polkadot
   ecosystem.
-cover: ../../.gitbook/assets/DotOperations.png
+cover: ../../.gitbook/assets/DotOperations02.png
 coverY: 0
 ---
 

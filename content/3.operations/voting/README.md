@@ -1,6 +1,6 @@
 ---
 description: >-
-  Direct and indirect voting mechanisms of on-chain governance in the Polkadot
+  Direct and indirect voting operations for on-chain governance in the Polkadot
   ecosystem.
 ---
 
