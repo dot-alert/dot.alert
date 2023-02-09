@@ -1,5 +1,4 @@
 ---
-description: A list of job positions available at Dot.alert().
 cover: ../.gitbook/assets/DotJobs.JPG
 coverY: 0
 ---
@@ -16,7 +15,7 @@ _Position:_ Graphics designer.
 
 _Requirements:_ 3+ months involvement in DotSama.
 
-_Tasks:_ Improvements and Social media campaigns. Upgrade visuals (banners, covers, logos, themes, etc.), summarise content via infographics.
+_Tasks:_ Improvements. Upgrade visuals (banners, covers, logo), summarise content via infographics.
 
 _Rates: TBD._
 
