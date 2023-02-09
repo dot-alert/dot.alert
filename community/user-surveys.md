@@ -1,9 +1,10 @@
 ---
+description: Help us improve our platform by participating in our surveys.
 cover: ../.gitbook/assets/DotSurvey.JPG
 coverY: 0
 ---
 
-# User surveys
+# User Surveys
 
 Care to help us improve our content and our platform?📈
 
