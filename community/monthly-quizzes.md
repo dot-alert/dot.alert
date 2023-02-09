@@ -1,5 +1,7 @@
 ---
-description: Win $20 worth of DOT by participating in our monthly quizzes.
+description: >-
+  Participate in our monthly quizzes and enter our lucky draw to win cash prizes
+  of $DOT.
 cover: ../.gitbook/assets/DotQuiz (2).JPG
 coverY: 0
 ---
