@@ -1,9 +1,10 @@
 ---
+description: Open source license for Dot.alert() contributors.
 cover: ../.gitbook/assets/DotLicense.JPG
 coverY: 0
 ---
 
-# Open Source license
+# Open Source License
 
 **Dot.alert()** is hosted on a public [GitHub repository](https://github.com/dot-alert/dot.alert) under _GNU GPL v3.0_ licensing.
 
