@@ -1,7 +1,3 @@
----
-description: Bidding operations and platforms in the Polkadot ecosystem.
----
-
 # Bidding
 
 Bidding operations are fairly limited in scope within the Polkadot ecosystem. Currently, there are only a couple of platforms on which users can place bids for very specific purposes such as:
