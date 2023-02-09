@@ -50,7 +50,7 @@
 * [Explorers](useful-tools/explorers.md)
 * [Staking tools](useful-tools/staking-tools.md)
 * [Governance platforms](useful-tools/governance.md)
-* [Crowdfunding dapps](useful-tools/crowdfunding.md)
+* [Crowdfunding dapps](useful-tools/crowdfunding-dapps.md)
 * [Misc](useful-tools/misc.md)
 
 ## Community
@@ -65,7 +65,7 @@
 * [Our mission](about/our-mission.md)
 * [Our platform](about/our-platform.md)
 * [Our team members](about/our-team-members.md)
-* [Our contributors](about/our-contributors.md)
+* [Our Contributors](about/our-contributors.md)
 
 ## legal
 

@@ -1,9 +1,12 @@
 ---
+description: >-
+  A list of those who are responsible for the creation of content and the
+  development of dot.alert ()
 cover: ../.gitbook/assets/DotSupporters.JPG
 coverY: 0
 ---
 
-# Our contributors
+# Our Contributors
 
 ## Writers and Editors:
 

@@ -1,4 +1,7 @@
 ---
+description: >-
+  Dot.alert() brings forth insights and must-have resources to guide Polkadot
+  users throughout their journey.
 cover: ../.gitbook/assets/DotPlatform (1) (1).jpg
 coverY: 0
 ---
