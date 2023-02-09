@@ -1,7 +1,7 @@
 ---
 description: >-
-  A list of contributors responsible for content creation and platform
-  developments at Dot.alert ().
+  A list of contributors responsible for content creation and developments at
+  Dot.alert().
 cover: ../.gitbook/assets/DotContributors02.png
 coverY: 0
 ---
