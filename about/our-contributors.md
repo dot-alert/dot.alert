@@ -1,7 +1,7 @@
 ---
 description: >-
-  A list of those who are responsible for the creation of content and the
-  development of dot.alert ()
+  A list of contributors responsible for content creation and platform
+  developments at Dot.alert ().
 cover: ../.gitbook/assets/DotSupporters.JPG
 coverY: 0
 ---
