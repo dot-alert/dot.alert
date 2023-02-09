@@ -1,9 +1,12 @@
 ---
+description: >-
+  Dot.alert() specialises in raising awareness about best security practices for
+  the Polkadot ecosystem.
 cover: ../.gitbook/assets/DotMission (1).jpg
 coverY: 0
 ---
 
-# Our platform
+# Our Platform
 
 ****[**Dot.alert()**](../) **** is open source, multilingual, and accessible. Anybody can contribute in their area of expertise, pages can be auto translated in the browser, and the content is targeted at the general audience.
 

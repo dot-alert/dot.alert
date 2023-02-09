@@ -63,7 +63,7 @@
 ## About
 
 * [Our mission](about/our-mission.md)
-* [Our platform](about/our-platform.md)
+* [Our Platform](about/our-platform.md)
 * [Our Team Members](about/our-team-members.md)
 * [Our Contributors](about/our-contributors.md)
 

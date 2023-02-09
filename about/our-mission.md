@@ -1,7 +1,7 @@
 ---
 description: >-
-  Dot.alert() brings forth insights and must-have resources to guide Polkadot
-  users throughout their journey.
+  Dot.alert() is a database of insights and resources for the Polkadot
+  ecosystem.
 cover: ../.gitbook/assets/DotPlatform (1) (1).jpg
 coverY: 0
 ---

@@ -1,10 +1,9 @@
 ---
-description: Win $20 worth of DOT by participating in our monthly quizzes.
 cover: ../.gitbook/assets/DotQuiz (2).JPG
 coverY: 0
 ---
 
-# Monthly Quizzes
+# Monthly quizzes
 
 How dot-alert are you? 👀
 
@@ -12,7 +11,7 @@ Take our monthly quiz to find out and enter a draw to win **one of our 5x 🏅$2
 
 
 
-## _**Past editions:**_
+_**Past editions:**_
 
 _Monthly quiz #5: 27th January 2023 10:00 UTC - 31st January 2023 22:00 UTC_
 
