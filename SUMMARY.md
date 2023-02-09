@@ -50,7 +50,7 @@
 * [Explorers](useful-tools/explorers.md)
 * [Staking tools](useful-tools/staking-tools.md)
 * [Governance](useful-tools/governance.md)
-* [Crowdfunding](useful-tools/crowdfunding.md)
+* [Crowdfunding dapps](useful-tools/crowdfunding-dapps.md)
 * [Misc](useful-tools/misc.md)
 
 ## Community
