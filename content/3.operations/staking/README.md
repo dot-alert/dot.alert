@@ -1,3 +1,7 @@
+---
+description: Staking operations and network security in the Polkadot ecosystem.
+---
+
 # Staking
 
 Staking is one of the pillars of the Polkadot ecosystem because it ensures that the shared security scheme between relay chains and their parachains remains robust.&#x20;

@@ -1,7 +1,3 @@
----
-description: Fundraising options and operations in the Polkadot ecosystem.
----
-
 # Crowdfunding
 
 The Polkadot ecosystem offers many options for raising funds as part of Web3 developments. Token holders and prospective projects can obtain funding through Relay chain protocols or Parachain-based platforms.
