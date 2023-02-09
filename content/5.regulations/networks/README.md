@@ -1,5 +1,5 @@
 ---
-description: Network infrastructure and developments in the Polkadot ecosystem.
+description: Network infrastructure and development in the Polkadot ecosystem.
 ---
 
 # Networks
