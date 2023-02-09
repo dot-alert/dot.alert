@@ -12,6 +12,8 @@ description: Polkadot ecosystem news, tutorials, guides, collectives, etc.
 
 [Parachains.info](https://parachains.info/)
 
+_Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages) | [Audiobook](https://open.spotify.com/episode/2UtscT6JVbYUBNvNyhEcGo) (Recording)
+
 [Polkadot network Medium](https://medium.com/polkadot-network)
 
 [Polkadot network Support](https://support.polkadot.network/)
