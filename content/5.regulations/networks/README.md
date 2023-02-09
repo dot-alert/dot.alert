@@ -1,3 +1,7 @@
+---
+description: Network infrastructure and developments in the Polkadot ecosystem.
+---
+
 # Networks
 
 The Polkadot ecosystem is made of various networks that:
