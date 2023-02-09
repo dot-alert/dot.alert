@@ -69,5 +69,5 @@
 
 ## legal
 
-* [Cookie policy](legal/cookie-policy.md)
+* [Cookie Policy](legal/cookie-policy.md)
 * [Open Source license](legal/open-source-license.md)
