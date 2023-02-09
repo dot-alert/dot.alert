@@ -1,7 +1,7 @@
 ---
 description: >-
-  Dot.alert() is a database of insights and resources for the Polkadot
-  ecosystem.
+  Dot.alert() specialises in raising awareness about best security practices for
+  the Polkadot ecosystem.
 cover: ../.gitbook/assets/DotPlatform (1) (1).jpg
 coverY: 0
 ---

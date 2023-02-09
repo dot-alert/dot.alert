@@ -55,7 +55,7 @@
 
 ## Community
 
-* [Social channels](community/social-channels.md)
+* [Social Channels](community/social-channels.md)
 * [Monthly Quizzes](community/monthly-quizzes.md)
 * [User surveys](community/user-surveys.md)
 * [Jobs](community/jobs.md)

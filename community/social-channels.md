@@ -1,9 +1,10 @@
 ---
+description: A list of social channels for Dot.alert().
 cover: ../.gitbook/assets/DotSocials.JPG
 coverY: 0
 ---
 
-# Social channels
+# Social Channels
 
 Do you have any questions? Do you want to support our platform?
 
