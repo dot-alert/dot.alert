@@ -49,8 +49,8 @@
 * [Wallets](useful-tools/wallets.md)
 * [Explorers](useful-tools/explorers.md)
 * [Staking tools](useful-tools/staking-tools.md)
-* [Governance](useful-tools/governance.md)
-* [Crowdfunding dapps](useful-tools/crowdfunding-dapps.md)
+* [Governance platforms](useful-tools/governance-platforms.md)
+* [Crowdfunding dapps](useful-tools/crowdfunding.md)
 * [Misc](useful-tools/misc.md)
 
 ## Community

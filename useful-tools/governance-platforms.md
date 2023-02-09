@@ -1,8 +1,8 @@
 ---
-description: Governance dapps for the Polkadot ecosystem.
+description: Governance platforms for the Polkadot ecosystem.
 ---
 
-# Governance
+# Governance platforms
 
 [OpenSquare](https://voting.opensquare.io/)
 

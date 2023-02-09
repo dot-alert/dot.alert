@@ -2,7 +2,7 @@
 description: Fundraising dapps for the Polkadot ecosystem.
 ---
 
-# Crowdfunding
+# Crowdfunding dapps
 
 [BrightTreasury](https://treasury.bright.dev/?networkId=polkadot)
 
