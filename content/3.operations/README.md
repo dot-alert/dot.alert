@@ -2,7 +2,7 @@
 description: >-
   Configuring, transacting, and signing with Web3 assets in the Polkadot
   ecosystem.
-cover: ../../.gitbook/assets/DotOperations02.png
+cover: ../../.gitbook/assets/DotOperations.png
 coverY: 0
 ---
 
@@ -16,7 +16,7 @@ Depending on your interests, you will be able to:
 * participate in [decision-making](voting/)
 * obtain [funding](crowdfunding/)
 * contribute to [network security](staking/)
-* [swap](swapping/), borrow, and lend assets
+* [swap](swapping/), [borrow](borrowing/), and lend assets
 * use NFT marketplaces
 * capitalise on surveys
 

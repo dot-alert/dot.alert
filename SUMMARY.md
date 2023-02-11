@@ -32,6 +32,8 @@
   * [Swapping](content/3.operations/swapping/README.md)
     * [Token swaps](content/3.operations/swapping/pairs-availability.md)
     * [Portfolio Management](content/3.operations/swapping/portfolio-management.md)
+  * [Borrowing](content/3.operations/borrowing/README.md)
+    * [Collateralisation](content/3.operations/borrowing/collateralisation.md)
 * [4.Social support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)
@@ -50,7 +52,7 @@
 * [Explorers](useful-tools/explorers.md)
 * [Staking tools](useful-tools/staking-tools.md)
 * [Governance platforms](useful-tools/governance.md)
-* [Crowdfunding dapps](useful-tools/crowdfunding-dapps.md)
+* [Crowdfunding dapps](useful-tools/crowdfunding.md)
 * [Misc](useful-tools/misc.md)
 
 ## Community
