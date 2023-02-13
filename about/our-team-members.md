@@ -12,25 +12,27 @@ __[_Abdulaziz K_](https://twitter.com/akdatti94)__
 
 __
 
-## Quality Assurance Officer:
+### Quality Assurance Officer:
 
 __[_Abdulbasit S_](https://twitter.com/DocAmoka)__
 
 __
 
-## Search Engine Optimisation Officer:
+### Search Engine Optimisation Officer:
 
 _Moshood S_
 
 __
 
-## Social Network Officer: __&#x20;
+### Social Network Officer: __&#x20;
 
 [_Judge L_](https://twitter.com/Grizz375)__
 
 
 
-## Operations:
+### Advisor:
 
-__[_Anaelle LTD_](https://t.me/AnaelleLTD)__
+## Ad:
+
+_Anaelle LTD_
 
