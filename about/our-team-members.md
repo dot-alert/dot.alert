@@ -32,7 +32,5 @@ __
 
 ### Advisor:
 
-## Ad:
-
 _Anaelle LTD_
 
