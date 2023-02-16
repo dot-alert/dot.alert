@@ -36,9 +36,9 @@ From a regulatory perspective, matching digital assets to existing financial ins
 
 
 
-## Risks:&#x20;
+## Risk Management:&#x20;
 
-### Jurisdictional
+### Jurisdictional Risks
 
 The major threat to a network infrastructure lies in whether or not the procedures that were put in place at the time the network completed its public token offerings violated any of the existing national and international regulations relative to financial markets and products. However, in the absence of a unified perspective on this matter, it is still down to each nation or state to define and adopt its own regulatory framework.
 
@@ -48,7 +48,7 @@ In recent times, some [lawsuits](https://www.sec.gov/news/press-release/2020-338
 
 
 
-### Operational
+### Operational Risks
 
 There are no global standards for blockchain network infrastructure, as each project is free to make its own recommendations on the equipment and tools that sustain its on-chain operations. However, given that they provide digital services to end-users, project teams run the risk of breaking consumer protection rules whenever their services are halted due to a major fault or negligence from their part.
 
@@ -58,7 +58,7 @@ There have been instances in the past whereby individual investors have [sued](h
 
 
 
-### Ecological
+### Ecological Risks
 
 There have been a lot of discussions regarding the sustainability of decentralised networks, because there is the pervasive belief that a significant amount of power is needed to run and maintain their infrastructure. Although current research has proved that Polkadot networks are among the greenest in the blockchain space, variations remain at the scale of individual node operators.
 
