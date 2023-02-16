@@ -8,7 +8,7 @@ description: >-
 
 Voting is the democratic power given to all token holders in the Polkadot ecosystem. Principally, partaking in on-chain governance means using your tokens to vote for or against proposed changes to current network operations.&#x20;
 
-Every token holder has the liberty to:&#x20;
+Every token holder has the opportunity to:&#x20;
 
 * endorse referendum proposal
 * [vote directly](direct-democracy.md) for referenda
