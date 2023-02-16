@@ -14,8 +14,6 @@ Cold storage devices (also called “cold storage” or “cold wallets”) are 
 **Cold storage devices secure assets by operating in a digitally and physically isolated environment.**
 {% endhint %}
 
-
-
 The security of cold storage devices can be reinforced by making the gadgets themselves difficult to access. On top of manufacturers' authentication standards, long-term users always have the option to store their hardware in a home safe, in a vault, or even with a legal entity.
 
 <figure><img src="../../.gitbook/assets/S_CSDLedger.JPG" alt="A view of Ledger wallet support for numerous blockchain ecosystem such as the Polkadot ecosystem."><figcaption><p><a href="https://www.ledger.com/supported-services">Ledger wallets</a> support numerous Polkadot ecosystem networks and services.</p></figcaption></figure>
@@ -28,8 +26,6 @@ Cold storage devices come with an array of security features which include an in
 
 <figure><img src="../../.gitbook/assets/S_CSDEllipal.JPG" alt="An website interface showing the various advanced security features offered by Ellipal cold wallets."><figcaption><p><a href="https://www.ellipal.com/products/ellipal-titan">Ellipal wallets</a> offer advanced security features for operations.</p></figcaption></figure>
 
-
-
 The majority of cold storage devices can be used with third-party dapps, mobile apps, or their native desktop software to interact with blockchain networks. However, you will need to connect them to a computer or a mobile phone with internet access via USB or Bluetooth beforehand.&#x20;
 
 
@@ -40,13 +36,9 @@ Although users of cold storage devices benefit from state of the art security te
 
 <figure><img src="../../.gitbook/assets/S_CSDSafePal.JPG" alt="A page showing the key security features of SafePal hardware wallet."><figcaption><p><a href="https://store.safepal.com/safepal-s1-hardware-wallet.html">SafePal wallet</a> is a new generation of portable cold storage devices.</p></figcaption></figure>
 
-
-
 Cold storage devices offer variable levels of support for the Polkadot ecosystem, and most of them only support the most basic transactions (i.e sending, receiving, and staking). Users who wish to carry out more complex on-chain operations like participating in governance or contributing to [crowdloans](https://dot-alert.gitbook.io/dot.alert/content/3.operations/crowdfunding/crowdloans) still need to transfer their assets to a hot wallet to access these functionalities.
 
 <figure><img src="../../.gitbook/assets/S_CSDCoolwalletPro.JPG" alt="A view of the functionalities offered to Polkadot ecosystem participants on Coolwallet."><figcaption><p>Overview of functionalities available for DOT on <a href="https://www.coolwallet.io/supported-crypto-assets/?keyword=&#x26;type=polkadot">CoolWallet</a>.</p></figcaption></figure>
 
-
-
-It is also important to note that due to the frequent runtime updates conducted on Relay chains and Parachains, users may experience errors while using cold storage devices from time to time. This is because the security features of these devices make it impractical to automatically synchronise the firmware with multiple networks and the dapps that they host.&#x20;
+It is also important to note that due to the frequent runtime upgrades conducted on Relay chains and Parachains, users may experience errors while using cold storage devices from time to time. This is because the security features of these devices make it impractical to automatically synchronise the firmware with multiple networks and the dapps that they host.&#x20;
 
