@@ -12,11 +12,11 @@ coverY: 0
 
 ### Ad hoc roles:
 
-_Position:_ Graphics designer.
+_Positions:_ 2 Promoters.
 
 _Requirements:_ 3+ months involvement in DotSama.
 
-_Tasks:_ Improvements and Social media campaigns. Upgrade visuals (banners, covers, logos, themes, etc.), summarise content via infographics.
+_Tasks:_ Social media campaigns. Relay content updates, monthly quizzes, and user surveys across various crypto channels and groups.
 
 _Rates: TBD._
 
