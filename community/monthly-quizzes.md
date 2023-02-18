@@ -12,7 +12,11 @@ How dot-alert are you? 👀
 
 Take our monthly quiz to find out and enter a draw to win **one of our 5x 🏅$20 DOT cash prizes.**&#x20;
 
+{% hint style="info" %}
+Hint: All the answers can be found in Dot.alert()'s [content](../). 😉
+{% endhint %}
 
+_<mark style="background-color:blue;"></mark>_
 
 ## _**Past editions:**_
 
