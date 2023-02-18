@@ -14,8 +14,6 @@ Browser extension wallets are a special-purpose software for managing account op
 **Dapps cannot interact with your account unless you authorise them on your browser extension wallet.**&#x20;
 {% endhint %}
 
-
-
 Unlike web wallets that are managed by a third-party entity, browser extension wallets are non-custodial and run independently on a desktop or a laptop computer. Upon creating an account, the associated private key that holds users' funds is encrypted and kept on the device until the browser extension (also called "hot wallet") is removed.
 
 <figure><img src="../../.gitbook/assets/S_BEChromeStore.JPG" alt="Lists of browser extension wallets for the Polkadot ecosystem on Chrome store."><figcaption><p>Overview of <a href="https://chrome.google.com/webstore/search/polkadot%20wallet?_category=extensions">Browser extension wallets</a> for Polkadot on Chrome store.</p></figcaption></figure>
@@ -27,8 +25,6 @@ Unlike web wallets that are managed by a third-party entity, browser extension w
 At a basic level, browser extension wallets allow users to create new accounts, import existing accounts, transfer tokens, and connect to Polkadot ecosystem dapps to sign transactions. However, a growing number of extensions now incorporate extra functionalities such as staking tokens, contributing to [crowdloans](https://dot-alert.gitbook.io/dot.alert/content/3.operations/crowdfunding/crowdloans), and sending NFTs.&#x20;
 
 <figure><img src="../../.gitbook/assets/S_BESubwallet.JPG" alt="An interface of Subwallet indicating that it can handle NFT assets."><figcaption><p><a href="https://subwallet.app/">Subwallet</a>'s functionalities include NFT transfers.</p></figcaption></figure>
-
-
 
 Browser extension wallets are designed to support a variety of coins and tokens from multiple Polkadot networks and projects. For convenience, they can also work as a computer-based middleware to handle operations between offline devices and online dapps. Browser extension wallets are automatically updated as soon as a newer release becomes available, which helps maintain their security features.
 
@@ -42,9 +38,7 @@ Although some browser extension wallets aim to become entirely self-sufficient b
 
 <figure><img src="../../.gitbook/assets/S_BETalisman.jpg" alt="A banner from Talisman showing that the wallet supports fiat on-ramp purchases of various Polkadot ecosystem assets."><figcaption><p><a href="https://talisman.xyz/">Talisman</a> supports in-wallet purchases of various crypto assets.</p></figcaption></figure>
 
-
-
 Since they store private keys in devices that are connected to the internet, browser extension wallets are more vulnerable to hacks and phishing attacks than "[cold wallets](air-gapped-signers.md)". This is because they live on desktops and laptops that can be accessed remotely through malware. Users should therefore verify that the browser extension wallets that they are planning to use have been thoroughly audited; and also set strong passwords to secure their private keys.
 
-<figure><img src="../../.gitbook/assets/S_BEParallelFi.JPG" alt="The interface of Parallel wallet where users are mandated to create a strong password for their wallet."><figcaption><p><a href="https://chrome.google.com/webstore/detail/parallel-wallet/jbkgjmpfammbgejcpedggoefddacbdia/related">Parallel wallet</a>'s onboarding makes strong passwords mandatory.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_BEPolkagate.JPG" alt="Some views of Polkagate wallet&#x27;s interfaces with features from Polkadot-JS Apps such as RPC and network selection, balances, staking, transfers, and crowdloans."><figcaption><p><a href="https://polkagate.xyz/">Polkagate</a> offers the native features of Polkadot-JS Apps with security and accessibility in mind.</p></figcaption></figure>
 
