@@ -1,7 +1,5 @@
 ---
-description: >-
-  An overview of regulatory evaluations of privacy-focused networks in relation
-  to the Polkadot ecosystem.
+description: Regulatory evaluations of privacy-focused networks.
 ---
 
 # Privacy

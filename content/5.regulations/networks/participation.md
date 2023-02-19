@@ -1,7 +1,5 @@
 ---
-description: >-
-  An overview of regulatory perspectives on blockchain network participation in
-  relation to the Polkadot ecosystem.
+description: Regulatory perspectives on blockchain network participation.
 ---
 
 # Participation
@@ -39,8 +37,6 @@ Within the Polkadot ecosystem, various actors reuse existing toolkits to pursue 
 Beyond these classic structures, network participation can also take the form of Web3 services that establish a link between the digital and the real world. Registrars, attesters, legal officers are some examples of off-chain roles that can assist existing Relay chains and Parachains with handling identities in a decentralised manner. They can also play a crucial role in providing real-world certifications and oracle data to a wide range of DeFi, NFTs, and Metaverse projects.&#x20;
 
 <figure><img src="../../../.gitbook/assets/R_NKilt.JPG" alt="An overview of KILT&#x27;s Web3 services providing infrastructure for the creation of digital identities."><figcaption><p>Overview of <a href="https://www.kilt.io/how-it-works/">KILT</a>'s Web3 services for self-sovereign decentralised identifiers.</p></figcaption></figure>
-
-
 
 A growing number of [countries ](https://complyadvantage.com/insights/cryptocurrency-regulations-around-world/)are looking to regulate some components of these off-chain structures to ensure that they do not work against their nations' and economic areas' interests. Because they run platforms as part of their operations, blockchain-based companies and organisations could be categorised as intermediaries between retail users and decentralised networks. As such, upcoming legislations are proposing that they adhere to [strict laws](https://www.linkedin.com/pulse/how-commission-set-out-torpedo-web3-without-even-realizing-?trk=organization\_guest\_main-feed-card\_feed-article-content) relative to asset provision and data protection.
 

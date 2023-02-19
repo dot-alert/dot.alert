@@ -1,7 +1,5 @@
 ---
-description: >-
-  An overview of regulatory perceptions of Web3 platforms' services in relation
-  to the Polkadot ecosystem.
+description: Regulatory perceptions of Web3 platforms' services.
 ---
 
 # Services

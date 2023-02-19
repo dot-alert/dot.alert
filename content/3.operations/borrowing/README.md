@@ -8,7 +8,7 @@ description: >-
 
 Borrowing tokens is an important component of Decentralised Finance (DeFi) operations and a very popular feature of Decentralised exchanges (DEXes). Borrowing protocols empower users to [leverage their existing assets](./) to increase the overall value of their portfolio during market movements.
 
-In the Polkadot ecosystem, this constant spread of value across parachains and external ecosystems is optimised by novel clearing house mechanisms which assist borrowers in defining their strategies.&#x20;
+In the Polkadot ecosystem, this constant spread of value across parachains and external ecosystems is optimised by novel [clearing house mechanisms](liquidation.md) which assist borrowers in defining their strategies.&#x20;
 
 
 

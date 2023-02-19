@@ -34,6 +34,7 @@
     * [Portfolio Management](content/3.operations/swapping/portfolio-management.md)
   * [Borrowing](content/3.operations/borrowing/README.md)
     * [Collateralisation](content/3.operations/borrowing/collateralisation.md)
+    * [Liquidation](content/3.operations/borrowing/liquidation.md)
 * [4.Social support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)

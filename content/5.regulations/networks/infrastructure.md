@@ -1,7 +1,5 @@
 ---
-description: >-
-  An overview of regulatory discussions about blockchain network infrastructure
-  in relation to the Polkadot ecosystem.
+description: Regulatory discussions around blockchain network infrastructure.
 ---
 
 # Infrastructure
