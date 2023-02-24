@@ -16,7 +16,7 @@ Take our monthly quiz to find out and enter a draw to win **one of our 5x 🏅$2
 Hint: All the answers can be found in Dot.alert()'s [content](../). 😉
 {% endhint %}
 
-**Monthly quiz #6: 24th February 2023 10:00 UTC - 28th February 2023 22:00 UTC \[TBA]**
+****[**Monthly quiz #6: 24th February 2023 10:00 UTC - 28th February 2023 22:00 UTC**](https://docs.google.com/forms/d/e/1FAIpQLScH1NKsSJEHgtXpIz8n8Fz86aKTw\_ZVDFUOxlBwgr2lh12Kdw/viewform?usp=sf\_link)****
 
 __
 
