@@ -30,6 +30,14 @@ __
 
 
 
+### Promoters:
+
+__[_Abdulkadir I_](https://twitter.com/Gambo00004)
+
+__[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
+
+
+
 ### Advisor:
 
 _Anaelle LTD_
