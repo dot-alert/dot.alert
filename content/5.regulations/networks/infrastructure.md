@@ -12,7 +12,7 @@ Blockchain infrastructure represents the hardware and software needed to provide
 
 
 
-## Legal Framework:
+## Legal Frameworks:
 
 ### Blockchain Networks
 

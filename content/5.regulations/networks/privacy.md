@@ -12,7 +12,7 @@ Blockchain networks are primarily built to provide access to a ledger of finalis
 
 
 
-## Legal Framework:&#x20;
+## Legal Frameworks:&#x20;
 
 ### Identity Management&#x20;
 

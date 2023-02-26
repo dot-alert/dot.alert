@@ -46,6 +46,7 @@
     * [Privacy](content/5.regulations/networks/privacy.md)
   * [Platforms](content/5.regulations/platforms/README.md)
     * [Services](content/5.regulations/platforms/services.md)
+    * [Licensing](content/5.regulations/platforms/licensing.md)
 
 ## Useful tools
 

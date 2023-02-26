@@ -12,7 +12,7 @@ Blockchain technologies sustain a diversity of platforms from which token holder
 
 
 
-## Legal Framework:&#x20;
+## Legal Frameworks:&#x20;
 
 ### Financials
 

@@ -12,7 +12,7 @@ Blockchain networks use a set of on-chain rules (also called "consensus mechanis
 
 
 
-## Legal Framework:&#x20;
+## Legal Frameworks:&#x20;
 
 ### On-chain Roles
 
