@@ -14,13 +14,11 @@ coverY: 0
 
 _Positions:_ 2 Promoters.
 
-_Requirements:_ 3+ months involvement in DotSama.
+_Requirements:_ Involvement in diverse crypto-related communities on several social media platforms (i.e Telegram, Facebook, LinkedIn, WhatsApp, WeChat, KakaoTalk, etc.); Good communication skills; Ability to create engaging and precise social media content; Good standing in online communities based in **Europe** or **Asia.**
 
-_Tasks:_ Social media campaigns. Relay content updates, monthly quizzes, and user surveys across various crypto channels and groups.
+_Tasks:_ Relay content updates, monthly quizzes, and user surveys across various crypto-related channels and groups.&#x20;
 
 _Rates: TBD._
-
-
 
 Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)to get in touch with us.
 
