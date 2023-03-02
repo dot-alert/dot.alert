@@ -8,7 +8,9 @@ coverY: 0
 
 Care to help us improve our content and our platform?📈
 
-Complete our survey and earn an entry ticket to our raffle🎡! Five participants will be drawn to win **$20 DOT** each.
+Complete our survey. The best 5 submissions will be rewarded with one of our cash prizes of $20 DOT.
+
+**User survey #2: 6th March 2023 00:00 UTC -  19th March 2023 23:00 UTC. \[TBA]**
 
 ****
 
