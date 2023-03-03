@@ -26,7 +26,7 @@ Polkassembly is currently the go-to platform for governance decisions on Relay c
 
 Treasury-related communications are also available on Polkassembly to allow ecosystem participants to review and give feedback on prospective spends. After receiving tips or funding, proponents often use the platform to garner further support from the general public and/or build a reputation around their capabilities for future references.&#x20;
 
-<figure><img src="../../.gitbook/assets/S_PTreasury (1).JPG" alt="A sample of proposed bounties on Kusama opened for voting and discussion on Polkassembly."><figcaption><p>A snapshot of on-chain bounty proposals made on <a href="https://kusama.polkassembly.io/bounties">Kusama</a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_PTreasury.JPG" alt="A sample of proposed bounties on Kusama opened for voting and discussion on Polkassembly."><figcaption><p>A snapshot of on-chain bounty proposals made on <a href="https://kusama.polkassembly.io/bounties">Kusama</a>.</p></figcaption></figure>
 
 
 

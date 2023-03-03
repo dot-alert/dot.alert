@@ -38,7 +38,7 @@ It is important to note that existential deposits apply to account balances alto
 
 Before you can receive custom assets on Common Good parachains, you will need to activate your account on these Common Good networks. Being aware of existential deposit requirements for these networks will prevent delays and mishaps while transacting.
 
-<figure><img src="../../.gitbook/assets/A_EDStatemine.JPG" alt="An image showing an unsuccessful transfer of assets from a Karura to a Statemine account because the Statemine account doesn&#x27;t have the required Existential Deposit."><figcaption><p><em></em><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fstatemine.public.curie.radiumblock.xyz%2Fws#/assets"><em>Statemine</em></a> accounts need an existential deposit to receive assets from <a href="https://apps.karura.network/bridge"><em>Karura</em></a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/A_EDStatemine (1).JPG" alt="An image showing an unsuccessful transfer of assets from a Karura to a Statemine account because the Statemine account doesn&#x27;t have the required Existential Deposit."><figcaption><p><em></em><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fstatemine.public.curie.radiumblock.xyz%2Fws#/assets"><em>Statemine</em></a> accounts need an existential deposit to receive assets from <a href="https://apps.karura.network/bridge"><em>Karura</em></a>.</p></figcaption></figure>
 
 Numerous Polkadot projects use data related to active accounts and on-chain activity as a benchmark when running their reward and airdrop campaigns. An account that is accidentally deactivated, even for as little as a few minutes, could therefore disqualify you from receiving these extra perks.
 
