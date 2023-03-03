@@ -1,6 +1,6 @@
 ---
 description: Sending, receiving, and teleporting Web3 assets in the Polkadot ecosystem.
-cover: ../../.gitbook/assets/DotAcquisition02 (2).png
+cover: ../../.gitbook/assets/DotAcquisition02.png
 coverY: 0
 ---
 
