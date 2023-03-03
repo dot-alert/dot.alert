@@ -71,7 +71,7 @@
 * [Our Team Members](about/our-team-members.md)
 * [Our Contributors](about/our-contributors.md)
 
-## legal
+## Legal
 
 * [Cookie Policy](legal/cookie-policy.md)
 * [Open Source License](legal/open-source-license.md)
