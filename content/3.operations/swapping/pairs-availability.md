@@ -10,7 +10,7 @@ description: >-
 
 Token swaps involve exchanging cryptocurrencies without drawing on fiat. On Decentralised Exchanges (DEXes), these operations rely on the Automated Market Marker (AMM) model where a liquidity pool holds a pair of tokens and an algorithm is used to maintain a specific balance of tokens in the pool. The price of each token is adjusted dynamically, based on the ratio within the pair at the time the transaction is executed.
 
-<figure><img src="../../../.gitbook/assets/O_SwappingKaglaFi (1).JPG" alt="A view of the dashboard of Kagla Finance showing an interface for token swaps between ASTR and GLMR."><figcaption><p><a href="https://kagla.finance/app/swap">Kagla Finance</a>'s app from the <a href="https://astar.network/">Astar ecosystem</a> supports token swaps across multiple networks.</p></figcaption></figure>
+<figure><img src="broken-reference" alt="A view of the dashboard of Kagla Finance showing an interface for token swaps between ASTR and GLMR."><figcaption><p><a href="https://kagla.finance/app/swap">Kagla Finance</a>'s app from the <a href="https://astar.network/">Astar ecosystem</a> supports token swaps across multiple networks.</p></figcaption></figure>
 
 
 
