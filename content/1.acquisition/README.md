@@ -1,12 +1,12 @@
 ---
 description: Sending, receiving, and teleporting Web3 assets in the Polkadot ecosystem.
-cover: ../../.gitbook/assets/DotAcquisition02 (2).png
+cover: ../../.gitbook/assets/DotAcquisition02.png
 coverY: 0
 ---
 
 # 1.Acquisition
 
-There are various avenues for obtaining assets ahead of **onboarding the Polkadot ecosystem**.&#x20;
+There are various avenues for obtaining assets ahead of **onboarding the Polkadot ecosystem**.
 
 These include :
 
@@ -14,16 +14,14 @@ These include :
 * Getting a [payout ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/society)(ex: _Kappa Sigma Mu_ pot)
 * Getting a [tip ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.api.onfinality.io%2Fpublic-ws#/treasury/tips)(ex: Polkadot/Kusama Treasury tips)
 * Getting [funding](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.api.onfinality.io%2Fpublic-ws#/treasury)/a [grant](https://web3.foundation/grants/) (ex: Polkadot/Kusama Treasury spends, W3F grants)
-* Buying through fiat on-ramp on a webapp (ex: __ [_Singular_](https://singular.rmrk.app/)_,_ [_KodaDot_](https://kodadot.xyz/rmrk/credit/)_,_ [_Talisman_](https://app.talisman.xyz/portfolio))
-* Swapping on a Decentralised exchange (ex: [_Karura_](https://apps.karura.network/)_,_ [_ZenLink_](https://dex.zenlink.pro/#/swap))&#x20;
-* Swapping on a Centralised platform (ex: [_Swapspace_](https://swapspace.co/)_, ****_ [_Changelly_](https://changelly.com/))&#x20;
+* Buying through fiat on-ramp on a webapp (ex: \_\_ [_Singular_](https://singular.rmrk.app/)_,_ [_KodaDot_](https://kodadot.xyz/rmrk/credit/)_,_ [_Talisman_](https://app.talisman.xyz/portfolio))
+* Swapping on a Decentralised exchange (ex: [_Karura_](https://apps.karura.network/)_,_ [_ZenLink_](https://dex.zenlink.pro/#/swap))
+* Swapping on a Centralised platform (ex: [_Swapspace_](https://swapspace.co/)_, \*\*\*\*_ [_Changelly_](https://changelly.com/))
 * Buying/swapping on a Centralised exchange (ex: [_Kraken_](https://www.kraken.com/)_,_ [_Binance_](https://www.binance.com/en))
 
 ![You can send/receive DOT and KSM gifts in one click.](../../.gitbook/assets/A\_Gift.JPG)
 
-
-
-You will need a Polkadot account to receive your coins/tokens, along with some understanding of the following concepts:&#x20;
+You will need a Polkadot account to receive your coins/tokens, along with some understanding of the following concepts:
 
 * Depending on the coins/tokens that you receive, you might need to pay attention to [existential deposits](existential-deposits.md).
 * Depending on the dapps that you use, you might need to investigate [address formats](address-formats.md).
@@ -31,8 +29,6 @@ You will need a Polkadot account to receive your coins/tokens, along with some u
 
 <figure><img src="../../.gitbook/assets/A_DotMarketcap.JPG" alt="DotMarketCap overview of Polkadot ecosystem tokens."><figcaption><p>Overview of listed ecosystem tokens/coins on <a href="https://www.dotmarketcap.com/listed">DotMarketCap</a>.</p></figcaption></figure>
 
+**In this section, we review key information for sending, receiving, and teleporting assets safely across Polkadot ecosystem's networks.**
 
-
-**In this section, we review key information for sending, receiving, and teleporting assets safely across Polkadot ecosystem's networks.**&#x20;
-
-****
+***
