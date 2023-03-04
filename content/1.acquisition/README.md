@@ -11,9 +11,9 @@ There are various avenues for obtaining assets ahead of **onboarding the Polkado
 These include :
 
 * Getting a [gift](https://gifts.polkadot.network/#/generate) (ex: Polkadot/Kusama vouchers)
-* Getting a [payout ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/society)(ex: _Kappa Sigma Mu_ pot)
-* Getting a [tip ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.api.onfinality.io%2Fpublic-ws#/treasury/tips)(ex: Polkadot/Kusama Treasury tips)
-* Getting [funding](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.api.onfinality.io%2Fpublic-ws#/treasury)/a [grant](https://web3.foundation/grants/) (ex: Polkadot/Kusama Treasury spends, W3F grants)
+* Getting a [tip](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.dotters.network%2Fpolkadot#/treasury/tips) (ex: Polkadot/Kusama Treasury tips)
+* Getting a [payout](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/society)/a [(child) bounty](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.dotters.network%2Fpolkadot#/bounties) (ex: _Kappa Sigma Mu_ pot, Polkadot/Kusama Treasury bounties)
+* Getting [funding](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.dotters.network%2Fpolkadot#/treasury)/a [grant](https://web3.foundation/grants/) (ex: Polkadot/Kusama Treasury spends, W3F grants)
 * Buying through fiat on-ramp on a webapp (ex: [_Singular_](https://singular.rmrk.app/)_,_ [_KodaDot_](https://kodadot.xyz/rmrk/credit/)_,_ [_Talisman_](https://app.talisman.xyz/portfolio))
 * Swapping on a Decentralised exchange (ex: [_Karura_](https://apps.karura.network/)_,_ [_ZenLink_](https://dex.zenlink.pro/#/swap))
 * Swapping on a Centralised platform (ex: [_Swapspace_](https://swapspace.co/)_,_ [_Changelly_](https://changelly.com/))
