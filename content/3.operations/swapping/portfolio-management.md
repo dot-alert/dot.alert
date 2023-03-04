@@ -10,7 +10,7 @@ description: >-
 
 Portfolio management encompasses a range of [operations](https://dot-alert.gitbook.io/dot.alert/content/3.operations) that allow users to monitor, preserve, and grow their assets. Because assets valuations can vary greatly over a short period of time, sourcing suitable portfolio management tools is key to maintaining or increasing acquired value while dealing with uncertainties.
 
-<figure><img src="broken-reference" alt="A webpage of Talisman wallet&#x27;s website indicating its portfolio management features."><figcaption><p><a href="https://www.talisman.xyz/portal">Talisman wallet's portal</a> offers a range of portfolio management tools.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SwappingTalisman.JPG" alt="A webpage of Talisman wallet&#x27;s website indicating its portfolio management features."><figcaption><p><a href="https://www.talisman.xyz/portal">Talisman wallet's portal</a> offers a range of portfolio management tools.</p></figcaption></figure>
 
 
 
