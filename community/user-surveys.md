@@ -8,9 +8,9 @@ coverY: 0
 
 Care to help us improve our content and our platform?📈
 
-Complete our survey. The best 5 submissions will be rewarded with one of our cash prizes of $20 DOT.
+Complete our survey. The best 5 submissions will be awarded a bounty of $20 DOT each.
 
-**User survey #2: 6th March 2023 23:00 UTC -  19th March 2023 23:00 UTC. \[TBA]**
+**User survey #2: 6th March 2023 11:00 UTC -  19th March 2023 23:00 UTC. \[TBA]**
 
 ****
 
