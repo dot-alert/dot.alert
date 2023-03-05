@@ -44,7 +44,7 @@ The JSON format makes JSON backups lightweight enough so that they can be moved 
 
  
 
-<figure><img src="../../.gitbook/assets/S_JBParallel.JPG" alt="Password strength and matching checks when creating an account on Parallel wallet."><figcaption><p>...and <a href="https://chrome.google.com/webstore/detail/parallel-wallet/jbkgjmpfammbgejcpedggoefddacbdia">Parallel wallet</a>. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_JBParallel (2).JPG" alt="Password strength and matching checks when creating an account on Parallel wallet."><figcaption><p>...and <a href="https://chrome.google.com/webstore/detail/parallel-wallet/jbkgjmpfammbgejcpedggoefddacbdia">Parallel wallet</a>. </p></figcaption></figure>
 
 </div>
 

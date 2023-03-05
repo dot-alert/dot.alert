@@ -2,11 +2,11 @@
 description: >-
   Troubleshooting, discussing, and reviewing Web3 assets in the Polkadot
   ecosystem.
-cover: ../../.gitbook/assets/DotSocial02.png
+cover: ../../.gitbook/assets/DotSupport02.png
 coverY: 0
 ---
 
-# 4.Social support
+# 4.Support
 
 With so much innovation happening in the Polkadot ecosystem, you will need to find a way to keep up with the latest tech developments. An update can make a big difference in how people manage their assets, so users often **source information** in the following ways:
 
@@ -16,8 +16,6 @@ With so much innovation happening in the Polkadot ecosystem, you will need to fi
 * from unofficial threads and tags (Reddit, Youtube)
 
 <figure><img src="../../.gitbook/assets/S_Communities.JPG" alt="A screenshot showcasing all social network platforms from which Polkadot ecosystem participants can get support."><figcaption><p>Overview of the various platforms that host <a href="https://polkadot.network/community/">Polkadot Communities</a>.</p></figcaption></figure>
-
-
 
 Decentralised networks are made of communities that are not always visible or vocal, and this gives a lot of room for bad actors to run their schemes at the expenses of new or confused users.
 

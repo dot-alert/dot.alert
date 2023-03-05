@@ -28,7 +28,7 @@ When you create a Polkadot account, your [wallet](../../useful-tools/wallets.md)
 
 Some wallets only give you one chance to note down your seed/secret phrase at the beginning, after which they will not display it anymore. Other wallets allow you to see your account's seed/secret phrase at anytime by getting you to set up a password to lock your wallet's information beforehand. As a security measure, you will be asked to re-enter that password right before you can view any account's seed/secret phrase.
 
-<figure><img src="../../.gitbook/assets/S_SPFearless.jpg" alt="The Fearless Wallet&#x27;s interface that requests users to a enter a PIN code."><figcaption><p>Account security setup on <a href="https://fearlesswallet.io/">Fearless wallet</a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_SPFearless (1).jpg" alt="The Fearless Wallet&#x27;s interface that requests users to a enter a PIN code."><figcaption><p>Account security setup on <a href="https://fearlesswallet.io/">Fearless wallet</a>.</p></figcaption></figure>
 
 Features like email addresses and phone numbers that are offered by Centralised exchanges can never be used as substitute for a seed/secret phrase, because they are separate from the cryptographic keys of an account. For this reason, we say that wallets which provide a seed/secret phrase are "non-custodial", whereas wallets that do not generate a seed/secret phrase are "custodial" (i.e _"Not your keys, not your coins"_).
 
