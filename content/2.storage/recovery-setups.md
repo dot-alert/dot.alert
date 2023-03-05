@@ -32,7 +32,7 @@ For multisig accounts, more advanced setups are required because these accounts 
 
 
 
-### Why are Recovery Setups important?
+### Why are Recovery Setups Important?
 
 In the Polkadot ecosystem, the same account can be used to store multiple assets across a variety of Relay chains and Parachains. This means that user interaction with dapps is heavily-dependent on having access to previously stored accounts at anytime. Recovery setups play a central role in ensuring that users maintain ownership of their assets over longer time frames in practice. However, it is recommended that you choose the schedules that best meet your needs, keeping in mind that there are certain risks associated with each type of recovery setups.
 
