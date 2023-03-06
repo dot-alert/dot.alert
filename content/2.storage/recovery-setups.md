@@ -28,7 +28,11 @@ Key splitters make account recovery more resilient and secure by encrypting a se
 
 <figure><img src="../../.gitbook/assets/S_RSBananaSplit.JPG" alt="A view of a 12-word seed/secret phrase split into 3 secrets/shards and encrypted by an auto-generated password in the Banana Split tool."><figcaption><p>Parity Technologies' <a href="https://bs.parity.io/#/">Banana split</a> allows users to split their Seed/secret phrase into a given number of encrypted parts.</p></figcaption></figure>
 
-For multisig accounts, more advanced setups are required because these accounts are managed by many administrators, each with their role to play as a signatory of multisig transactions. In this context, a Pure proxy account for the multisig account itself can be created; which eliminates the need for seed/secret phrase management altogether and makes signatories the rightful protectors of the multisig. But there is also the added option for each signatory to use a Pure proxy account for their related multisig operations that will subsequently delegate account control to different proxy accounts, many of which can be recoverable by the signatory's friends. Ultimately, these setups give team members flexible pathways for managing their pool of assets, even when access by some members' enrolled account is lost.
+For multisig accounts, more advanced setups are required because these accounts are managed by many administrators, each with their role to play as a signatory of multisig transactions. In this context, a Pure proxy account for the multisig account itself can be created; which eliminates the need for seed/secret phrase management altogether and makes signatories the rightful protectors of the multisig.&#x20;
+
+<figure><img src="../../.gitbook/assets/S_RSMultix.JPG" alt="A screenshot of an article presenting Multix, an interface for multisig accounts management."><figcaption><p><a href="https://multix.chainsafe.io/">Multix</a> provides a user-friendly dashboard for creating, managing, and recovering multisig accounts.</p></figcaption></figure>
+
+But there is also the added option for each signatory to use a Pure proxy account for their related multisig operations that will subsequently delegate account control to different proxy accounts, many of which can be recoverable by the signatory's friends. Ultimately, these setups give team members flexible pathways for managing their pool of assets, even when access by some members' enrolled account is lost.
 
 
 
