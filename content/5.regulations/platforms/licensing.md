@@ -8,7 +8,7 @@ _<mark style="background-color:red;">Disclaimer: This article is written by</mar
 
 
 
-Blockchain technologies shape an emerging industry in which various economic actors are partnering to build new platforms and serve their targeted demographics. In the Polkadot ecosystem, the novel architecture of Parachains drives the resilience of dapps against the traditional distribution model of centralised platforms.
+Blockchain technologies shape an emerging industry in which various economic actors are partnering to build new platforms and serve their targeted demographics. In the Polkadot ecosystem, the novel architecture of Parachains drives the resilience of dapps against the traditional business model of centralised platforms.
 
 
 
@@ -34,7 +34,7 @@ Second and third generation blockchains rely on the principle of programmability
 
 <figure><img src="../../../.gitbook/assets/R_PMoonbeamXCMSuite.JPG" alt="A screenshot of Moonbeam network&#x27;s docs presenting available tools for building XCM use cases."><figcaption><p>Moonbeam network has built a suite of tools for developing various <a href="https://docs.moonbeam.network/builders/interoperability/xcm/">XCM uses cases</a>.</p></figcaption></figure>
 
-Instead, CEXes have adopted a traditional software development model based on in-house expertise. To establish their dominance in the blockchain sector, centralised platforms tend to ramp up their offerings to match the speed of developments in the field. Over time, they have grown to offer a fintech services such as savings, loyalty rewards, and also high-risk investment strategies such as margin trading and launchpad-based financial instruments. &#x20;
+Instead, CEXes have adopted a traditional software development model based on in-house expertise. To establish their dominance in the blockchain sector, centralised platforms tend to ramp up their offerings to match the speed of developments in the field. Over time, they have grown to provide fintech services such as savings, loyalty rewards, and also high-risk investment strategies such as margin trading and launchpad-based financial instruments. &#x20;
 
 <figure><img src="../../../.gitbook/assets/R_PPolkadex.jpg" alt="A banner from Polkadex advertising that the parachain offers services that are usually found on CEXes, such as High frequency trading and trading bots."><figcaption><p><a href="https://polkadex.trade/">Polkadex</a> is a decentralised platform that offers services traditionally found on Centralised exchanges.</p></figcaption></figure>
 
