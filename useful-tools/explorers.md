@@ -16,7 +16,5 @@ description: Aggregators for the Polkadot ecosystem.
 
 [Subscan](https://polkadot.subscan.io/)
 
-[Wallety](https://wallety.org/)
-
 [Web3Go](https://app.web3go.xyz/#/)
 
