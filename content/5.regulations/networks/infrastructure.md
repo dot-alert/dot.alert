@@ -64,5 +64,3 @@ There have been a lot of discussions regarding the sustainability of decentralis
 
 For this reason, Relay chain validators and Parachain collators still need to pay attention to their own carbon footprint and take proactive steps to reduce its environmental impact over time. Furthermore, in the context of [international agreements](https://www.whitehouse.gov/ostp/news-updates/2022/09/08/fact-sheet-climate-and-energy-implications-of-crypto-assets-in-the-united-states/) on climate change, network infrastructure providers need to ensure that the energy sources that they use do not go against the standards outlined by their local authorities.&#x20;
 
-<figure><img src="../../../.gitbook/assets/R_NDAOIPCI.JPG" alt="A screenshot of DAO IPCI website displaying information about their API that can be integrated into a website to process on-chain carbon credits purchases."><figcaption><p><a href="https://ipci.io/">DAO IPCI</a> offers Web3 solutions for environmental assets and their related IoT components.</p></figcaption></figure>
-
