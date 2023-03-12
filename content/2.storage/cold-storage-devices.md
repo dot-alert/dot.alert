@@ -16,7 +16,7 @@ Cold storage devices (also called “cold storage” or “cold wallets”) are 
 
 The security of cold storage devices can be reinforced by making the gadgets themselves difficult to access. On top of manufacturers' authentication standards, long-term users always have the option to store their hardware in a home safe, in a vault, or even with a legal entity.
 
-<figure><img src="../../.gitbook/assets/S_CSDLedger (1).JPG" alt="A view of Ledger wallet support for numerous blockchain ecosystem such as the Polkadot ecosystem."><figcaption><p><a href="https://www.ledger.com/supported-services">Ledger wallets</a> support numerous Polkadot ecosystem networks and services.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_CSDLedger.JPG" alt="A view of Ledger wallet support for numerous blockchain ecosystem such as the Polkadot ecosystem."><figcaption><p><a href="https://www.ledger.com/supported-services">Ledger wallets</a> support numerous Polkadot ecosystem networks and services.</p></figcaption></figure>
 
 &#x20;
 
