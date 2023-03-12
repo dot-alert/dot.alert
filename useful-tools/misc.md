@@ -42,6 +42,8 @@ _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages
 
 ### Community-made
 
+[Dotgraphic](https://twitter.com/dotgraphic1)
+
 [DotMarketCap](https://www.dotmarketcap.com/)
 
 _Polkadot for Beginners_: [Audiobook](https://open.spotify.com/episode/2UtscT6JVbYUBNvNyhEcGo) (Recording)
