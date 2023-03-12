@@ -30,7 +30,7 @@ description: Polkadot ecosystem news, tutorials, guides, collectives, etc.
 
 [Parachains.info](https://parachains.info/)
 
-_Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages) by gbaci
+_Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages)
 
 [Polkadot Insider](https://twitter.com/PolkadotInsider)
 
