@@ -20,13 +20,9 @@ Most DAO incubators require project teams to complete an application detailing t
 
 <figure><img src="../../../.gitbook/assets/O_DIDoraFactory.JPG" alt="The homepage of Dora Factory, a community-led crowdfunding platform for decentralised infrastructure builders."><figcaption><p><a href="https://dorafactory.org/">Dora Factory</a> is a community-led platform crowdfunding decentralised infrastructure builders.</p></figcaption></figure>
 
-
-
 Some [platforms](../../5.regulations/platforms/) allow teams to submit their application along with milestones for developments and crowdfunding directly on their dashboard, as a first step for community onboarding. In this case, funds are unlocked upon meeting each individual milestone to assist the project with transparent treasury management.
 
 <figure><img src="../../../.gitbook/assets/O_DIImbue.JPG" alt="Overview of how Imbue network incubates DAOs and ensures accountability via on-chain processes."><figcaption><p><a href="https://www.imbue.network/">Imbue network</a> incubates DAOs with a focus on two-way accountability.</p></figcaption></figure>
-
-
 
 Apart from providing a gateway to financial support, DAO incubators can also assist projects with roadmap development and asset management. Projects can access integrated tools for token vesting schedules, governance, [staking](../staking/) or DeFi through third-party platforms. These features are offered to help projects diversify their treasuries across multiple networks so that they can continue their operations during periods of downturn.
 
@@ -38,11 +34,7 @@ Apart from providing a gateway to financial support, DAO incubators can also ass
 
 Before applying for an incubator programme, it is important to research the history of the platform itself to evaluate the transparency of processes in place. This is because funds raised from the community are often held on the platform's smart contracts or wallets before being disbursed to projects, and any hacks or misappropriation of funds by the DAO incubator's team can lead to irreparable losses for onboarded projects and their stakeholders.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_DIKabocha.JPG" alt="The homepage of Kabocha, a platform for creative minds that is open to funding innovative project ideas."><figcaption><p><a href="https://www.kabocha.network/">Kabocha</a> is designed for experimental projects sustained by grassroot organisations.</p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/O_DIMoonbeam.JPG" alt="An overview of the 3 main offerings of the Moonbeam accelerator program."><figcaption><p><a href="https://moonbeamaccelerator.com/">Moonbeam network</a> runs a comprehensive programme for emerging Web3 startups. </p></figcaption></figure>
 
 DAO incubators operate with different standards and requirements, which has a direct effect on the outcome of teams' applications. Depending on the platform used, priority can be given to technical, social, financial, or artistic initiatives. Going through published guidelines helps prevent common mistakes such as duplicated solutions, absence of technical specifications, or unclear schedules.&#x20;
-
-<figure><img src="../../../.gitbook/assets/O_DIMoonbeam.JPG" alt="An overview of the 3 main offerings of the Moonbeam accelerator program."><figcaption><p><a href="https://moonbeamaccelerator.com/">Moonbeam network</a> runs a comprehensive programme for emerging Web3 startups. </p></figcaption></figure>
 
