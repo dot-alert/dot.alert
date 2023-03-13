@@ -48,3 +48,5 @@ _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages
 
 _Polkadot for Beginners_: [Audiobook](https://open.spotify.com/episode/2UtscT6JVbYUBNvNyhEcGo) (Recording)
 
+[Subdaily](https://subdaily.io/)
+
