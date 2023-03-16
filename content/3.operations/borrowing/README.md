@@ -12,5 +12,5 @@ In the Polkadot ecosystem, this constant spread of value across parachains and e
 
 
 
-<figure><img src="../../../.gitbook/assets/O_BorrowingParachains (1).JPG" alt="A view of interconnected Parachains offering DeFi services in the Polkadot ecosystem."><figcaption><p>The Polkadot Relay chain has onboarded more than 12 <a href="https://polkadot.network/blog/a-year-in-parachains-part-1-defi">DeFi parachains in 2022</a>. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BorrowingParachains (1) (1).JPG" alt="A view of interconnected Parachains offering DeFi services in the Polkadot ecosystem."><figcaption><p>The Polkadot Relay chain has onboarded more than 12 <a href="https://polkadot.network/blog/a-year-in-parachains-part-1-defi">DeFi parachains in 2022</a>. </p></figcaption></figure>
 
