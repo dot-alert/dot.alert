@@ -10,7 +10,7 @@ description: >-
 
 Nominators play a central role in the election of the validators who approve transactions and produce blocks. By locking their funds in staking protocols, they are not only helping protect the network from bad actors, but also maximising returns for themselves.
 
-<figure><img src="../../../.gitbook/assets/O_SYieldScan.JPG" alt="An overview of YieldScan, a platform that helps nominators maximise staking yield."><figcaption><p><a href="https://yieldscan.app/">YieldScan</a> empowers nominators to optimise their staking operations.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SYieldScan.JPG" alt="A screenshot of Yieldscan’s homepage showing possible earnings from staking DOT."><figcaption><p><a href="https://yieldscan.app/">YieldScan</a> empowers nominators to optimise their staking operations.</p></figcaption></figure>
 
 
 
@@ -22,7 +22,7 @@ Broadly-speaking, nominators have many options for participating in staking oper
 
 Staking directly on Relay chains involves bonding a minimum amount of tokens (i.e 0.1 KSM on Kusama and 10 DOT on Polkadot), selecting suitable validators (i.e up to 24 on Kusama and up to 16 on Polkadot), and claiming/receiving rewards. Recently, Nomination pools have been introduced to lower staking requirements. Token holders can start earning rewards with 1 DOT and the validators selection is tasked upon the pool administrator. However, pool participants cannot use their bonded tokens to participate in [governance](../voting/) and the use of staking proxies is not yet permitted.
 
-<figure><img src="../../../.gitbook/assets/O_SDashboard.JPG" alt="A screenshot of the Polkadot staking dashboard where users can manage their operations."><figcaption><p>The <a href="https://staking.polkadot.network/#/nominate">Staking dashboard</a> is a one-stop platform for managing staking operations on Relay chains.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SDashboard.JPG" alt="A screenshot of the Polkadot staking dashboard where users can manage their nominations."><figcaption><p>The <a href="https://staking.polkadot.network/#/nominate">Staking dashboard</a> is a one-stop platform for managing staking operations on Relay chains.</p></figcaption></figure>
 
 By contrast, exchanges offer more flexible ways to stake your funds. Liquid staking eliminates the unbonding period (i.e 7 days on Kusama and 28 days on Polkadot) and provides users with staking derivative tokens that they can use across ecosystem DEXes. Meanwhile, CEXes often compete in providing participants with high staking returns in exchange for locking their funds on their platforms. An important point to note is that staking operations are entirely controlled by exchanges and comes with a mandatory acceptance of their terms and conditions.
 
@@ -44,5 +44,5 @@ It is recommended to avoid picking validators that are operating "at capacity," 
 
 Finally, remember to monitor your validators to ensure that you remain eligible for rewards throughout the entire duration of your staking operations. As a safety measure, you should regularly check that your validators' commission fees are consistent, as these rates can be changed at any time and reduce your overall staking income.
 
-<figure><img src="../../../.gitbook/assets/O_SPolkagate.png" alt="A view of Polkagate wallet&#x27;s user interface for managing staking nominations and reviewing validators&#x27; commission fees. "><figcaption><p><a href="https://polkagate.xyz/">Polkagate wallet</a>'s user interface makes it easy to manage nominations.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SPolkagate.png" alt="The dashboard of a user&#x27;s Polkagate wallet showing staked DOTS and nominations."><figcaption><p><a href="https://polkagate.xyz/">Polkagate wallet</a>'s user interface makes it easy to manage nominations.</p></figcaption></figure>
 
