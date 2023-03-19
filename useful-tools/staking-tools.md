@@ -38,5 +38,5 @@ description: Staking tools for the Polkadot ecosystem.
 
 [Thousand Validators (Kusama)](https://thousand-validators.kusama.network/#/)
 
-[Validator dashboard](https://dashboard.decentradot.com/)
+[Validator staking dashboard](https://dashboard.decentradot.com/)
 
