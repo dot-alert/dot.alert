@@ -36,8 +36,6 @@ _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages
 
 [The Kusamarian](https://www.youtube.com/@TheKusamarian/playlists)
 
-[WagMedia](https://twitter.com/thatMediaWag)
-
 
 
 ### Community-made
@@ -49,4 +47,6 @@ _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages
 _Polkadot for Beginners_: [Audiobook](https://open.spotify.com/episode/2UtscT6JVbYUBNvNyhEcGo) (Recording)
 
 [Subdaily](https://subdaily.io/)
+
+[WagMedia](https://twitter.com/thatMediaWag)
 

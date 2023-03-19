@@ -18,7 +18,7 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 
 
-## Mobile wallets
+### Mobile wallets
 
 [Fearless](https://fearlesswallet.io/)
 
@@ -28,7 +28,7 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 
 
-## Air-gapped signers
+### Air-gapped signers
 
 [AirGap](https://airgap.it/)
 
@@ -38,11 +38,19 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 
 
-## Cold storage devices
+### Cold storage devices
 
 [CoolWallet](https://www.coolwallet.io/coolwallet\_pro)
 
 [Ledger ](https://www.ledger.com/polkadot-wallet)
 
 [SafePal](https://store.safepal.com/safepal-s1-hardware-wallet.html)
+
+
+
+### Recovery tools
+
+[Banana split](https://bs.parity.io/#/)
+
+[Multix](https://multix.chainsafe.io/)
 

@@ -30,6 +30,7 @@
     * [Initial DEX Offerings](content/3.operations/crowdfunding/initial-dex-offerings.md)
   * [Staking](content/3.operations/staking/README.md)
     * [Nominating](content/3.operations/staking/nominating.md)
+    * [Validating](content/3.operations/staking/nominating-1.md)
   * [Swapping](content/3.operations/swapping/README.md)
     * [Token swaps](content/3.operations/swapping/pairs-availability.md)
     * [Portfolio Management](content/3.operations/swapping/portfolio-management.md)

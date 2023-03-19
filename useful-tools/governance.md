@@ -14,5 +14,5 @@ description: Governance platforms for the Polkadot ecosystem.
 
 [Subsquare](https://www.subsquare.io/)
 
-[Web3 Alert](https://web3alert.io/)
+[Web3alert](https://web3alert.io/)
 

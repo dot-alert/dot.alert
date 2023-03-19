@@ -8,7 +8,7 @@ description: >-
 
 ## Who are Nominators?
 
-Nominators play a central role in the election of the validators who approve transactions and produce blocks. By locking their funds in staking protocols, they are not only helping protect the network from bad actors, but also maximising returns for themselves.
+Nominators play a central role in the election of the [validators](nominating-1.md) who approve transactions and produce blocks. By locking their funds in staking protocols, they are not only helping protect the network from bad actors, but also maximising returns for themselves.
 
 <figure><img src="../../../.gitbook/assets/O_SYieldScan.JPG" alt="A screenshot of Yieldscan’s homepage showing possible earnings from staking DOT."><figcaption><p><a href="https://yieldscan.app/">YieldScan</a> empowers nominators to optimise their staking operations.</p></figcaption></figure>
 
