@@ -1,6 +1,6 @@
 ---
 description: >-
-  An overview of validator's infrastructure setups and maintenance operations in
+  An overview of validators' infrastructure setups and maintenance operations in
   the Polkadot ecosystem.
 ---
 
