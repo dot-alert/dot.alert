@@ -36,7 +36,7 @@ Though block rewards are shared equally between elected validators regardless of
 
 ### Risks: Managing On-chain Behaviours
 
-Setting up a validator on Relay chains in the Polkadot ecosystem is a thorough and demanding process, as operators need to be technically inclined to handle both hardware and software issues as they arise. Mishaps such as encountering downtimes, exposing/mishandling session keys, or running deprecated clients are automatically recorded by ecosystem-wide tracking tools, which will negatively impact a validator's on-chain reputation.&#x20;
+Setting up a validator on Relay chains in the Polkadot ecosystem is a thorough and demanding process, as operators need to be technically-inclined to handle both hardware and software issues as they arise. Mishaps such as encountering downtimes, exposing/mishandling session keys, or running deprecated clients are automatically recorded by ecosystem-wide tracking tools, which will negatively impact a validator's on-chain reputation.&#x20;
 
 <figure><img src="../../../.gitbook/assets/O_SGrafanaDashboardbLD.JPG" alt="The architecture of bLD full monitoring dashboard for Polkadot Relay chain and Parachain nodes using Grafana, Prometheus, and a node exporter."><figcaption><p>bLd nodes provides a dashboard for <a href="https://grafana.com/grafana/dashboards/16863-polkadot-and-parachains-full-monitoring/">monitoring multiple Polkadot ecosystem nodes</a>.</p></figcaption></figure>
 
