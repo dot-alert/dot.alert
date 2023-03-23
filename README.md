@@ -2,7 +2,7 @@
 description: >-
   Dot.alert() is a knowledgebase that provides practical guidelines for managing
   assets safely across the Polkadot ecosystem.
-cover: .gitbook/assets/Dotalertbanner02Website.png
+cover: .gitbook/assets/Dotalertbanner02Websitesharing (1).png
 coverY: 0
 layout: landing
 ---
