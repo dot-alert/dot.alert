@@ -16,13 +16,11 @@ Collateralisation on DeFi platforms is a process that allows users to borrow mul
 
 ### How-to: Defining a Collateralisation Ratio <a href="#d48b" id="d48b"></a>
 
-In the current state of DeFi where users are anonymous and we don’t have assessment tools like credit scores, protocols require loans to be over collateralised. For example, to borrow $100, you would need to deposit $150 worth of assets. DeFi protocols set their own minimum collateralisation ratio,  which are usually somewhere between 120% and 250%.&#x20;
+In the current state of DeFi where users are anonymous and we don’t have assessment tools like credit scores, protocols require loans to be over collateralised. For example, to borrow $100, you would need to deposit $150 worth of assets. DeFi protocols set their own minimum collateralisation ratio, which are usually somewhere between 120% and 250%.&#x20;
 
 <figure><img src="../../../.gitbook/assets/O_BorrowingStarlayFi.JPG" alt="An overview of the most sought-after coins on Starlay Finance."><figcaption><p><a href="https://starlay.finance/app/markets">Starlay Finance</a> charts the most sought-after coins on its platform.</p></figcaption></figure>
 
-
-
-Altogether, assets provided as collateral are simply insurance for the DeFi platform that you will repay your loan. Typically, the criteria for defining which assets are eligible to be used as collaterals are very strict, as platforms do not want to be dealing with tokens that may end up worthless. Furthermore, DeFi protocols automatically monitor their Total Supplied Value to avoid becoming insolvent, since assets borrowed by some users need to be supplied by other users.&#x20;
+Altogether, [assets ](../../1.acquisition/)provided as collateral are simply insurance for the DeFi platform that you will repay your loan. Typically, the criteria for defining which assets are eligible to be used as collaterals are very strict, as platforms do not want to be dealing with tokens that may end up worthless. Furthermore, DeFi protocols automatically monitor their Total Supplied Value to avoid becoming insolvent, since assets borrowed by some users need to be supplied by other users.&#x20;
 
 
 
@@ -32,7 +30,5 @@ Whether built with Smart Contracts or pallets, no DeFi application is immune to 
 
 <figure><img src="../../../.gitbook/assets/O_BorrowingParallelFi.JPG" alt="The homepage of Parallel Finance showing the links to its various services for Polkadot and Kusama."><figcaption><p><a href="https://parallel.fi/">Parallel Finance</a> has designed a user-friendly dashboard for all its DeFi services.</p></figcaption></figure>
 
-
-
-Since DeFi platforms juggle a complex suite of interconnected protocols, programmes, and interfaces, there is also the possibility that user errors lead to loss of funds. The best way to prevent this mishap is to use platforms with well-designed dashboards that are supported by thorough tutorials and user guides. You can also connect to testnets to try applications out before using them on live networks.
+Since DeFi [platforms](../../5.regulations/platforms/) juggle a complex suite of interconnected protocols, programmes, and interfaces, there is also the possibility that user errors lead to loss of funds. The best way to prevent this mishap is to use platforms with well-designed dashboards that are supported by thorough tutorials and user guides. You can also connect to testnets to try applications out before using them on live networks.
 
