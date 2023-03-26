@@ -44,7 +44,7 @@ From a legislator's perspective, dapps developers need to make a concerted effor
 
 ## Risk Management:
 
-### Operational Risks:&#x20;
+### Operational Risks
 
 Permissionless blockchain networks make all the data stored in their digital ledger publicly available to end-users. This means that, with the right tools, it is possible to link users' on-chain addresses with their real life identities and also [establish user profiles](https://www.fatf-gafi.org/en/publications/methodsandtrends/documents/virtual-assets-red-flag-indicators.html) based on this information. In the Polkadot ecosystem, Web3 protocols built with the Substrate Framework have the distinct advantage that they can be upgraded to integrate Privacy features. Such functionalities will eventually empower users to obfuscate some of their transactions and prevent tracking tools from exploiting their digital footprint.&#x20;
 
@@ -58,7 +58,7 @@ It is in this context of increasing cyber security threats and attacks that regu
 
 
 
-### Legal Risks:&#x20;
+### Legal Risks&#x20;
 
 The majority of Web2 tech corporations emerged in the 2000s to become a dominant force within a decade. Within the crypto space, Centralised exchanges are following a similar trend, with a focus on onboarding users through simple interfaces that eliminate the need for self-custody of crypto assets. Essentially, their power lies in their ability to monetise user data obtained through KYC procedures and supply it to national agencies in the context of AML and CFT legislations. Just like tech companies, they have the ability to carry out extensive surveillance on users' transactions and cancel users' access to their platform at anytime.
 
