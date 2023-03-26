@@ -32,7 +32,7 @@ When voting, you select an amount out of your staked or available coins that you
 
 Every time you use your Polkadot account to sign a transaction, be it voting on a referendum or transferring funds, your private keys are used. This exposes them to potential attacks by hackers, especially if you are using new platforms or third-party dapps. For this reason, it is recommended to use of a governance proxy account, as an extra layer of security for your main account and its funds.
 
-<figure><img src="../../../.gitbook/assets/O_VProxyGov (1) (1).JPG" alt="A screenshot of a proxy account setup for governance on Polkadot-JS App."><figcaption><p>Setting up a proxy account for governance on <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpublic-rpc.pinknode.io%2Fkusama#/accounts">Polkadot-JS Apps</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VProxyGov (1).JPG" alt="A screenshot of a proxy account setup for governance on Polkadot-JS App."><figcaption><p>Setting up a proxy account for governance on <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpublic-rpc.pinknode.io%2Fkusama#/accounts">Polkadot-JS Apps</a>.</p></figcaption></figure>
 
 Conviction locks are an essential mechanism for giving governance power to token holders, since they can give more weight to their vote in support or against a proposal. It is important to remember that you will not be able to transfer your coins until the locking period is complete, which can put some of your other holdings at risk if you are participating in DeFi operations that require more collateral over time.&#x20;
 
