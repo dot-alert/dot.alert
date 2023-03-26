@@ -10,5 +10,5 @@ However, it is the modularity of Relay chains' shared security and interoperabil
 
 <figure><img src="../../../.gitbook/assets/R_PParachains.JPG" alt="On overview of the features of Polkadot&#x27;s parachain."><figcaption><p>An overview of functionalities that can be deployed onto <a href="https://polkadot.network/parachains/">parachains</a>.</p></figcaption></figure>
 
-In this open-ended environment ripe for experimentation and exploration, users are given access to [unlimited token-based services](services.md); which contrasts with the [licensing schedules](licensing.md) followed by centralised platforms and the [compliance requirements](licensing-1.md) imposed onto their operators.&#x20;
+In this open-ended environment ripe for experimentation and exploration, users are given access to [unlimited token-based services](services.md); which contrasts with the [licensing schedules](licensing.md) followed by centralised platforms and the [compliance requirements](compliance.md) imposed onto their operators.&#x20;
 
