@@ -18,7 +18,7 @@ _Requirements:_ Involvement in diverse crypto-related communities on several soc
 
 _Tasks:_ Relay content updates, monthly quizzes, and user surveys across various crypto-related channels and groups.&#x20;
 
-_Rates: TBD._
+_Rates: $200-$300/month._
 
 Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)to get in touch with us.
 
