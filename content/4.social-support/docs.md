@@ -1,7 +1,7 @@
 ---
 description: >-
-  An overview of projects' documentation and their relevance for users of the
-  Polkadot ecosystem.
+  A brief on how to use projects' documentation for research and analyses within
+  the Polkadot ecosystem.
 ---
 
 # Docs

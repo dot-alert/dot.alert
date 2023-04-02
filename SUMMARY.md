@@ -42,6 +42,7 @@
   * [GitHub](content/4.social-support/github.md)
   * [Polkassembly](content/4.social-support/polkassembly.md)
   * [Discord](content/4.social-support/discord.md)
+  * [Twitter](content/4.social-support/twitter.md)
 * [5.Regulations](content/5.regulations/README.md)
   * [Networks](content/5.regulations/networks/README.md)
     * [Infrastructure](content/5.regulations/networks/infrastructure.md)

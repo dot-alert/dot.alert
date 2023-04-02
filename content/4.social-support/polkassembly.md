@@ -1,7 +1,7 @@
 ---
 description: >-
-  An overview of the functionalities and role of Polkassembly in network
-  governance within the Polkadot ecosystem.
+  A brief on the functionalities and role of Polkassembly in network governance
+  within the Polkadot ecosystem.
 ---
 
 # Polkassembly

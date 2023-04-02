@@ -1,7 +1,7 @@
 ---
 description: >-
-  An overview of GitHub's features and their relevance for users of the Polkadot
-  ecosystem.
+  A brief on how to use GitHub repositories to gain valuable insights into
+  projects' solutions within the Polkadot ecosystem.
 ---
 
 # GitHub

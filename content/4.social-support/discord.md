@@ -1,7 +1,7 @@
 ---
 description: >-
-  An overview of Discord's features and their relevance for users of the
-  Polkadot ecosystem.
+  A brief on how to use Discord servers to source relevant information about
+  projects' developments within the Polkadot ecosystem.
 ---
 
 # Discord
@@ -14,7 +14,7 @@ Discord is a social networking and communication platform that supports live gro
 
 
 
-### How-to: Exploring the structure of ecosystem servers
+### How-to: Exploring the Structure of Ecosystem Servers
 
 Discord servers are established, run and maintained by various stakeholders; whether they be officials (admin, developers, founders) or community members (ambassadors, project partners, special guests). Each server is subsequently broken down into different channels or "chat rooms" with assigned topics for discussions, including non-English spaces and VIP lounges.
 
@@ -28,7 +28,7 @@ Discord servers are a major hub for ecosystem communications, as they host vario
 
 
 
-### Risks: Managing messages and privacy settings
+### Risks: Managing Messages and Privacy Settings
 
 Discord servers are open to the general public and accessible without much screening. This means that they could end up being hijacked by malicious participants posting inaccurate information, sharing links leading to phishing websites, or impersonating moderators in their messages. To mitigate this risk, members can use the search functionality available on Discord servers to screen the profile and history of all participants, and block users they suspect to be bots.&#x20;
 
