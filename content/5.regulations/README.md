@@ -10,7 +10,7 @@ coverY: 0
 
 There are still a lot of legal unknowns in this ecosystem, because there are new protocols being coded every day and also because existing protocols are being routinely upgraded. The range of testing environments provided ahead of deployment are mainly used by developers and a few tech-savvy project supporters, not by ordinary users nor regulators.&#x20;
 
-<figure><img src="../../.gitbook/assets/R_Dot.JPG" alt=""><figcaption><p>Overview of Polkadot network's primary asset: the <a href="https://polkadot.network/dot-token/">DOT token</a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/R_DOTtoken.JPG" alt=""><figcaption><p>Overview of Polkadot network's primary asset: the <a href="https://polkadot.network/dot-token/">DOT token</a>.</p></figcaption></figure>
 
 In the Polkadot ecosystem, the same asset can take on various forms because of concepts such as:
 
