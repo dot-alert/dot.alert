@@ -10,7 +10,5 @@ Borrowing tokens is an important component of Decentralised Finance (DeFi) opera
 
 In the Polkadot ecosystem, this constant spread of value across parachains and external ecosystems is optimised by novel [clearing house mechanisms](liquidation.md) which assist borrowers in defining their strategies.&#x20;
 
-
-
-<figure><img src="../../../.gitbook/assets/O_BorrowingParachains.JPG" alt="A view of interconnected Parachains offering DeFi services in the Polkadot ecosystem."><figcaption><p>The Polkadot Relay chain has onboarded more than 12 <a href="https://polkadot.network/blog/a-year-in-parachains-part-1-defi">DeFi parachains in 2022</a>. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BorrowingXCMP.JPG" alt="A view of how XCMP interconnects Parachains offering DeFi services in the Polkadot ecosystem."><figcaption><p>The Polkadot Relay chain has onboarded more than 12 <a href="https://polkadot.network/blog/a-year-in-parachains-part-1-defi">DeFi parachains </a>in its ecosystem.</p></figcaption></figure>
 

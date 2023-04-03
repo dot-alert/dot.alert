@@ -14,5 +14,5 @@ Every token holder has the opportunity to:&#x20;
 * [vote directly](direct-democracy.md) for referenda
 * [delegate their voting power](democracy-delegation.md) to someone else
 
-<figure><img src="../../../.gitbook/assets/O_VPolkadotJS.JPG" alt="A screenshot of active governance referenda and democracy proposals on the Polkadot Relay chain."><figcaption><p>Overview of referenda voting for Polkadot network on <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpolkadot.public.curie.radiumblock.io%2Fws#/democracy">Polkadot-JS Apps</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VOpenGov.JPG" alt="Polkadot OpenGov gives token holders the power to decide on the direction of the network."><figcaption><p><a href="https://polkadot.network/blog/lets-talk-polkadot-opengov-part-i/">Polkadot OpenGov</a> gives the decision-making power of the network to token holders.</p></figcaption></figure>
 
