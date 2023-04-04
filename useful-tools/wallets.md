@@ -8,6 +8,8 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 [Enkrypt](https://www.enkrypt.com/)
 
+[Fearless](https://chrome.google.com/webstore/detail/fearless-wallet/nhlnehondigmgckngjomcpcefcdplmgc)
+
 [Polkadot-JS](https://polkadot.js.org/extension/)
 
 [Polkagate](https://polkagate.xyz/)
