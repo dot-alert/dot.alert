@@ -14,7 +14,7 @@ Account recovery setups are safety measures that Polkadot account users can put 
 **Social recovery for an account requires a minimum of 3 participants: 1 account holder and 2 "friends".**
 {% endhint %}
 
-Although Seed/Secret phrases and JSON backup files provide an effective medium for storing accounts offline, they are insufficient as a recovery method because they rely exclusively on one individual to store and retrieve all the key information. On a longer time frame, wallet users need custom recovery setups to guarantee that they, their families, and their deceased estate managers can securely take possession of the assets held in their Polkadot accounts.&#x20;
+Although [Seed/Secret phrases](seed-secret-phrases.md) and [JSON backup files](json-backups.md) provide an effective medium for storing accounts offline, they are insufficient as a recovery method because they rely exclusively on one individual to store and retrieve all the key information. On a longer time frame, wallet users need custom recovery setups to guarantee that they, their families, and their deceased estate managers can securely take possession of the assets held in their Polkadot accounts.&#x20;
 
 
 
@@ -40,11 +40,11 @@ But there is also the added option for each signatory to use a Pure proxy accoun
 
 In the Polkadot ecosystem, the same account can be used to store multiple assets across a variety of Relay chains and Parachains. This means that user interaction with dapps is heavily-dependent on having access to previously stored accounts at anytime. Recovery setups play a central role in ensuring that users maintain ownership of their assets over longer time frames in practice. However, it is recommended that you choose the schedules that best meet your needs, keeping in mind that there are certain risks associated with each type of recovery setups.
 
-<figure><img src="../../.gitbook/assets/S_RSlogion.JPG" alt="A screenshot from logion network&#x27;s testnet showing the KYC requirements needed to make an account recoverable by legal officers."><figcaption><p>The <a href="https://github.com/logion-network">logion blockchain</a> offers account protection and recovery via legal officers as part of its services. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_RSlogion.JPG" alt="The logion network&#x27;s testnet showing the KYC requirements needed to make an account recoverable by legal officers."><figcaption><p>The <a href="https://github.com/logion-network">logion blockchain</a> offers account protection and recovery via legal officers as part of its services. </p></figcaption></figure>
 
 In the case of basic social recovery, users need to carefully vet their friends and keep them updated about any change to the setups. This is particularly important if the trusted person changes Polkadot account, as the recovery process needs to be maintained over time. It is also essential to make use of a reasonably long delay period that will enable early detection and prevention of malicious recovery by social peers.&#x20;
 
-<figure><img src="../../.gitbook/assets/S_RSSteps.png" alt="A diagram showing the steps required to recover a Polkadot account via social recovery."><figcaption><p>An overview of the steps needed to fully and securely <a href="https://wiki.polkadot.network/docs/kusama-social-recovery">recover a Polkadot account via Polkadot-JS Apps</a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_RSSteps.png" alt="A block diagram showing the steps required to recover a Polkadot account via social recovery."><figcaption><p>An overview of the steps needed to fully and securely <a href="https://wiki.polkadot.network/docs/kusama-social-recovery">recover a Polkadot account via Polkadot-JS Apps</a>.</p></figcaption></figure>
 
 Account recovery setups can offer higher levels of security when used in combination. Nevertheless, the complexity of multisig accounts management and the risk of human error in relation to proxies makes them unsuitable for the average user. Instead, users need to develop a good understanding of Proxy accounts' parameters and processes through testnets prior to using these tools for the recovery of valuable assets.&#x20;
 
