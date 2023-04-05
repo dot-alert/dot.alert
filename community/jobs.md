@@ -14,7 +14,7 @@ coverY: 0
 
 _Positions:_ 2 Promoters.
 
-_Requirements:_ Involvement in diverse crypto-related communities on several social media platforms (i.e Telegram, Facebook, LinkedIn, WhatsApp, WeChat, KakaoTalk, etc.); Good communication skills; Ability to create engaging and precise social media content; Good standing in online communities based in **Europe** or **Asia.**
+_Requirements:_ Involvement in diverse crypto-related communities on several social media platforms (i.e Telegram, Facebook, LinkedIn, WhatsApp, WeChat, KakaoTalk, etc.); Good communication skills; Ability to create engaging and precise social media content; Good standing in **online communities based in Europe or Asia.**
 
 _Tasks:_ Relay content updates, monthly quizzes, and user surveys across various crypto-related channels and groups.&#x20;
 
@@ -24,7 +24,7 @@ _Rates: $200-$300/month._
 
 _Positions:_ 2 Graphics designers.
 
-_Requirements:_ 1 year industry experience; Good communication skills under remote conditions; Ability to create eye-catching and informative visuals; Familiarity with **Dot.alert()** content and activities**.**
+_Requirements:_ 1 year industry experience; Good communication skills under remote conditions; Ability to create eye-catching and informative visuals; Familiarity with **Dot.alert() content and activities.**
 
 _Tasks:_ Update designs (logos, banners, palettes, etc.), produce templates for announcements, create themed infographics.
 
@@ -38,7 +38,7 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 _Positions:_ 4-6 Technical writers.
 
-_Requirements:_ Excellent knowledge of Parachain-specific technologies, Good communication skills; Ability to complete in-depth research on ecosystem platforms**.**
+_Requirements:_ Excellent knowledge of Parachain-specific technologies, Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
 
 _Rates: $150-$250/400-word article._
 
