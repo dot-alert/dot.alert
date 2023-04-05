@@ -10,7 +10,7 @@ coverY: 0
 
 **Dot.alert()** is looking for team member(s) to manage and develop its platform’s operations.
 
-### Ad hoc roles:
+### Ongoing roles:
 
 _Positions:_ 2 Promoters.
 
@@ -18,9 +18,9 @@ _Requirements:_ Involvement in diverse crypto-related communities on several soc
 
 _Tasks:_ Relay content updates, monthly quizzes, and user surveys across various crypto-related channels and groups.&#x20;
 
-_Rates: $200-$300/month._
+_Rates:_ $200-$300/month.
 
-### Ongoing roles:
+### Ad hoc roles:
 
 _Positions:_ 2 Graphics designers.
 
@@ -35,6 +35,10 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 
 ## 👨🏻‍💼👩🏾‍💼Contributors
+
+**Dot.alert()** is looking for contributors to create and curate its platform’s content.
+
+### Ad hoc roles:
 
 _Positions:_ 4-6 Technical writers.
 
