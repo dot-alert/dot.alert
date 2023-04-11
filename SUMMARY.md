@@ -37,6 +37,8 @@
   * [Borrowing](content/3.operations/borrowing/README.md)
     * [Collateralisation](content/3.operations/borrowing/collateralisation.md)
     * [Liquidation](content/3.operations/borrowing/liquidation.md)
+  * [Lending](content/3.operations/lending/README.md)
+    * [Liquidity provision](content/3.operations/lending/liquidity-provision.md)
 * [4.Support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)

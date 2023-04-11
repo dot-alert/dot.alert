@@ -12,13 +12,17 @@ Being the custodian of your assets allows you to access a wide range of protocol
 
 Depending on your interests, you will be able to:
 
-* enrol in [collectives](bidding/kappa-sigma-mu-ksm-membership.md)
+* enrol in [Collectives](bidding/kappa-sigma-mu-ksm-membership.md)
 * participate in [decision-making](voting/)
 * obtain [funding](crowdfunding/)
 * contribute to [network security](staking/)
-* [swap](swapping/), [borrow](borrowing/), and lend assets
-* use NFT marketplaces
-* capitalise on surveys
+* [swap](swapping/), [borrow](borrowing/), and [lend](lending/) assets
+* mint and sell NFTs
+* capitalise on Prediction markets
+* access IoT, LBP, and Auto-compounding services
+* issue and trade Real World Assets, Carbon credits, and Fractionalised NFTs
+* create and manage Gameverses and Metaverses
+* build and monetise Social media-based communities
 
 <figure><img src="../../.gitbook/assets/O_Dashboard.JPG" alt="A screenshot of the official Staking dashboard of the Polkadot and Kusama Relay chains."><figcaption><p><a href="https://staking.polkadot.network/dashboard#/overview">Polkadot Dashboard</a> for staking assets on network's validators.</p></figcaption></figure>
 
@@ -26,4 +30,4 @@ Nevertheless, operating on blockchain by your own means requires you to pay clos
 
 
 
-**In this section, we look at how to optimise your interactions with various Polkadot  network protocols and avoid signing your assets away.**
+**In this section, we look at how to optimise your interactions with various Polkadot network protocols and avoid signing your assets away.**

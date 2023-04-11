@@ -6,7 +6,7 @@ description: Regulatory discussions around blockchain network infrastructure.
 
 _<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal advice from a licensed professional lawyer or attorney in your country.</mark>_
 
-<mark style="background-color:red;">****</mark>
+
 
 Blockchain infrastructure represents the hardware and software needed to provide access to Digital Ledger Technology (DLT) to end-users. In the Polkadot ecosystem, Substrate is the core component of this infrastructure; with blockchain engineers, application developers, user interface designers, and users all interacting with the framework at different levels.
 

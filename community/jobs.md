@@ -42,9 +42,9 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 _Positions:_ 4-6 Technical writers.
 
-_Requirements:_ Excellent knowledge of Parachain-specific technologies, Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
+_Requirements:_ Excellent knowledge of Parachain-specific technologies; Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
 
 _Rates: $150-$250/400-word article._
 
-Please complete our [**Expression of Interest form**](https://docs.google.com/forms/d/e/1FAIpQLScF7N91-fhT5WFsH1Y3TsBVll-PDITdD7MhmXeOKRL3bnOjew/viewform?usp=sf\_link) **** to get in touch with us.
+Please complete our [**Expression of Interest form**](https://docs.google.com/forms/d/e/1FAIpQLScF7N91-fhT5WFsH1Y3TsBVll-PDITdD7MhmXeOKRL3bnOjew/viewform?usp=sf\_link) to get in touch with us.
 

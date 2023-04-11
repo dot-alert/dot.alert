@@ -10,7 +10,7 @@ Care to help us improve our content and our platform?📈
 
 Complete our survey. The best 5 submissions will be awarded a bounty of $20 DOT each.
 
-****
+
 
 **Past surveys:**
 

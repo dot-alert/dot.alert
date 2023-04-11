@@ -30,5 +30,3 @@ You will need a Polkadot account to receive your coins/tokens, along with some u
 <figure><img src="../../.gitbook/assets/A_DotMarketcap.JPG" alt="DotMarketCap overview of Polkadot ecosystem tokens."><figcaption><p>Overview of listed ecosystem tokens/coins on <a href="https://www.dotmarketcap.com/listed">DotMarketCap</a>.</p></figcaption></figure>
 
 **In this section, we review key information for sending, receiving, and teleporting assets safely across Polkadot ecosystem's networks.**
-
-***

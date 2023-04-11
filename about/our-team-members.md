@@ -8,33 +8,33 @@ coverY: 0
 
 ## Project Manager:
 
-__[_Abdulaziz K_](https://twitter.com/akdatti94)__
+[_Abdulaziz K_](https://twitter.com/akdatti94)
 
-__
+
 
 ### Quality Assurance Officer:
 
-__[_Abdulbasit S_](https://twitter.com/DocAmoka)__
+[_Abdulbasit S_](https://twitter.com/DocAmoka)
 
-__
+
 
 ### Search Engine Optimisation Officer:
 
 _Moshood S_
 
-__
 
-### Social Network Officer: __&#x20;
 
-[_Judge L_](https://twitter.com/Grizz375)__
+### Social Network Officer:&#x20;
+
+[_Judge L_](https://twitter.com/Grizz375)
 
 
 
 ### Promoters:
 
-__[_Abdulkadir I_](https://twitter.com/Gambo00004)
+[_Abdulkadir I_](https://twitter.com/Gambo00004)
 
-__[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
+[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
 
 
 
