@@ -6,6 +6,10 @@ description: >-
 
 # Liquidity provision
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What is Liquidity Provision?
 
 Liquidity provision involves locking a pool of assets on a given Decentralised exchange (DEX) for some return. The types of assets that can be used to provide liquidity are based on the demand from [borrowers](../borrowing/) and [traders](../swapping/) who require them for their DeFi operations. The availability of assets is determined by the number of holders who are willing to lend these through DeFi platforms.

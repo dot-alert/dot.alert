@@ -6,6 +6,10 @@ description: >-
 
 # Liquidation
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What is Liquidation?
 
 Liquidation on DeFi platforms is the biggest downside of borrowing operations. It involves having [collateralised assets](collateralisation.md) sold when they fall below a certain value. The liquidation fee imposed on borrowers during this process depends on the parameters of the protocol.

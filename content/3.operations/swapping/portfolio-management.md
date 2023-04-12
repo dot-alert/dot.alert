@@ -6,6 +6,10 @@ description: >-
 
 # Portfolio Management
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What is Portfolio Management?
 
 Portfolio management encompasses a range of [operations](https://dot-alert.gitbook.io/dot.alert/content/3.operations) that allow users to monitor, preserve, and grow their assets. Because assets valuations can vary greatly over a short period of time, sourcing suitable portfolio management tools is key to maintaining or increasing acquired value while dealing with uncertainties.

@@ -6,6 +6,10 @@ description: >-
 
 # Collateralisation
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What is Collateralisation?
 
 Collateralisation on DeFi platforms is a process that allows users to borrow multiple types of assets such as stablecoins, network tokens, and platform tokens in exchange for a fee. The cost of borrowing often depends on the interest rates set by the free market and how long you borrow the assets for.

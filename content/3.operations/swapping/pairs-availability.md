@@ -6,6 +6,10 @@ description: >-
 
 # Token swaps
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What are Token Swaps ?
 
 Token swaps involve exchanging cryptocurrencies without drawing on fiat. On Decentralised Exchanges (DEXes), these operations rely on the Automated Market Marker (AMM) model where a liquidity pool holds a pair of tokens and an algorithm is used to maintain a specific balance of tokens in the pool. The price of each token is adjusted dynamically, based on the ratio within the pair at the time the transaction is executed.
