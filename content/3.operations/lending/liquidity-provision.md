@@ -34,7 +34,7 @@ Interoperable protocols of the Polkadot ecosystem make it possible for users to 
 
 
 
-### Risks: Mitigating Assets Volatility
+### Risks: Useful Resources on Assets Volatility
 
 Users who partake in liquidity pooling operations expose their portfolio to impermanent loss from the moment they start to provide liquidity on a given token pair. Even if the overall value of the assets held in a pool remains constant, any change in the pricing of a token against its pair will affect the number of tokens in the portfolio when liquidity is finally withdrawn. Monitoring the daily price of tokens is an important step in managing impermanent loss in the short term, as it will ensure that all valuable assets held in your portfolio are retained over time.
 

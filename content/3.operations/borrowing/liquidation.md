@@ -34,7 +34,7 @@ In another setup, borrowers can use their entire portfolio as collateral for a l
 
 
 
-### Risks: Strategies for Avoiding Liquidation <a href="#b36b" id="b36b"></a>
+### Risks: Useful Resources on Liquidation <a href="#b36b" id="b36b"></a>
 
 Assets liquidations generally occur more frequently during times of extreme market volatility, which cannot always be anticipated. Still, the risk of liquidation can be minimised by ensuring that your collateralisation ratio remains significantly above the protocol’s minima (i.e a positive Health Factor). This is even more important in the case where your collateral is made of multiple assets.
 
