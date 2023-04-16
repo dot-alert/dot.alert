@@ -27,6 +27,6 @@ You will need a Polkadot account to receive your coins/tokens, along with some u
 * Depending on the dapps that you use, you might need to investigate [address formats](address-formats.md).
 * Depending on the methods that you choose, you might need to make use of [transaction explorers](transaction-explorers.md).
 
-<figure><img src="../../.gitbook/assets/A_DotMarketcap.JPG" alt="DotMarketCap overview of Polkadot ecosystem tokens."><figcaption><p>Overview of listed ecosystem tokens/coins on <a href="https://www.dotmarketcap.com/listed">DotMarketCap</a>.</p></figcaption></figure>
+
 
 **In this section, we review key information for sending, receiving, and teleporting assets safely across Polkadot ecosystem's networks.**
