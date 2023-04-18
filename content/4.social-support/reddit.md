@@ -20,7 +20,7 @@ Each subreddit represents a specific project and comes with its own set of rules
 
 <figure><img src="../../.gitbook/assets/S_RDot.JPG" alt="A view of community rules and resources available for r/dot, a subreddit for Polkadot network."><figcaption><p>An overview of Community rules and resources for the <a href="https://www.reddit.com/r/dot/">r/dot</a> subreddit</p></figcaption></figure>
 
-Subreddits are usually maintained by moderators who relay important information to the community, provide technical support, and ensure that rules are followed within the forum. They also play a central role in encouraging community interactions with comments, awards, or mentions. Members can also cross-post information that they feel is relevant to the project, ask questions, answer queries, and share useful resources within subreddits.&#x20;
+Subreddits are usually maintained by moderators who relay important information to the community, provide technical support, and ensure that rules are followed within the forum. They also play a central role in encouraging community interactions with comments, awards, or mentions. Members can also cross-post information that they feel is relevant to the project, ask questions, answer queries, and share useful resources within subreddits.
 
 &#x20;
 
@@ -32,4 +32,4 @@ Despite having a moderation team in place, it is still possible for bad actors t
 
 <figure><img src="../../.gitbook/assets/S_RKusama.JPG" alt="A screenshot showing community members of r/kusama flagging and reporting a scam and its harmful link."><figcaption><p>An example of community members reporting and flagging a harmful post on <a href="https://www.reddit.com/r/Kusama/">r/kusama</a>. </p></figcaption></figure>
 
-Finally, community members should ensure that they follow general safety rules with regards to unsolicited support messages, urgent requests, and demands for Seed/secret phrase information. Besides reporting these incidents to the public and moderators, users should take steps to block spammers/bots immediately. Further security measures include limiting the amount of personal information shared in your public profile and reviewing your account's Safety and Privacy settings.\
+Finally, community members should ensure that they follow general safety rules with regards to unsolicited support messages, urgent requests, and demands for [Seed/secret phrase](../2.storage/seed-secret-phrases.md) information. Besides reporting these incidents to the public and moderators, users should take steps to block spammers/bots immediately. Further security measures include limiting the amount of personal information shared in your public profile and reviewing your account's Safety and Privacy settings.\
