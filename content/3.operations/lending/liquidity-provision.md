@@ -4,7 +4,7 @@ description: >-
   the Polkadot ecosystem.
 ---
 
-# Liquidity provision
+# Liquidity Provision
 
 _<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
 
@@ -40,7 +40,7 @@ Users who partake in liquidity pooling operations expose their portfolio to impe
 
 <figure><img src="../../../.gitbook/assets/O_LendingZenLink.JPG" alt="ZenLink DEX integrates data monitoring tools for Bootstrapping events."><figcaption><p>ZenLink DEX allows users to monitor key pool data throughout <a href="https://dex.zenlink.pro/#/bootstrap/list">bootstrapping events</a>.</p></figcaption></figure>
 
-Although the majority of DeFi platforms favour the use of fiat-backed stablecoins and native coins for all their token pairs, some lending [platforms](../../5.regulations/platforms/) extend their liquidity pooling functionalities to niche assets such as DAO tokens, Algorithmic stablecoins, synthetic tokens, and tokenised securities (also called "Real World Assets or RWAs"). Locking your assets in such pools could cause noticeable dips in the value of your portfolio, because niche assets are often susceptible to extreme fluctuations in their pricing (also called "Pump and dump") and could very well go to zero.
+Although the majority of DeFi platforms favour the use of fiat-backed stablecoins and native coins for all their token pairs, some lending [platforms](../../5.regulations/platforms/) extend their liquidity pooling functionalities to niche assets such as DAO tokens, Algorithmic stablecoins, synthetic tokens, and tokenised securities (also called "Real World Assets or RWAs"). Locking your assets in such pools could cause noticeable dips in the value of your portfolio, because [niche assets](derivatives-markets.md) are often susceptible to extreme fluctuations in their pricing (also called "Pump and dump") and could very well go to zero.
 
 <figure><img src="../../../.gitbook/assets/O_LendingEquilibrium.JPG" alt="Equilibrium provides a clean UI with dynamic data and interactive widgets on its lending page."><figcaption><p><a href="https://app.equilibrium.io/earn/strategies">Equilibrium</a> provides an optimal lending experience through a clean UI with dynamic data and interactive widgets.</p></figcaption></figure>
 
