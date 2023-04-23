@@ -14,7 +14,7 @@ _<mark style="background-color:red;">Disclaimer: This article is written by</mar
 
 Liquidity provision involves locking a pool of assets on a given Decentralised exchange (DEX) for some return. The types of assets that can be used to provide liquidity are based on the demand from [borrowers](../borrowing/) and [traders](../swapping/) who require them for their DeFi operations. The availability of assets is determined by the number of holders who are willing to lend these through DeFi platforms.
 
-<figure><img src="../../../.gitbook/assets/O_LendingParallelAnalytics.JPG" alt="Parallel Finance provides Money markets analytics to lenders, borrowers, and traders."><figcaption><p>An overview of Money markets analytics for KSM on <a href="https://analytics.parallel.fi/moneymarket/KSM">Parallel Heiko</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_LendingParallelAnalytics.JPG" alt="Data analytics of Liquidity provision for KSM on Parallel Heiko, including supplied and borrowed KSM."><figcaption><p>An overview of Money markets analytics for KSM on <a href="https://analytics.parallel.fi/moneymarket/KSM">Parallel Heiko</a>.</p></figcaption></figure>
 
 
 
@@ -22,15 +22,15 @@ Liquidity provision involves locking a pool of assets on a given Decentralised e
 
 At a basic level, users can provide liquidity by depositing their assets in liquidity pools from Automated Market Makers (AMMs). These pools come with their own parameters such as the types of assets to supply and the trading fees scheme that applies. By contrast, when lending assets as part of Money Market operations (MMs), the platform will specify the interest rates to be paid and the type(s) of assets that users will be getting in return. DEXes do not take custody of users' assets, which means that, if there is no voluntary locking period in place, all assets deposited can be withdrawn by the lenders along with any interest/payment due at anytime.
 
-<figure><img src="../../../.gitbook/assets/O_LendingPolkaswap.JPG" alt="Polkaswap has lending features for a wide range of native and multichain tokens."><figcaption><p><a href="https://polkaswap.io/#/explore/pools/">Polkaswap</a> proposes an extensive list of pools for lending native and multichain tokens.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_LendingPolkaswap.JPG" alt="Asset pools for lending native and multichain tokens on Polkaswap."><figcaption><p><a href="https://polkaswap.io/#/explore/pools/">Polkaswap</a> proposes an extensive list of pools for lending native and multichain tokens.</p></figcaption></figure>
 
 DeFi protocols use various bootstrapping mechanisms to obtain liquidity for their asset pools and incentivise early adopters to participate in their operations. To increase their Total Value Locked (also called "TVL"), some platforms create [staking](../staking/) programs for in-demand assets with higher than usual rates and/or bonuses. Meanwhile, other platforms create liquidity mining programs (also called "farms") on specific asset pools to retain users over the long term. The aim is to create a virtuous cycle of growth where the initial rewards attract more participants, which in turn creates more demand for the platform and its native token. This process also assists platforms in becoming truly decentralised over time.
 
-<figure><img src="../../../.gitbook/assets/O_LendingBifrostBoost.JPG" alt="Bifrost runs a Rainbow Boost programme to reward long-standing users and lenders."><figcaption><p>The <a href="https://bifrost.app/dashboard/boost">Rainbow boost programme</a> on Bifrost Finance links users' on-chain behaviour to cross-chain DeFi lending rewards.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_LendingBifrostBoost.JPG" alt="Bifrost Finance’s Rainbow Boost programme dashboard indicating rewards for long-standing users and lenders."><figcaption><p>The <a href="https://bifrost.app/dashboard/boost">Rainbow boost programme</a> on Bifrost Finance links users' on-chain behaviour to cross-chain DeFi lending rewards.</p></figcaption></figure>
 
 Interoperable protocols of the Polkadot ecosystem make it possible for users to provide liquidity with a single asset across different lending programmes through the use of LP tokens, XC-tokens, derivative tokens, and synthetic tokens. By deploying cross-chain functionalities for the exchange of new assets (also called "XCMP channels"), platforms built on top of DeFi-specific parachains encourage lenders to diversify their portfolio with minimal effort, as well as discover new pools and/or products.
 
-<figure><img src="../../../.gitbook/assets/O_LendingBasilisk.JPG" alt="Basilisk Finance supports assets from community-driven projects."><figcaption><p>Basilisk's <a href="https://app.basilisk.cloud/#/pools-and-farms">liquidity pools</a> support assets from community-driven projects.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_LendingBasilisk.JPG" alt="The interface for adding liquidity on Basilisk Finance."><figcaption><p>Basilisk's <a href="https://app.basilisk.cloud/#/pools-and-farms">liquidity pools</a> support assets from community-driven projects.</p></figcaption></figure>
 
 
 
@@ -42,7 +42,7 @@ Users who partake in liquidity pooling operations expose their portfolio to impe
 
 Although the majority of DeFi platforms favour the use of fiat-backed stablecoins and native coins for all their token pairs, some lending [platforms](../../5.regulations/platforms/) extend their liquidity pooling functionalities to niche assets such as DAO tokens, Algorithmic stablecoins, synthetic tokens, and tokenised securities (also called "Real World Assets or RWAs"). Locking your assets in such pools could cause noticeable dips in the value of your portfolio, because [niche assets](derivatives-markets.md) are often susceptible to extreme fluctuations in their pricing (also called "Pump and dump") and could very well go to zero.
 
-<figure><img src="../../../.gitbook/assets/O_LendingEquilibrium.JPG" alt="Equilibrium provides a clean UI with dynamic data and interactive widgets on its lending page."><figcaption><p><a href="https://app.equilibrium.io/earn/strategies">Equilibrium</a> provides an optimal lending experience through a clean UI with dynamic data and interactive widgets.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_LendingEquilibrium.JPG" alt="An overview of various lending strategies available on Equilibrium’s DeFi platform."><figcaption><p><a href="https://app.equilibrium.io/earn/strategies">Equilibrium</a> provides an optimal lending experience through a clean UI with dynamic data and interactive widgets.</p></figcaption></figure>
 
 In a cross-chain and multichain environment, DeFi protocols allow users to contribute to the circulation of large pools of assets across different networks and ecosystems. But this does not guarantee that the protocols themselves will not suffer any attack as the result of a bug or a misconfiguration. Project teams need to carefully consider the overall User Experience and the security features offered by platforms before proceeding to interact with them for liquidity pooling, lending services, or bootstrapping events.
 
