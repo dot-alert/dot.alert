@@ -8,8 +8,6 @@ description: Staking tools for the Polkadot ecosystem.
 
 [MyDotWallet](https://www.mydotwallet.com/)
 
-[Polkawatch](https://polkawatch.app/)
-
 [Staking dashboard](https://staking.polkadot.network/#/overview)
 
 [Staking income](https://james-sangalli.github.io/dot-staking-income-web/)
