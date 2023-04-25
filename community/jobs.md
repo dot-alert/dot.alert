@@ -22,11 +22,11 @@ _Rates:_ $200-$300/month.
 
 ### Ad hoc roles:
 
-_Positions:_ 2 Graphics designers.
+_Positions:_ 1 Graphics designer.
 
 _Requirements:_ 1 year industry experience; Good communication skills under remote conditions; Ability to create eye-catching and informative visuals; Familiarity with **Dot.alert() content and activities.**
 
-_Tasks:_ Update designs (logos, banners, palettes, etc.), produce templates for announcements, create themed infographics.
+_Tasks:_  Create themes and infographics.
 
 _Rates: TBD._
 
@@ -40,11 +40,11 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 ### Ad hoc roles:
 
-_Positions:_ 4-6 Technical writers.
+_Positions:_ 5 Technical writers.
 
-_Requirements:_ Excellent knowledge of Parachain-specific technologies; Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
+_Requirements:_ Excellent knowledge of technologies specific to _<mark style="color:green;">Zeitgeist, Robonomics, Nodle, Bit.Country, Basilisk/HydraDX, and Altair/Centrifuge</mark>_; Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
 
-_Rates: $150-$250/400-word article._
+_Rates: $200-$250/400-word article._
 
 Please complete our [**Expression of Interest form**](https://docs.google.com/forms/d/e/1FAIpQLScF7N91-fhT5WFsH1Y3TsBVll-PDITdD7MhmXeOKRL3bnOjew/viewform?usp=sf\_link) to get in touch with us.
 
