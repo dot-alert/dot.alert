@@ -10,9 +10,8 @@ Voting is the democratic power given to all token holders in the Polkadot ecosys
 
 Every token holder has the opportunity to:&#x20;
 
-* endorse referendum proposal
-* [vote directly](direct-democracy.md) for referenda
+* [vote directly](direct-democracy.md) on OpenGov referenda
 * [delegate their voting power](democracy-delegation.md) to someone else
 
-<figure><img src="../../../.gitbook/assets/O_VOpenGov.JPG" alt="Polkadot OpenGov gives token holders the power to decide on the direction of the network."><figcaption><p><a href="https://polkadot.network/blog/lets-talk-polkadot-opengov-part-i/">Polkadot OpenGov</a> gives the decision-making power of the network to token holders.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VPolkadotOpenGov.PNG" alt="Polkadot OpenGov gives token holders the power to decide on the direction of the network."><figcaption><p><a href="https://polkadot.network/features/opengov/">Polkadot OpenGov</a> gives the decision-making power of the network to token holders.</p></figcaption></figure>
 
