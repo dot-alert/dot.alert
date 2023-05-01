@@ -18,7 +18,7 @@ Polkassembly is a platform that provides special-purpose forum functionalities t
 
 Polkassembly aggregates and presents a wide range of information about Relay chain and Parachain networks such as token valuations, upcoming on-chain events, and news from official channels. There is also an ecosystem directory of auction-related metrics for Relay chains which include the number of live parachains, the percentage of total supply locked in [crowdloans](https://dot-alert.gitbook.io/dot.alert/content/3.operations/crowdfunding/crowdloans), and the number of finalised auctions.&#x20;
 
-<figure><img src="../../.gitbook/assets/S_PNews.JPG" alt="A sample of Moonriver network&#x27;s news feed on Polkassembly."><figcaption><p>Official news feed of the <a href="https://moonriver.polkassembly.network/news">Moonriver network</a> on Polkassembly.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_PNews.JPG" alt="A sample of Moonriver network&#x27;s news feed on Polkassembly."><figcaption><p>Official news feed of the Moonriver network on Polkassembly.</p></figcaption></figure>
 
 Polkassembly is currently the go-to platform for governance decisions on Relay chains. You can start a topic for discussion to share information about matters that are causes for concerns on the [network](https://dot-alert.gitbook.io/dot.alert/content/5.regulations/networks), whether it be democracy procedures (voting, nominating, campaigning, etc. ) or network operations (commissions, deposits, schedules, etc).&#x20;
 
