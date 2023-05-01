@@ -12,12 +12,6 @@ coverY: 0
 
 
 
-### Quality Assurance Officer:
-
-[_Abdulbasit S_](https://twitter.com/DocAmoka)
-
-
-
 ### Search Engine Optimisation Officer:
 
 _Moshood S_
