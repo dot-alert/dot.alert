@@ -40,9 +40,9 @@ _<mark style="background-color:blue;">Those who fund our developments.</mark>_
 
 
 
-## _Retired collaborators:_
+## Retired collaborators:
 
-_<mark style="background-color:blue;">Those who supported our growth.</mark>_
+_<mark style="background-color:blue;">Those who previously supported our mission.</mark>_
 
 _Abdulbasit S_
 
