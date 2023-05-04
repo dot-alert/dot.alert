@@ -20,13 +20,15 @@ _Anaelle LTD_
 
 [_Chinedu N_](https://twitter.com/iam\_combi16)
 
+_Machala F_
+
+_Michael E_
+
 [_Onyinye M_](https://twitter.com/ynnx\_\_\_)
 
 [_Rhoda A_](https://twitter.com/Zoewrites1)
 
 [_Shashank R_](https://twitter.com/Shashank\_Rai\_)
-
-[_YungBeef_](https://mobile.twitter.com/cryptocowboyog)
 
 
 
@@ -34,5 +36,17 @@ _Anaelle LTD_
 
 _<mark style="background-color:blue;">Those who fund our developments.</mark>_
 
-[The Polkadot Treasury](https://polkadot.subsquare.io/council/motion/263)&#x20;
+[The Polkadot Treasury](https://polkadot.subsquare.io/council/motion/263)
+
+
+
+## _Retired collaborators:_
+
+_<mark style="background-color:blue;">Those who supported our growth.</mark>_
+
+_Abdulbasit S_
+
+_Funmilayo L_
+
+_YungBeef_
 
