@@ -10,7 +10,7 @@ description: >-
 
 Democracy delegation is when you delegate your funds to another account to represent you for voting. It works almost the same way as [direct democracy](direct-democracy.md) in terms of setups for amounts and conviction. Only that, this time, your voting power is at the discretion of a third-party user called "delegated account".
 
-<figure><img src="../../../.gitbook/assets/O_VDelegation.png" alt="An interface for delegating democracy on Polkadot JS app."><figcaption><p>Polkadot-JS Apps provides an interface for <a href="https://polkadot.js.org/apps/#/referenda">delegating OpenGov votes</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VDelegationOps.JPG" alt="An interface for delegating democracy votes on Polkassembly."><figcaption><p>Polkassembly provides an interface for <a href="https://kusama.polkassembly.io/delegation">delegating OpenGov votes</a>.</p></figcaption></figure>
 
 
 
