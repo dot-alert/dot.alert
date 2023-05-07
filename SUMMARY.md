@@ -40,6 +40,8 @@
   * [Lending](content/3.operations/lending/README.md)
     * [Liquidity Provision](content/3.operations/lending/liquidity-provision.md)
     * [Derivatives Markets](content/3.operations/lending/derivatives-markets.md)
+  * [NFT Trading](content/3.operations/nft-trading/README.md)
+    * [Data management](content/3.operations/nft-trading/data-management.md)
 * [4.Support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)

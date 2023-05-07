@@ -17,7 +17,7 @@ Depending on your interests, you will be able to:
 * obtain [funding](crowdfunding/)
 * contribute to [network security](staking/)
 * [swap](swapping/), [borrow](borrowing/), and [lend](lending/) assets
-* mint and sell NFTs
+* [mint](nft-trading/data-management.md) and sell NFTs
 * capitalise on Prediction markets
 * access IoT, LBP, and Auto-compounding services
 * issue and trade Real World Assets, Carbon credits, and Fractionalised NFTs

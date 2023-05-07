@@ -40,5 +40,5 @@ Assets liquidations generally occur more frequently during times of extreme mark
 
 <figure><img src="../../../.gitbook/assets/O_BorrowingFree.JPG" alt="An explanation of the Liquidation free loan feature on Parallel Finance."><figcaption><p>Parallel Finance has introduced a <a href="https://docs.parallel.fi/parallel-finance/parallel-finance-protocol/parallel-product-guides/money-market-guide/liquidation-free-loan">Liquidation-free protocol</a> for borrowing DOT and KSM.</p></figcaption></figure>
 
-Perhaps the simplest way to protect yourself from liquidation is to use [price-tracking dapps](../swapping/portfolio-management.md) to monitor the valuations of your collateralised assets. You can also subscribe to alerts to get notifications on your phone when prices start to drop. That way, you can choose to deposit more collateral or close out your loan before you lose your assets.
+Perhaps the simplest way to protect yourself from liquidation is to use [price-tracking dapps](broken-reference) to monitor the valuations of your collateralised assets. You can also subscribe to alerts to get notifications on your phone when prices start to drop. That way, you can choose to deposit more collateral or close out your loan before you lose your assets.
 
