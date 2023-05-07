@@ -40,6 +40,8 @@ _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages
 
 ### Community-made
 
+[Cryptozilla](https://www.youtube.com/@CryptozillaKH)
+
 [Dotgraphic](https://twitter.com/dotgraphic1)
 
 [DotMarketCap](https://www.dotmarketcap.com/)
