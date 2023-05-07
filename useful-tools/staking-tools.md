@@ -12,7 +12,7 @@ description: Staking tools for the Polkadot ecosystem.
 
 [Staking income](https://james-sangalli.github.io/dot-staking-income-web/)
 
-[Talisman webapp](https://app.talisman.xyz/staking)
+[Talisman portal ](https://app.talisman.xyz/staking)
 
 [Validator selector](https://james-sangalli.github.io/dot-validator-selector/)
 
