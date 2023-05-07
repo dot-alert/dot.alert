@@ -36,11 +36,11 @@ Although platforms can present different interfaces, the NFT issuance process fo
 
 ### Risks: Mitigating Unavailability and Losses
 
-Despite operating on a decentralised blockchain networks, some NFT [platforms ](../../5.regulations/platforms/)still choose to store the NFT data minted by their users on centralised servers. This means that creators are at risk of losing access to their collections and digital assets if these platforms were to be shut down. Users need to pay particular attention to the storage options provided during the minting process, as only well-designed decentralised storage solutions can help make NFT content escape garbage collection over time.
+Despite operating on decentralised blockchain networks, some NFT [platforms ](../../5.regulations/platforms/)still choose to store NFT data from their users on centralised servers. This means that creators are at risk of losing access to their collections and digital assets if these platforms were to be shut down. Users need to pay particular attention to the storage options provided during the minting process, as only well-designed decentralised storage solutions can help make NFT content escape garbage collection over time.
 
 <figure><img src="../../../.gitbook/assets/O_NFTKodaDOTStore.JPG" alt="An NFT minted on the Basilisk parachain and permanently hosted on KodaDOT."><figcaption><p><a href="https://kodadot.xyz/bsx/">KodaDOT</a> uses "Permafrost" minting to permanently host or store Multichain NFT metadata.</p></figcaption></figure>
 
-When transferring NFTs between parachains and external blockchain ecosystems (i.e Ethereum, Cosmos, or Avalanche) via third-party bridges, choosing the wrong network could make your NFTs permanently unavailable. This is because bridges are operated through pre-programmed Smart Contracts that cannot be altered to retrieve tokens locked in other protocols. It is therefore your responsibility to verify the parameters of multichain transfers to avoid bad surprises.
+When transferring NFTs between parachains and external blockchain ecosystems (i.e Ethereum, Cosmos, Avalanche, etc.) via third-party bridges, choosing the wrong network could make your NFTs permanently unavailable. This is because bridges are routinely operated via pre-programmed Smart Contracts that cannot be altered to retrieve tokens locked in other protocols. It is therefore users' responsibility to verify the parameters of their multichain transfers to avoid bad surprises.
 
 <figure><img src="../../../.gitbook/assets/O_NFTSubwalletSend.JPG" alt="A guide for transferring NFTs with Subwallet."><figcaption><p><a href="https://subwallet.app/">Subwallet</a> has in-built support for the collection and transfer of NFTs.</p></figcaption></figure>
 
