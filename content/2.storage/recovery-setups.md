@@ -4,7 +4,7 @@ description: >-
   in the Polkadot ecosystem.
 ---
 
-# Recovery setups
+# Recovery Setups
 
 ## What are Recovery Setups?
 
@@ -33,6 +33,8 @@ For multisig accounts, more advanced setups are required because these accounts 
 <figure><img src="../../.gitbook/assets/S_RSMultix.JPG" alt="A screenshot of an article presenting Multix, an interface for multisig accounts management."><figcaption><p><a href="https://multix.chainsafe.io/">Multix</a> provides a user-friendly dashboard for creating, managing, and recovering multisig accounts.</p></figcaption></figure>
 
 But there is also the added option for each signatory to use a Pure proxy account for their related multisig operations that will subsequently delegate account control to different proxy accounts, many of which can be recoverable by the signatory's friends. Ultimately, these setups give team members flexible pathways for managing their pool of assets, even when access by some members' enrolled account is lost.
+
+<figure><img src="../../.gitbook/assets/S_RSPolkasafe.JPG" alt="The dashboard of PolkaSafe for creating or importing multisig accounts."><figcaption><p><a href="https://app.polkasafe.xyz/">PolkaSafe</a> allows users to manage all their multisig operations from a single interface.</p></figcaption></figure>
 
 
 

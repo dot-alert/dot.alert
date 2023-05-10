@@ -14,6 +14,8 @@ description: Aggregators for the Polkadot ecosystem.
 
 [SubID](https://sub.id/)
 
+[Talisman portal](https://app.talisman.xyz/portfolio)
+
 
 
 ### Transaction explorers

@@ -15,7 +15,7 @@
   * [Mobile Wallets](content/2.storage/mobile-wallets.md)
   * [Air-gapped Signers](content/2.storage/air-gapped-signers.md)
   * [Cold Storage Devices](content/2.storage/cold-storage-devices.md)
-  * [Recovery setups](content/2.storage/recovery-setups.md)
+  * [Recovery Setups](content/2.storage/recovery-setups.md)
 * [3.Operations](content/3.operations/README.md)
   * [Bidding](content/3.operations/bidding/README.md)
     * [Kappa Sigma Mu (KΣM) Membership](content/3.operations/bidding/kappa-sigma-mu-ksm-membership.md)

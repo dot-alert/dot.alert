@@ -52,9 +52,11 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 
 
-### Recovery tools
+### Recovery and Multisig tools
 
 [Banana split](https://bs.parity.io/#/)
 
 [Multix](https://multix.chainsafe.io/)
+
+[PolkaSafe](https://app.polkasafe.xyz/)
 
