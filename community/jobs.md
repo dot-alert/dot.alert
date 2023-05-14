@@ -24,11 +24,11 @@ _Rates:_ $200-$300/month.
 
 _Positions:_ 1 Graphics designer.
 
-_Requirements:_ 1 year industry experience; Good communication skills under remote conditions; Ability to create eye-catching and informative visuals; Familiarity with **Dot.alert() content and activities.**
+_Requirements:_ 1 year industry experience; Good communication skills under remote conditions; Ability to create eye-catching and informative visuals; Familiarity with **Dot.alert() content and activities; Based in Asia/APAC.**
 
 _Tasks:_  Create themes and infographics.
 
-_Rates: TBD._
+_Rates:_ $200-$300/month_._
 
 Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)to get in touch with us.
 

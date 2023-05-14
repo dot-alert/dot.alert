@@ -20,7 +20,7 @@ _Anaelle LTD_
 
 [_Chinedu N_](https://twitter.com/iam\_combi16)
 
-_Machala F_
+[_Machala F_](https://twitter.com/IamZionFortune)
 
 _Michael E_
 

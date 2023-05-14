@@ -13,7 +13,7 @@ With so much innovation happening in the Polkadot ecosystem, you will need to fi
 * directly from project team members (Founders, Community managers, Ambassadors)
 * indirectly from projects publications ([Docs](docs.md), [GitHub repos,](github.md) [Polkassembly posts](polkassembly.md))
 * from official social media ([Discord](discord.md), [Twitter](twitter.md), [Telegram](telegram.md), Polkaverse)
-* from unofficial threads and tags ([Reddit](reddit.md), Youtube, Grill)
+* from unofficial threads and tags ([Reddit](reddit.md), [Youtube](youtube.md), Grill)
 
 <figure><img src="../../.gitbook/assets/S_PolkadotCommunities.PNG" alt="A screenshot showcasing all social network platforms from which Polkadot ecosystem participants can get support."><figcaption><p>Overview of the various platforms that host <a href="https://polkadot.network/community/">Polkadot Communities</a>.</p></figcaption></figure>
 
