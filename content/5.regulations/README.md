@@ -2,7 +2,7 @@
 description: >-
   Monitoring, tracking, and accounting for Web3 assets in the Polkadot
   ecosystem.
-cover: ../../.gitbook/assets/DotRegulations02 (2).png
+cover: ../../.gitbook/assets/DotRegulations02.png
 coverY: 0
 ---
 
@@ -30,5 +30,3 @@ In the end, **compliance** remains the biggest challenge for users, investors, p
 
 
 **In this section, we cross-reference Polkadot network's technologies with existing legislations and review some essential ecosystem tools for assets management.**&#x20;
-
-&#x20;

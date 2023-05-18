@@ -18,7 +18,7 @@ _Requirements:_ Involvement in diverse crypto-related communities on several soc
 
 _Tasks:_ Relay content updates, monthly quizzes, and user surveys across various crypto-related channels and groups.&#x20;
 
-_Rates:_ $200-$300/month.
+_Rates:_ $200/month.
 
 ### Ad hoc roles:
 
@@ -44,7 +44,7 @@ _Positions:_ 5 Technical writers.
 
 _Requirements:_ Excellent knowledge of technologies specific to _<mark style="color:green;">Zeitgeist, Robonomics, Nodle, Bit.Country, Basilisk/HydraDX, and Altair/Centrifuge</mark>_; Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
 
-_Rates: $200-$250/400-word article._
+_Rates: $2150-$200/400-word article._
 
 Please complete our [**Expression of Interest form**](https://docs.google.com/forms/d/e/1FAIpQLScF7N91-fhT5WFsH1Y3TsBVll-PDITdD7MhmXeOKRL3bnOjew/viewform?usp=sf\_link) to get in touch with us.
 
