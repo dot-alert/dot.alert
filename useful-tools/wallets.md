@@ -36,7 +36,7 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 [AirGap](https://airgap.it/)
 
-[Parity Signer](https://www.parity.io/technologies/signer/)
+[Polkadot Vault](https://www.parity.io/technologies/signer/)
 
 [Stylo](https://stylo-app.com/)
 
