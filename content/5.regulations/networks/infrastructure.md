@@ -60,7 +60,7 @@ There have been instances in the past whereby individual investors have [sued](h
 
 There have been a lot of discussions regarding the sustainability of decentralised networks, because there is the pervasive belief that a significant amount of power is needed to run and maintain their infrastructure. Although current research has proved that Polkadot networks are among the greenest in the blockchain space, variations remain at the scale of individual node operators.
 
-<figure><img src="../../../.gitbook/assets/R_NSequester.JPG" alt="A summary of BitGreen and Sequester&#x27;s proposal to implement eco-friendly solutions in the Polkadot ecosystem."><figcaption><p><a href="https://bitgreen.org/blog/polkadot-climate-positive">BitGreen and Sequester</a> propose parachain operations built around carbon credits.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R_NCCCIReport.JPG" alt="A graph showing Polkadot network&#x27;s energy efficiency compared to other blockchain networks. "><figcaption><p>A comparative table from the CCCI 2021 report on <a href="https://carbon-ratings.com/">yearly electric consumption</a> showing Polkadot's performance.</p></figcaption></figure>
 
 For this reason, Relay chain validators and Parachain collators still need to pay attention to their own carbon footprint and take proactive steps to reduce its environmental impact over time. Furthermore, in the context of [international agreements](https://www.whitehouse.gov/ostp/news-updates/2022/09/08/fact-sheet-climate-and-energy-implications-of-crypto-assets-in-the-united-states/) on climate change, network infrastructure providers need to ensure that the energy sources that they use do not go against the standards outlined by their local authorities.&#x20;
 
