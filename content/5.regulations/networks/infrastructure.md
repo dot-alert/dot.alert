@@ -58,7 +58,7 @@ There have been instances in the past whereby individual investors have [sued](h
 
 ### Ecological Risks
 
-There have been a lot of discussions regarding the sustainability of decentralised networks, because there is the pervasive belief that a significant amount of power is needed to run and maintain their infrastructure. Although current research has proved that Polkadot networks are among the greenest in the blockchain space, variations remain at the scale of individual node operators.
+There have been a lot of discussions regarding the sustainability of decentralised networks, because there is the pervasive belief that a significant amount of power is needed to run and maintain their infrastructure. Although current research has proved that Polkadot ecosystem networks are among the greenest in the blockchain space, variations remain at the scale of individual node operators.
 
 <figure><img src="../../../.gitbook/assets/R_NCCCIReport.JPG" alt="A graph showing Polkadot network&#x27;s energy efficiency compared to other blockchain networks. "><figcaption><p>A comparative table from the CCCI 2021 report on <a href="https://carbon-ratings.com/">yearly electric consumption</a> showing Polkadot's performance.</p></figcaption></figure>
 
