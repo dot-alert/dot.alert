@@ -2,7 +2,7 @@
 description: >-
   Configuring, transacting, and signing with Web3 assets in the Polkadot
   ecosystem.
-cover: ../../.gitbook/assets/DotOperations02.png
+cover: ../../.gitbook/assets/DotOperations02 (1) (1).png
 coverY: 0
 ---
 
@@ -17,7 +17,7 @@ Depending on your interests, you will be able to:
 * obtain [funding](crowdfunding/)
 * contribute to [network security](staking/)
 * [swap](swapping/), [borrow](borrowing/), and [lend](lending/) assets
-* [mint](nft-trading/data-management.md) and sell NFTs
+* [mint](nft-trading/data-management.md) and [sell](nft-trading/marketplace-activities.md) NFTs
 * capitalise on Prediction markets
 * access IoT, LBP, and Auto-compounding services
 * issue and trade Real World Assets, Carbon credits, and Fractionalised NFTs

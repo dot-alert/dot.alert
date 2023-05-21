@@ -2,7 +2,7 @@
 description: >-
   Troubleshooting, discussing, and reviewing Web3 assets in the Polkadot
   ecosystem.
-cover: ../../.gitbook/assets/DotSupport02.png
+cover: ../../.gitbook/assets/DotSupport02 (1).png
 coverY: 0
 ---
 

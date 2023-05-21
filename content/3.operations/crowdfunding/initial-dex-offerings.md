@@ -36,7 +36,7 @@ Although crowdfunding through DEXes might seem more secure compared to ICOs/IEOs
 
 Because of the rising popularity of IDOs as an alternative to other more time-consuming crowdfunding methods, some platforms choose not to implement checks on participants' account addresses. As a result, these platforms are swarmed by trading bots that purchase a big chunk of project's tokens, and rob actual investors of these unique investment opportunities.
 
-<figure><img src="../../../.gitbook/assets/O_IDOStellaSwap (1).JPG" alt="A 4-step guide to participating in StellaSwap&#x27;s Initial Dex Offering (IDO)"><figcaption><p><a href="https://stellaswap.com/launchpad">StellaSwap</a> secures IDO participation through the staking of its native token.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_IDOStellaSwap (2).JPG" alt="A 4-step guide to participating in StellaSwap&#x27;s Initial Dex Offering (IDO)"><figcaption><p><a href="https://stellaswap.com/launchpad">StellaSwap</a> secures IDO participation through the staking of its native token.</p></figcaption></figure>
 
 In light of the above risks, it is recommended that prospective IDO proponents and investors carefully read through the documentation of each individual platform to get a good understanding of their terms and conditions of [services](../../5.regulations/platforms/services.md). This is particularly important because vesting periods might apply and TGEs can be delayed for unforeseen reasons.
 
