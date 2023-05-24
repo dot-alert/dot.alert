@@ -26,8 +26,6 @@ _Michael E_
 
 [_Onyinye M_](https://twitter.com/ynnx\_\_\_)
 
-[_Rhoda A_](https://twitter.com/Zoewrites1)
-
 [_Shashank R_](https://twitter.com/Shashank\_Rai\_)
 
 
@@ -47,6 +45,8 @@ _<mark style="background-color:blue;">Those who previously supported our mission
 _Abdulbasit S_
 
 _Funmilayo L_
+
+_Rhoda A_
 
 _YungBeef_
 

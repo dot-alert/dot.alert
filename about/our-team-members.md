@@ -12,21 +12,17 @@ coverY: 0
 
 
 
-### Search Engine Optimisation Officer:
+### SEO officer:
 
 _Moshood S_
-
-
-
-### Social Network Officer:&#x20;
-
-[_Judge L_](https://twitter.com/Grizz375)
 
 
 
 ### Promoters:
 
 [_Abdulkadir I_](https://twitter.com/Gambo00004)
+
+[_Judge L_](https://twitter.com/Grizz375)
 
 [_Onyinye M_](https://twitter.com/ynnx\_\_\_)
 
