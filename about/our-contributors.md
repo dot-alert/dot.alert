@@ -10,9 +10,9 @@ coverY: 0
 
 _<mark style="background-color:blue;">Those who create our content.</mark>_
 
-[_Abdulaziz K_](https://twitter.com/akdatti94)
+_Abdulaziz K_
 
-[_Abdulkadir I_](https://twitter.com/Gambo00004)
+_Abdulkadir I_
 
 [_Amed K_](https://twitter.com/Abdulra49391530)
 
@@ -20,13 +20,13 @@ _Anaelle LTD_
 
 [_Chinedu N_](https://twitter.com/iam\_combi16)
 
-[_Machala F_](https://twitter.com/IamZionFortune)
+_Machala F_
 
 _Michael E_
 
-[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
+_Onyinye M_
 
-[_Shashank R_](https://twitter.com/Shashank\_Rai\_)
+_Shashank R_
 
 
 
