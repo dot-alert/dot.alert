@@ -34,7 +34,7 @@ You can get very specific information about any account through transaction expl
 
 When you are sending assets or when you are due to receive coins on a network, you can use transaction explorers to track the progress of the transfer. If there is a problem down the line, you can always use on-chain data to troubleshoot your issues. This is particularly relevant if you are using Centralised platforms or Centralised exchanges to obtain Polkadot assets, as they will often ask for a proof that a transaction has been made in the first place.
 
-<figure><img src="../../.gitbook/assets/A_TEDotScanner.JPG" alt="A screenshot of a Polkadot account on DotScanner."><figcaption><p>A Polkadot account summary on a transaction explorer provided by <em>DotScanner</em>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/A_TECumulon.JPG" alt="The landing page of Cumulon, an asset explorer for staking."><figcaption><p>Cumulon is an assets explorer for staking operations.</p></figcaption></figure>
 
 Transaction explorers are also very useful to monitor accounts when you don't have direct access to your wallet. Users who suspect that their account has been hacked often go through on-chain data to flag transactions that they do not recognise along with the associated addresses. Sometimes, investigations through transaction explorers can lead to the actual real-life identity of scammers and phishers.
 
