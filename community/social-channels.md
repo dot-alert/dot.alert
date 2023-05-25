@@ -1,5 +1,5 @@
 ---
-description: Connect with Web3 communities via Dot.alert().
+description: Connect with Web3 users and enthusiasts via Dot.alert().
 cover: ../.gitbook/assets/DotSocials02.png
 coverY: 0
 ---
