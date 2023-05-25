@@ -18,11 +18,13 @@ Depending on your interests, you will be able to:
 * contribute to [network security](staking/)
 * [swap](swapping/), [borrow](borrowing/), and [lend](lending/) assets
 * [mint](nft-trading/data-management.md) and [sell](nft-trading/marketplace-activities.md) NFTs
-* capitalise on Prediction markets
-* access IoT, LBP, and Auto-compounding services
-* issue and trade Real World Assets, Carbon credits, and Fractionalised NFTs
-* create and manage Gameverses and Metaverses
+* access Auto-compounding and LBP services
+* create and manage Gameverses
 * build and monetise Social media-based communities
+* capitalise on Prediction markets
+* activate and maintain IoT subscriptions
+* generate and amplify Metaverse-based brands
+* issue and trade Real World Assets, Carbon credits, and Fractionalised NFTs
 
 <figure><img src="../../.gitbook/assets/O_Dashboard.JPG" alt="A screenshot of the official Staking dashboard of the Polkadot and Kusama Relay chains."><figcaption><p><a href="https://staking.polkadot.network/dashboard#/overview">Polkadot Dashboard</a> for staking assets on network's validators.</p></figcaption></figure>
 
