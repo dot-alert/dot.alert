@@ -46,6 +46,8 @@ Cryptozilla
 
 DotMarketCap
 
+[GigMind](https://gigmind.app/)
+
 KryptosChain
 
 _Polkadot for Beginners_: [Audiobook](https://open.spotify.com/episode/2UtscT6JVbYUBNvNyhEcGo) (Spotify) by Abujulaibib
