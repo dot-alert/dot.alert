@@ -30,7 +30,7 @@ DotLeap Newsletter
 
 Parachains.info
 
-_Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages) by gbaci
+_Polkadot for Beginners_: E-book (10 languages) by gbaci
 
 Polkadot Insider
 
