@@ -8,11 +8,9 @@ description: >-
 
 ## What is Direct Democracy?
 
-Direct democracy is when you cast your votes from your own Polkadot account(s). This can be carried out using different setups. You can use a standard account that contains all your funds to complete your every day operations, including voting. You can also use a separate governance proxy account to sign democracy transactions on behalf of your every day account.
+Direct democracy is when you cast your votes from your own Polkadot account(s). This can be carried out using different setups. You can use a standard account that contains all your funds to complete your every day operations, including voting. You can also use a separate governance proxy account to sign democracy transactions on behalf of your every day account.  It is essential to note that [OpenGov](https://polkadot.network/blog/gov2-polkadots-next-generation-of-decentralised-governance/) allows many different classes of referendum to take place at the same time.
 
-<figure><img src="../../../.gitbook/assets/O_VPoC (1).JPG" alt="The Proof of Chaos website rewards users with NFTs for engaging in direct democracy on Kusama network."><figcaption><p>Direct voting is rewarded with NFTs on <a href="https://www.proofofchaos.app/">Proof of Chaos</a>.</p></figcaption></figure>
-
-Slightly different from voting is endorsing proposals submitted by other community members. It entails locking up your tokens for an indeterminate amount of time on any proposal you find interesting. This helps move that proposal up the queue, giving it a higher chance of being picked to be a referendum soon after. It is essential to note that the [Gov 2.0 (also called OpenGov)](https://polkadot.network/blog/gov2-polkadots-next-generation-of-decentralised-governance/) upgrade will entirely overhaul this endorsement process and allow many different classes of referendum to take place at the same time.
+<figure><img src="../../../.gitbook/assets/O_VPoC (1).JPG" alt="The Proof of Chaos website rewards users with NFTs for engaging in direct democracy on Kusama network."><figcaption><p>Direct voting is rewarded with NFTs on Proof of Chaos.</p></figcaption></figure>
 
 
 
@@ -20,11 +18,11 @@ Slightly different from voting is endorsing proposals submitted by other communi
 
 In the Polkadot ecosystem, the main governance platforms that can be used for voting are _Polkadot-JS Apps, Polkassembly, OpenSquare_, _SubSquare, Commonwealth and Proof of Chaos_. Most of these platforms have integrated parachains into their interfaces because ecosystem projects need token holders to vote on decisions in a decentralised manner.
 
-<figure><img src="../../../.gitbook/assets/O_VSubsquare.JPG" alt="An overview of Acala network&#x27;s governance operations on Subsquare."><figcaption><p>Acala network's governance operations are supported on <a href="https://www.subsquare.io/">Subsquare</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VSubsquare.JPG" alt="An overview of Acala network&#x27;s governance operations on Subsquare."><figcaption><p>Acala network's governance operations are supported on Subsquare.</p></figcaption></figure>
 
 When voting, you select an amount out of your staked or available coins that you are willing to lock for the duration of the vote. You can also lock your coins for a longer time to multiply the value of your vote within the overall turnout. Furthermore, some platforms use [Quadratic voting](https://vote.polkadot.network/) strategies to determine the final outcome of a vote, which are useful to prevent token-rich holders from taking control of all governance decisions.
 
-<figure><img src="../../../.gitbook/assets/O_VOpenSquare.JPG" alt="An overview of the snapshot vote for distribution of uncalmable CFG rewards on Opensquare"><figcaption><p><a href="https://voting.opensquare.io/">OpenSquare</a> has built an off-chain quadratic voting system that integrates Centrifuge.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VOpenSquare.JPG" alt="An overview of the snapshot vote for distribution of uncalmable CFG rewards on Opensquare"><figcaption><p>OpenSquare has built an off-chain quadratic voting system that integrates Centrifuge.</p></figcaption></figure>
 
 
 

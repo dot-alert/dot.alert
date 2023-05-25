@@ -14,7 +14,7 @@ _<mark style="background-color:red;">Disclaimer: This article is written by</mar
 
 Liquidation on DeFi platforms is the biggest downside of borrowing operations. It involves having [collateralised assets](collateralisation.md) sold when they fall below a certain value. The liquidation fee imposed on borrowers during this process depends on the parameters of the protocol.
 
-<figure><img src="../../../.gitbook/assets/O_BorrowingAcala.JPG" alt="Acala network&#x27;s dashboard showing aggregated price feeds for ACA, DOT, and USDC assets."><figcaption><p><a href="https://apps.acala.network/vault/oracle">Acala</a>'s oracles ensure that on-chain price feeds for supported assets remain available. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BorrowingAcala.JPG" alt="Acala network&#x27;s dashboard showing aggregated price feeds for ACA, DOT, and USDC assets."><figcaption><p>Acala's oracles ensure that on-chain price feeds for supported assets remain available. </p></figcaption></figure>
 
 
 
@@ -22,7 +22,7 @@ Liquidation on DeFi platforms is the biggest downside of borrowing operations. I
 
 How liquidations take place in practice varies by platform, with a range of methods used in the Polkadot ecosystem. Nevertheless, the result remains the same from an end user’s point of view.
 
-<figure><img src="../../../.gitbook/assets/O_BorrowingHealthFactor.png" alt="The portfolio management dashboard of Moonwell Finance showing a user&#x27;s portfolio details such as balances and borrowed GLMR."><figcaption><p><a href="https://moonwell.fi/artemis/GLMR">Moonwell Finance</a> provides portfolio management tools for tracking liquidation risk. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BorrowingHealthFactor.png" alt="The portfolio management dashboard of Moonwell Finance showing a user&#x27;s portfolio details such as balances and borrowed GLMR."><figcaption><p>Moonwell Finance provides portfolio management tools for tracking liquidation risk. </p></figcaption></figure>
 
 On a DeFi protocol with automated on-chain liquidation, collateralised assets are sold via the DEX so that the protocol can repay the loan. Through this mechanism, the platform collects a liquidation fee for its treasury, and returns any leftover collateral to the user.
 
@@ -38,7 +38,7 @@ In another setup, borrowers can use their entire portfolio as collateral for a l
 
 Assets liquidations generally occur more frequently during times of extreme market volatility, which cannot always be anticipated. Still, the risk of liquidation can be minimised by ensuring that your collateralisation ratio remains significantly above the protocol’s minima (i.e a positive Health Factor). This is even more important in the case where your collateral is made of multiple assets.
 
-<figure><img src="../../../.gitbook/assets/O_BorrowingFree.JPG" alt="An explanation of the Liquidation free loan feature on Parallel Finance."><figcaption><p>Parallel Finance has introduced a <a href="https://docs.parallel.fi/parallel-finance/parallel-finance-protocol/parallel-product-guides/money-market-guide/liquidation-free-loan">Liquidation-free protocol</a> for borrowing DOT and KSM.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BorrowingFree.JPG" alt="An explanation of the Liquidation free loan feature on Parallel Finance."><figcaption><p>Parallel Finance has introduced a Liquidation-free protocol for borrowing DOT and KSM.</p></figcaption></figure>
 
-Perhaps the simplest way to protect yourself from liquidation is to use [price-tracking dapps](broken-reference) to monitor the valuations of your collateralised assets. You can also subscribe to alerts to get notifications on your phone when prices start to drop. That way, you can choose to deposit more collateral or close out your loan before you lose your assets.
+Perhaps the simplest way to protect yourself from liquidation is to use [price-tracking dapps](../swapping/portfolio-management.md) to monitor the valuations of your collateralised assets. You can also subscribe to alerts to get notifications on your phone when prices start to drop. That way, you can choose to deposit more collateral or close out your loan before you lose your assets.
 

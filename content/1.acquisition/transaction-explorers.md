@@ -16,13 +16,13 @@ Transaction explorers are special-purpose dapps that aggregate and display opera
 
 Transaction explorers are similar to a dynamic spreadsheet that is updated every time the chain produces a block. They come with a range of filters and admin-friendly utilities that allow users to collate, customise, and export the data that they need in real time.&#x20;
 
-<figure><img src="../../.gitbook/assets/A_TESubscan.JPG" alt="A screenshot of a Turing account on Subscan."><figcaption><p>An account summary on the <a href="https://turing.subscan.io/">Turing network transaction explorer</a> provided by Subscan.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/A_TESubscan.JPG" alt="A screenshot of a Turing account on Subscan."><figcaption><p>An account summary on the Turing network transaction explorer provided by Subscan.</p></figcaption></figure>
 
 
 
 ### How do Transaction Explorers Work?
 
-Once a Polkadot account has been activated on-chain with an [existential deposit](https://dot-alert.gitbook.io/dot.alert/content/1.acquisition/existential-deposits), its data become visible on transaction explorers that support the network. Typically, you will need to use the corresponding [address format](https://dot-alert.gitbook.io/dot.alert/content/1.acquisition/address-formats) to explore information about the account.
+Once a Polkadot account has been activated on-chain with an [existential deposit](existential-deposits.md), its data become visible on transaction explorers that support the network. Typically, you will need to use the corresponding address format to explore information about the account.
 
 <figure><img src="../../.gitbook/assets/A_TEPortfolio.png" alt="A screenshot of all assets held in an account on the Asset Portfolio dapp interface."><figcaption><p>Customisable view of assets on <a href="https://substrate-portfolio.github.io/polkadot-portfolio/">Polkadot Portfolio</a> with no account sign-in needed.</p></figcaption></figure>
 
@@ -34,7 +34,7 @@ You can get very specific information about any account through transaction expl
 
 When you are sending assets or when you are due to receive coins on a network, you can use transaction explorers to track the progress of the transfer. If there is a problem down the line, you can always use on-chain data to troubleshoot your issues. This is particularly relevant if you are using Centralised platforms or Centralised exchanges to obtain Polkadot assets, as they will often ask for a proof that a transaction has been made in the first place.
 
-<figure><img src="../../.gitbook/assets/A_TEDotScanner.JPG" alt="A screenshot of a Polkadot account on DotScanner."><figcaption><p>A Polkadot account summary on a transaction explorer provided by <a href="https://dotscanner.com/polkadot/search"><em>DotScanner</em></a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/A_TEDotScanner.JPG" alt="A screenshot of a Polkadot account on DotScanner."><figcaption><p>A Polkadot account summary on a transaction explorer provided by <em>DotScanner</em>.</p></figcaption></figure>
 
 Transaction explorers are also very useful to monitor accounts when you don't have direct access to your wallet. Users who suspect that their account has been hacked often go through on-chain data to flag transactions that they do not recognise along with the associated addresses. Sometimes, investigations through transaction explorers can lead to the actual real-life identity of scammers and phishers.
 

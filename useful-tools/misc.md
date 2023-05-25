@@ -20,37 +20,37 @@ description: Polkadot ecosystem news, tutorials, guides, collectives, etc.
 
 ### Treasury-funded
 
-[DotInsights](https://dotinsights.subwallet.app/)
+DotInsights
 
-[DotLeap Newsletter](https://newsletter.dotleap.com/)
+DotLeap Newsletter
 
 [Guide to Polkadot-JS](https://anaelleltd.github.io/polkadotjs-guide/) by Anaelle LTD
 
 [Kappa Sigma Mu (KΣM)](https://ksmsociety.io/)
 
-[Parachains.info](https://parachains.info/)
+Parachains.info
 
 _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages) by gbaci
 
-[Polkadot Insider](https://twitter.com/PolkadotInsider)
+Polkadot Insider
 
-[The Kusamarian](https://www.youtube.com/@TheKusamarian/playlists)
+The Kusamarian
 
 
 
 ### Community-made
 
-[Cryptozilla](https://www.youtube.com/@CryptozillaKH)
+Cryptozilla
 
 [Dotgraphic](https://twitter.com/dotgraphic1)
 
-[DotMarketCap](https://www.dotmarketcap.com/)
+DotMarketCap
 
-[KryptosChain](https://www.youtube.com/c/kryptoschain)
+KryptosChain
 
 _Polkadot for Beginners_: [Audiobook](https://open.spotify.com/episode/2UtscT6JVbYUBNvNyhEcGo) (Spotify) by Abujulaibib
 
 [Subdaily](https://subdaily.io/)
 
-[WagMedia](https://twitter.com/thatMediaWag)
+WagMedia
 

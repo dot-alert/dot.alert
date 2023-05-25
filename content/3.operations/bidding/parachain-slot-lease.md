@@ -36,11 +36,11 @@ Parachain slot auctions are an intricate combination of a candle auction mechani
 
 For these reasons, it is possible to have the biggest bid for the longest time and until the end, yet still fail to secure a parachain slot at a given auction.
 
-<figure><img src="../../../.gitbook/assets/O_BParachaininfo.JPG" alt="A chart of Polkadot auctions from July 16 to August 2 of 2021."><figcaption><p>Chart of a Polkadot auction batch by <a href="https://parachains.info/auctions"><em>Parachains.info</em></a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BParachaininfo.JPG" alt="A chart of Polkadot auctions from July 16 to August 2 of 2021."><figcaption><p>Chart of a Polkadot auction batch by <em>Parachains.info</em>.</p></figcaption></figure>
 
 Parachain slot leases can be broken down into different lease periods, each of either 6 weeks on Kusama or 3 months on Polkadot. This means that individuals and projects can configure their lease for a short as 6 weeks and as long as 96 weeks, depending on their needs.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_BDotMarketcap.JPG" alt="An overview of the funds collated by OmiBTC during a Polkadot auction."><figcaption><p><a href="https://www.dotmarketcap.com/auction/polkadot">DotMarketcap</a>'s overview of funds collated by OmiBTC for a Polkadot auction.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BDotMarketcap.JPG" alt="An overview of the funds collated by OmiBTC during a Polkadot auction."><figcaption><p>DotMarketcap's overview of funds collated by OmiBTC for a Polkadot auction.</p></figcaption></figure>
 
 However, there is an extra layer complexity in the bidding process because the VRF is designed to optimise the number of lease periods locked during an auction at the time it selects the winner. Therefore, it is often recommended to bid for the full duration of the lease period to maximise the chances of winning a bid, and also to allow for some buffer time during the gradual deployment of the parachain.
 

@@ -4,15 +4,15 @@ description: Governance platforms for the Polkadot ecosystem.
 
 # Governance platforms
 
-[OpenSquare](https://voting.opensquare.io/)
+OpenSquare
 
-[Polkassembly](https://polkadot.polkassembly.io/)
+Polkassembly
 
-[Proof-of-Chaos](https://www.proofofchaos.app/)
+Proof-of-Chaos
 
-[Ryabina bots](https://t.me/Polkadot\_Ryabina\_bot)
+Ryabina bots
 
-[Subsquare](https://www.subsquare.io/)
+Subsquare
 
-[Web3alert](https://web3alert.io/)
+Web3alert
 

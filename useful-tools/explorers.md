@@ -8,35 +8,33 @@ description: Aggregators for the Polkadot ecosystem.
 
 [Asset Portfolio](https://substrate-portfolio.github.io/polkadot-portfolio/)
 
-[Cumulon](https://cumulon.cloud/#/home)
+Cumulon
 
-[Polkaholic](https://polkaholic.io/)
+Polkaholic
 
 [SubID](https://sub.id/)
-
-[Talisman portal](https://app.talisman.xyz/portfolio)
 
 
 
 ### Transaction explorers
 
-[Calamar](https://calamar.app/)
+Calamar
 
-[DotScanner](https://dotscanner.com/)
+DotScanner
 
-[StateScan](https://statemine.statescan.io/)
+StateScan
 
-[Subscan](https://polkadot.subscan.io/)
+Subscan
 
 
 
 ### Data indexers
 
-[SubQuery](https://subquery.network/)
+SubQuery
 
-[Subsquid](https://www.subsquid.io/)
+Subsquid
 
-[Web3Go](https://app.web3go.xyz/#/)
+Web3Go
 
 
 

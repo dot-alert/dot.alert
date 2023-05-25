@@ -18,11 +18,11 @@ Validators are tasked with the production of Relay chains blocks and the verific
 
 Becoming a node operator requires infrastructure that can be scaled to handle current and future demand for blockspace on the network. These setups can be deployed on bare metal machines located at data centres or on virtual machines from cloud providers. Depending on the type of infrastructure that they choose, validators can get more control over the costs, deployment, performance, geo-location and environmental impact of their operations.
 
-<figure><img src="../../../.gitbook/assets/O_SChainVizKusamaHelikon.JPG" alt="A 3D visualisation of Kusama network&#x27;s block production process, network status, and validator statistics from Helikon Labs&#x27; ChainViz Alpha app."><figcaption><p>Helikon Labs' <a href="https://alpha.chainviz.app/">ChainViz</a> visualises Kusama network's block production process in 3D.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SChainVizKusamaHelikon.JPG" alt="A 3D visualisation of Kusama network&#x27;s block production process, network status, and validator statistics from Helikon Labs&#x27; ChainViz Alpha app."><figcaption><p>Helikon Labs' ChainViz visualises Kusama network's block production process in 3D.</p></figcaption></figure>
 
 Aside sourcing reliable infrastructure, validators need to sync chain’s data, set up stash and controller accounts for their nodes, obtain different session keys for each of their nodes, and decide on a viable commission. There are a wide range of monitoring [tools](../../../useful-tools/staking-tools.md) that can be used by validators to inspect, diagnostic, and prevent issues related to syncing, disputes, and slashes.
 
-<figure><img src="../../../.gitbook/assets/O_SCrunchValidators.JPG" alt="A presentation of Turboflakes&#x27; CRUNCH tool that Polkadot ecosystem validators can use to automate payouts."><figcaption><p><a href="https://www.turboflakes.io/#/polkadot">Turboflakes</a>' CRUNCH automates validator operations related to payouts.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SCrunchValidators.JPG" alt="A presentation of Turboflakes&#x27; CRUNCH tool that Polkadot ecosystem validators can use to automate payouts."><figcaption><p>Turboflakes' CRUNCH automates validator operations related to payouts.</p></figcaption></figure>
 
 To receive rewards, each validator has to be elected into the active set. This automated process involves weighing the stake owned by and lent to each validator to maximise the amount of tokens locked in securing the network. Some operators choose to split their stake across multiple instances in different geolocations to increase their odds at getting elected.&#x20;
 
@@ -30,7 +30,7 @@ To receive rewards, each validator has to be elected into the active set. This a
 
 Though block rewards are shared equally between elected validators regardless of their overall stake, other factors such as era points and tips can increase the total value of the rewards received. Validators are free to set their own staking commission fees, which will be deducted from the total rewards received before these are shared with nominators.
 
-<figure><img src="../../../.gitbook/assets/O_SDecentraDOT.JPG" alt="A view of the Validator staking dashboard from DecentraDOT. "><figcaption><p><a href="https://dashboard.decentradot.com/">DecentraDOT</a> offers a user-friendly dashboard for exploring and exporting Validators' statistics.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SDecentraDOT.JPG" alt="A view of the Validator staking dashboard from DecentraDOT. "><figcaption><p>DecentraDOT offers a user-friendly dashboard for exploring and exporting Validators' statistics.</p></figcaption></figure>
 
 
 

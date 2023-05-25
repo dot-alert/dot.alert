@@ -22,7 +22,7 @@ Ecosystem teams usually run multiple official channels on Telegram: some of them
 
 Every channel come with its unique set of rules to curate information and ensure that conversations stay on topic. Moderation tends to be kept to the minimum on Telegram channels, as community members are encouraged to flag unrelated communications and disrespectful posts to help regulate the channel. New users are routinely invited to check pinned messages to access the latest community updates in real-time.
 
-<figure><img src="../../.gitbook/assets/S_TelegramRMRK.jpg" alt="A message sent by Combot (an admin bot) on RMRK NFT&#x27;s Telegram channel." width="360"><figcaption><p>An admin bot's announcements on <a href="https://t.me/rmrkapp">RMRK Telegram channel</a>. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_TelegramRMRK.jpg" alt="A message sent by Combot (an admin bot) on RMRK NFT&#x27;s Telegram channel." width="360"><figcaption><p>An admin bot's announcements on RMRK Telegram channel. </p></figcaption></figure>
 
 Projects tend to integrate a variety of Telegram bots into their channels to provide users with in-demand data from areas such as tokenomics, on-chain [governance](../3.operations/voting/), staking analytics, or marketplace activities. A more advanced use of bots involves serving reminders ahead of major community events, running community quizzes, and undertaking search engines functionalities. Nevertheless, there is always an admin team working in the background to provide clarifications on the project and direct users to useful resources or tools.&#x20;
 
@@ -32,7 +32,7 @@ Projects tend to integrate a variety of Telegram bots into their channels to pro
 
 Given that there is little to no verification required to join Telegram, ecosystem-related groups will equally attract new users and seasoned scammers. For this reason, most official admin teams attach unique badges to their usernames; which differentiates them from other members in general, and impersonators in particular. Users should be extremely cautious when joining unofficial Telegram groups found on search engines or social media, as they are often populated by spam bots to generate fake engagement.
 
-<figure><img src="../../.gitbook/assets/S_TelegramKusamaCommunity.jpg" alt="Conversations between members of the unofficial Kusama Community group on Telegram." width="354"><figcaption><p>Informal discussions on an <a href="https://t.me/kusamacommunity">unofficial Kusama</a> group.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_TelegramKusamaCommunity.jpg" alt="Conversations between members of the unofficial Kusama Community group on Telegram." width="354"><figcaption><p>Informal discussions on an unofficial Kusama group.</p></figcaption></figure>
 
 Telegram groups are perceived as open censorship-free spaces for community members to share resources and opinions on ecosystem projects. However, this setup can also open the door to ill-intentioned people spreading misleading or false information. To regulate the flow of conversations and content sharing during times of peak activity, admin teams often implement "Slow mode", which controls how often members can post a message and ultimately improves the quality and soundness of exchanges.&#x20;
 

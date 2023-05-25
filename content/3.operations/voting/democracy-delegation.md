@@ -10,7 +10,7 @@ description: >-
 
 Democracy delegation is when you delegate your funds to another account to represent you for voting. It works almost the same way as [direct democracy](direct-democracy.md) in terms of setups for amounts and conviction. Only that, this time, your voting power is at the discretion of a third-party user called "delegated account".
 
-<figure><img src="../../../.gitbook/assets/O_VDelegationOps.JPG" alt="An interface for delegating democracy votes on Polkassembly."><figcaption><p>Polkassembly provides an interface for <a href="https://kusama.polkassembly.io/delegation">delegating OpenGov votes</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VDelegationOps.JPG" alt="An interface for delegating democracy votes on Polkassembly."><figcaption><p>Polkassembly provides an interface for delegating OpenGov votes.</p></figcaption></figure>
 
 
 
@@ -37,7 +37,7 @@ In light of this, one could devise a series of criteria for choosing their repre
 
 Democracy delegation should never be a set-and-forget endeavour. Handing over your voting power is a risky sacrifice that may result in unwanted outcomes if not managed properly. Delegated accounts can end up being victims of a hack and, although your delegated funds are non-transferable by nature, this attack may result in a subsequent leverage of your votes for malicious proposals.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_VRyabinabot.jpg" alt="A sample of Ryabina Telegram bot keeping track of Polkadot governance activities."><figcaption><p><a href="https://ryabina.medium.com/track-anything-ultimate-guide-for-polkadot-and-kusama-telegram-bots-a47aa913f8b">Ryabina Telegram bots</a> allow users to keep track of ecosystem governance activities. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VRyabinabot.jpg" alt="A sample of Ryabina Telegram bot keeping track of Polkadot governance activities."><figcaption><p>Ryabina Telegram bots allow users to keep track of ecosystem governance activities. </p></figcaption></figure>
 
 Hence the need to constantly review, or if need be, regularly change your delegates to ensure alignment of interests. To incentivise this safety measure, a follow-up governance improvement is planned to allow free undelegation transactions for all delegating accounts, within reasonable limits.&#x20;
 

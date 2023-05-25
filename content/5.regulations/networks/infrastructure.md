@@ -18,7 +18,7 @@ Blockchain infrastructure represents the hardware and software needed to provide
 
 Substrate is used to build a variety of private or permissioned chains that go through a series of steps to become fully permissionless. This process, which involves building a runtime, authorising nodes, running a testnet and issuing a token, culminates in the removal of a superuser called "sudo" through governance vote.&#x20;
 
-<figure><img src="../../../.gitbook/assets/R_NOTrail.JPG" alt="An overview of the roadmap for OriginTrail parachain."><figcaption><p>Extract from <a href="https://parachain.origintrail.io/">Origin Trail</a> parachain's roadmap.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R_NOTrail.JPG" alt="An overview of the roadmap for OriginTrail parachain."><figcaption><p>Extract from Origin Trail parachain's roadmap.</p></figcaption></figure>
 
 Currently, there isn't any comprehensive law or bill that gives clear guidelines for establishing whether a [network](https://dot-alert.gitbook.io/dot.alert/content/5.regulations/networks) is decentralised or centralised. Most of the literature on this topic is written by technologists and developers in the course of their research and/or experiments. However, the question of decentralisation remains important in defining whether the assets issued on a given network can be classified as [financial products](https://www.consilium.europa.eu/en/press/press-releases/2022/06/30/digital-finance-agreement-reached-on-european-crypto-assets-regulation-mica/).
 
@@ -28,7 +28,7 @@ Currently, there isn't any comprehensive law or bill that gives clear guidelines
 
 With the exception of Common Good parachains, all chains that are currently running in the Polkadot ecosystem use a native token that was launched at genesis. Networks often give a general outline of the terms and conditions attached to the distribution, release, and use cases of their native coin in the Tokenomics section of their whitepaper. Similarly, most active community projects and/or DAOs make use of tokens (fungible or not) to give certain rights to the holders.&#x20;
 
-<figure><img src="../../../.gitbook/assets/R_NPolkadex.jpg" alt="An overview of the token distribution schedule on Polkadex network."><figcaption><p>Token economics of <a href="https://polkadex.trade/">Polkadex</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R_NPolkadex.jpg" alt="An overview of the token distribution schedule on Polkadex network."><figcaption><p>Token economics of Polkadex.</p></figcaption></figure>
 
 From a regulatory perspective, matching digital assets to existing financial instruments would be one way to give them some legitimacy while enforcing current directives. Under this approach, utility tokens would be considered the blockchain equivalent of commodities and/or securities, and thus be subject to laws related to disclosure documentation. Meanwhile, derivative tokens would be comparable to futures, options, swaps, and CFDs; all of which come with specific rules regarding [consumer protection](https://www.sec.gov/news/speech/gensler-sec-speaks-090822).&#x20;
 
@@ -40,7 +40,7 @@ From a regulatory perspective, matching digital assets to existing financial ins
 
 The major threat to a network infrastructure lies in whether or not the procedures that were put in place at the time the network completed its public token offerings violated any of the existing national and international regulations relative to financial markets and products. However, in the absence of a unified perspective on this matter, it is still down to each nation or state to define and adopt its own regulatory framework.
 
-<figure><img src="../../../.gitbook/assets/R_NOAK.JPG" alt="A sample of OAK network&#x27;s Terms and conditions for their crowdloan campaign."><figcaption><p>Extract from <a href="https://oak.tech/terms/">OAK network</a>'s crowdloan Terms and conditions.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R_NOAK.JPG" alt="A sample of OAK network&#x27;s Terms and conditions for their crowdloan campaign."><figcaption><p>Extract from OAK network's crowdloan Terms and conditions.</p></figcaption></figure>
 
 In recent times, some [lawsuits](https://www.sec.gov/news/press-release/2020-338) have been issued by financial institutions and governments to blockchain network executive teams whose initial coin offerings happened much earlier on. Projects that are looking to launch their own parachains and/or organise themselves in DAOs are considering investigating the terms of these lawsuits as a regulatory guide for their own pre-launch operations.&#x20;
 

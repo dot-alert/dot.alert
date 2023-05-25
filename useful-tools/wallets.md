@@ -6,49 +6,49 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 ## Browser extensions
 
-[Enkrypt](https://www.enkrypt.com/)
+Enkrypt
 
-[Fearless](https://chrome.google.com/webstore/detail/fearless-wallet/nhlnehondigmgckngjomcpcefcdplmgc)
+Fearless
 
 [Polkadot-JS](https://polkadot.js.org/extension/)
 
-[Polkagate](https://polkagate.xyz/)
+Polkagate
 
-[Subwallet](https://subwallet.app/)
+Subwallet
 
-[Talisman](https://talisman.xyz/)
+Talisman
 
 
 
 ### Mobile wallets
 
-[Fearless](https://fearlesswallet.io/)
+Fearless
 
-[Nova](https://novawallet.io/)
+Nova
 
-[Polkawallet](https://polkawallet.io/)
+Polkawallet
 
-[Subwallet](https://subwallet.app/download.html)
+Subwallet
 
 
 
 ### Air-gapped signers
 
-[AirGap](https://airgap.it/)
+AirGap
 
 [Polkadot Vault](https://www.parity.io/technologies/signer/)
 
-[Stylo](https://stylo-app.com/)
+Stylo
 
 
 
 ### Cold storage devices
 
-[CoolWallet](https://www.coolwallet.io/coolwallet\_pro)
+CoolWallet
 
-[Ledger ](https://www.ledger.com/polkadot-wallet)
+Ledger&#x20;
 
-[SafePal](https://store.safepal.com/safepal-s1-hardware-wallet.html)
+SafePal
 
 
 
@@ -56,7 +56,7 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 [Banana split](https://bs.parity.io/#/)
 
-[Multix](https://multix.chainsafe.io/)
+Multix
 
-[PolkaSafe](https://app.polkasafe.xyz/)
+PolkaSafe
 

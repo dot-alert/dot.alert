@@ -26,7 +26,7 @@ To become a member, users need to deposit a certain amount of KSM into the [prot
 
 Bidding for a KSM membership can be a bit of a guessing game because it is the smallest bid that gets priority for shortlisting and because there is no certain way to know how much other people are bidding once we get to very small KSM values.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_BKSMBids.JPG" alt="A view of Kappa Sigma Mu (KΣM) membership bids placed through Polkadot-JS App."><figcaption><p>Membership bids placed through <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.public.curie.radiumblock.xyz%2Fws#/society/candidates"><em>Polkadot-JS Apps</em></a>,</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BKSMBids.JPG" alt="A view of Kappa Sigma Mu (KΣM) membership bids placed through Polkadot-JS App."><figcaption><p>Membership bids placed through <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama.public.curie.radiumblock.xyz%2Fws#/society/candidates"><em>Polkadot-JS Apps</em></a><em>.</em></p></figcaption></figure>
 
 As a general rule, it is best to prepare for the PoI ceremony while placing small bids, because as soon as you are shortlisted, you will be asked to submit a photo of your real-life tattoo. If you fail at PoI, you run the risk of getting suspended/blocked from applying to the Society at a later time.&#x20;
 

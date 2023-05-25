@@ -34,7 +34,9 @@ _Michael E_
 
 _<mark style="background-color:blue;">Those who fund our developments.</mark>_
 
-[The Polkadot Treasury](https://polkadot.subsquare.io/council/motion/263)
+The Gitcoin Programme (April 2023 Beta round)
+
+The Polkadot Treasury (October 2022 - March 2023)
 
 
 

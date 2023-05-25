@@ -6,7 +6,7 @@ description: Fundraising dapps for the Polkadot ecosystem.
 
 [BrightTreasury](https://treasury.bright.dev/?networkId=polkadot)
 
-[DoTreasury](https://www.dotreasury.com/dot)
+DoTreasury
 
-[Subsquare](https://polkadot.subsquare.io/treasury/proposals)
+Subsquare
 
