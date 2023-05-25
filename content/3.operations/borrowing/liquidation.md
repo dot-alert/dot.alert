@@ -28,7 +28,7 @@ On a DeFi protocol with automated on-chain liquidation, collateralised assets ar
 
 In an off-chain worker-based liquidation process, the system checks if any loan needs to be closed at every block, and any operator can initiate the liquidation. The borrower’s loan will be repaid, the borrower will suffer a liquidation penalty, and the operator that initiated the liquidation will receive a reward.
 
-<figure><img src="../../../.gitbook/assets/O_BorrowingEquilibrium.JPG" alt="The requirements for participating in Equilibrium network&#x27;s insurance pool."><figcaption><p><a href="https://app.equilibrium.io/earn?action=insurance-pool-learn-more">Equilibrium</a>'s Insurance pool allows expert DeFi users to optimise their portfolio through liquidations.  </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_BorrowingEquilibrium.JPG" alt="The requirements for participating in Equilibrium network&#x27;s insurance pool."><figcaption><p>Equilibrium's Insurance pool allows expert DeFi users to optimise their portfolio through liquidations.  </p></figcaption></figure>
 
 In another setup, borrowers can use their entire portfolio as collateral for a loan, instead of just a single asset. However, during a liquidation, this entire portfolio (including the loan) is transferred to an insurance pool, and a set of depositors (also called bailsmen) are tasked with closing out the loan in exchange for a small fee.
 

@@ -22,7 +22,7 @@ Token swaps involve exchanging cryptocurrencies without drawing on fiat. On Dece
 
 Traditional token trading on Centralized Exchanges involves using the Orderbook model to match buyers and sellers of particular assets and for specific prices. This setup is entirely managed by custodians who handle all operations on behalf of their users. By contrast, swaps take place on non-custodial platforms with no registration requirements.
 
-<figure><img src="../../../.gitbook/assets/O_SwappingPolkadexOrderbook.JPG" alt="The orderbook page of Polkadex."><figcaption><p><a href="https://polkadex.trade/orderbook">Polkadex Orderbook</a> combines functionalities of Centralised and Decentralised exchanges. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SwappingPolkadexOrderbook.JPG" alt="The orderbook page of Polkadex."><figcaption><p>Polkadex Orderbook combines functionalities of Centralised and Decentralised exchanges. </p></figcaption></figure>
 
 While token swaps used to have the reputation of being costly in transaction fees, this is no longer the case with application-specific chains. In the Polkadot ecosystem, the majority of DEXes are native to their parachains, which allows for an extensive customisation of their fee model. Some platforms operate with a "flexible fee" schedule whereby users can select any token they hold to pay for their [transactions](../../1.acquisition/transaction-explorers.md). Other platforms run with feeless transactions either temporarily, as part of a special offer, or permanently.
 

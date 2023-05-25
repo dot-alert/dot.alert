@@ -12,7 +12,7 @@ Cumulon
 
 Polkaholic
 
-[SubID](https://sub.id/)
+SubID
 
 
 
