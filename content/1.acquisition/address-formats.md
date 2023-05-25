@@ -28,7 +28,7 @@ In practice, this means that:
 * you will not be able to sign a transaction on a Polkadot parachain with the Polkadot Ledger app.
 * you might not be able to use a Polkadot address on a transaction explorer built for Kusama.
 
-<figure><img src="../../.gitbook/assets/A_AFSubID.JPG" alt="A view of the subID platform where you can input any substrate address format to retrieve all other substrate addresses."><figcaption><p> SubID gives a user-friendly access to account formats.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/A_AFPJS.JPG" alt="Address converted tool of Polkadot-JS Apps."><figcaption><p>The native address converter tool of <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fsys.dotters.network%2Fstatemint#/utilities">Polkadot-JS Apps</a>.</p></figcaption></figure>
 
 
 

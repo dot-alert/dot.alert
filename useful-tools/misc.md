@@ -36,6 +36,8 @@ _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages
 
 [GigMind](https://gigmind.app/)
 
+[KryptosChain](https://www.youtube.com/@KryptosChain/about)
+
 _Polkadot for Beginners_: [Audiobook](https://open.spotify.com/episode/2UtscT6JVbYUBNvNyhEcGo) (Spotify) by Abujulaibib
 
 [Subdaily](https://subdaily.io/)
