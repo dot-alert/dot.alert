@@ -14,10 +14,10 @@ These include :
 * Getting a [tip](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.dotters.network%2Fpolkadot#/treasury/tips) (ex: Polkadot/Kusama Treasury tips)
 * Getting a [payout](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/society)/a [(child) bounty](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.dotters.network%2Fpolkadot#/bounties) (ex: _Kappa Sigma Mu_ pot, Polkadot/Kusama Treasury bounties)
 * Getting [funding](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.dotters.network%2Fpolkadot#/treasury)/a [grant](https://web3.foundation/grants/) (ex: Polkadot/Kusama Treasury spends, W3F grants)
-* Buying through fiat on-ramp on a webapp (ex: _Singular,_ _KodaDot,_ _Talisman_)
-* Swapping on a Decentralised exchange (ex: _Karura,_ _ZenLink_)
-* Swapping on a Centralised platform (ex: _Swapspace, Changelly_)
-* Buying/swapping on a Centralised exchange (ex: _Kraken,_ _Binance_)
+* Buying through fiat on-ramp on a webapp
+* Swapping on a Decentralised exchange
+* Swapping on a Centralised platform
+* Buying/swapping on a Centralised exchange
 
 ![You can send/receive DOT and KSM gifts in one click.](../../.gitbook/assets/A\_Gift.JPG)
 

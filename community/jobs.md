@@ -30,11 +30,11 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 ### Ad hoc roles:
 
-_Positions:_ 5 Technical writers.
+_Positions:_ 2 Technical writers.
 
-_Requirements:_ Excellent knowledge of technologies specific to _<mark style="color:green;">Zeitgeist, Robonomics, Nodle, Bit.Country, Basilisk/HydraDX, and Altair/Centrifuge</mark>_; Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
+_Requirements:_ Excellent knowledge of technologies specific to _<mark style="color:green;">Prediction markets, IoT, Metaverses, and Tokenised securities</mark>_; Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
 
-_Rates: $150/400-word article._
+_Rates: $100-150/400-word article._
 
 Please complete our [**Expression of Interest form**](https://docs.google.com/forms/d/e/1FAIpQLScF7N91-fhT5WFsH1Y3TsBVll-PDITdD7MhmXeOKRL3bnOjew/viewform?usp=sf\_link) to get in touch with us.
 

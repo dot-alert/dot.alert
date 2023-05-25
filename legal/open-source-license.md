@@ -12,11 +12,3 @@ _"The GNU General Public License is a free, copyleft license for software and ot
 
 You are free to contribute, make changes, and share all versions of our repository.&#x20;
 
-
-
-Feel free to tip us to support our work!
-
-DOT: [12uokSRn2hmEWPZuzHK1xqnFxRgyoApLtXRBd4jFan2x2T1P](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fpolkadot.api.onfinality.io%2Fpublic-ws#/accounts)
-
-KSM: [EV8GRWaoHWgpWNqoM54ieK7FPyZuY5PGQXSrS1rWVDvay7M](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fkusama-rpc.polkadot.io#/accounts)
-
