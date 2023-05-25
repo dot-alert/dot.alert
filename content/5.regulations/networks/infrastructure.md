@@ -40,7 +40,7 @@ From a regulatory perspective, matching digital assets to existing financial ins
 
 The major threat to a network infrastructure lies in whether or not the procedures that were put in place at the time the network completed its public token offerings violated any of the existing national and international regulations relative to financial markets and products. However, in the absence of a unified perspective on this matter, it is still down to each nation or state to define and adopt its own regulatory framework.
 
-<figure><img src="../../../.gitbook/assets/R_NOAK.JPG" alt="A sample of OAK network&#x27;s Terms and conditions for their crowdloan campaign."><figcaption><p>Extract from OAK network's crowdloan Terms and conditions.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R_NOAK.JPG" alt="A sample of OAK network&#x27;s Terms and conditions for their crowdloan campaign."><figcaption><p>Extract from <a href="https://oak.tech/">OAK network</a>'s crowdloan Terms and conditions.</p></figcaption></figure>
 
 In recent times, some [lawsuits](https://www.sec.gov/news/press-release/2020-338) have been issued by financial institutions and governments to blockchain network executive teams whose initial coin offerings happened much earlier on. Projects that are looking to launch their own parachains and/or organise themselves in DAOs are considering investigating the terms of these lawsuits as a regulatory guide for their own pre-launch operations.&#x20;
 
