@@ -14,7 +14,7 @@ coverY: 0
 
 _Positions:_ 2 Promoters.
 
-_Requirements:_ Involvement in diverse crypto-related communities on several social media platforms (i.e Telegram, Facebook, LinkedIn, WhatsApp, WeChat, KakaoTalk, etc.); Good communication skills; Ability to create engaging and precise social media content; Good standing in **online communities based in Europe or Asia.**
+_Requirements:_ Involvement in diverse crypto-related communities on several social media platforms (i.e Facebook, LinkedIn, WhatsApp, WeChat, KakaoTalk, etc.); Good communication skills; Ability to create engaging and precise social media content; Good standing in **online communities based in Europe or Asia.**
 
 _Tasks:_ Relay new publications and community announcements across various crypto-related channels and groups.&#x20;
 
@@ -32,7 +32,7 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 _Positions:_ 2 Technical writers.
 
-_Requirements:_ Excellent knowledge of technologies specific to _<mark style="color:green;">Prediction markets, IoT, Metaverses, and Tokenised securities</mark>_; Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
+_Requirements:_ Excellent knowledge of technologies specific to _<mark style="color:green;">Prediction markets, IoT, Metaverses, DeFi, and Tokenised securities</mark>_; Good communication skills; Ability to complete **in-depth research on ecosystem platforms.**
 
 _Rates: $100-150/400-word article._
 
