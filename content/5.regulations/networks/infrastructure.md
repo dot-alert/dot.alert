@@ -16,9 +16,9 @@ Blockchain infrastructure represents the hardware and software needed to provide
 
 ### Blockchain Networks
 
-Substrate is used to build a variety of private or permissioned chains that go through a series of steps to become fully permissionless. This process, which involves building a runtime, authorising nodes, running a testnet and issuing a token, culminates in the removal of a superuser called "sudo" through governance vote.&#x20;
+Substrate is used to build a variety of private or permissioned chains that go through a series of steps to become [fully permissionless](../../3.operations/bidding/parachain-slot-lease.md). This process, which involves building a runtime, authorising nodes, running a testnet and issuing a token, culminates in the removal of a superuser called "sudo" through governance vote.&#x20;
 
-Currently, there isn't any comprehensive law or bill that gives clear guidelines for establishing whether a [network](https://dot-alert.gitbook.io/dot.alert/content/5.regulations/networks) is decentralised or centralised. Most of the literature on this topic is written by technologists and developers in the course of their research and/or experiments. However, the question of decentralisation remains important in defining whether the assets issued on a given network can be classified as [financial products](https://www.consilium.europa.eu/en/press/press-releases/2022/06/30/digital-finance-agreement-reached-on-european-crypto-assets-regulation-mica/).
+Currently, there isn't any comprehensive law or bill that gives clear guidelines for establishing whether a network is decentralised or centralised. Most of the literature on this topic is written by technologists and developers in the course of their research and/or experiments. However, the question of decentralisation remains important in defining whether the assets issued on a given network can be classified as [financial products](https://www.consilium.europa.eu/en/press/press-releases/2022/06/30/digital-finance-agreement-reached-on-european-crypto-assets-regulation-mica/).
 
 <figure><img src="../../../.gitbook/assets/R_NOAK.JPG" alt="A sample of OAK network&#x27;s Terms and conditions for their crowdloan campaign."><figcaption><p>Extract from <a href="https://oak.tech/">OAK network</a>'s crowdloan Terms and conditions.</p></figcaption></figure>
 
