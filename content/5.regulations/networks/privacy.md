@@ -22,7 +22,7 @@ Other solutions exist to help prominent network entities anchor their organisati
 
 Regulators have long advocated for caution when interacting with public ledgers, due to [the pseudonymous nature of blockchain networks operations](https://www.nortonrosefulbright.com/en/knowledge/publications/c5a7c134/anonymous-no-more-blockchain-analytics-in-the-courts). This is because transactions are permanently available and can be used to link individuals with their public addresses. Nevertheless, they acknowledge that Decentralised Identity protocols can contribute to compliant authentication procedures in the digital realm, which could support the onboarding of financially-excluded population (also called "the unbanked") into financial services. Another important use case for Decentralised identities could emerge to facilitate individuals' access to digital assets in the context of inheritance. &#x20;
 
-<figure><img src="../../../.gitbook/assets/R_NDomains.JPG" alt="A webpage of Subsocial network indicating that it offers unique universal usernames in the form of domain names."><figcaption><p><a href="https://app.subsocial.network/dd">Subsocial</a> offers domain registration services.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R_NSubsocial.JPG" alt="A webpage of Subsocial network indicating the building blocks of its SDK."><figcaption><p>Overview of <a href="https://app.subsocial.network/dd">Subsocial</a> SDK's building blocks that contribute to defining user profiles within the network.</p></figcaption></figure>
 
 ### Privacy-preserving Protocols&#x20;
 
@@ -40,7 +40,7 @@ Current data protection laws mandate that digital platforms, regardless of their
 
 Although there has been a lot of research done in relation to cryptographic proofs and encryption algorithms, [the practical implementation of privacy technologies is still experimental](https://medium.com/phala-network/technical-analysis-of-why-phala-will-not-be-affected-by-the-intel-sgx-chip-vulnerabilities-e045b0189dc2). The most established privacy solutions have traditionally involved the creation of a special-purpose blockchain in combination with the issuance of dedicated coins. This contrasts with current propositions that focus on providing privacy services on top of permissionless public blockchains.&#x20;
 
-Since the focus of privacy developments has been shifted on to [customising the way platforms handle users data](https://financialservicesblog.accenture.com/cryptocurrency-managing-data-privacy-risks), the possibility of a glitch in the de-anonymisation process becomes more likely. A failure in these decentralised protocols could end up revealing sensitive/personal information, which would leave users/entities with no real recourse. The onus is therefore on privacy services providers to continuously review and upgrade their solutions to meet the highest standards for data security.
+Since the focus of privacy developments has been shifted on to customising the way platforms handle users data, the possibility of a glitch in the de-anonymisation process becomes more likely. A failure in these decentralised protocols could end up revealing sensitive/personal information, which would leave users/entities with no real recourse. The onus is therefore on privacy services providers to continuously review and upgrade their solutions to meet the highest standards for data security.
 
 ### Legal Risks
 
@@ -54,5 +54,5 @@ While privacy-focused services architect their solutions in response to users' a
 
 Privacy-by-default is an approach that has garnered a lot of support from blockchain and non-blockchain users, in light of recurrent hacks and tampering done on centralised platforms. This has given birth to formal activist movements that pro-actively fund, research, and develop privacy solutions within the Web3 stack. But there are also more and more individually-maintained initiatives and dapps specifically [designed to counter governments' surveillance](https://home.treasury.gov/news/press-releases/jy0916). &#x20;
 
-Regulators acknowledge that, while anonymisation protocols might help decentralised platforms comply with certain policies, it can also go against others laws. Privacy tools are still [a long way from gaining legitimacy](https://www.coindesk.com/policy/2022/11/15/privacy-enhancing-crypto-coins-could-be-banned-under-leaked-eu-plans/) in most countries, because they are generally associated with use cases involving unlawful activities, tax evasion, and money laundering.&#x20;
+Regulators acknowledge that, while anonymisation protocols might help decentralised platforms comply with certain policies, it can also go against others laws. Privacy tools are still a long way from gaining legitimacy in most countries, because they are generally associated with use cases involving unlawful activities, tax evasion, and money laundering.&#x20;
 

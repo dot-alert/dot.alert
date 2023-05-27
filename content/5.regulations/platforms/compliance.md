@@ -8,7 +8,7 @@ _<mark style="background-color:red;">Disclaimer: This article is written by</mar
 
 
 
-Blockchain technologies pave the way for Research & Development that aims to put data ownership, storage, and management entirely in the hands of everyday users. In the Polkadot ecosystem, the Parachain model of customisable [networks](../networks/) and interoperable dapps enables the creation of decentralised products to rival Web2 platforms and their app stores.
+Blockchain technologies pave the way for Research & Development that aims to put data ownership, storage, and management entirely in the hands of everyday users. In the Polkadot ecosystem, the Parachain model of customisable networks and interoperable dapps enables the creation of decentralised products to rival Web2 platforms and their app stores.
 
 
 
