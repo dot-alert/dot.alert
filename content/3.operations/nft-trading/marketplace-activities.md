@@ -22,7 +22,7 @@ NFT Marketplaces are special-purpose dapps that support a range of NFT-related o
 
 On marketplaces, NFTs can be minted as standalone items or as pieces of a particular collection. Just like fine arts, an NFT collection can represent a unique theme or concept that the creator explores through different digital media. An NFT collection can specify a set number of items that will be [minted](data-management.md) over time, or remain indefinitely open to further additions (also called "unlimited"). Most marketplaces offer verification and curation services to creators, which helps highlight or maintain the value of their NFT collections over time.
 
-<figure><img src="../../../.gitbook/assets/O_NFTSingularcuration.JPG" alt="A list of curated NFT collections displayed on Singular NFT marketplace."><figcaption><p>A selection of curated NFT collections available on Singular.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_NFTSingularcuration (1).JPG" alt="A list of curated NFT collections displayed on Singular NFT marketplace."><figcaption><p>A selection of curated NFT collections available on Singular.</p></figcaption></figure>
 
 NFTs can be listed either through direct sale or via auctions. In the case of a direct sale, there is a fixed price outlined by the seller which the buyer pays to acquire the NFT. Meanwhile, auctions happen when continuous bids are made on the NFT before the creator eventually concludes the sale with the highest bidder. Generally-speaking, creators start by selling their first NFTs through direct sales, and then progress onto auctioning their work once they are well-established in their respective communities.
 

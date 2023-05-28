@@ -61,6 +61,8 @@
     * [Services](content/5.regulations/platforms/services.md)
     * [Licensing](content/5.regulations/platforms/licensing.md)
     * [Compliance](content/5.regulations/platforms/compliance.md)
+  * [Investments](content/5.regulations/investments/README.md)
+    * [Issuance](content/5.regulations/investments/issuance.md)
 
 ## Useful tools
 
