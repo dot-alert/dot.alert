@@ -14,7 +14,7 @@ Blockchain-based projects propose a range of digital assets as part of their net
 
 ## Legal Frameworks:
 
-### Asset types
+### Asset Types
 
 Blockchain projects are entreprises, venture,s and initiatives supported by digital ledgers that obtain, gain, and retain their value by servicing their communities of investors, [operators](../../3.operations/staking/validating.md), and users. In the Polkadot ecosystem, Relay chains facilitate communications between parachains in a secure environment, while Parachains specialise in providing custom use cases for their technologies to ecosystem participants. There are Common good parachains, intended to service the ecosystem as whole, and infrastructure parachains that support the deployment of multi-chain dApps and Smart contracts. There are also bridge chains that provide multichain transfer functionalities, as well as Decentralized Autonomous Organizations (DAOs) that let communities collectively govern themselves through treasuries.
 
@@ -38,7 +38,7 @@ Regulators are concerned that the monetary nature of cryptocurrencies and their 
 
 ## Risk Management:
 
-### Operational risks&#x20;
+### Operational Risks&#x20;
 
 Blockchain-based projects come with a multitude of operations-related risks that need to be mitigated before their decentralised solutions can [reach critical mass adoption](https://www.bnymellon.com/us/en/insights/all-insights/digital-assets-from-fringe-to-future.html). The irreversibility of transactions that is touted to solve the double-spend problem on blockchain networks is a major issue for new users who are unfamiliar with these protocols. For each use case, there are multiple implementations and procedures that can induce users in errors and make them lose their assets in the mix.
 
@@ -46,7 +46,7 @@ Projects in the Polkadot ecosystem attempt to provide solutions to these problem
 
 <figure><img src="../../../.gitbook/assets/R_IPolkadotForum.JPG" alt="A page of Polkadot Forum with ongoing discussion threads about ecosystem initiatives."><figcaption><p>The <a href="https://forum.polkadot.network/">Polkadot Forum</a> offers a space for ecosystem coordination between investors, builders, and end-users.</p></figcaption></figure>
 
-### Financial risks
+### Financial Risks
 
 As a largely unregulated sector, the blockchain industry has seen its share of scams and fraudulent activities since inception. In 2022 alone, major crypto projects declared bankruptcy leading to billions of dollars in losses for investors. There are small circles of initial investors who regularly issue coins and tokens with no real use cases and use “pump and dump” schemes to defraud retailers. There is also the pervasive issue of [lack of due diligence](https://www2.deloitte.com/content/dam/Deloitte/at/Documents/risk/at-market-integrity-considerations-for-digital-assets-2023.pdf) when it comes to disclosure of conflicts of interest. For these reasons, regulators keep raising the alarm about early stage investing in crypto projects with no industry-wide risk assessment practices.
 
@@ -54,7 +54,7 @@ Web3 projects seek to overcome these challenges through decentralisation, which 
 
 <figure><img src="../../../.gitbook/assets/R_IPolkabeat.JPG" alt="Criteria implemented by Polkabeat to evaluate the decentralisation of Polkadot parachains."><figcaption><p><a href="https://polkabeat.org/polkabeat/">Polkabeat</a> analyses the decentralisation of Polkadot parachains with publicly-traded tokens.</p></figcaption></figure>
 
-### Jurisdictional risks:&#x20;
+### Jurisdictional Risks:&#x20;
 
 The relative pseudonymity of blockchain participants works to blur the links between digital identities and real-world identifiers like names and addresses. This increases the concerns around lack of [compliance](../platforms/compliance.md) for financial reporting. Given the global nature of crypto, monitoring suspicious activities requires an international regulatory framework that doesn’t exist yet. This leaves most centralised projects at risk of being shut down at any time through local governments and authorities' sanctions.
 
