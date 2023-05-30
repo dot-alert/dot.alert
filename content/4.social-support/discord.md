@@ -16,7 +16,7 @@ Discord is a social networking and communication platform that supports live gro
 
 ### How-to: Exploring the Structure of Ecosystem Servers
 
-Discord servers are established, run and maintained by various stakeholders; whether they be officials (admin, developers, founders) or community members (ambassadors, project partners, special guests). Each server is subsequently broken down into different channels or "chat rooms" with assigned topics for discussions, including non-English spaces and VIP lounges.
+Discord servers are established, run and maintained by various [stakeholders](../5.regulations/networks/participation.md); whether they be officials (admin, developers, founders) or community members (ambassadors, project partners, special guests). Each server is subsequently broken down into different channels or "chat rooms" with assigned topics for discussions, including non-English spaces and VIP lounges.
 
 <figure><img src="../../.gitbook/assets/S_DiscordRulesKusama.JPG" alt="A screenshot displaying 4 rules in place on Kusama Discord server and ecosystem servers."><figcaption><p>An overview of some common rules in place across ecosystem servers. </p></figcaption></figure>
 
@@ -34,5 +34,5 @@ Discord servers are open to the general public and accessible without much scree
 
 <figure><img src="../../.gitbook/assets/S_DiscordPrivacy.JPG" alt="A screenshot displaying good practice for managing Privacy settings on Discord servers within the Polkadot ecosystem."><figcaption><p>An example of good practice for managing <a href="https://discord.com/safety/360043857751-four-steps-to-a-super-safe-account">Privacy settings</a> on Discord servers.</p></figcaption></figure>
 
-There has been instances in which hackers have attacked Discord servers from popular projects, right at the time of peak activity. During such incidents, members are at their most vulnerable because information previously shared with administrators could be exposed and later used against them. While CAPTCHA verification is an important step in preserving the integrity of Discord servers, members must also take the time to review their own privacy settings, restrict direct messages from unknown users/admins, and reject unnecessary friend requests.
+There has been instances in which hackers have attacked Discord servers from popular projects, right at the time of peak activity. During such incidents, members are at their most vulnerable because information previously shared with administrators could be exposed and later used against them. While CAPTCHA verification is an important step in preserving the integrity of Discord servers, members must also take the time to review their own [privacy](../5.regulations/networks/privacy.md) settings, restrict direct messages from unknown users/admins, and reject unnecessary friend requests.
 

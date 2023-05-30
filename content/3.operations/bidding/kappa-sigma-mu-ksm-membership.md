@@ -22,7 +22,7 @@ To become a member, users need to deposit a certain amount of KSM into the [prot
 
 ### Risks: Safe Management of Kappa Sigma Mu (KΣM) Memberships
 
-Bidding for a KSM membership can be a bit of a guessing game because it is the smallest bid that gets priority for shortlisting and because there is no certain way to know how much other people are bidding once we get to very small KSM values.&#x20;
+Bidding for a KSM membership can be a bit of a guessing game because it is the smallest bid that gets priority for shortlisting and because there is no certain way to know how much other people are bidding once we get to very small [KSM](../../1.acquisition/) values.&#x20;
 
 As a general rule, it is best to prepare for the PoI ceremony while placing small bids, because as soon as you are shortlisted, you will be asked to submit a photo of your real-life tattoo. If you fail at PoI, you run the risk of getting suspended/blocked from applying to the Society at a later time.&#x20;
 

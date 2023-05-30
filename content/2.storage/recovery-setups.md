@@ -28,13 +28,13 @@ Key splitters make account recovery more resilient and secure by encrypting a se
 
 For multisig accounts, more advanced setups are required because these accounts are managed by many administrators, each with their role to play as a signatory of multisig transactions. In this context, a Pure proxy account for the multisig account itself can be created; which eliminates the need for seed/secret phrase management altogether and makes signatories the rightful protectors of the multisig.&#x20;
 
-But there is also the added option for each signatory to use a Pure proxy account for their related multisig operations that will subsequently delegate account control to different proxy accounts, many of which can be recoverable by the signatory's friends. Ultimately, these setups give team members flexible pathways for managing their pool of assets, even when access by some members' enrolled account is lost.
+But there is also the added option for each signatory to use a Pure proxy account for their related multisig operations that will subsequently delegate account control to different proxy accounts, many of which can be recoverable by the signatory's friends. Ultimately, these setups give [team members](../5.regulations/networks/participation.md) flexible pathways for managing their pool of assets, even when access by some members' enrolled account is lost.
 
 
 
 ### Why are Recovery Setups Important?
 
-In the Polkadot ecosystem, the same account can be used to store multiple assets across a variety of Relay chains and Parachains. This means that user interaction with dapps is heavily-dependent on having access to previously stored accounts at anytime. Recovery setups play a central role in ensuring that users maintain ownership of their assets over longer time frames in practice. However, it is recommended that you choose the schedules that best meet your needs, keeping in mind that there are certain risks associated with each type of recovery setups.
+In the Polkadot ecosystem, the same account can be used to store multiple assets across a variety of Relay chains and Parachains. This means that user interaction with dapps is heavily-dependent on having access to previously stored accounts at anytime. Recovery setups play a central role in ensuring that users maintain ownership of their assets over longer time frames in practice. However, it is recommended that you choose the schedules that best meet your needs, keeping in mind that there are certain risks associated with each type of recovery setup.
 
 <figure><img src="../../.gitbook/assets/S_RSSteps.png" alt="A block diagram showing the steps required to recover a Polkadot account via social recovery."><figcaption><p>An overview of the steps needed to fully and securely <a href="https://wiki.polkadot.network/docs/kusama-social-recovery">recover a Polkadot account via Polkadot-JS Apps</a>.</p></figcaption></figure>
 

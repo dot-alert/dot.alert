@@ -32,7 +32,7 @@ Features like email addresses and phone numbers that are offered by Centralised 
 
 ### Why are Seed/Secret Phrases Important?
 
-Always remember that it is your seed/secret phrase (**not** your wallet!) that holds your assets. Therefore, you must write your seed/secret phrase on a paper and keep it in a safe physical location as soon as you create an account in a wallet; as this will be your backup for recovering your assets. Previously, some users have made the mistake of skipping this step and uninstalling the wallet from their device. Later on, they weren't able to retrieve their assets because they had no seed/secret phrase for their account.
+Always remember that it is your seed/secret phrase (**not** your wallet!) that holds your [assets](../5.regulations/investments/issuance.md). Therefore, you must write your seed/secret phrase on a paper and keep it in a safe physical location as soon as you create an account in a wallet; as this will be your backup for recovering your assets. Previously, some users have made the mistake of skipping this step and uninstalling the wallet from their device. Later on, they weren't able to retrieve their assets because they had no seed/secret phrase for their account.
 
 Since a seed/secret phrase is made of a unique sequence of random English words, it is important to store these words in the correct order and with the correct spelling. Users who have a visual impairment, dyslexia, and/or who are not proficient in written English might find it challenging to copy the words on a piece of paper one-by-one, but they must take the time to do so properly. Storing a screenshot and/or a copy of a seed/secret phrase in a digital device is not recommended, because these files can be accidentally leaked and/or deleted.
 

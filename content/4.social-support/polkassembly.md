@@ -28,7 +28,7 @@ Treasury-related communications are also available on Polkassembly to allow ecos
 
 Because Polkassembly is an open platform and entirely automated, there is no active moderation on content and comments. In this context, it is often difficult to eliminate spam and/or offensive comments in real-time. Instead, users are invited to report any post that they judge irrelevant to or unsuitable for the topics in discussion.&#x20;
 
-As a Web3 platform, Polkassembly operates with the pseudonymity and self-made identities of its users, which can incite bad actors to join in. In recent times, some Treasury-related communications have led to heated debates during which unidentifiable users thrived on relaying uninformed but aggressive views. Unfortunately, such episodes can cause irreparable damages to proponents who are working on establishing trust with ecosystem participants.
+As a Web3 [platform](../5.regulations/platforms/), Polkassembly operates with the pseudonymity and self-made identities of its users, which can incite bad actors to join in. In recent times, some Treasury-related communications have led to heated debates during which unidentifiable users thrived on relaying uninformed but aggressive views. Unfortunately, such episodes can cause irreparable damages to proponents who are working on establishing trust with ecosystem participants.
 
 Polkassembly currently operates with an email-based notification system for all discussion threads. This means that proponents must register an email address alongside their Web3 address to receive updates about their Treasury proposals. Users who fail to complete this step run the risk of missing on important communications from the community, which could jeopardise the overall progress of their initiative.
 

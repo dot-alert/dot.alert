@@ -16,7 +16,7 @@ Twitter is social networking platform that facilitates the circulation of short 
 
 ### How-to: Navigating Key Ecosystem Hashtags
 
-Setting up an identifiable account on Twitter account is a mandatory part of the lifecycle of Web3 projects, and this serves as an official point of contact for the team in the absence of a formal website. Twitter pages usually feature information such as latest product updates, fundraising announcements, new partnerships, and upcoming events or conferences. Some projects also provide in-depth summaries of their developments through charts, user-friendly infographics, and detailed threads.
+Setting up an identifiable account on Twitter account is a mandatory part of the lifecycle of Web3 projects, and this serves as an official point of contact for the team in the absence of a formal website. Twitter pages usually feature information such as latest product updates, [fundraising](../3.operations/crowdfunding/) announcements, new partnerships, and upcoming events or conferences. Some projects also provide in-depth summaries of their developments through charts, user-friendly infographics, and detailed threads.
 
 <figure><img src="../../.gitbook/assets/S_TwitterData.JPG" alt="A graph from Electric Capital showing developers&#x27; growth on @KusamaNetwork in 2022."><figcaption><p>@kusamanetwork sharing a <a href="https://twitter.com/kusamanetwork/status/1615722848877772805">data report on developers growth</a>.</p></figcaption></figure>
 
@@ -26,7 +26,7 @@ The Polkadot ecosystem currently hosts over 50 parachains, hundreds of dapps, an
 
 <figure><img src="../../.gitbook/assets/S_TwitterRoundup.JPG" alt="A poster of #PolkadotRoundup latest tweet."><figcaption><p><a href="https://twitter.com/Polkadot/status/1640289592749223937">#PolkadotRoundup</a> gives access to essential ecosystem updates.</p></figcaption></figure>
 
-Twitter is also used by ecosystem teams to rally stakeholders in anticipation for network-defining events or causes. In the past, there have been numerous examples of calls to action sent to the community regarding the removal of sudo, the redenomination of $DOT, the integration of Nomination pools, the introduction of _OpenGov_, as well as regular invitations to vote on referenda and share feedback on new functionalities or planned improvements.
+Twitter is also used by ecosystem teams to rally stakeholders in anticipation for network-defining events or causes. In the past, there have been numerous examples of calls to action sent to the community regarding the removal of sudo, the redenomination of $DOT, the integration of [Nomination pools](../3.operations/staking/nominating.md), the introduction of _OpenGov_, as well as regular invitations to vote on referenda and share feedback on new functionalities or planned improvements.
 
 
 

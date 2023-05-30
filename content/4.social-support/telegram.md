@@ -16,7 +16,7 @@ Telegram is a mobile-friendly instant messaging service that supports chats and 
 
 ### How-to: Joining Ecosystem Channels
 
-Ecosystem teams usually run multiple official channels on Telegram: some of them are strictly for announcements or ambassador programmes, others are dedicated to community discussions and networking. As part of their communication and outreach strategies, some projects use Telegram to host exclusive community-focused initiatives such as AMA sessions, Deep-dives, Request For Proposals, giveaways or airdrops. However, there are also a number of unofficial channels created by community members to evaluate projects through informal discussions.
+Ecosystem teams usually run multiple official channels on Telegram: some of them are strictly for announcements or ambassador programmes, others are dedicated to community discussions and networking. As part of their communication and outreach strategies, some projects use Telegram to host exclusive community-focused initiatives such as AMA sessions, Deep-dives, Request For Proposals, giveaways or airdrops. However, there are also a number of unofficial channels created by community members to evaluate [projects](../5.regulations/networks/) through informal discussions.
 
 Every channel come with its unique set of rules to curate information and ensure that conversations stay on topic. Moderation tends to be kept to the minimum on Telegram channels, as community members are encouraged to flag unrelated communications and disrespectful posts to help regulate the channel. New users are routinely invited to check pinned messages to access the latest community updates in real-time.
 
@@ -34,5 +34,5 @@ Telegram groups are perceived as open censorship-free spaces for community membe
 
 <figure><img src="../../.gitbook/assets/S_TelegramPrivacySettings.jpg" alt="Privacy and Security settings on Telegram app set with the highest restrictions." width="356"><figcaption><p>An overview of Privacy and Security settings on Telegram.</p></figcaption></figure>
 
-It is imperative to stay alert while interacting in the Telegram community. Avoid clicking on links shared by other members, revealing personal details, and linking other social media accounts; as these can be used by attackers for phishing purposes later on. Before joining any ecosystem channel, make sure to review your privacy settings and switch most, if not all, options to "Nobody". This will prevent random people from adding you to unofficial groups.
+It is imperative to stay alert while interacting in the Telegram community. Avoid clicking on links shared by other members, revealing personal details, and linking other social media accounts; as these can be used by attackers for phishing purposes later on. Before joining any [ecosystem](../5.regulations/networks/) channel, make sure to review your privacy settings and switch most, if not all, options to "Nobody". This will prevent random people from adding you to unofficial groups.
 

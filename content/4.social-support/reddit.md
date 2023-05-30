@@ -20,7 +20,7 @@ Each subreddit represents a specific project and comes with its own set of rules
 
 <figure><img src="../../.gitbook/assets/S_RDot.JPG" alt="A view of community rules and resources available for r/dot, a subreddit for Polkadot network."><figcaption><p>An overview of Community rules and resources for the <a href="https://www.reddit.com/r/dot/">r/dot</a> subreddit</p></figcaption></figure>
 
-Subreddits are usually maintained by moderators who relay important information to the community, provide technical support, and ensure that rules are followed within the forum. They also play a central role in encouraging community interactions with comments, awards, or mentions. Members can also cross-post information that they feel is relevant to the project, ask questions, answer queries, and share useful resources within subreddits.
+Subreddits are usually maintained by moderators who relay important information to the community, provide technical support, and ensure that rules are followed within the forum. They also play a central role in encouraging [community interactions](./) with comments, awards, or mentions. Members can also cross-post information that they feel is relevant to the project, ask questions, answer queries, and share useful resources within subreddits.
 
 &#x20;
 

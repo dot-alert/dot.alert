@@ -22,7 +22,7 @@ All GitHub repositories come under a license that is specified by the team of de
 
 ### Risks: Monitoring Projects' Progress on Github
 
-Although open source software gives project teams the opportunity to support each other and refine their solutions, this process can only happen gradually, over time. This means that you should always pay attention to the number of contributors assigned to GitHub repositories when evaluating a project. A project that has less than three contributors is at greater risk of failing because the departure of one contributor could easily interrupt the developments.
+Although open source software gives project teams the opportunity to support each other and refine their solutions, this process can only happen gradually, over time. This means that you should always pay attention to the number of contributors assigned to GitHub repositories when evaluating a project. A project that has less than three contributors is at greater risk of failing because the departure of one contributor could easily interrupt the [developments](../5.regulations/platforms/services.md).
 
 GitHub repositories allow viewers to track the frequency of updates (also called "Commits") and the quality of reviews (also called "Pull requests" or "PR"). This transparent data can be used as evidence that a project is making progress towards its roadmap and objectives. A lack of regular activity on GitHub repositories often indicates that a project has been neglected or completely abandoned by its developers, which should always put you on alert.
 
