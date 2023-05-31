@@ -13,14 +13,14 @@ How dot-alert are you? 👀
 Take our monthly quiz to find out and enter a draw to win **one of our 5x 🏅$20 DOT cash prizes.**&#x20;
 
 {% hint style="info" %}
-Hint: All the answers can be found in Dot.alert()'s [content](../). 😉
+Hint: All the answers can be found in Dot.alert()'s [content](../).&#x20;
 {% endhint %}
-
-[**Monthly quiz #9: 30th May 2023 10:00 UTC - 31st May 2023 22:00 UTC**](https://docs.google.com/forms/d/e/1FAIpQLSfpbNHi2fQS1ao4etHd6ZPuBrXC0cVu\_q5xaFXU7EJhUj4Jzg/viewform?usp=sf\_link)
 
 
 
 ## _**Past editions:**_
+
+_Monthly quiz #9: 30th May 2023 10:00 UTC - 31st May 2023 22:00 UTC_
 
 _Monthly quiz #8: 29th April 2023 10:00 UTC - 30th April 2023 22:00 UTC_
 
