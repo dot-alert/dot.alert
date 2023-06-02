@@ -1,5 +1,5 @@
 ---
-description: Regulatory assessments of blockchain-based investments.
+description: Regulatory assessments of the issuance of blockchain-based investments.
 ---
 
 # Issuance
@@ -16,7 +16,7 @@ Blockchain-based projects propose a range of digital assets as part of their net
 
 ### Asset Types
 
-Blockchain projects are entreprises, venture,s and initiatives supported by digital ledgers that obtain, gain, and retain their value by servicing their communities of investors, [operators](../../3.operations/staking/validating.md), and users. In the Polkadot ecosystem, Relay chains facilitate communications between parachains in a secure environment, while Parachains specialise in providing custom use cases for their technologies to ecosystem participants. There are Common good parachains, intended to service the ecosystem as whole, and infrastructure parachains that support the deployment of multi-chain dApps and Smart contracts. There are also bridge chains that provide multichain transfer functionalities, as well as Decentralized Autonomous Organizations (DAOs) that let communities collectively govern themselves through treasuries.
+Blockchain projects are entreprises, ventures, and initiatives supported by digital ledgers that obtain, gain, and retain their value by servicing their communities of investors, [operators](../../3.operations/staking/validating.md), and users. In the Polkadot ecosystem, Relay chains facilitate communications between parachains in a secure environment, while Parachains specialise in providing custom use cases for their technologies to ecosystem participants. There are Common good parachains, intended to service the ecosystem as whole, and infrastructure parachains that support the deployment of multi-chain dApps and Smart contracts. There are also bridge chains that provide multichain transfer functionalities, as well as Decentralized Autonomous Organizations (DAOs) that let communities collectively govern themselves through treasuries.
 
 By releasing a range of assets to a varied audience, blockchain projects seek to grow their real-world valuation and adoption. These assets consist of fungible tokens and non-fungible tokens (NFTs) which are issued to investors to raise funds through various avenues such as private rounds with Venture Capital (VCs), public rounds on launchpads, Initial Exchange Offerings (IEOs), [Initial DEX Offerings (IDOs)](../../3.operations/crowdfunding/initial-dex-offerings.md), pre-mines, and other rewards. In the Polkadot ecosystem, Relay chain-issued assets come with pre-established use cases such as on-chain governance, staking, and crowdloans. In turn, ecosystem platforms extend these primary use cases by allowing users to mint derivatives for DeFi transactions or create wrapped assets for multichain operations on external blockchains.
 
