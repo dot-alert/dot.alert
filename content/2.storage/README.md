@@ -1,6 +1,6 @@
 ---
 description: Securing, accessing, and maintaining Web3 assets in the Polkadot ecosystem.
-cover: ../../.gitbook/assets/DotStorage02 (2).png
+cover: ../../.gitbook/assets/Dotalertbannersection2.png
 coverY: 0
 ---
 
