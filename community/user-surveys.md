@@ -1,6 +1,6 @@
 ---
 description: Help us improve our platform by participating in our surveys.
-cover: ../.gitbook/assets/DotSurvey02.png
+cover: ../.gitbook/assets/DotSurvey03.png
 coverY: 0
 ---
 

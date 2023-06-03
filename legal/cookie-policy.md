@@ -1,6 +1,6 @@
 ---
 description: Cookie policy for Dot.alert() visitors.
-cover: ../.gitbook/assets/DotPrivacy02.png
+cover: ../.gitbook/assets/DotPrivacy03.png
 coverY: 0
 ---
 

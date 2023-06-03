@@ -1,6 +1,6 @@
 ---
 description: Open source license for Dot.alert() contributors.
-cover: ../.gitbook/assets/DotLicense02.png
+cover: ../.gitbook/assets/DotLicense03 (1).png
 coverY: 0
 ---
 

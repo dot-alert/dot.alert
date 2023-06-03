@@ -2,7 +2,7 @@
 description: >-
   Dot.alert() specialises in raising awareness about best security practices for
   the Polkadot ecosystem.
-cover: ../.gitbook/assets/DotMission02.png
+cover: ../.gitbook/assets/DotMission03.png
 coverY: 0
 ---
 

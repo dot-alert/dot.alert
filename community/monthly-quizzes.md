@@ -2,7 +2,7 @@
 description: >-
   Participate in our monthly quizzes and enter our lucky draw to win cash prizes
   of $DOT.
-cover: ../.gitbook/assets/DotQuiz02.png
+cover: ../.gitbook/assets/DotQuiz03.png
 coverY: 0
 ---
 

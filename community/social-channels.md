@@ -1,6 +1,6 @@
 ---
 description: Connect with Web3 users and enthusiasts via Dot.alert().
-cover: ../.gitbook/assets/DotSocials02.png
+cover: ../.gitbook/assets/DotSocials03.png
 coverY: 0
 ---
 
