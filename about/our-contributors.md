@@ -1,6 +1,6 @@
 ---
 description: A list of contributors responsible for content creation at Dot.alert().
-cover: ../.gitbook/assets/DotContributors03.png
+cover: ../.gitbook/assets/DotContributors02.png
 coverY: 0
 ---
 
@@ -30,13 +30,13 @@ _Shashank R_
 
 
 
-## **Fundraiser(s):**
+## **Fundraisers:**
 
 _<mark style="background-color:blue;">Those who fund our developments.</mark>_
 
-The Gitcoin Programme (April 2023 Beta round)
+Gitcoin Program (April 2023 Beta round)
 
-The Polkadot Treasury (October 2022 - March 2023)
+Polkadot Treasury (October 2022 - March 2023)
 
 
 

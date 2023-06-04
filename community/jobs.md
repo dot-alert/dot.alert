@@ -1,6 +1,6 @@
 ---
 description: A list of job positions available at Dot.alert().
-cover: ../.gitbook/assets/DotJobs03.png
+cover: ../.gitbook/assets/DotJobs02.png
 coverY: 0
 ---
 
@@ -12,7 +12,7 @@ coverY: 0
 
 ### Ad hoc roles:
 
-_Positions:_ 2 Promoters.
+_Positions:_ 1 Promoter.
 
 _Requirements:_ Involvement in diverse crypto-related communities on several social media platforms (i.e Facebook, LinkedIn, WhatsApp, WeChat, KakaoTalk, etc.); Good communication skills; Ability to create engaging and precise social media content; Good standing in **online communities based in Europe or Asia.**
 

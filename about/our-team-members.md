@@ -1,20 +1,20 @@
 ---
 description: A list of team members responsible for the daily operations of Dot.alert().
-cover: ../.gitbook/assets/DotTeamMembers03.png
+cover: ../.gitbook/assets/DotTeamMembers02.png
 coverY: 0
 ---
 
 # Our Team Members
 
-## Project Manager:
+## Project manager:
 
 [_Abdulaziz K_](https://twitter.com/akdatti94)
 
 
 
-### SEO officer:
+## Community manager:
 
-_Moshood S_
+[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
 
 
 
@@ -24,7 +24,11 @@ _Moshood S_
 
 [_Judge L_](https://twitter.com/Grizz375)
 
-[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
+
+
+### SEO:
+
+_Moshood S_
 
 
 
