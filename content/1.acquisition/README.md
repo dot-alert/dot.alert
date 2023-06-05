@@ -29,4 +29,4 @@ You will need a Polkadot account to receive your coins/tokens, along with some u
 
 
 
-**In this section, we review key information for sending, receiving, and teleporting assets safely across Polkadot ecosystem's networks.**
+**In this section, we review key information for sending, receiving, and transferring assets safely across Polkadot ecosystem's networks.**

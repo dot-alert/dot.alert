@@ -1,6 +1,6 @@
 ---
 description: >-
-  An overview of the utility and relevance of Existential Deposits in the
+  An overview of the utility and relevance of existential deposits in the
   Polkadot ecosystem.
 ---
 

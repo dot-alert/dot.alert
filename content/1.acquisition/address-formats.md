@@ -1,6 +1,6 @@
 ---
 description: >-
-  A summary of use cases and good practices relative to Address Formats in the
+  A summary of use cases and good practices relative to address formats in the
   Polkadot ecosystem.
 ---
 
