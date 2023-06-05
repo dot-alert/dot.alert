@@ -1,6 +1,6 @@
 ---
 description: A list of team members responsible for the daily operations of Dot.alert().
-cover: ../.gitbook/assets/DotTeamMembers02.png
+cover: ../.gitbook/assets/DotTeamMembers03 (1).png
 coverY: 0
 ---
 
