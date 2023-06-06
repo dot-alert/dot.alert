@@ -1,5 +1,7 @@
 ---
-description: Regulatory assessments of the issuance of blockchain-based investments.
+description: >-
+  Regulatory assessments of the issuance of blockchain-based investment
+  products.
 ---
 
 # Issuance
