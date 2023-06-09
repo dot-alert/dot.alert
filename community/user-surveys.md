@@ -1,5 +1,5 @@
 ---
-description: Help us improve our platform by participating in our surveys.
+description: Help us improve our platform by participating in Dot.alert() surveys.
 cover: ../.gitbook/assets/DotSurvey03.png
 coverY: 0
 ---
@@ -8,7 +8,7 @@ coverY: 0
 
 Care to help us improve our content and our platform?📈
 
-Complete our survey. The best 5 submissions will be awarded a bounty of $20 DOT each.
+Complete our survey. The best 🥉3 submissions will be awarded a bounty of $10 DOT each.
 
 
 

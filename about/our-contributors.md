@@ -1,6 +1,6 @@
 ---
 description: A list of contributors responsible for content creation at Dot.alert().
-cover: ../.gitbook/assets/DotContributors03.png
+cover: ../.gitbook/assets/DotContributors03 (1).png
 coverY: 0
 ---
 

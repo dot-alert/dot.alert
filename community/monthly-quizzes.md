@@ -1,20 +1,14 @@
 ---
 description: >-
-  Participate in our monthly quizzes and enter our lucky draw to win cash prizes
-  of $DOT.
+  Participate in Dot.alert() monthly quizzes and enter our lucky draw to win
+  cash prizes of $DOT.
 cover: ../.gitbook/assets/DotQuiz03.png
 coverY: 0
 ---
 
 # Monthly Quizzes
 
-How dot-alert are you? 👀
-
-Take our monthly quiz to find out and enter a draw to win **one of our 5x 🏅$20 DOT cash prizes.**&#x20;
-
-{% hint style="info" %}
-Hint: All the answers can be found in Dot.alert()'s [content](../).&#x20;
-{% endhint %}
+Dot.alert() no longer runs monthly quizzes. Check out our [_**Fortnightly polls**_](fortnightly-polls.md) instead! 🤓
 
 
 

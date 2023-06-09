@@ -1,5 +1,5 @@
 ---
-description: A list of job positions available at Dot.alert().
+description: Apply to gigs and ongoing roles available at Dot.alert().
 cover: ../.gitbook/assets/DotJobs03.png
 coverY: 0
 ---
@@ -10,7 +10,7 @@ coverY: 0
 
 **Dot.alert()** is looking for team member(s) to manage and develop its platform’s operations.
 
-### Ad hoc roles:
+### Gigs:
 
 _Positions:_ 1 Promoter.
 
@@ -28,7 +28,7 @@ Please complete our [**Application form** ](https://forms.gle/rdpbd6sQNYMoui1w9)
 
 **Dot.alert()** is looking for contributors to create and curate its platform’s content.
 
-### Ad hoc roles:
+### Ongoing roles:
 
 _Positions:_ 2 Technical writers.
 

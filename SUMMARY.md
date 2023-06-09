@@ -76,6 +76,7 @@
 ## Community
 
 * [Social Channels](community/social-channels.md)
+* [Fortnightly Polls](community/fortnightly-polls.md)
 * [Monthly Quizzes](community/monthly-quizzes.md)
 * [User Surveys](community/user-surveys.md)
 * [Jobs](community/jobs.md)
