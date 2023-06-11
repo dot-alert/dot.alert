@@ -30,7 +30,7 @@ _Shashank R_
 
 
 
-## Graphics and UI design:
+## Graphics and UI designers:
 
 _<mark style="background-color:blue;">Those who style our platform.</mark>_
 
