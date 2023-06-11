@@ -22,7 +22,7 @@ Other solutions exist to help prominent network entities anchor their organisati
 
 Regulators have long advocated for caution when interacting with public ledgers, due to [the pseudonymous nature of blockchain networks operations](https://www.nortonrosefulbright.com/en/knowledge/publications/c5a7c134/anonymous-no-more-blockchain-analytics-in-the-courts). This is because transactions are permanently available and can be used to link individuals with their public addresses. Nevertheless, they acknowledge that Decentralised Identity protocols can contribute to compliant authentication procedures in the digital realm, which could support the onboarding of financially-excluded population (also called "the unbanked") into financial services. Another important use case for Decentralised identities could emerge to facilitate individuals' access to digital assets in the context of inheritance. &#x20;
 
-<figure><img src="../../../.gitbook/assets/R_NSubsocial (1).JPG" alt="A webpage of Subsocial network indicating the building blocks of its SDK."><figcaption><p>Overview of <a href="https://app.subsocial.network/dd">Subsocial</a> SDK's building blocks that contribute to defining user profiles within the network.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R_NSubsocial.JPG" alt="A webpage of Subsocial network indicating the building blocks of its SDK."><figcaption><p>Overview of <a href="https://app.subsocial.network/dd">Subsocial</a> SDK's building blocks that contribute to defining user profiles within the network.</p></figcaption></figure>
 
 ### Privacy-preserving Protocols&#x20;
 

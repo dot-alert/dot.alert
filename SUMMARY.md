@@ -16,6 +16,7 @@
   * [Air-gapped Signers](content/2.storage/air-gapped-signers.md)
   * [Cold Storage Devices](content/2.storage/cold-storage-devices.md)
   * [Recovery Setups](content/2.storage/recovery-setups.md)
+  * [Anti-phishing Features](content/2.storage/anti-phishing-features.md)
 * [3.Operations](content/3.operations/README.md)
   * [Bidding](content/3.operations/bidding/README.md)
     * [Kappa Sigma Mu (KΣM) Membership](content/3.operations/bidding/kappa-sigma-mu-ksm-membership.md)

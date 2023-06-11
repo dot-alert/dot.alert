@@ -1,6 +1,6 @@
 ---
 description: A list of contributors responsible for content creation at Dot.alert().
-cover: ../.gitbook/assets/DotContributors03 (1).png
+cover: ../.gitbook/assets/DotContributors03.png
 coverY: 0
 ---
 
@@ -27,6 +27,16 @@ _Michael E_
 _Onyinye M_
 
 _Shashank R_
+
+
+
+## Graphics and UI design:
+
+_<mark style="background-color:blue;">Those who style our platform.</mark>_
+
+_Anaelle LTD_
+
+_Patricia A.P._
 
 
 
