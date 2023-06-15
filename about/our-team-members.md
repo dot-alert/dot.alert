@@ -24,7 +24,7 @@ coverY: 0
 
 _Judge L_
 
-_Osagie I_
+_Osagiie I_
 
 
 

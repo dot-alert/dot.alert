@@ -10,7 +10,9 @@ coverY: 0
 
 _Are you up-to-dot with our latest fortnightly publication? 👀_&#x20;
 
-A correct answer to our poll earns you an entry ticket🎫 for our lucky draw with a 💰**10 DOT cash prize.** Check out "The rules of the polls" below.
+A correct answer to our poll earns you an entry ticket🎫 for our lucky draw with a 💰**10 DOT cash prize.** Check out ["The rules of the polls"](https://twitter.com/dot\_alert/status/1667098206323236866/photo/1) beforehand!
 
-<figure><img src="../.gitbook/assets/Fortnightlypolls_Rules.png" alt="Infographics of the rules of Dot.alert() fortnightly polls." width="188"><figcaption></figcaption></figure>
+{% embed url="https://airtable.com/shrccucejGz23Kgwy" %}
+Dot.alert() Poll 001 - 15th June 2023
+{% endembed %}
 
