@@ -32,8 +32,6 @@ _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages
 
 [Cryptozilla](https://www.youtube.com/@CryptozillaKH/about)
 
-[Dotgraphic](https://twitter.com/dotgraphic1)
-
 [GigMind](https://gigmind.app/)
 
 [KryptosChain](https://www.youtube.com/@KryptosChain/about)

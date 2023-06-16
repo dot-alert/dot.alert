@@ -4,6 +4,8 @@ description: Governance platforms for the Polkadot ecosystem.
 
 # Governance platforms
 
+[Delegation dashboard](https://delegation.polkadot.network/)
+
 OpenSquare
 
 Polkassembly
