@@ -16,5 +16,5 @@ A correct answer to our poll earns you an entry ticket🎫 for our lucky draw wi
 
 ## _**Past editions:**_
 
-_Poll #001: 15th June 2023 10:43 UTC - 16th June 10:43 UTC_
+_Poll #001: 15th June 2023 10:43 UTC_
 
