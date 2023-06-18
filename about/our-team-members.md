@@ -22,15 +22,7 @@ coverY: 0
 
 [_Abdulkadir I_](https://twitter.com/Gambo00004)
 
-_Judge L_
-
 _Osagiie I_
-
-
-
-### SEO:
-
-_Moshood S_
 
 
 
