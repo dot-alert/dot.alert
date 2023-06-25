@@ -22,7 +22,7 @@ coverY: 0
 
 [_Abdulkadir I_](https://twitter.com/Gambo00004)
 
-_Osasu I_
+_Osagiie I_
 
 
 
