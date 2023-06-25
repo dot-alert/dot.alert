@@ -38,7 +38,7 @@ AirGap
 
 [Polkadot Vault](https://www.parity.io/technologies/signer/)
 
-Stylo
+[Stylo](https://stylo-app.github.io/website/)
 
 
 
@@ -56,7 +56,7 @@ SafePal
 
 [Banana split](https://bs.parity.io/#/)
 
-Multix
+[Multix](https://multix.chainsafe.io/)
 
 PolkaSafe
 
