@@ -53,6 +53,7 @@
   * [Reddit](content/4.social-support/reddit.md)
   * [Telegram](content/4.social-support/telegram.md)
   * [Youtube](content/4.social-support/youtube.md)
+  * [Polkaverse](content/4.social-support/polkaverse.md)
 * [5.Regulations](content/5.regulations/README.md)
   * [Networks](content/5.regulations/networks/README.md)
     * [Infrastructure](content/5.regulations/networks/infrastructure.md)

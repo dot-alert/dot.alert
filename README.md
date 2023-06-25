@@ -13,7 +13,7 @@ layout: landing
 
 > 📢 **NEW CONTENT!**
 >
-> [Protecting your assets across the Polkadot ecosystem with Polkadot-JS Anti-phishing features.](content/2.storage/anti-phishing-features.md)
+> [A brief on the functionalities and role of Polkaverse in community-building within the Polkadot ecosystem.](content/4.social-support/polkaverse.md)
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td align="center"><strong>Purchasing assets</strong></td><td><a href="content/1.acquisition/">1.acquisition</a></td><td></td></tr><tr><td align="center"><strong>Storing assets</strong></td><td><a href="content/2.storage/">2.storage</a></td><td></td></tr><tr><td align="center"><strong>Transacting with assets</strong></td><td><a href="content/3.operations/">3.operations</a></td><td></td></tr><tr><td align="center"> <strong>Reviewing assets</strong></td><td><a href="content/4.social-support/">4.social-support</a></td><td></td></tr><tr><td align="center"><strong>Exploring regulations</strong></td><td><a href="content/5.regulations/">5.regulations</a></td><td></td></tr><tr><td align="center"><strong>Exploring tools</strong></td><td><a href="useful-tools/wallets.md">wallets.md</a></td><td></td></tr></tbody></table>
 
