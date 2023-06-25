@@ -30,15 +30,17 @@ For multisig accounts, more advanced setups are required because these accounts 
 
 But there is also the added option for each signatory to use a Pure proxy account for their related multisig operations that will subsequently delegate account control to different proxy accounts, many of which can be recoverable by the signatory's friends. Ultimately, these setups give [team members](../5.regulations/networks/participation.md) flexible pathways for managing their pool of assets, even when access by some members' enrolled account is lost.
 
+<figure><img src="../../.gitbook/assets/S_RSMultix (1).JPG" alt="Multix is an open-source special-purpose dapp for multisig operations."><figcaption><p><a href="https://multix.chainsafe.io/">Multix</a> provides a simple interface for managing complex multisig operations.</p></figcaption></figure>
+
 
 
 ### Why are Recovery Setups Important?
 
 In the Polkadot ecosystem, the same account can be used to store multiple assets across a variety of Relay chains and Parachains. This means that user interaction with dapps is heavily-dependent on having access to previously stored accounts at anytime. Recovery setups play a central role in ensuring that users maintain ownership of their assets over longer time frames in practice. However, it is recommended that you choose the schedules that best meet your needs, keeping in mind that there are certain risks associated with each type of recovery setup.
 
-<figure><img src="../../.gitbook/assets/S_RSSteps.png" alt="A block diagram showing the steps required to recover a Polkadot account via social recovery."><figcaption><p>An overview of the steps needed to fully and securely <a href="https://wiki.polkadot.network/docs/kusama-social-recovery">recover a Polkadot account via Polkadot-JS Apps</a>.</p></figcaption></figure>
-
 In the case of basic social recovery, users need to carefully vet their friends and keep them updated about any change to the setups. This is particularly important if the trusted person changes Polkadot account, as the recovery process needs to be maintained over time. It is also essential to make use of a reasonably long delay period that will enable early detection and prevention of malicious recovery by social peers.&#x20;
+
+<figure><img src="../../.gitbook/assets/S_RSSteps.png" alt="A block diagram showing the steps required to recover a Polkadot account via social recovery."><figcaption><p>An overview of the steps needed to fully and securely <a href="https://wiki.polkadot.network/docs/kusama-social-recovery">recover a Polkadot account via Polkadot-JS Apps</a>.</p></figcaption></figure>
 
 Account recovery setups can offer higher levels of security when used in combination. Nevertheless, the complexity of multisig accounts management and the risk of human error in relation to proxies makes them unsuitable for the average user. Instead, users need to develop a good understanding of Proxy accounts' parameters and processes through testnets prior to using these tools for the recovery of valuable assets.&#x20;
 
