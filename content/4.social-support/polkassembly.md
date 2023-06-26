@@ -24,7 +24,7 @@ Treasury-related communications are also available on Polkassembly to allow ecos
 
 
 
-### Risks: Mitigating the Limitations of Polkassembly
+### Risks: Managing Off-chain Interactions and Reputation-building&#x20;
 
 Because Polkassembly is an open platform and entirely automated, there is no active moderation on content and comments. In this context, it is often difficult to eliminate spam and/or offensive comments in real-time. Instead, users are invited to report any post that they judge irrelevant to or unsuitable for the topics in discussion.&#x20;
 
