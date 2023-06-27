@@ -16,7 +16,7 @@ Crypto derivatives are products or contracts whose value is determined by an und
 
 
 
-### How to: Minting Derivatives on Ecosystem Platforms&#x20;
+### How-to: Minting Derivatives on Ecosystem Platforms&#x20;
 
 Most crypto derivatives minted within the Polkadot ecosystem belong to two categories: liquid staking and liquid crowdloan.&#x20;
 

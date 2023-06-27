@@ -16,7 +16,7 @@ Liquidity provision involves locking a pool of assets on a given Decentralised e
 
 
 
-### How to:  Providing Liquidity on DEXes
+### How-to:  Providing Liquidity on DEXes
 
 At a basic level, users can provide liquidity by depositing their assets in liquidity pools from Automated Market Makers (AMMs). These pools come with their own parameters such as the types of assets to supply and the trading fees scheme that applies. By contrast, when lending assets as part of Money Market operations (MMs), the platform will specify the interest rates to be paid and the type(s) of assets that users will be getting in return. DEXes do not take custody of users' assets, which means that, if there is no voluntary locking period in place, all assets deposited can be withdrawn by the lenders along with any interest/payment due at anytime.
 
