@@ -24,6 +24,8 @@ description: Polkadot ecosystem news, tutorials, guides, collectives, etc.
 
 [Kappa Sigma Mu (KΣM)](https://ksmsociety.io/)
 
+[KryptosChain](https://www.youtube.com/@KryptosChain/about)
+
 _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages) written by gbaci and edited by Anaelle LTD
 
 
@@ -33,8 +35,6 @@ _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages
 [Cryptozilla](https://www.youtube.com/@CryptozillaKH/about)
 
 [GigMind](https://gigmind.app/)
-
-[KryptosChain](https://www.youtube.com/@KryptosChain/about)
 
 _Polkadot for Beginners_: [Audiobook](https://open.spotify.com/episode/2UtscT6JVbYUBNvNyhEcGo) (Spotify) by Abujulaibib
 
