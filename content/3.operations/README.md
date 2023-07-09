@@ -18,7 +18,7 @@ Depending on your interests, you will be able to:
 * contribute to [network security](staking/)
 * [swap](swapping/), [borrow](borrowing/), and [lend](lending/) assets
 * [mint](nft-trading/data-management.md) and [sell](nft-trading/marketplace-activities.md) NFTs
-* access Auto-compounding and LBP services
+* access [Auto-compounding](auto-compounded-staking.md) and LBP services
 * create and manage Gameverses
 * build and monetise Social media-based communities
 * capitalise on Prediction markets

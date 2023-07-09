@@ -30,7 +30,7 @@ For multisig accounts, more advanced setups are required because these accounts 
 
 But there is also the added option for each signatory to use a Pure proxy account for their related multisig operations that will subsequently delegate account control to different proxy accounts, many of which can be recoverable by the signatory's friends. Ultimately, these setups give [team members](../5.regulations/networks/participation.md) flexible pathways for managing their pool of assets, even when access by some members' enrolled account is lost.
 
-<figure><img src="../../.gitbook/assets/S_RSMultix.JPG" alt="Multix is an open-source special-purpose dapp for multisig operations."><figcaption><p><a href="https://multix.chainsafe.io/">Multix</a> provides a simple interface for managing complex multisig operations.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_RSMultix (2).JPG" alt="Multix is an open-source special-purpose dapp for multisig operations."><figcaption><p><a href="https://multix.chainsafe.io/">Multix</a> provides a simple interface for managing complex multisig operations.</p></figcaption></figure>
 
 
 

@@ -44,6 +44,7 @@
   * [NFT Trading](content/3.operations/nft-trading/README.md)
     * [Data Management](content/3.operations/nft-trading/data-management.md)
     * [Marketplace Activities](content/3.operations/nft-trading/marketplace-activities.md)
+  * [Auto-compounded Staking](content/3.operations/auto-compounded-staking.md)
 * [4.Support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)
