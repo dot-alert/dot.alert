@@ -15,7 +15,7 @@ A correct and timely answer to our poll earns you an entry ticket🎫 for our lu
 
 
 {% embed url="https://airtable.com/shr8J9wy7oyckJ7Jn" %}
-Poll #003: 13th July 2023 08:17 UTC
+Poll #003: 13th July 2023 08:37 UTC
 {% endembed %}
 
 &#x20;
