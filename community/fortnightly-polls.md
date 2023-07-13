@@ -12,9 +12,13 @@ _Are you up-to-dot with our latest fortnightly publication? 👀_&#x20;
 
 A correct and timely answer to our poll earns you an entry ticket🎫 for our lucky draw with a 💰**10 DOT cash prize.** Check out "[The rules of the polls](https://twitter.com/dot\_alert/status/1667098206323236866)" beforehand!
 
-**Poll #003: 13th July 2023 \[TBA]**
 
 
+{% embed url="https://airtable.com/shr8J9wy7oyckJ7Jn" %}
+Poll #003: 13th July 2023 08:17 UTC
+{% endembed %}
+
+&#x20;
 
 ## _**Past editions:**_
 
