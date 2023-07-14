@@ -1,6 +1,6 @@
 ---
-description: Apply to gigs and ongoing roles available at Dot.alert().
-cover: ../.gitbook/assets/DotJobs03.png
+description: A list of job openings available at Dot.alert().
+cover: ../.gitbook/assets/DotJobs03 (1).png
 coverY: 0
 ---
 
