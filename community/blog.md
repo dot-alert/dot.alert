@@ -10,7 +10,7 @@ coverY: 0
 
 _14th July 2023 | A report by Onyinye M._
 
-**Host: Gitcoin Grants stack**
+**Host: Gitcoin Grants Stack**
 
 **Co-hosts: Hypercerts and Gitcoinreviews**
 
