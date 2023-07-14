@@ -38,7 +38,7 @@ In the crypto realm, a retrospective approach is more suitable for impact measur
 
 Beyond securing funding, funded projects can also monetize their impact. Instead of solely relying on continuous funding, projects can leverage their demonstrated impact to attract more investments. Investors are increasingly interested in supporting projects with tangible and visible impact, allowing projects to sustain themselves and reduce their reliance on continuous grants.
 
-<figure><img src="../.gitbook/assets/image.png" alt="The Gitcoin grants programme is built on the Gitcoin Grants stack to support the funding of Public goods."><figcaption><p>The socio-financial impact of the Gitcoin grants programme on Public Goods projects.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt="The Gitcoin grants programme is built on the Gitcoin Grants stack to support the funding of Public goods."><figcaption><p>The socio-financial impact of the Gitcoin grants programme on Public Goods projects.</p></figcaption></figure>
 
 ### Decentralized Measurement Standards
 

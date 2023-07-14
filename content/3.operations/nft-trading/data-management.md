@@ -24,7 +24,7 @@ Because NFT files themselves are not stored on-chain, they need to be hosted in 
 
 Although platforms can present different interfaces, the NFT issuance process focuses on creating a token with basic information such as an ID, a name, a description, and a storage location. Some platforms offer advanced minting operations though which the creator can attach special features (also called "attributes") to an NFT to enhance its originality and/or uniqueness within a given collection. Over time, such features will unlock new use cases for NFTs such as nesting, soulbinding, and fractionalisation.
 
-
+<figure><img src="../../../.gitbook/assets/O_NFTKodaDOTStore.JPG" alt="Interface of KodaDOT NFT marketplace linking to custom NFT data stored."><figcaption><p><a href="https://kodadot.xyz/">KodaDOT</a> provides decentralised storage solutions for NFT creators and Marketplace developers.</p></figcaption></figure>
 
 ### Risks: Mitigating NFT Unavailability and Losses
 

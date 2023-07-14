@@ -1,6 +1,6 @@
 ---
 description: A list of job openings available at Dot.alert().
-cover: ../.gitbook/assets/DotJobs03 (1).png
+cover: ../.gitbook/assets/DotJobs03 (1) (1).png
 coverY: 0
 ---
 

@@ -32,7 +32,7 @@ Subscan
 
 SubQuery
 
-Subsquid
+[Subsquid](https://www.subsquid.io/)
 
 Web3Go
 
