@@ -26,7 +26,7 @@ Treasury-related communications are also available on Polkassembly to allow ecos
 
 ### Risks: Managing Off-chain Interactions and Reputation-building&#x20;
 
-Because Polkassembly is an open platform and entirely automated, there is no active moderation on content and comments. In this context, it is often difficult to eliminate spam and/or offensive comments in real-time. Instead, users are invited to report any post that they judge irrelevant to or unsuitable for the topics in discussion.&#x20;
+Because Polkassembly is an open platform and entirely automated, there is no active moderation on content and comments. In this context, it is often difficult to eliminate spam and/or offensive comments in real-time. Instead, users are invited to report any post that they judge irrelevant or unsuitable for the topics in discussion, which will be followed-up at a later time.
 
 As a Web3 [platform](../5.regulations/platforms/), Polkassembly operates with the pseudonymity and self-made identities of its users, which can incite bad actors to join in. In recent times, some Treasury-related communications have led to heated debates during which unidentifiable users thrived on relaying uninformed but aggressive views. Unfortunately, such episodes can cause irreparable damages to proponents who are working on establishing trust with ecosystem participants.
 
