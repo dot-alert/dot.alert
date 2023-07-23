@@ -3,7 +3,21 @@ description: >-
   Configuring, transacting, and signing with Web3 assets in the Polkadot
   ecosystem.
 cover: ../../.gitbook/assets/Dotalertbannersection3 (1).png
-coverY: 0
+coverY: -6
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 3.Operations

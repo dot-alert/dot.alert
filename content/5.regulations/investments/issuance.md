@@ -56,7 +56,7 @@ Web3 projects seek to overcome these challenges through decentralisation, which 
 
 <figure><img src="../../../.gitbook/assets/R_IPolkabeat.JPG" alt="Criteria implemented by Polkabeat to evaluate the decentralisation of Polkadot parachains."><figcaption><p><a href="https://polkabeat.org/polkabeat/">Polkabeat</a> analyses the decentralisation of Polkadot parachains with publicly-traded tokens.</p></figcaption></figure>
 
-### Jurisdictional Risks:&#x20;
+### Jurisdictional Risks
 
 The relative pseudonymity of blockchain participants works to blur the links between digital identities and real-world identifiers like names and addresses. This increases the concerns around lack of [compliance](../platforms/compliance.md) for financial reporting. Given the global nature of crypto, monitoring suspicious activities requires an international regulatory framework that doesn’t exist yet. This leaves most centralised projects at risk of being shut down at any time through local governments and authorities' sanctions.
 

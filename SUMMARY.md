@@ -66,6 +66,7 @@
     * [Compliance](content/5.regulations/platforms/compliance.md)
   * [Investments](content/5.regulations/investments/README.md)
     * [Issuance](content/5.regulations/investments/issuance.md)
+    * [Insurance](content/5.regulations/investments/insurance.md)
 
 ## Useful tools
 

@@ -2,8 +2,22 @@
 description: >-
   Monitoring, tracking, and accounting for Web3 assets in the Polkadot
   ecosystem.
-cover: ../../.gitbook/assets/Dotalertbannersection5 (2).png
-coverY: 0
+cover: ../../.gitbook/assets/Dotalertbannersection5.png
+coverY: -8
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 5.Regulations
