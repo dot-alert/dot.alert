@@ -10,8 +10,6 @@ coverY: 0
 
 _<mark style="background-color:blue;">Those who create our content.</mark>_
 
-_Abdulaziz K_
-
 _Abdulkadir I_
 
 [_Amed K_](https://twitter.com/Abdulra49391530)
@@ -44,7 +42,7 @@ _Patricia A.P._
 
 _<mark style="background-color:blue;">Those who fund our developments.</mark>_
 
-Gitcoin Program (April 2023 Beta round)
+Gitcoin Grants (April 2023 Beta round)
 
 Polkadot Treasury (October 2022 - March 2023)
 
@@ -53,6 +51,8 @@ Polkadot Treasury (October 2022 - March 2023)
 ## Retired collaborators:
 
 _<mark style="background-color:blue;">Those who previously supported our mission.</mark>_
+
+_Abdulaziz K_
 
 _Abdulbasit S_
 

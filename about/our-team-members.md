@@ -6,12 +6,6 @@ coverY: 0
 
 # Our Team Members
 
-## Project manager:
-
-[_Abdulaziz K_](https://twitter.com/akdatti94)
-
-
-
 ## Community manager:
 
 [_Onyinye M_](https://twitter.com/ynnx\_\_\_)

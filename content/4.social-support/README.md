@@ -2,7 +2,7 @@
 description: >-
   Troubleshooting, discussing, and reviewing Web3 assets in the Polkadot
   ecosystem.
-cover: ../../.gitbook/assets/Dotalertbannersection4.png
+cover: ../../.gitbook/assets/Dotalertbannersection4 (1).png
 coverY: -41
 layout:
   cover:
