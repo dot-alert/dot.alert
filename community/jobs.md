@@ -1,7 +1,21 @@
 ---
 description: A list of job openings available at Dot.alert().
-cover: ../.gitbook/assets/DotJobs03 (1) (1).png
+cover: ../.gitbook/assets/DotJobs04.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # Jobs
@@ -11,8 +25,6 @@ coverY: 0
 **Dot.alert()** is looking for team member(s) to manage and develop its platform’s operations.
 
 No active opening.
-
-
 
 
 

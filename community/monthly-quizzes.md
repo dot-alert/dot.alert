@@ -2,8 +2,22 @@
 description: >-
   Participate in Dot.alert() monthly quizzes and enter our lucky draw to win
   cash prizes of $DOT.
-cover: ../.gitbook/assets/DotQuiz03.png
+cover: ../.gitbook/assets/DotQuiz04.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # Monthly Quizzes

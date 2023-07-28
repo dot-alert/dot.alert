@@ -2,6 +2,17 @@
 description: >-
   Regulatory evaluations of the standards of blockchain-based insurance
   products.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Insurance

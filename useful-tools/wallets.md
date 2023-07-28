@@ -10,7 +10,7 @@ Enkrypt
 
 Fearless
 
-[Polkadot-JS](https://polkadot.js.org/extension/)
+Polkadot-JS
 
 Polkagate
 
@@ -20,7 +20,7 @@ Talisman
 
 
 
-### Mobile wallets
+## Mobile wallets
 
 Fearless
 
@@ -32,17 +32,17 @@ Subwallet
 
 
 
-### Air-gapped signers
+## Air-gapped signers
 
 AirGap
 
-[Polkadot Vault](https://www.parity.io/technologies/signer/)
+### [Polkadot Vault](https://www.parity.io/technologies/signer/)
 
-[Stylo](https://stylo-app.github.io/website/)
+### [Stylo](https://stylo-app.github.io/website/)
 
 
 
-### Cold storage devices
+## Cold storage devices
 
 CoolWallet
 
@@ -52,11 +52,11 @@ SafePal
 
 
 
-### Recovery and Multisig tools
+## Recovery and Multisig tools
 
-[Banana split](https://bs.parity.io/#/)
+### [Banana split](https://bs.parity.io/#/)
 
-[Multix](https://multix.chainsafe.io/)
+### [Multix](https://multix.chainsafe.io/)
 
 PolkaSafe
 

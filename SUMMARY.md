@@ -90,7 +90,7 @@
 
 * [Our Mission](about/our-mission.md)
 * [Our Platform](about/our-platform.md)
-* [Our Team Members](about/our-team-members.md)
+* [Our Team](about/our-team-members.md)
 * [Our Contributors](about/our-contributors.md)
 
 ## Legal

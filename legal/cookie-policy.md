@@ -1,12 +1,28 @@
 ---
 description: Cookie policy for Dot.alert() visitors.
-cover: ../.gitbook/assets/DotPrivacy03.png
+cover: ../.gitbook/assets/DotPrivacy04.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # Cookie Policy
 
 Please read this policy carefully before using the website [https://dot-alert.gitbook.io/dot.alert/](https://dot-alert.gitbook.io/dot.alert/) operated by us.
+
+
 
 ## **What are Cookies?**
 

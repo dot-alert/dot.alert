@@ -1,7 +1,21 @@
 ---
 description: Explore the latest developments in Web3 through Dot.alert() reports.
-cover: ../.gitbook/assets/DotBlog03.png
+cover: ../.gitbook/assets/DotBlog04 (1).png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
 ---
 
 # Blog
