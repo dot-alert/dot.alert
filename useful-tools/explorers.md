@@ -19,11 +19,11 @@ layout:
 
 ### [Asset Portfolio](https://substrate-portfolio.github.io/polkadot-portfolio/)
 
+### [SubID](https://sub.id/)
+
 Cumulon
 
 Polkaholic
-
-### [SubID](https://sub.id/)
 
 
 
@@ -41,9 +41,9 @@ Subscan
 
 ## Data indexers
 
-SubQuery
-
 ### [Subsquid](https://www.subsquid.io/)
+
+SubQuery
 
 Web3Go
 

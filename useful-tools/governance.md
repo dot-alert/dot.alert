@@ -4,17 +4,23 @@ description: Governance platforms for the Polkadot ecosystem.
 
 # Governance platforms
 
-[Delegation dashboard](https://delegation.polkadot.network/)
+## Voting
+
+### [Delegation dashboard](https://delegation.polkadot.network/)
 
 OpenSquare
 
 Polkassembly
 
+Subsquare
+
+
+
+## Monitoring
+
 Proof-of-Chaos
 
 Ryabina bots
-
-Subsquare
 
 Web3alert
 

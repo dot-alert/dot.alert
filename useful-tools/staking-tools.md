@@ -6,15 +6,15 @@ description: Staking tools for the Polkadot ecosystem.
 
 ## Nominating
 
-MyDotWallet
-
 ### [Staking dashboard](https://staking.polkadot.network/#/overview)
 
 ### [Staking income](https://james-sangalli.github.io/dot-staking-income-web/)
 
-Talisman portal&#x20;
-
 ### [Validator selector](https://james-sangalli.github.io/dot-validator-selector/)
+
+MyDotWallet
+
+Talisman portal&#x20;
 
 YieldScan
 

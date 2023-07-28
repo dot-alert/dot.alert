@@ -6,11 +6,11 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 ## Browser extensions
 
+### [Polkadot-JS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.ibp.network%2Fpolkadot#/accounts)
+
 Enkrypt
 
 Fearless
-
-Polkadot-JS
 
 Polkagate
 
@@ -34,11 +34,11 @@ Subwallet
 
 ## Air-gapped signers
 
-AirGap
-
 ### [Polkadot Vault](https://www.parity.io/technologies/signer/)
 
 ### [Stylo](https://stylo-app.github.io/website/)
+
+AirGap
 
 
 

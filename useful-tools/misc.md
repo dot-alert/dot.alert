@@ -33,21 +33,19 @@ layout:
 
 ### [Guide to Polkadot-JS](https://anaelleltd.github.io/polkadotjs-guide/) by Anaelle LTD
 
+### [Polkadot for Beginners](https://linktr.ee/polkadotbook) (10 languages) written by gbaci and edited by Anaelle LTD
+
 [Kappa Sigma Mu (KΣM)](https://ksmsociety.io/)
 
 [KryptosChain](https://www.youtube.com/@KryptosChain/about)
-
-### _Polkadot for Beginners_: [E-book](https://linktr.ee/polkadotbook) (10 languages) written by gbaci and edited by Anaelle LTD
 
 
 
 ## Community-made
 
-[Cryptozilla](https://www.youtube.com/@CryptozillaKH/about)
-
 ### [GigMind](https://gigmind.app/)
 
-_Polkadot for Beginners_: [Audiobook](https://open.spotify.com/episode/2UtscT6JVbYUBNvNyhEcGo) (Spotify) by Abujulaibib
-
 ### [Subdaily](https://subdaily.io/)
+
+[Cryptozilla](https://www.youtube.com/@CryptozillaKH/about)
 
