@@ -2,20 +2,6 @@
 description: Connect with Web3 users and enthusiasts via Dot.alert().
 cover: ../.gitbook/assets/DotSocials04.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # Social Channels
