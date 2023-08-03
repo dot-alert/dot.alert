@@ -4,6 +4,20 @@ description: >-
   of $DOT.
 cover: ../.gitbook/assets/DotPoll04.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Fortnightly Polls
