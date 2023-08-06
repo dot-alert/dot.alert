@@ -16,7 +16,7 @@ Grill is a lightweight and mobile-focused chat application that supports the fri
 
 ### How-to: Joining Chats for Anonymous Discussions
 
-Users can onboard Grill at any time and from any device because first-time onboarding automatically generates a custom username and [private key](../2.storage/seed-secret-phrases.md).  However, visitors who want to keep their anonymous Polkadot account will need to backup of their private key for future use via ecosystem wallets. Users also have the option to join the platform with their Ethereum usernames.
+Users can onboard Grill at any time and from any device because first-time onboarding automatically generates a custom username and [private key](../2.storage/seed-secret-phrases.md).  However, visitors who want to keep their anonymous Polkadot account will need to backup of their private key for future use via ecosystem wallets. Users also have the option to link their Ethereum accounts to their profile.
 
 Grill aggregates instant chats created by community members for sharing opinions on certain topics. There are also more generic discussion hubs which are provided by the Subsocial team to tie together different chats in relation to technologies, governance proposals, events, and conferences. Additionally, it is possible for multichain wallet users to view and send assets such as stablecoins, tokens, and NFTs from the Ethereum and Polygon ecosystems.
 
