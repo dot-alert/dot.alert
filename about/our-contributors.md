@@ -38,8 +38,6 @@ _Michael E_
 
 _Onyinye M_
 
-_Shashank R_
-
 
 
 ## Graphics and UI designers:
@@ -77,6 +75,8 @@ _Judge L_
 _Moshood S_
 
 _Rhoda A_
+
+_Shashank R_
 
 _YungBeef_
 

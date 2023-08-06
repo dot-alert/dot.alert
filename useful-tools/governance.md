@@ -18,6 +18,8 @@ Subsquare
 
 ## Monitoring
 
+### [Grill](https://grill.chat/polkassembly)
+
 Proof-of-Chaos
 
 Ryabina bots
