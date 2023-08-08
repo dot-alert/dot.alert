@@ -18,7 +18,7 @@ Under the previous governance system, token holders could only delegate to one a
 
 With OpenGov, there is a much more flexible option for vote delegation, since different multiple referendum classes run in parallel, each carrying many proposals. This enables multirole delegation, a process in which voters delegate their power to different accounts across different referendum classes also known as "origins".
 
-<figure><img src="../../../.gitbook/assets/O_VGov2.png" alt="A sample of referendum classes from the upcoming Gov 2.0/OpenGov upgrade."><figcaption><p>A selection of referendum origins implemented on <a href="https://guide.kusama.network/docs/maintain-guides-opengov/#origins-and-tracks">OpenGov</a>.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VOpenGovTracksOrigins.JPG" alt="Origins and Tracks for Polkadot OpenGov Referenda. "><figcaption><p>An overview of some origins and Tracks parameters for Polkadot <a href="https://wiki.polkadot.network/docs/maintain-guides-polkadot-opengov#origins-and-tracks-info">OpenGov</a>.</p></figcaption></figure>
 
 This represents a huge improvement in coordination, as not all delegated accounts can be trusted to consistently take the best decisions in all governance activities. While one delegate may be best to handle _MediumSpender_ proposals, another may be a better fit for handling _Root origin_ proposals.
 

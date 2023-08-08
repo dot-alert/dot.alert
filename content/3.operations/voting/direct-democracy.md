@@ -18,7 +18,7 @@ In the Polkadot ecosystem, the main [governance platforms](../../../useful-tools
 
 When voting, you select an amount out of your staked or available coins that you are willing to lock for the duration of the vote. You can also lock your coins for a longer time to multiply the value of your vote within the overall turnout. Furthermore, some platforms use [Quadratic voting](https://vote.polkadot.network/) strategies to determine the final outcome of a vote, which are useful to prevent token-rich holders from taking control of all governance decisions.
 
-<figure><img src="../../../.gitbook/assets/O_VLocks (2).JPG" alt="A sample of democracy locks applied to a Polkadot account balance"><figcaption><p>Summary of <a href="https://support.polkadot.network/support/solutions/articles/65000181870-how-to-remove-expired-democracy-locks">democracy locks</a> applied to a Polkadot account's balances.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_VReferendaLocks.JPG" alt="A voting transaction for an OpenGov referendum submitted on Polkadot-JS Apps."><figcaption><p>Overview of a voting transaction for an <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.ibp.network%2Fpolkadot#/referenda">OpenGov referendum</a>.</p></figcaption></figure>
 
 
 

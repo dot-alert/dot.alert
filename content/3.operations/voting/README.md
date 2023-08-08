@@ -6,7 +6,7 @@ description: >-
 
 # Voting
 
-Voting is the democratic power given to all token holders in the Polkadot ecosystem. Principally, partaking in on-chain governance means using your tokens to vote for or against proposed changes to current network operations.&#x20;
+Voting is the decision-making power given to all DOT token holders in the Polkadot ecosystem. Principally, partaking in on-chain governance means using/locking tokens to vote for or against proposed changes to current network operations.&#x20;
 
 Every token holder has the opportunity to:&#x20;
 
