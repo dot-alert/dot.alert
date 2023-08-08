@@ -30,7 +30,7 @@ By contrast, exchanges offer more flexible ways to stake your funds. Liquid stak
 
 Risk management best practices fall under three categories: using secure setups, choosing reliable validators, and monitoring staking parameters.
 
-For optimal security, you need to separate the stash account that holds and bonds your funds from the controller account that unbonds funds and nominates validators. Preferably, you should leave your stash in [cold storage ](../../2.storage/cold-storage-devices.md)and use either a staking proxy for On-chain staking or a non-transfer proxy for Nomination pools. In case one of your private keys gets phished, this configuration will ensure that your bonded tokens and your staking income cannot be simultaneously accessed by the thief.
+For optimal security, it is recommended to separate the stash account that holds and bonds funds from the controller account that unbonds funds and nominates validators. Preferably, you should leave your stash in [cold storage ](../../2.storage/cold-storage-devices.md)and use either a staking proxy for On-chain staking or a non-transfer proxy for Nomination pools. In case one of your private keys gets phished, this configuration will ensure that your bonded tokens and your staking income cannot be simultaneously accessed by the thief.
 
 It is recommended to avoid picking validators that are operating "at capacity," as they may already be oversubscribed, which prevents you from getting any rewards. You should also consider choosing validators with a combination of low commission, minimal or no slash history, and sizable self-stake. In support of decentralisation, you could also select your validators from different geographic locations or with noticeable community involvement.
 
