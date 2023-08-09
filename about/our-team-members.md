@@ -30,7 +30,7 @@ layout:
 
 [_Abdulkadir I_](https://twitter.com/Gambo00004)
 
-_Osagiie I_
+[_Osagiie I_](https://twitter.com/0xosagiie)
 
 
 
