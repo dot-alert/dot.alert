@@ -26,11 +26,17 @@ layout:
 
 
 
-### Promoters:
+### Senior promoter:
 
 [_Abdulkadir I_](https://twitter.com/Gambo00004)
 
+
+
+### Promoters:
+
 [_Osagiie I_](https://twitter.com/0xosagiie)
+
+_Michael W_
 
 
 
