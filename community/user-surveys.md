@@ -22,11 +22,13 @@ layout:
 
 Care to help us improve our content and our platform?📈
 
-Complete our survey. The best 🥉3 submissions will be awarded a bounty of $10 DOT each.
+Complete our survey below.
+
+[**User survey #3: 10th August 2023 11:00 UTC - 31st August 2023 23:00 UTC.**](https://docs.google.com/forms/d/e/1FAIpQLSfCeqHK50p1OnTShKXoqu\_T46wWqXzPknJM3tHCSFTQbp2RFw/viewform)
 
 
 
-**Past surveys:**
+### **Past surveys:**
 
 _User survey #2: 6th March 2023 11:00 UTC -  19th March 2023 23:00 UTC._
 
