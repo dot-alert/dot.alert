@@ -20,6 +20,54 @@ layout:
 
 # Blog
 
+## [FEST IRL Onchain Exposition](https://twitter.com/optimismFND/status/1689309343852761089)
+
+_17th August 2023 | A report by Onyinye M._
+
+**Host: Optimism Foundation**
+
+**Co-hosts: Friends With Benefits and binji**
+
+
+
+Real-life events in the crypto industry offer a holistic view of blockchain, extending beyond DeFi or NFTs and enabling meaningful connections between individuals across various sectors. Optimism recently hosted an enlightening session during which they dived into the successful FEST event and discussed on-chain culture, L2 NFTs, and the fusion of on-chain with real life.&#x20;
+
+This report highlights the role of Optimism in supporting Public Goods and the pivotal insights noted on creating an all-inclusive, educational, and fun event.
+
+
+
+### The Fusion of On-chain with Real-life
+
+Optimism's involvement with FEST stems from its commitment to building an economy for people and recognising projects making a positive impact to the Optimism collective. The RetroPGF rewards Public Goods projects of all kinds as well as individuals such as artists and educators through retroactive funding. It acts as an enabler for contributors' ideas to come to life and create value.
+
+### **On-Chain Community-Building**
+
+The importance of on-chain community-building cannot be overstated. In the crypto industry, having solid online communities enhances real-life events, and prior familiarisation between community members helps foster deeper connections.&#x20;
+
+While developers and tech developments facilitate onboarding, the true growth of a project stems from community engagement. And since on-chain actions can influence real-life engagement, having a strong digital presence is critical.&#x20;
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>FWB FEST 2023: An internet exposition showcasing the convergence of digital, on-chain, and real-life communities.</p></figcaption></figure>
+
+### **Inclusivity and Balance**
+
+Creating an all-inclusive atmosphere means that everyone in the community should feel relevant, from the crypto-curious novices to the seasoned experts. Behind NFT pfps, there are real people who want to be seen, heard, and who want to connect. IRL events would also benefit from being structured in a way that facilitates involvement in practice.&#x20;
+
+Generally, events that cater to a wide range of audiences rather than targeting specific niches will add value to the collective. But it is also recommended to strike a balance between networking, education, and relaxation, which makes events both enriching and enjoyable. Blockchain-related initiatives don't have to be geared towards on-chain value creation: some could also aim for connection and fun - just like FEST!
+
+### **Prioritising Cultural Integration and Affinity**&#x20;
+
+Researching the significance of a location before hosting an event can help find unique ways to merge the distinct culture of crypto with the local culture. This is also a factor for success because maintaining authenticity adds resonance.
+
+Bigger doesn't always mean better. Organising IRL events should focus on quality and not quantity. In fact, having a small number of participants can bring a sense of togetherness to an event and promote connecting on a personal level for attendees.&#x20;
+
+
+
+Conducting successful IRL events depends on the vitality of the on-chain community. There is no doubt that high-profile speakers and projects can contribute greatly to the success of an event and that intentional collaboration remains an important piece of community-building. However, adopting an all-inclusive approach and maintaining authenticity stand as guiding principles for building thriving crypto-based communities in the real world.&#x20;
+
+
+
+***
+
 ## [Measuring Impact of Grant Funding](https://twitter.com/grantsstack/status/1679203929526259712)
 
 _14th July 2023 | A report by Onyinye M._
