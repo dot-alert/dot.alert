@@ -6,6 +6,10 @@ description: >-
 
 # Kappa Sigma Mu (KΣM) Membership
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What is Kappa Sigma Mu (KΣM)?
 
 The _Kappa Sigma Mu_ is a Kusama-based collective whose objective is to create a Human blockchain via a process called "Proof-of-Ink". Members of this Society are eligible for rewards called "payouts" taken out of the Society's pot, which is funded by the Kusama Treasury.

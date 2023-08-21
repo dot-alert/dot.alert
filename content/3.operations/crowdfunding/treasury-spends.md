@@ -6,6 +6,10 @@ description: >-
 
 # Treasury Spends
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What are Treasury Spends?
 
 Relay chains come with on-chain treasuries whose funds are used to finance or reward activities that work towards the growth of their ecosystem. These funds are mainly generated through transaction fees and inflation, and a percentage of the total pot is regularly burnt.

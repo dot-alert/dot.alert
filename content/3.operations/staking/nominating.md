@@ -6,6 +6,10 @@ description: >-
 
 # Nominating
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## Who are Nominators?
 
 Nominators play a central role in the election of the [validators](validating.md) who approve transactions and produce blocks. By locking their funds in staking protocols, they are not only helping protect the network from bad actors, but also maximising returns for themselves.

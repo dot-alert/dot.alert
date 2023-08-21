@@ -6,6 +6,10 @@ description: >-
 
 # Validating
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## Who are Validators?
 
 Validators are tasked with the production of Relay chains blocks and the verification of the state of Parachains. As part of the Nominated Proof-of-Stake (also called NPoS) model, validators are elected via an algorithm that takes into account both the number and the stake of [nominators](nominating.md) that have selected them.

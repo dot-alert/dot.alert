@@ -6,6 +6,10 @@ description: >-
 
 # Initial DEX Offerings
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What are IDOs?
 
 IDOs (Initial DEX Offerings) involve launching a token sale via Decentralised Exchanges to raise funds for a project. These crowdfunding operations are coordinated through Smart Contracts deployed on the DEX, which facilitates the listing process for project teams.

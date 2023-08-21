@@ -6,6 +6,10 @@ description: >-
 
 # Crowdloans
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What are Crowdloans?
 
 Crowdloaning is a way for projects to get the support of the community when trying to secure a [Parachain slot lease](../bidding/parachain-slot-lease.md). Funds loaned by the community under this process are locked up: they do not go to the project team and they remain inaccessible for the duration of the lease.

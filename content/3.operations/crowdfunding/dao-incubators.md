@@ -6,6 +6,10 @@ description: >-
 
 # DAO Incubators
 
+_<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
+
+
+
 ## What is a DAO?
 
 A Decentralized Autonomous Organisation (also DAO) is a community-led group in which control and decisions are effected based on computer-coded guidelines. Prior to launching, DAOs often need support from incubators or programmes to fund their initial operations and design self-sustaining models for their treasuries.

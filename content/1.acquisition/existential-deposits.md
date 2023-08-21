@@ -34,7 +34,7 @@ It is important to note that existential deposits apply to account balances alto
 
 ### Why are Existential Deposits Important?
 
-Before you can receive custom assets on Common Good parachains, you will need to activate your account on these Common Good networks. Being aware of existential deposit requirements for these networks will prevent delays and mishaps while transacting.
+Before you can receive custom assets on Asset hubs, you will need to activate your account on these Common Good networks. Being aware of existential deposit requirements for these networks will prevent delays and mishaps while transacting.
 
 Numerous Polkadot projects use data related to active accounts and on-chain activity as a benchmark when running their reward and airdrop campaigns. An account that is accidentally deactivated, even for as little as a few minutes, could therefore disqualify you from receiving these extra perks.
 

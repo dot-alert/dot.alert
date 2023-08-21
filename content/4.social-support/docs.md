@@ -19,7 +19,6 @@ There is no set content that docs must present to the general public: each Polka
 At minima, docs provide the following information:
 
 * History and Vision
-*
 * [Tokenomics](../5.regulations/investments/issuance.md)
 * Whitepaper
 * Network guides (for node operators)
@@ -32,7 +31,7 @@ Docs can also provide a condensed summary of core blockchain concepts as well as
 
 
 
-### Risks: Basic Checks for Projects' Documentation
+### Risks: Basic Checks for Project Documentation
 
 Docs are often used to evaluate the quality of a project, especially at inception. They should always give a breakdown of what the team is trying to achieve, within which timeframes, and from which resources. A project that doesn't present its objectives clearly or doesn't have any meaningful content in its docs should always put you on alert as to its ability to provide value to users.
 
