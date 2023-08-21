@@ -28,7 +28,7 @@ LBP listing doesn't require whitelists, hard cap targets, minimum or maximum tok
 
 
 
-### Risks: Mitigating Assets Losses and Projects Devaluations
+### Risks: Mitigating Assets Losses and Project Devaluations
 
 LBP listing relies on complex programming and evolving business logic that tap into emerging technologies such as XCMP for Asset registries and cross-chain transfers between parachains. As such, there is always the risk that transactions fail to execute, resulting in lost purchasing opportunities for LBP participants. For this reason, the LBP listing process comes with mandatory testnet trials of critical operations such as depositing, withdrawing, and buying assets.&#x20;
 
