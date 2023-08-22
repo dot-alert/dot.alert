@@ -16,7 +16,7 @@ Token swaps involve exchanging cryptocurrencies without drawing on fiat. On Dece
 
 
 
-### How-to: Swapping tokens on DEXes
+### How-to: Swapping Tokens on DEXes
 
 Traditional token trading on Centralized Exchanges involves using the Orderbook model to match buyers and sellers of particular assets and for specific prices. This setup is entirely managed by custodians who handle all operations on behalf of their users. By contrast, swaps take place on non-custodial platforms with no registration requirements.
 
@@ -28,7 +28,7 @@ It is also worth mentioning that most ecosystem DEXes have integrated bridging p
 
 
 
-### Risks: Safety checks for AMM-based Token Swaps
+### Risks: Safety Checks for AMM-based Token Swaps
 
 The most notable downside of AMM-based swaps is slippage. When there isn't enough liquidity for a given pair on a platform, users have to pay above market prices for their swaps. As a result, the larger the value of the tokens requested, the costlier the swap operation. To minimise slippage, some DEXes use various protocols to source liquidity within and outside the ecosystem, however users can also manually set slippage limits while swapping to avoid unexpected losses.
 
