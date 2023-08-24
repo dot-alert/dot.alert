@@ -24,7 +24,7 @@ NFTs can be listed either through direct sale or via auctions. In the case of a 
 
 In addition to listing, some marketplaces allow the original creators of an NFT to earn a commission of 2 to 10% every time a secondary sale of their NFT occurs (also called "royalties"). The payout mechanism for royalties is often automated through Smart Contracts to facilitate transactions between multiple parties. In this setup, creators can generate a revenue from their work long after their first sale, whereas marketplaces are able to monetise the traffic generated on their platforms through listing and sales fees.
 
-
+<figure><img src="../../../.gitbook/assets/O_NFTArtZero.JPG" alt="ArtZero NFT marketplace facilitates transactions across multiple chains in the Polkadot ecosystem.."><figcaption><p><a href="https://www.artzero.io/">ArtZero</a> NFT Marketplace facilitates transactions across multiple chains.</p></figcaption></figure>
 
 ### Risks: Monitoring NFT Valuations
 
