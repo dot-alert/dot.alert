@@ -20,7 +20,7 @@ Polkassembly is currently the go-to platform for governance decisions on Relay c
 
 Treasury-related communications are also available on Polkassembly to allow ecosystem participants to review and give feedback on prospective spends. After receiving tips or funding, proponents often use the platform to garner further support from the general public and/or build a reputation around their capabilities for future references.&#x20;
 
-<figure><img src="../../.gitbook/assets/S_PDiscussion.JPG" alt="A sample of a Polkadot&#x27;s governance-related proposal opened for discussion on Polkassembly."><figcaption><p>A governance-related proposal for discussion on <a href="https://polkadot.polkassembly.io/post/1318">Polkadot</a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_PDiscussion.JPG" alt="A sample of a Polkadot&#x27;s governance-related proposal opened for discussion on Polkassembly."><figcaption><p>A governance-related proposal for discussion on <a href="https://polkadot.polkassembly.io/opengov">Polkassembly</a>.</p></figcaption></figure>
 
 
 

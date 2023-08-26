@@ -10,7 +10,7 @@ description: Governance platforms for the Polkadot ecosystem.
 
 OpenSquare
 
-Polkassembly
+### [Polkassembly](https://polkadot.polkassembly.io/opengov)
 
 Subsquare
 

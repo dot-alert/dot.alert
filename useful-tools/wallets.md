@@ -58,5 +58,5 @@ SafePal
 
 ### [Multix](https://multix.chainsafe.io/)
 
-PolkaSafe
+### [PolkaSafe](https://polkasafe.xyz/)
 
