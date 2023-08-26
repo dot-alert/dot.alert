@@ -54,7 +54,7 @@ _Patricia A.P._
 
 _<mark style="background-color:blue;">Those who fund our developments.</mark>_
 
-Gitcoin Grants (April 2023 Beta round)
+Gitcoin Grants (April 2023 Beta round, GG18 core round)
 
 Polkadot Treasury (October 2022 - March 2023)
 
