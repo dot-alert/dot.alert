@@ -34,11 +34,12 @@ Depending on your interests, you will be able to:
 * [mint](nft-trading/data-management.md) and [sell](nft-trading/marketplace-activities.md) NFTs
 * access [Auto-compounding](auto-compounded-staking.md) and [Listing](lbp-listing.md) services
 * create and manage Gameverses
-* build and monetise Social media-based communities
+* set up and monetise Social media-based communities
 * capitalise on Prediction markets
 * activate and maintain IoT subscriptions
 * generate and amplify Metaverse-based brands
 * issue and trade Fractionalised NFTs and Real World Assets
+* build and maintain climate solutions via Carbon credits markets&#x20;
 
 <figure><img src="../../.gitbook/assets/O_Dashboard.JPG" alt="A screenshot of the official Staking dashboard of the Polkadot and Kusama Relay chains."><figcaption><p><a href="https://staking.polkadot.network/dashboard#/overview">Polkadot Dashboard</a> for staking assets on network's validators.</p></figcaption></figure>
 
