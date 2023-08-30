@@ -24,5 +24,5 @@ Proof-of-Chaos
 
 Ryabina bots
 
-Web3alert
+### [Web3alert](https://web3alert.io/)
 

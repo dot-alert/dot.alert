@@ -10,6 +10,8 @@ description: >-
 
 Direct democracy is when you cast your votes from your own Polkadot account(s). This can be carried out using different setups. You can use a standard account that contains all your funds to complete your every day operations, including voting. You can also use a separate governance proxy account to sign democracy transactions on behalf of your every day account.  It is essential to note that [OpenGov](https://polkadot.network/blog/gov2-polkadots-next-generation-of-decentralised-governance/) allows many different classes of referendum to take place at the same time.
 
+<figure><img src="../../../.gitbook/assets/O_VReferendaLocks.JPG" alt="A voting transaction for an OpenGov referendum submitted on Polkadot-JS Apps."><figcaption><p>Overview of a voting transaction for an <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.ibp.network%2Fpolkadot#/referenda">OpenGov referendum</a>.</p></figcaption></figure>
+
 
 
 ### How-to: Participating in Direct Democracy
@@ -18,9 +20,7 @@ In the Polkadot ecosystem, the main [governance platforms](../../../useful-tools
 
 When voting, you select an amount out of your staked or available coins that you are willing to lock for the duration of the vote. You can also lock your coins for a longer time to multiply the value of your vote within the overall turnout. Furthermore, some platforms use [Quadratic voting](https://vote.polkadot.network/) strategies to determine the final outcome of a vote, which are useful to prevent token-rich holders from taking control of all governance decisions.
 
-<figure><img src="../../../.gitbook/assets/O_VReferendaLocks.JPG" alt="A voting transaction for an OpenGov referendum submitted on Polkadot-JS Apps."><figcaption><p>Overview of a voting transaction for an <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.ibp.network%2Fpolkadot#/referenda">OpenGov referendum</a>.</p></figcaption></figure>
-
-
+<figure><img src="../../../.gitbook/assets/O_VWeb3Alert.PNG" alt=""><figcaption><p><a href="https://web3alert.io/">Web3Alert</a> provides notifications for governance-related events across many ecosystem chains.</p></figcaption></figure>
 
 ### **Risks: Secure Setups for Direct Democracy Operations**
 
