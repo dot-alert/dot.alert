@@ -47,6 +47,8 @@ layout:
 
 ### [GigMind](https://gigmind.app/)
 
+### [Polkadot Philosophy](https://polkadotphilosophy.medium.com/)
+
 ### [Subdaily](https://subdaily.io/)
 
 [Cryptozilla](https://www.youtube.com/@CryptozillaKH/about)
