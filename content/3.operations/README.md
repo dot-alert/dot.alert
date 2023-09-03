@@ -33,7 +33,7 @@ Depending on your interests, you will be able to:
 * [swap](swapping/), [borrow](borrowing/), and [lend](lending/) assets
 * [mint](nft-trading/data-management.md) and [sell](nft-trading/marketplace-activities.md) NFTs
 * access [auto-compounding](auto-compounded-staking.md) and [listing](lbp-listing.md) services
-* create and manage gameverses
+* [create](gaming/game-assets.md) and manage gameverses
 * set up and monetise social media-based communities
 * capitalise on prediction markets
 * activate and maintain IoT subscriptions

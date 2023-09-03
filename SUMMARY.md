@@ -46,6 +46,8 @@
     * [Marketplace Activities](content/3.operations/nft-trading/marketplace-activities.md)
   * [Auto-compounded Staking](content/3.operations/auto-compounded-staking.md)
   * [LBP Listing](content/3.operations/lbp-listing.md)
+  * [Gaming](content/3.operations/gaming/README.md)
+    * [Game Assets](content/3.operations/gaming/game-assets.md)
 * [4.Support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)
