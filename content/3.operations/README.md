@@ -27,14 +27,14 @@ Being the custodian of your assets allows you to access a wide range of protocol
 Depending on your interests, you will be able to:
 
 * [join or launch](bidding/) collectives
-* [participate](voting/) in governance
+* [participate](voting/) in on-chain governance
 * [crowdfund](crowdfunding/) for projects
 * [stake](staking/) assets
 * [swap](swapping/), [borrow](borrowing/), and [lend](lending/) assets
 * [mint](nft-trading/data-management.md) and [sell](nft-trading/marketplace-activities.md) NFTs
 * access [auto-compounding](auto-compounded-staking.md) and [listing](lbp-listing.md) services
 * [create](gaming/game-assets.md) and manage gameverses
-* set up and monetise social media-based communities
+* set up and monetise communities
 * capitalise on prediction markets
 * activate and maintain IoT subscriptions
 * generate and amplify metaverse-based brands
