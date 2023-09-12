@@ -22,8 +22,6 @@ layout:
 
 Care to help us improve our content and our platform?📈
 
-Complete our survey below.
-
 
 
 ### **Past surveys:**
