@@ -8,7 +8,7 @@ description: >-
 
 ## What is Polkaverse?
 
-Polkaverse is a decentralised social media platform that facilitates content creation, sharing, and monetisation for web3 communities. It aims to serve as a hub for the free exchange of information on various ecosystem-related topics. Polkaverse is currently maintained by _DappForce_ (a team of open-source developers) and has been running on the Subsocial blockchain since its inception.
+Polkaverse is a decentralised social media platform that facilitates content creation, sharing, and monetisation for web3 communities. It aims to serve as a hub for the free exchange of information on various ecosystem-related topics. Polkaverse is currently maintained by _DappForce_ (a team of open source developers) and has been running on the Subsocial blockchain since its inception.
 
 &#x20;
 
@@ -22,8 +22,6 @@ Polkaverse also gives visitors and readers the chance to voice their opinion on 
 
 
 <figure><img src="../../.gitbook/assets/S_PVLandingpage.PNG" alt="Polkaverse is a decentralised social media platform built on Subsocial."><figcaption><p>The landing page of <a href="https://polkaverse.com/">Polkaverse</a>.</p></figcaption></figure>
-
-
 
 ### Risks: Mitigating Censorship and Misinformation
 

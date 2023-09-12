@@ -21,8 +21,6 @@ layout:
 
 ### [Polkadot network Support](https://support.polkadot.network/)
 
-[Polkadot network Technical explainers](https://www.youtube.com/watch?v=3L7Vu2SX0PE\&list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8)
-
 [Relay Chain Podcast](https://relaychain.fm/)
 
 [Web3 Foundation Press releases](https://web3.foundation/press/)
