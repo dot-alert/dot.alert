@@ -20,6 +20,65 @@ layout:
 
 # Blog
 
+## [Farmers Market: Censorship Resistance](https://twitter.com/erableofficial/status/1701895104594682307)
+
+_15th September 2023 | A report by Onyinye M._
+
+**Host: DAOChemist**
+
+**Co-hosts: LandX and Kmens**&#x20;
+
+
+
+Censorship resistance is an important aspect of DeFi, as it guarantees the freedom to transact for users and the integrity of transactions for blockchain networks. To expand on this important topic, the "Farmers market" livecast staged an interactive 2-hour session with prominent guests _Angle Protocol, Defi Africa, PWN, Polytope Labs,_ _Erable_ and _Adriano Feria_. The discussion focused on censorship resistance within the Decentralized Finance (DeFi) industry and its impact on the adoption of cryptocurrencies.&#x20;
+
+Today, we report on the observations made throughout this conversation, from the significance of censorship resistance to its associated challenges, explaining the role that both individuals and governments play in practice.
+
+
+
+### Understanding Censorship Resistance
+
+In the context of blockchain technologies, censorship resistance relies on three major principles: Freedom to transact, Freedom from confiscation, and Immutability of transactions.&#x20;
+
+**1. Freedom to Transact:**
+
+The ultimate goal of censorship resistance is to shield users from undue control and give them the ability to access, transmit, and execute transactions without interference from external entities.&#x20;
+
+#### **2. Freedom from confiscation:**
+
+This positions censorship resistance as a safeguard against oppression, by ensuring that users' assets cannot be obtained by third-party entities at will.
+
+#### **3. Immutability of transactions:**
+
+Censorship resistance exists whenever there is evidence that no single entity can reverse a transaction, blacklist a wallet or address, or manipulate transactions for personal gains.
+
+<figure><img src="../.gitbook/assets/image.png" alt="Farmers Market: an educational programme focused on DeFi topics."><figcaption><p>Farmers Market is an educational space exploring core DeFi topics and trends to empower Web3 users.</p></figcaption></figure>
+
+### **Achieving Censorship Resistance**
+
+In practice, censorship manifests itself under two primary forms:&#x20;
+
+* On-chain censorship which takes place at the networking layer and involves blockchain participants and stakeholders.
+* Off-Chain / Social censorship which pertains to human interactions between the crypto ecosystem and the broader society and can be translated into governments/centralized authorities' interference.
+
+Resisting on-chain censorship can be achieved through node decentralisation, Smart contracts security, and active engagement within governance. Diversifying interoperability protocols and implementing privacy-preserving solutions can also contribute to more censorship resistant networks.&#x20;
+
+At the social layer, censorship resistance begins in the minds of the individuals: ‘_The people have to be stronger than the entities_’. It is important to establish grassroots educational initiatives for every protocol that aim to empower users with the knowledge and the awareness that they need to assert their rights.
+
+### Practical Challenges to Censorship Resistance
+
+Large corporations often lack plans to mitigate the risk of censorship, and this makes them vulnerable to government pressure. At the same time, censorship resistance is meant to be a built-in system for pushing back against encroachment by strong entities, but if users rely heavily on these monopolies, then resisting becomes difficult.
+
+There are also constraints to censorship resistance for both Proof-of-Stake and Proof-of-Work networks. Depending on their geographical locations, some startups can experience heavy crypto bans that freeze their projects and users can be flagged by banks for their fiat on-ramp transactions. For mining consortia, it is not always possible to run and maintain operations in certain cities. Building mining facilities and transporting mining rigs require access to natural resources and infrastructure that are controlled by local authorities.
+
+
+
+Censorship resistance is critical for the crypto space, because it represents both a concept and a tool needed to preserve freedom and prevent stifling. And so, DeFi builders and users looking to make the most of new digital finance opportunities should pro-actively care about censorship resistance, not just show concern when one is directly affected.&#x20;
+
+
+
+***
+
 ## [FEST IRL Onchain Exposition](https://twitter.com/optimismFND/status/1689309343852761089)
 
 _17th August 2023 | A report by Onyinye M._
@@ -30,7 +89,7 @@ _17th August 2023 | A report by Onyinye M._
 
 
 
-Real-life events in the crypto industry offer a holistic view of blockchain, extending beyond DeFi or NFTs and enabling meaningful connections between individuals across various sectors. Optimism recently hosted an enlightening session during which they dived into the successful FEST event and discussed on-chain culture, L2 NFTs, and the fusion of on-chain with real life.&#x20;
+Real-life events in the crypto industry offer a holistic view of blockchain, extending beyond DeFi or NFTs and enabling meaningful connections between individuals across various sectors. _Optimism_ recently hosted an enlightening session during which they dived into the successful FEST event and discussed on-chain culture, L2 NFTs, and the fusion of on-chain with real life.&#x20;
 
 This report highlights the role of Optimism in supporting Public Goods and the pivotal insights noted on creating an all-inclusive, educational, and fun event.
 
@@ -46,7 +105,7 @@ The importance of on-chain community-building cannot be overstated. In the crypt
 
 While developers and tech developments facilitate onboarding, the true growth of a project stems from community engagement. And since on-chain actions can influence real-life engagement, having a strong digital presence is critical.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>FWB FEST 2023: An internet exposition showcasing the convergence of digital, on-chain, and real-life communities.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="FWB FEST 2023: an internet exposition."><figcaption><p>FWB FEST 2023: An internet exposition showcasing the convergence of digital, on-chain, and real-life communities.</p></figcaption></figure>
 
 ### **Inclusivity and Balance**
 
