@@ -137,7 +137,9 @@ _14th July 2023 | A report by Onyinye M._
 
 
 
-In the realm of cryptocurrency funding, the importance of measuring impact cannot be overstated. Impact measurement provides valuable data to substantiate the relevance and effectiveness of crypto funding initiatives, such as the Gitcoin Grants Programme. This data is crucial in demonstrating why web3 funding surpasses traditional methods. Various methodologies can be employed to gauge impact, ranging from the conventional approach of evaluating project proposals to a retrospective analysis of actual performance. This article delves into the significance of impact measurement and highlights the potential of decentralized standards, while addressing questions raised during an interactive space hosted by Gitcoin.
+In the realm of cryptocurrency funding, the importance of measuring impact cannot be overstated. Impact measurement provides valuable data to substantiate the relevance and effectiveness of crypto funding initiatives, such as the Gitcoin Grants Programme. This data is crucial in demonstrating why web3 funding surpasses traditional methods. Various methodologies can be employed to gauge impact, ranging from the conventional approach of evaluating project proposals to a retrospective analysis of actual performance.&#x20;
+
+This article delves into the significance of impact measurement and highlights the potential of decentralized standards, while addressing questions raised during an interactive space hosted by _Gitcoin_.
 
 
 
@@ -183,5 +185,5 @@ Yes, participating in successive funding rounds can indeed help projects drive o
 
 
 
-Impact measurement is important for both funding platforms like Gitcoin, and funded projects. It helps platforms examine the value they are providing while assisting funded projects in realising and monetising their impact. Decentralised measurement standards on the other hand  further contributes to the credibility and sustainability of crypto-funded projects.
+Impact measurement is important for both funding platforms like Gitcoin and funded projects. It helps platforms examine the value they are providing while assisting funded projects in realising and monetising their impact. Decentralised measurement standards on the other hand further contributes to the credibility and sustainability of crypto-funded projects.
 
