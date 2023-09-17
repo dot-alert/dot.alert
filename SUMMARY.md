@@ -48,6 +48,7 @@
   * [LBP Listing](content/3.operations/lbp-listing.md)
   * [Gaming](content/3.operations/gaming/README.md)
     * [Game Assets](content/3.operations/gaming/game-assets.md)
+    * [Game Development](content/3.operations/gaming/game-development.md)
 * [4.Support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)

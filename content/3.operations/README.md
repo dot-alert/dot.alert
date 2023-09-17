@@ -27,19 +27,19 @@ Being the custodian of your assets allows you to access a wide range of protocol
 Depending on your interests, you will be able to:
 
 * [join or launch](bidding/) collectives
-* [participate](voting/) in on-chain governance
+* [participate](voting/) in governance
 * [crowdfund](crowdfunding/) for projects
 * [stake](staking/) assets
 * [swap](swapping/), [borrow](borrowing/), and [lend](lending/) assets
 * [mint](nft-trading/data-management.md) and [sell](nft-trading/marketplace-activities.md) NFTs
 * access [auto-compounding](auto-compounded-staking.md) and [listing](lbp-listing.md) services
-* [create](gaming/game-assets.md) and develop gameverses
-* set up and monetise communities
+* [create](gaming/game-assets.md) and [develop](gaming/game-development.md) gameverses
+* set up and monetise social media-based communities
 * capitalise on prediction markets
 * activate and maintain IoT subscriptions
 * generate and amplify metaverse-based brands
-* issue and trade tokenised and real-world assets
-* build and maintain climate solutions via carbon credits
+* issue and trade fractionalised NFTs and real-world assets
+* build and maintain climate solutions via carbon credits markets&#x20;
 
 <figure><img src="../../.gitbook/assets/O_Dashboard.JPG" alt="A screenshot of the official Staking dashboard of the Polkadot and Kusama Relay chains."><figcaption><p><a href="https://staking.polkadot.network/dashboard#/overview">Polkadot Dashboard</a> for staking assets on network's validators.</p></figcaption></figure>
 

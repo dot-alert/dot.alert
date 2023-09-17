@@ -20,7 +20,7 @@ Game assets are [NFTs](../nft-trading/), in-game tokens, and other forms of digi
 
 While the majority of NFTs have pre-assigned functionalities for gameplay, others only become usable once they are "composed" with others.
 
-Character NFTs represent a class of assets that players need to get before they can gain access to a specific gaming universe and participate in related events. They often serve as avatars and are essential for giving an identity to each individual player and unlocking the full features of the game. Character NFTs vary in nature and are their utility is linked to the developments of their associated gameverse.
+Character NFTs represent a class of assets that players need to get before they can gain access to a specific gaming universe and participate in related events. They often serve as avatars and are essential for giving an identity to each individual player and unlocking the full features of the game. Character NFTs vary in nature and are their utility is linked to the [developments](game-development.md) of their associated gameverse.
 
 In addition to the initial offerings, Gameverses enable players to collect and use generic and custom NFTs to enhance their in-game status. There are items that give a noted advantage to the holders in the course of the game, and others that serve as gatekeepers to further achievements. Some tokens can also be used for marketplace purchases, upgrades, and gas fees to make the game more accessible.
 
