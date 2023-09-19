@@ -38,7 +38,7 @@ Depending on your interests, you will be able to:
 * capitalise on prediction markets
 * activate and maintain IoT subscriptions
 * generate and amplify metaverse-based brands
-* issue and trade tokenised collectibles and assets
+* issue and trade tokenised assets and collectibles
 * build and maintain climate solutions via carbon credits&#x20;
 
 <figure><img src="../../.gitbook/assets/O_Dashboard.JPG" alt="A screenshot of the official Staking dashboard of the Polkadot and Kusama Relay chains."><figcaption><p><a href="https://staking.polkadot.network/dashboard#/overview">Polkadot Dashboard</a> for staking assets on network's validators.</p></figcaption></figure>
