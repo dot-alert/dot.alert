@@ -32,11 +32,9 @@ layout:
 
 
 
-### Promoters:
+### Promoter:
 
 [_Osagiie I_](https://twitter.com/0xosagiie)
-
-_Michael W_
 
 
 
