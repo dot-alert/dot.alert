@@ -8,7 +8,7 @@ description: >-
 
 ## What are Existential Deposits?
 
-Existential Deposits (ED) are a specific number of coins needed to ensure that your account is kept "alive" on the network, whether it be a Relay chain (Polkadot, Kusama), a Parachain (Parallel Finance, Interlay) or a Common Good parachain (Statemine, Statemint).&#x20;
+Existential Deposits (ED) are a specific number of coins needed to ensure that your account is kept "alive" on the network, whether it be a Relay chain (Polkadot, Kusama), a Parachain (Parallel Finance, Interlay) or a Common Good parachain (Asset Hubs).&#x20;
 
 {% hint style="info" %}
 **An account is activated on a network once its balance is **_**above**_** the existential deposit.**&#x20;
@@ -24,7 +24,8 @@ Existential Deposits work as an anti-spam measure on the networks. If your Polka
 
 It is important to note that existential deposits apply to account balances altogether. You will not suffer deactivation or loss of funds if the account has:
 
-* **locked** balances (ex: vote with conviction, linear vesting)
+* **vested** balances (ex: crowdloan rewards)
+* **locked** balances (ex: vote with conviction)
 * **bonded** balances (ex: staking/unstaking funds, proposing treasury spends)
 * **reserved** balances (ex: vote delegations, on-chain identity, proxy setups)
 
