@@ -26,7 +26,7 @@ The actual game play is usually broken into various stages which involve changin
 
 However, deploying a gameverse is primarily tied to empowering players to go on specific quests, complete certain tasks, and collect various rewards. Some games offer a play-to-earn model whereby users can tally their gains as they complete individualised challenges. Others adopt more dynamic systems with randomness and algorithms so that players never know where they stand in the overall competition until the results are published on a leaderboard.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_GOpenEmojiBattler.jpeg" alt=""><figcaption><p>The community-owned and multiplayer game <a href="https://game.open-emoji-battler.community/">Open Emoji Battler</a> is open source and built with <em>ink!</em> programming language.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_GOpenEmojiBattler.jpeg" alt=""><figcaption><p>The community-owned and multiplayer game <a href="https://game.open-emoji-battler.community/">Open Emoji Battler</a> is open source and built with <a href="https://use.ink/"><em>ink!</em></a> programming language.</p></figcaption></figure>
 
 
 
