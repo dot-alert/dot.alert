@@ -52,7 +52,7 @@ This positions censorship resistance as a safeguard against oppression, by ensur
 
 Censorship resistance exists whenever there is evidence that no single entity can reverse a transaction, blacklist a wallet or address, or manipulate transactions for personal gains.
 
-<figure><img src="../.gitbook/assets/image.png" alt="Farmers Market: an educational programme focused on DeFi topics."><figcaption><p>Farmers Market is an educational space exploring core DeFi topics and trends to empower Web3 users.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="Farmers Market: an educational programme focused on DeFi topics."><figcaption><p>Farmers Market is an educational space exploring core DeFi topics and trends to empower Web3 users.</p></figcaption></figure>
 
 ### **Achieving Censorship Resistance**
 
@@ -105,7 +105,7 @@ The importance of on-chain community-building cannot be overstated. In the crypt
 
 While developers and tech developments facilitate onboarding, the true growth of a project stems from community engagement. And since on-chain actions can influence real-life engagement, having a strong digital presence is critical.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="FWB FEST 2023: an internet exposition."><figcaption><p>FWB FEST 2023: An internet exposition showcasing the convergence of digital, on-chain, and real-life communities.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt="FWB FEST 2023: an internet exposition."><figcaption><p>FWB FEST 2023: An internet exposition showcasing the convergence of digital, on-chain, and real-life communities.</p></figcaption></figure>
 
 ### **Inclusivity and Balance**
 

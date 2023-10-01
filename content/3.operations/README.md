@@ -22,10 +22,6 @@ layout:
 
 # 3.Operations
 
-Being the custodian of your assets allows you to access a wide range of protocols and **web3 services**.&#x20;
-
-Depending on your interests, you will be able to:
-
 * [join or launch](bidding/) collectives
 * [participate](voting/) in governance
 * [crowdfund](crowdfunding/) for projects
@@ -34,7 +30,7 @@ Depending on your interests, you will be able to:
 * [mint](nft-trading/data-management.md) and [sell](nft-trading/marketplace-activities.md) NFTs
 * access [auto-compounding](auto-compounded-staking.md) and [listing](lbp-listing.md) services
 * [create](gaming/game-assets.md) and [develop](gaming/game-development.md) gameverses
-* set up and monetise communities
+* [set up](community-building/crypto-communities.md) and monetise communities
 * capitalise on prediction markets
 * activate and maintain IoT subscriptions
 * generate and amplify metaverse-based brands
