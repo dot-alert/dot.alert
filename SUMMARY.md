@@ -51,6 +51,7 @@
     * [Game Development](content/3.operations/gaming/game-development.md)
   * [Community Building](content/3.operations/community-building/README.md)
     * [Crypto Communities](content/3.operations/community-building/crypto-communities.md)
+    * [Crypto Payments](content/3.operations/community-building/crypto-payments.md)
 * [4.Support](content/4.social-support/README.md)
   * [Docs](content/4.social-support/docs.md)
   * [GitHub](content/4.social-support/github.md)

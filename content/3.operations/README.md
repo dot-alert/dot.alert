@@ -30,7 +30,7 @@ layout:
 * [mint](nft-trading/data-management.md) and [sell](nft-trading/marketplace-activities.md) NFTs
 * access [auto-compounding](auto-compounded-staking.md) and [listing](lbp-listing.md) services
 * [create](gaming/game-assets.md) and [develop](gaming/game-development.md) gameverses
-* [set up](community-building/crypto-communities.md) and monetise communities
+* [set up](community-building/crypto-communities.md) and [monetise](community-building/crypto-payments.md) communities
 * capitalise on prediction markets
 * activate and maintain IoT subscriptions
 * generate and amplify metaverse-based brands
