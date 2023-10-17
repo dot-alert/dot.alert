@@ -20,7 +20,7 @@ layout:
 
 # Our Contributors
 
-## Technical, Specialist, and Guest writers:
+## Technical, Specialist, and Blog writers:
 
 _<mark style="background-color:blue;">Those who create our content.</mark>_
 
@@ -31,8 +31,6 @@ _Anaelle LTD_
 [_Chinedu N_](https://twitter.com/iam\_combi16)
 
 _Machala F_
-
-_Michael W_
 
 _Onyinye M_
 
@@ -69,6 +67,8 @@ _Abdulbasit S_
 _Funmilayo L_
 
 _Judge L_
+
+_Michael W_
 
 _Moshood S_
 
