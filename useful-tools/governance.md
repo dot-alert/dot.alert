@@ -12,6 +12,8 @@ OpenSquare
 
 ### [Polkassembly](https://polkadot.polkassembly.io/opengov)
 
+Proof of chaos
+
 Subsquare
 
 
@@ -19,8 +21,6 @@ Subsquare
 ## Monitoring
 
 ### [Grill](https://grill.chat/polkassembly)
-
-Proof-of-Chaos
 
 Ryabina bots
 
