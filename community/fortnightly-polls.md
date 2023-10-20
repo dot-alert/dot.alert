@@ -1,7 +1,7 @@
 ---
 description: >-
-  Participate in Dot.alert() polls and enter our lucky draw to win cash prizes
-  of $DOT.
+  Cast your vote in Dot.alert() fortnightly polls following the "Rules of the
+  polls".
 cover: ../.gitbook/assets/DotPoll04.png
 coverY: 0
 layout:
@@ -22,17 +22,9 @@ layout:
 
 # Fortnightly Polls
 
-_Are you up-to-dot with our latest fortnightly publication? 👀_&#x20;
-
-A correct and timely answer to our poll earns you an entry ticket🎫 for our lucky draw with a 💰**10 DOT cash prize.** Check out "[The rules of the polls](https://twitter.com/dot\_alert/status/1667098206323236866)" beforehand!
-
-{% embed url="https://airtable.com/app7wwtFp244F0dwb/shrsw1kR7RGYiGjzt" %}
-Poll #010: 19th October 2023 : 07:57 UTC
-{% endembed %}
-
-
-
 ## _**Past editions:**_
+
+_Poll #010: 19th October 2023 07:57 UTC_
 
 _Poll #009: 5th October 2023 04:08 UTC_
 
@@ -51,4 +43,6 @@ _Poll #003: 13th July 2023 08:37 UTC_
 _Poll #002: 29th June 2023 03:25 UTC_
 
 _Poll #001: 15th June 2023 10:43 UTC_
+
+
 

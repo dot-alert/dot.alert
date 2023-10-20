@@ -24,11 +24,9 @@ layout:
 
 _<mark style="background-color:blue;">Those who create our content.</mark>_
 
-[_Amed K_](https://twitter.com/Abdulra49391530)
+_Amed K_
 
 _Anaelle LTD_
-
-[_Chinedu N_](https://twitter.com/iam\_combi16)
 
 _Machala F_
 
@@ -63,6 +61,8 @@ _<mark style="background-color:blue;">Those who previously supported our mission
 _Abdulaziz K_
 
 _Abdulbasit S_
+
+_Chinedu N_
 
 _Funmilayo L_
 
