@@ -20,6 +20,67 @@ layout:
 
 # Blog
 
+## [Infinite access to FX for African businesses](https://twitter.com/i/spaces/1RDGllenRQoGL)
+
+_20th October 2023 | A report by Onyinye M._
+
+**Host: Bankless Africa**
+
+**Co-host: Canza Finance**\
+
+
+African economies have been on a consistent path of growth and development in recent years, with an increasing number of businesses engaging in international trade. However, one significant issue faced by African businesses is navigating Foreign Exchange, because existing solutions do not address the unique challenges of poorly performing currencies and the specific risks associated with these markets.
+
+In this report, we summarise the observations made during an AMA held by @Banklessafrica and @Canzafinance, breaking down the complex landscape surrounding African currencies in contrast to new fintech developments available for African businesses looking to go global.
+
+
+
+### Highlighting Challenges Faced by African Businesses
+
+African vendors routinely have to grapple with critical problems linked to missing financial infrastructure, inadequate national policies, and insufficient opportunities for growth.
+
+#### **Limited access to Foreign Exchange:**&#x20;
+
+Most consumer goods are imported via international markets and this type of trade requires access to foreign currencies. For many businesses, restrictive regulations at the national level create a lot of friction and obstacles.
+
+#### Adversarial Exchange Rates:
+
+Banks often use official exchange rates which are not always advantageous to African traders. They end up being less competitive than those available in the parallel market. This is a problem for African businesses using traditional banking because they might indirectly cut themselves from operating on the global stage.
+
+#### Currency Devaluations:
+
+Within the broad category of Emerging Markets, African currencies are most vulnerable to devaluations compared to their Asian counterparts. This poses a risk to businesses engaged in international trade, as it can erode their profit margins and make it challenging to plan for future developments.
+
+#### Volatile Exchange Rates:
+
+African businesses have to contend with fluctuating exchange rates that interfere with forecasting costs, revenues, and profits. This volatility can stem from political instability, economic uncertainty, and external factors, leading to substantial risks for internationally-trading companies.
+
+#### Inflation:
+
+In the context of globalisation that pushes emerging markets to align with developed economies, African countries have always faced inflationary pressures. As a result, national businesses need to find hedges against inflation to protect their purchasing power and maintain their profitability.
+
+<figure><img src="../.gitbook/assets/BlogWeb3Bridge.jpg" alt="Web3Bridge is exploring a cohort-based model to train web3 developers in Africa."><figcaption><p><a href="https://twitter.com/Web3Bridge">Web3Bridge</a> runs training programmes, hackathons, and conferences for aspiring Web and Blockchain developers in Nigeria.</p></figcaption></figure>
+
+### Developing Unique FinTech Solutions&#x20;
+
+To address the above challenges, a number of fintech products are being developed to offer innovations tailored to the African market. These solutions aim to level the playing field for African businesses and give certain advantages to African traders.
+
+**FX and Currency-focused products:**
+
+Fintech solutions can help streamline access to Foreign Exchange, providing businesses with a convenient and cheap way to obtain the currencies they need for their international transactions. Given the recurring issues of inflation and devaluation, it is also possible to develop custom pegging solutions to maintain business balance sheets in a neutral position during times of instability.&#x20;
+
+**Blockchain-based solutions:**
+
+For many developers and technologists, deploying the equivalent of African currencies on top of  blockchain protocols has numerous advantages. It can enhance transparency, reduce the risk of fraud, and provide a more secure way to transact with foreign currencies. However, the holy grail for African businesses and DeFi traders alike remains the provision of resilient stablecoins within fintech products. But beyond these individual experiments, there are established Money market players in Africa that are looking to leverage DLT tools to enhance their strategies for risk management and investment portfolio diversification.
+
+
+
+African businesses are poised for growth on the international stage, but they face a lot of hurdles inherited from redundant banking products and poor FX onramp infrastructure. By embracing a range of new digital solutions built locally by an emerging workforce, African businesses can grow their capabilities, attract international funding, and begin to position themselves in the global marketplace.
+
+
+
+***
+
 ## [Farmers Market: Censorship Resistance](https://twitter.com/erableofficial/status/1701895104594682307)
 
 _15th September 2023 | A report by Onyinye M._
