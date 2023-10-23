@@ -8,7 +8,7 @@ description: >-
 
 ## What are Existential Deposits?
 
-Existential Deposits (ED) are a specific number of coins needed to ensure that your account is kept "alive" on the network, whether it be a Relay chain (Polkadot, Kusama), a Parachain (Parallel Finance, Interlay) or a Common Good parachain (Asset Hubs).&#x20;
+Existential Deposits (ED) are a specific number of coins needed to ensure that your account is kept "alive" on the network, whether it be a Relay chain (Polkadot, Kusama), a Parachain (Parallel Finance, Interlay) or a Common Good parachain (Asset Hub).&#x20;
 
 {% hint style="info" %}
 **An account is activated on a network once its balance is **_**above**_** the existential deposit.**&#x20;
