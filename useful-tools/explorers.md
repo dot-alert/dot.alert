@@ -17,9 +17,9 @@ layout:
 
 ## Asset explorers
 
-### [Asset Portfolio](https://substrate-portfolio.github.io/polkadot-portfolio/)
+[Asset Portfolio](https://substrate-portfolio.github.io/polkadot-portfolio/)
 
-### [SubID](https://sub.id/)
+[SubID](https://sub.id/)
 
 Cumulon
 
@@ -41,7 +41,7 @@ Subscan
 
 ## Data indexers
 
-### [Subsquid](https://www.subsquid.io/)
+[Subsquid](https://www.subsquid.io/)
 
 SubQuery
 
@@ -51,9 +51,9 @@ Web3Go
 
 ## Decentralisation analytics
 
-### [Dolpha](https://dolpha.com/whales/dot)
+[Dolpha](https://dolpha.com/whales/dot)
 
-### [Polkawatch](https://polkawatch.app/)
+[Polkawatch](https://polkawatch.app/)
 
-### [Polkabeat](https://polkabeat.org/polkabeat/)
+[Polkabeat](https://polkabeat.org/polkabeat/)
 

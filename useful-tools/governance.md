@@ -6,11 +6,11 @@ description: Governance platforms for the Polkadot ecosystem.
 
 ## Voting
 
-### [Delegation dashboard](https://delegation.polkadot.network/)
+[Delegation dashboard](https://delegation.polkadot.network/)
 
 OpenSquare
 
-### [Polkassembly](https://polkadot.polkassembly.io/opengov)
+[Polkassembly](https://polkadot.polkassembly.io/opengov)
 
 Proof of chaos
 
@@ -20,9 +20,9 @@ Subsquare
 
 ## Monitoring
 
-### [Grill](https://grill.chat/polkassembly)
+[Grill](https://grill.chat/polkassembly)
 
 Ryabina bots
 
-### [Web3alert](https://web3alert.io/)
+[Web3alert](https://web3alert.io/)
 

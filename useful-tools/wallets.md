@@ -6,7 +6,7 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 ## Browser extensions
 
-### [Polkadot-JS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.ibp.network%2Fpolkadot#/accounts)
+[Polkadot-JS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.ibp.network%2Fpolkadot#/accounts)
 
 Enkrypt
 
@@ -34,9 +34,9 @@ Subwallet
 
 ## Air-gapped signers
 
-### [Polkadot Vault](https://www.parity.io/technologies/signer/)
+[Polkadot Vault](https://www.parity.io/technologies/signer/)
 
-### [Stylo](https://stylo-app.github.io/website/)
+[Stylo](https://stylo-app.github.io/website/)
 
 AirGap
 
@@ -54,9 +54,9 @@ SafePal
 
 ## Recovery and Multisig tools
 
-### [Banana split](https://bs.parity.io/#/)
+[Banana split](https://bs.parity.io/#/)
 
-### [Multix](https://multix.chainsafe.io/)
+[Multix](https://multix.chainsafe.io/)
 
-### [PolkaSafe](https://polkasafe.xyz/)
+[PolkaSafe](https://polkasafe.xyz/)
 

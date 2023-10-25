@@ -17,9 +17,9 @@ layout:
 
 ## Official
 
-### [Polkadot network Medium](https://medium.com/polkadot-network)
+[Polkadot network Medium](https://medium.com/polkadot-network)
 
-### [Polkadot network Support](https://support.polkadot.network/)
+[Polkadot network Support](https://support.polkadot.network/)
 
 [Relay Chain Podcast](https://relaychain.fm/)
 
@@ -29,9 +29,9 @@ layout:
 
 ## Treasury-funded
 
-### [Guide to Polkadot-JS](https://anaelleltd.github.io/polkadotjs-guide/)
+[Guide to Polkadot-JS](https://anaelleltd.github.io/polkadotjs-guide/)
 
-### [Polkadot for Beginners](https://linktr.ee/polkadotbook) (10 languages)&#x20;
+[Polkadot for Beginners](https://linktr.ee/polkadotbook) (10 languages)&#x20;
 
 [Kappa Sigma Mu (KΣM)](https://ksmsociety.io/)
 
@@ -39,11 +39,9 @@ layout:
 
 ## Community-made
 
-### [Awesome Dot](https://github.com/Awesomedot/awesome-dot)
+[Awesome Dot](https://github.com/Awesomedot/awesome-dot)
 
-### [GigMind](https://gigmind.app/)
+[GigMind](https://gigmind.app/)
 
-### [Polkadot Philosophy](https://polkadotphilosophy.medium.com/)
-
-### [Subdaily](https://subdaily.io/)
+[Polkadot Philosophy](https://polkadotphilosophy.medium.com/)
 
