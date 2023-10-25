@@ -35,8 +35,6 @@ layout:
 
 [Kappa Sigma Mu (KΣM)](https://ksmsociety.io/)
 
-[KryptosChain](https://www.youtube.com/@KryptosChain/about)
-
 
 
 ## Community-made
@@ -48,6 +46,4 @@ layout:
 ### [Polkadot Philosophy](https://polkadotphilosophy.medium.com/)
 
 ### [Subdaily](https://subdaily.io/)
-
-[Cryptozilla](https://www.youtube.com/@CryptozillaKH/about)
 
