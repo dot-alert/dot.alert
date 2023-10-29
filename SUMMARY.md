@@ -75,6 +75,7 @@
   * [Investments](content/5.regulations/investments/README.md)
     * [Issuance](content/5.regulations/investments/issuance.md)
     * [Insurance](content/5.regulations/investments/insurance.md)
+    * [Taxation](content/5.regulations/investments/taxation.md)
 
 ## Useful tools
 
