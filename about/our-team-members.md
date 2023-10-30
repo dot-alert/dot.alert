@@ -34,7 +34,7 @@ layout:
 
 ### Promoter:
 
-[_Osagiie I_](https://twitter.com/0xosagiie)
+_Osagiie I_
 
 
 
