@@ -20,15 +20,15 @@ layout:
 
 # Our Team
 
-## Community manager:
-
-[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
-
-
-
 ### Senior promoter:
 
 [_Abdulkadir I_](https://twitter.com/Gambo00004)
+
+
+
+### Podcast host:
+
+[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
 
 
 
