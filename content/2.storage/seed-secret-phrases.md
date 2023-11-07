@@ -8,7 +8,7 @@ description: >-
 
 ## What are Seed/Secret Phrases?
 
-Seed/Secret phrases are the human-readable representation of the cryptographic key (also called "private key") that secures the access to an account. They come in a set format of 12 to 24 English words that are listed in a specific sequence for each account.
+Seed/Secret phrases are the human-readable representation of the cryptographic key (also called "private key") that secures access to an account. They come in a set format of 12 to 24 English words that are listed in a specific sequence for each account.
 
 {% hint style="info" %}
 **Derived accounts do not have a seed/secret phrase because they are branching out of a "Main" account.**&#x20;
