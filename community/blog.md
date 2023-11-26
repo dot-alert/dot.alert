@@ -20,6 +20,60 @@ layout:
 
 # Blog
 
+## [ArbitrumDAO](https://twitter.com/arbitrum/status/1726244427482501593)
+
+_27th November 2023 | A report by Amed K._
+
+**Host: Thank ARB**
+
+
+
+Decentralized Autonomous Organisations (DAOs) are evolving to become the preferred model for Web3 governance because they facilitate consensus and level the playing field for individuals who want to get involved in the decision-making.
+
+Today we report on an enlightening conversation between major contributors to the ArbitrumDAO; namely _Carl Cervone_, _Devansh Mehta, Mahesh Murthy, DisruptionJoe, Razvan-ZER8;_ and also recap on the various tooling they propose for shaping the Arbitrum ecosystem.
+
+
+
+### Shaping the ArbitrumDAO
+
+_Plurality Labs_ is an entity that is solely focused on refining the Arbitrum Grants Program, as they lay down the principles and key metrics that sustain the DAO structure. The North Star includes the following objectives:
+
+* Scale the amount of funds the DAO can safely allocate. This will maximise the value handed out to bring more valuable outcomes for the ecosystem.
+* Provide a real-world correlation or alignment for the DAO. These logical narratives will unlock complementarity between the tasks completed and allow all actors to benefit from economies of scale.
+* Engage in on-chain experiments with governance frameworks. Evaluations of grantors and grantees' success will support upward mobility by bringing in more participants and decreasing voter apathy.
+
+<figure><img src="../.gitbook/assets/Arbitrum_GGS.jpg" alt=""><figcaption><p>ArbitrumDAO leverages the Gitcoin Grants Stack to diversify its funding mechanisms. </p></figcaption></figure>
+
+### Key Mechanisms of the ArbitrumDAO
+
+#### Treasury and Sustainability Working Group:
+
+ArbitrumDAO operates with a novel RFP (Request For Proposals) process that is similar to governments' tenders for a bid, with individuals or projects applying in their areas of interests or needs.&#x20;
+
+The Treasury and Sustainability Working Group is responsible for maintaining the RFP lifecycle, encouraging community participation while preventing excessive lobbying. The group also drafts frameworks for RWA (Real World Assets) providers to procure and deploy loans, earn yields, and then repay the loans within a pre-agreed time frame.
+
+#### Karma GAP:
+
+The GAP (Grantee Accountability Protocol) is an on-chain protocol designed to ensure that all grantees are held accountable and work to deliver on their stated objectives. It seeks to provide answers to basic queries such as:  How we know if the grantees are executing on their funded projects? What is the status of the funded projects? How are funded projects performing with respect to their milestones?
+
+The Karma GAP protocol primarily wants to have a net positive effect, making that sure a grantee executes its project successfully to build a reputation. It also assists with impact measurement of grants in the ecosystem, which involves community sentiments on executed projects, identifying positive signalling for future and additional funding, and gauging past successes. All this data is streamlined to help the DAO make better decisions regarding the allocation of its capital.
+
+
+
+### Governing the ArbitrumDAO
+
+The ArbitrumDAO is made of $ARB token holders and the 12-seat Arbitrum Security Council, with DAO proposals (including grants) being voted upon by members using $ARB. The weight of a member's vote is directly proportional to the amount of $ARBs s/he holds, a parameter that contrasts with the conviction voting implemented in [Polkadot OpenGov](../content/3.operations/voting/).
+
+The ArbitrumDAO tends to approve grants for projects that are working towards well thought-out objectives, however, application timelines vary, since projects working on ecosystem Dapps, infrastructure, and tooling are currently being considered for grants. A noteworthy point is that most of the funding is milestone-gated, with payments released upon completion of specific deliverables.
+
+
+
+The ArbitrumDAO looks to make a positive impact in its nascent ecosystem by building upon a set of established tooling and experimenting with existing governance models for coordination and value creation. Regardless, the growth of the ArbitrumDAO will depend on its ability to monitor grants processes, mobilise high-value participants, and provide fast responses to community feedback.
+
+
+
+***
+
 ## [Infinite access to FX for African businesses](https://twitter.com/i/spaces/1RDGllenRQoGL)
 
 _20th October 2023 | A report by Onyinye M._
