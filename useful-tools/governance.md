@@ -12,7 +12,7 @@ OpenSquare
 
 [Polkassembly](https://polkadot.polkassembly.io/opengov)
 
-Proof of chaos
+[Proof of chaos](https://www.proofofchaos.app/kusama/vote)
 
 Subsquare
 
