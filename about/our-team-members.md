@@ -20,12 +20,6 @@ layout:
 
 # Our Team
 
-### Podcast host & CM:
-
-[_Onyinye M_](https://twitter.com/ynnx\_\_\_)
-
-
-
 ### Senior promoter:
 
 [_Abdulkadir I_](https://twitter.com/Gambo00004)
@@ -35,6 +29,12 @@ layout:
 ### Promoter:
 
 _Osagiie I_
+
+
+
+### Podcast host:
+
+_Onyinye M_
 
 
 
