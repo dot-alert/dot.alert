@@ -46,6 +46,8 @@ AirGap
 
 CoolWallet
 
+Kampela
+
 Ledger&#x20;
 
 SafePal

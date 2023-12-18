@@ -41,7 +41,5 @@ layout:
 
 [Awesome Dot](https://github.com/Awesomedot/awesome-dot)
 
-[GigMind](https://gigmind.app/)
-
 [Polkadot Philosophy](https://polkadotphilosophy.medium.com/)
 
