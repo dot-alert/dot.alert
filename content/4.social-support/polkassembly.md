@@ -10,7 +10,7 @@ description: >-
 
 Polkassembly is a platform that provides special-purpose forum functionalities to Substrate-based chains. It is managed by _Premiurly_ (a registered company) and its operations are funded by the Polkadot and Kusama Treasuries. Polkassembly plays an essential role in the Polkadot ecosystem by streamlining data related to community discussions and governance decisions.
 
-###
+
 
 ### How-to: Onboarding Polkassembly for Governance Operations
 
