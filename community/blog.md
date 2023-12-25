@@ -20,6 +20,59 @@ layout:
 
 # Blog
 
+
+
+## [Driving innovation on BTC with Build on Bitcoin (BOB)](https://twitter.com/build\_on\_bob/status/1737722153489842264)
+
+_25th December 2023 | A report by Amed K._
+
+**Host: DIA Community Hub**&#x20;
+
+
+
+As the first decentralized digital currency, Bitcoin is the main point of reference for blockchain projects and their associated cryptocurrencies. It has been exemplary as a store of value, a unit of payment, a censorship resistant protocol; but is now lagging behind in other departments.
+
+This report looks into a conversation with _Alexei Zamyatin_ (co-founder of Build on Bitcoin), as he presents the role of the platform in bringing new use cases for Bitcoin that will help secure a sustainable future for the crypto industry.
+
+
+
+### Expanding the Value Proposition of Bitcoin
+
+Build on Bitcoin (also called BOB) is a set of tooling that encourage building on the Bitcoin network and aim to enable $BTC to support real-world use cases.&#x20;
+
+BOB has developed the first economically trustless $BTC bridge as a solution to securely transact in and out of Layer-2 chains (also called L2s). This novel technology replaces the old centralised model of multisig and single bridge operators with a decentralised and permisionless approach.
+
+Under this design, anybody can become a bridge operator by depositing the required collaterals on their target chains, which guarantees that users' funds can be reimbursed in case of thefts or attacks. As part of this system, a cross-chain Bitcoin-like client also monitors bridge operators' transactions to detect unusual activities.
+
+<figure><img src="../.gitbook/assets/BoB.png" alt=""><figcaption><p>Build on Bitcoin (BOB) is pioneering an innovative toolkit for deploying novel use cases on Bitcoin.</p></figcaption></figure>
+
+### Leveraging L2s for the Bitcoin Economy
+
+Ethereum is built specifically for Smart Contracts and relies on L2s to improve its computational capabilities. By contrast, Bitcoin has no smart contracts and needs an L2 ecosystem to extend its functionalities natively; without interfering with the base layer of security, storage, and settlement.
+
+Bitcoin currently has over 300 million users, and over 90% of the people onboarding the crypto industry start their journey with BTC. Deploying L2s specialised in DeFi, NFTs, and other user-focused products would benefit the Bitcoin network by bringing in more activity, diversification, and innovation. In the absence of these, it is possible that many users end up leaving the network and eroding the value proposition of the industry.
+
+
+
+### Fostering Future Developments on Bitcoin
+
+BOB tooling aims to enhance Bitcoin's utility in real-world scenarios and optimise its developments through various strategies:
+
+* Enhance faster Bitcoin payment validation.
+* Create user-friendly interfaces for Bitcoin.
+* Introduce intuitive Smart Contracts for Bitcoin DeFi.
+* Facilitate interoperability across diverse Bitcoin applications.
+
+Ultimately, BOB's vision is that of Ethereum's versatility complementing Bitcoin's robust security. This serves as a catalyst for existing and future project teams to start developing sophisticated decentralized applications tapping into Bitcoin’s network effects.
+
+&#x20;
+
+Build on Bitcoin is laying the foundations for protocols that will reduce the trade-offs and limitations of Bitcoin, so that people can have more practical reasons to access, hold, and use $BTC. With stronger real-world use cases and a wider user base for the network, Bitcoin can turn into a positive sum game for its stakeholders on longer time frames, without relying exclusively on speculative bubbles to attract new participants.
+
+
+
+***
+
 ## [ArbitrumDAO](https://twitter.com/arbitrum/status/1726244427482501593)
 
 _27th November 2023 | A report by Amed K._
