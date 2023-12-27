@@ -22,6 +22,8 @@ layout:
 
 # 3.Operations
 
+Being the custodian of your Polkadot assets give you the opportunity to access various ecosystem platforms in order to complete the following activities:&#x20;
+
 * [join or launch](bidding/) collectives
 * [participate](voting/) in governance
 * [crowdfund](crowdfunding/) for projects
