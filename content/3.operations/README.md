@@ -22,7 +22,7 @@ layout:
 
 # 3.Operations
 
-Being the custodian of your Polkadot assets gives you access to various ecosystem platforms for the following activities:&#x20;
+Being the custodian of your Polkadot assets gives you **access to various ecosystem platforms** for the following activities:&#x20;
 
 * [join or launch](bidding/) collectives
 * [participate](voting/) in governance

@@ -20,7 +20,7 @@ layout:
 
 # 2.Storage
 
-There are many options available for storing your assets, but you will first need to think about the following points:
+There are **many options available for storing your assets**, but you will first need to think about the following points:
 
 * **Access:** How often are you going to transact with these assets?
 * **Integration:** How many dapps are you going to use with these assets?&#x20;

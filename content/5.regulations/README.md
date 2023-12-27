@@ -24,10 +24,10 @@ layout:
 
 There are still a lot of legal unknowns in this ecosystem, because there are new protocols being coded every day and also because existing [protocols](../3.operations/) are being routinely upgraded. The range of testing environments provided ahead of deployment are mainly used by developers and a few tech-savvy project supporters, not by ordinary users nor regulators.&#x20;
 
-In the Polkadot ecosystem, the same asset can take on various forms because of concepts such as:
+In the Polkadot ecosystem, the **same asset can take on various forms** because of concepts such as:
 
 * canary networks
-* common good chains
+* system chains
 * remark tokens
 * cross-chain transfers
 * liquid crowdloans
