@@ -32,9 +32,9 @@ Blockchain projects come with their own tokenomics, which outline the mechanisms
 
 Blockchain [networks ](../networks/)further manage their token issuance by adopting a capped supply, implementing token burns, and scheduling redistribution events and airdrops. Projects that do not set a maximum token supply are driven to grow their technologies and use cases at a rapid pace, and this inflationary aspect plays an important role in pushing its adoption beyond the small circle of initial investors. In the Polkadot ecosystem, investors tend to look at metrics such as the rate of issuance and the number of tokens locked in various protocols to evaluate the performance of networks’ tokens.
 
-<figure><img src="../../../.gitbook/assets/R_IDolpha (1).JPG" alt="A page of Dotsama Insights tracking top DOT account by balances."><figcaption><p>Analytics tracking balance changes for the top DOT holders on <a href="https://dolpha.com/">Dolpha Insights</a>. </p></figcaption></figure>
-
 Regulators are concerned that the monetary nature of cryptocurrencies and their apparent value as a medium of exchange [mask their inherent volatility](https://moneysmart.gov.au/investment-warnings/cryptocurrencies) in the eyes of unsuspecting consumers. The analysis of blockchain projects and the acquisition of digital assets are highly specialised endeavours that expose participants to different kinds of risks. As a result, regulators are increasingly scrutinising issuance processes to protect investors and prevent bad actors from engaging in exploitative practices.
+
+<figure><img src="../../../.gitbook/assets/R_IPolkadotForum.JPG" alt="A page of Polkadot Forum with ongoing discussion threads about ecosystem initiatives."><figcaption><p>The <a href="https://forum.polkadot.network/">Polkadot Forum</a> offers a space for ecosystem coordination between investors, builders, and end-users.</p></figcaption></figure>
 
 
 
@@ -45,8 +45,6 @@ Regulators are concerned that the monetary nature of cryptocurrencies and their 
 Blockchain-based projects come with a multitude of operations-related risks that need to be mitigated before their decentralised solutions can [reach critical mass adoption](https://www.bnymellon.com/us/en/insights/all-insights/digital-assets-from-fringe-to-future.html). The irreversibility of transactions that is touted to solve the double-spend problem on blockchain networks is a major issue for new users who are unfamiliar with these protocols. For each use case, there are multiple implementations and procedures that can induce users in errors and make them lose their assets in the mix.
 
 Projects in the Polkadot ecosystem attempt to provide solutions to these problems through a standardised approach to protocol development based on the Substrate framework and its libraries, documentation, and tools. On-chain governance alongside [admin support](../../4.social-support/) on social platforms routinely assist in troubleshooting issues reported by developers and users, with the oversight of communities. Even though concerns around hacks remain, collaboration between blockchain projects is increasing to better serve and protect stakeholders.
-
-<figure><img src="../../../.gitbook/assets/R_IPolkadotForum.JPG" alt="A page of Polkadot Forum with ongoing discussion threads about ecosystem initiatives."><figcaption><p>The <a href="https://forum.polkadot.network/">Polkadot Forum</a> offers a space for ecosystem coordination between investors, builders, and end-users.</p></figcaption></figure>
 
 ### Financial Risks
 

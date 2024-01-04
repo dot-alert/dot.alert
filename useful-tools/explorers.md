@@ -51,8 +51,6 @@ Web3Go
 
 ## Decentralisation analytics
 
-[Dolpha](https://dolpha.com/whales/dot)
-
 [Polkawatch](https://polkawatch.app/)
 
 [Polkabeat](https://polkabeat.org/polkabeat/)
