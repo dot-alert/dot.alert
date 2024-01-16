@@ -33,6 +33,7 @@ Being the custodian of your Polkadot assets gives you **access to various ecosys
 * access [auto-compounding](auto-compounded-staking.md) and [listing](lbp-listing.md) services
 * [create](gaming/game-assets.md) and [develop](gaming/game-development.md) gameverses
 * [set up](community-building/crypto-communities.md) and [monetise](community-building/crypto-payments.md) communities
+* [purchase coretime](coretime-sales.md) for dapp deployment
 * capitalise on prediction markets
 * activate and maintain IoT subscriptions
 * generate and amplify metaverse-based brands
