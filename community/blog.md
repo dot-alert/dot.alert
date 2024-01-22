@@ -22,6 +22,54 @@ layout:
 
 
 
+## [AXL Technical solutions for cross-chain interoperability](https://twitter.com/validatrium/status/1744676938243809408)
+
+_22nd January 2024 | A report by Amed K._
+
+**Host: Validatrium**&#x20;
+
+
+
+Cross-chain interoperability has become a major driving force in the blockchain industry, with a focus on harnessing the best that all networks have to offer. By pivoting to seamless communication and collaboration, blockchain ecosystems attempt to improve the security, liquidity, and accessibility of their user-facing products.&#x20;
+
+In this report, we summarise the discussion led by _Sergey Gorbunov_ (co-founder of Axelar Network) on the key role that the protocol wants to play in enhancing the standards for cross-chain interoperability.
+
+
+
+### Automating Cross-chain Deployment&#x20;
+
+Axelar network is a decentralised Proof-of-Stake protocol with an open and secure blockchain-based economy. As a layer 1, it provides easy onboarding for validators and a deployment-ready environment for dapp builders.&#x20;
+
+Axelar distinguishes itself with a Programmable Interoperability stack which makes it possible to host application logic on the network and automate smart contract processes such as initiating connections to other blockchain networks.&#x20;
+
+This universal tech stack allows developers to overcome the barriers imposed by each individual blockchain's infrastructure. It creates a simple and frictionless process for growing existing and future ecosystems and empowers builders to write their codebase once and run it anywhere.
+
+<figure><img src="../.gitbook/assets/Axelar_CrosschainGateway.webp" alt="The technology stack of Axelar Network for cross-chain interoperability."><figcaption><p>Axelar network proposes a chain-agnostic tech stack for building frictionless interoperable dapps.</p></figcaption></figure>
+
+### Core Functionalities of GMP
+
+General Message Passing (GMP) is the main feature of Axelar's interoperability stack. It relies on the _Axelar Gateway contract_ to relay cross-chain transactions. It also comes with a set of tools for testing and running smart contracts calls that will later be finalised on the destination chain. One added advantage of GMP is that it simplifies and standardises dapp development, which can help speed the onboarding of new contributors to blockchain ecosystems.
+
+Developers who leverage GMP can grow a userbase for their dapps across multiple chains at minimal cost, because the performance of cross-chain dapps is comparable to native dapps'. Users are no longer required to manually bridge their tokens and sign multiple individual transactions because these actions are automated.
+
+
+
+### Securing Blockchain-based Products
+
+As a core player of interoperability, Axelar network is regularly adding new chains and their related technologies to its ecosystem. This brings the need for best practices in terms of security at many levels.
+
+Apart from decentralising the base layer with a diversity of validators, network engineers and contributors monitor that protocols and products have undergone rigorous tests and audits. Ongoing bug bounties are offered to identify and fix outstanding and emerging security issues on the network.
+
+Additionally, there are limits set on the quantity of individual assets that can be transferred within a certain time frame through Gateway contracts. These caps are designed to anticipate and prevent congestion on the network, which is relevant for smart contracts that route popular and highly-liquid assets such as stablecoins.&#x20;
+
+
+
+The future of blockchain technology as envisioned by Axelar Network is one where the conversation will no longer be about individual chains or ecosystems. Instead, the focus will be shifted to dapps and the value that they provide to all industry participants. For this to happen, it is necessary to build a chain-agnostic environment where cross-chain interoperability is integrated as a backend feature.
+
+
+
+***
+
 ## [Driving innovation on BTC with Build on Bitcoin (BOB)](https://twitter.com/build\_on\_bob/status/1737722153489842264)
 
 _25th December 2023 | A report by Amed K._
