@@ -22,7 +22,7 @@ layout:
 
 ### Senior promoter:
 
-[_Abdulkadir I_](https://twitter.com/Gambo00004)
+_Abdulkadir I_
 
 
 
