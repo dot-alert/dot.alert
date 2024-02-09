@@ -47,7 +47,7 @@ Blockchain technologies revolve around building decentralised systems, but the b
 
 ### Spotting Real Decentralisation
 
-The concept of decentralisation still suffers from misconceptions because projects that are hyped for being built with blockchain technologies aren't necessarily decentralised. But there are qualities to look out for when evaluating blockchain projects that claim to be fully decentralised:
+The concept of decentralisation still suffers from misconceptions because projects that are hyped for being built on blockchains aren't necessarily decentralised. But there are qualities to look out for when evaluating blockchain projects that claim to be fully decentralised:
 
 * The barriers to entry for participation in terms of financials and computational capacities are minimal. This is because the easier it is for a diversity of node operators to participate in consensus, the more decentralised the network will be.
 * Single points of failure whereby an issue in parts of the network lead to the whole network halting or crashing are rare. Networks with an architecture that provides contingencies for self-preservation are better primed for decentralisation.
