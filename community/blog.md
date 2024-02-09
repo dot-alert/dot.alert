@@ -20,7 +20,47 @@ layout:
 
 # Blog
 
+## [Behind the hype: How to spot real decentralization in blockchain](https://twitter.com/TanssiNetwork/status/1753277786545123508)
 
+_9th February 2024 | A report by Amed K._
+
+**Host: Tanssi Network**&#x20;
+
+
+
+Decentralisation is the principle that underpins the evolution and resilience of blockchain networks. By definition, it seeks to overcome the shortcomings of centralised entities and pave the way for a more equitable, transparent, and dynamic approach to innovation.&#x20;
+
+This report explores the perspectives shared by Bruno Maia (contributor at _Cartesi_), Hang Yin (co-founder of _Phala_), Kasper Jørgensen (co-founder of _Polimec_), and Francisco Agosti (co-founder of _Tanssi_) on decentralisation as a mean to achieve trustlessness.
+
+
+
+### Significance of Decentralisation in Blockchain
+
+Blockchain technologies revolve around building decentralised systems, but the blockchain industry itself stands to benefit from decentralisation, with positive outcomes anticipated in the following areas:
+
+* **Privacy:** Decentralised systems emphasise data preservation and privacy at different levels, including KYC. Personal data is primarily controlled by users themselves through various encryption mechanisms.&#x20;
+* **Global access:** Individuals from diverse socio-economic backgrounds can leverage financial services without experiencing the social and monetary restrictions brought about by centralised entities.
+* **Governance:** Digital communities are empowered through on-chain governance with self-executing functionalities. Members have a direct influence on protocols and their trajectories.
+* **Community-based economies:**  Decentralised organisations define the impact that they want to have within networks and become tools for value creation and value sharing among communities.
+
+<figure><img src="../.gitbook/assets/DecentralizationinBlockchain.jpg" alt="A conversation with Web3 infrastructure projects Cartesi, Phala, Polimec, and Tanssi."><figcaption><p><em>Behind the Hype</em>'s panel featured a diversity of Web3 infrastructure projects supporting truly decentralised systems.</p></figcaption></figure>
+
+### Spotting Real Decentralisation
+
+The concept of decentralisation still suffers from misconceptions because projects that are hyped for being built with blockchain technologies aren't necessarily decentralised. But there are qualities to look out for when evaluating blockchain projects that claim to be fully decentralised:
+
+* The barriers to entry for participation in terms of financials and computational capacities are minimal. This is because the easier it is for a diversity of node operators to participate in consensus, the more decentralised the network will be.
+* Single points of failure whereby an issue in parts of the network lead to the whole network halting or crashing are rare. Networks with an architecture that provides contingencies for self-preservation are better primed for decentralisation.
+* The presence of on-chain governance with enforceable and irrefutable outcomes ensures that agents or select groups can't reverse decisions independently or through secret backdoors. This also means that there is little room for unilateral decision-making.
+* An equitable token distribution among VC investors, core stakeholders, ecosystem builders, and community members implies that control does not initially fall into the hands of a select few during on-chain voting.
+
+
+
+The path to decentralisation is chaotic, filled with disagreements, before a common goal is reached between contributors and participants. Real decentralisation usually emerges as the result of an evolution: from semi-decentralised systems to fully decentralised networks. And this is only possible to achieve for projects with viable road maps that meet their targets over time.
+
+
+
+***
 
 ## [AXL Technical solutions for cross-chain interoperability](https://twitter.com/validatrium/status/1744676938243809408)
 
@@ -32,7 +72,7 @@ _22nd January 2024 | A report by Amed K._
 
 Cross-chain interoperability has become a major driving force in the blockchain industry, with a focus on harnessing the best that all networks have to offer. By pivoting to seamless communication and collaboration, blockchain ecosystems attempt to improve the security, liquidity, and accessibility of their user-facing products.&#x20;
 
-In this report, we summarise the discussion led by _Sergey Gorbunov_ (co-founder of Axelar Network) on the key role that the protocol wants to play in enhancing the standards for cross-chain interoperability.
+In this report, we summarise the discussion led by Sergey Gorbunov (co-founder of _Axelar Network_) on the key role that the protocol wants to play in enhancing the standards for cross-chain interoperability.
 
 
 
@@ -80,7 +120,7 @@ _25th December 2023 | A report by Amed K._
 
 As the first decentralized digital currency, Bitcoin is the main point of reference for blockchain projects and their associated cryptocurrencies. It has been exemplary as a store of value, a unit of payment, a censorship resistant protocol; but is now lagging behind in other departments.
 
-This report looks into a conversation with _Alexei Zamyatin_ (co-founder of Build on Bitcoin), as he presents the role of the platform in bringing new use cases for Bitcoin that will help secure a sustainable future for the crypto industry.
+This report looks into a conversation with Alexei Zamyatin (co-founder of _Build on Bitcoin_), as he presents the role of the platform in bringing new use cases for Bitcoin that will help secure a sustainable future for the crypto industry.
 
 
 
@@ -131,7 +171,7 @@ _27th November 2023 | A report by Amed K._
 
 Decentralized Autonomous Organisations (DAOs) are evolving to become the preferred model for Web3 governance because they facilitate consensus and level the playing field for individuals who want to get involved in the decision-making.
 
-Today we report on an enlightening conversation between major contributors to the ArbitrumDAO; namely _Carl Cervone_, _Devansh Mehta, Mahesh Murthy, DisruptionJoe, Razvan-ZER8;_ and also recap on the various tooling they propose for shaping the Arbitrum ecosystem.
+Today we report on an enlightening conversation between major contributors to the ArbitrumDAO; namely Carl Cervone, Devansh Mehta, Mahesh Murthy, DisruptionJoe, Razvan-ZER8_;_ and also recap on the various tooling they propose for shaping the Arbitrum ecosystem.
 
 
 
@@ -246,7 +286,7 @@ _15th September 2023 | A report by Onyinye M._
 
 
 
-Censorship resistance is an important aspect of DeFi, as it guarantees the freedom to transact for users and the integrity of transactions for blockchain networks. To expand on this important topic, the "Farmers market" livecast staged an interactive 2-hour session with prominent guests _Angle Protocol, Defi Africa, PWN, Polytope Labs,_ _Erable_ and _Adriano Feria_. The discussion focused on censorship resistance within the Decentralized Finance (DeFi) industry and its impact on the adoption of cryptocurrencies.&#x20;
+Censorship resistance is an important aspect of DeFi, as it guarantees the freedom to transact for users and the integrity of transactions for blockchain networks. To expand on this important topic, the "Farmers market" livecast staged an interactive 2-hour session with prominent guests _Angle Protocol, Defi Africa, PWN, Polytope Labs,_ _Erable_ and Adriano Feria. The discussion focused on censorship resistance within the Decentralized Finance (DeFi) industry and its impact on the adoption of cryptocurrencies.&#x20;
 
 Today, we report on the observations made throughout this conversation, from the significance of censorship resistance to its associated challenges, explaining the role that both individuals and governments play in practice.
 
