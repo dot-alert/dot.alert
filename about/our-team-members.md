@@ -26,7 +26,9 @@ _Abdulkadir I_
 
 
 
-### Promoter:
+### Promoters:
+
+_Muhaiminul  I_
 
 _Osagiie I_
 

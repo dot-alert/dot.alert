@@ -28,17 +28,15 @@ _Amed K_
 
 _Anaelle LTD_
 
-_Onyinye M_
-
 
 
 ## Graphics and UI designers:
 
 _<mark style="background-color:blue;">Those who style our platform.</mark>_
 
-_Anaelle LTD_
-
 _Patricia A.P._
+
+_Anaelle LTD_
 
 
 
