@@ -16,8 +16,6 @@ MyDotWallet
 
 Talisman portal&#x20;
 
-YieldScan
-
 
 
 ## Validating
