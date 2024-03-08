@@ -20,6 +20,50 @@ layout:
 
 # Blog
 
+## [Tokenizing the World](https://twitter.com/0xPolygon/status/1763691036428447943)
+
+_8th March 2024 | A report by Amed K._
+
+**Host: Polygon**
+
+
+
+The idea of tokenisation is as old as blockchain technology itself. It is a process that plays a crucial role in the advancement of the industry by enabling the representation of real-world assets or utilities as digital tokens on a blockchain.&#x20;
+
+In this report, we summarise insights from a discussion led by Colin Butler (Global Head of Institutional Capital at _Polygon_), alongside _Franklin Templeton Digital Assets_ and various _Polygon_ ecosystem contributors, which focused on how tokenisation is inspiring a range of innovative solutions to real-world problems.
+
+
+
+### Relevance of Tokenisation
+
+In traditional finance (TradFi), contracts that govern assets are kept separately from the assets themselves.  Consequently, most of the workforce in the TradFi industry is tasked with handling assets, negotiating contracts, and then resolving asset-related transactions. Because these operations are mainly conducted offline and involve multiple participants, accountability and transparency are often lacking across the board.
+
+One of the unique properties of cryptographic tokens as an asset class is that they can embed the contract that governs an asset within the asset itself. Since all assets and contracts are created and tracked on a public ledger built on a Digital Ledger Technology, all their terms, and conditions can be cross-checked at any time.  Furthermore, contracts can be programmed to execute specific transactions once certain requirements are fulfilled, which illustrates why tokenisation has the potential to save financial institutions billions in operational costs.
+
+<figure><img src="../.gitbook/assets/Polygon_TokenisationSpotlight.jpg" alt="Polygon is running a series of blog posts and X spaces focused on tokenisation."><figcaption><p>Polygon is running a five-part series focused on tokenisation for accessible, transparent, and liquid markets.</p></figcaption></figure>
+
+### Integrating TradFi
+
+While digital assets can represent an opportunity for investment portfolio diversification, they are not easily tradable for many reasons. This is the case for royalties on digital art pieces traded on NFT marketplaces. Even though is possible for institutional investors to acquire royalties, difficulties remain in scaling the administration of royalty pools to, not just a handful, but millions of participants.&#x20;
+
+Tokenisation allows a wider range of asset classes to be issued both digitally and physically, including collectibles, financial contracts, and real estate deals. In this context, physical assets are kept in an accredited storage of facility and their related data is embedded digitally into a token to provide the purchaser with custom rights (intellectual, property, custody, trading, etc.).  This process can also help address pervasive problems such as bureaucracy, forgery, and fraud.
+
+
+
+### Improving Cross-border Transactions
+
+One added advantage of tokenisation as a technology is that it can enable access to international capital for businesses and enterprises from around the world. This would result in increased access to global markets and greater circulation of funds, which can help optimise hedging strategies for institutional players.
+
+For everyday users and consumers, tokenisation can democratise trading, peer-to-peer borrowing, and liquidity pooling, with revenue generated through market-making fees and interest rates. It becomes possible for a project to create real world value and then issue custom-made financial instruments to fund its growth, with minimal intervention from external parties.&#x20;
+
+
+
+The necessity to embrace tokenisation arises from the imperative to build portfolios that offer much more than equities or bonds to traditional investors. Unlike utility tokens that are exclusively designed for blockchain operations, tokenised securities could work to bridge the divide between new digital solutions and existing financial practices to redefine markets on a global scale.
+
+
+
+***
+
 ## [Behind the hype: How to spot real decentralization in blockchain](https://twitter.com/TanssiNetwork/status/1753277786545123508)
 
 _9th February 2024 | A report by Amed K._
