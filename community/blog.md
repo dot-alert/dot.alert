@@ -20,6 +20,43 @@ layout:
 
 # Blog
 
+## [Mad Scientists Enter the Lab](https://twitter.com/osmosiszone/status/1775530819215634828)
+
+_13th April 2024 | A report by Amed K._
+
+**Host: Osmosis**\
+
+
+In the blockchain industry, established use cases such as DeFi and NFTs are becoming the playgrounds of choice for technologists, researchers, and economists. New projects have to be radically innovative to capture the attention of users and build their communities.
+
+In this report, we recap the discussion led by Aaron Kong (Growth & strategy lead at _Osmosis Labs_) and Sunny Aggarwal (founder of _Osmosis Labs_) with Zerk and Cudo (co-founders of _Mad Scientists_), in partnership with JGnft (founder of _Backbone Labs_), during which they expanded on the collaborative efforts behind the launch of their first NFT collection.
+
+
+
+### Unifying the Ecosystem
+
+_Osmosis_ is a long standing DeFi hub that aims to simplify access to liquidity and markets in the Cosmos ecosystem. Meanwhile, _Backbone Labs_ is a launchpad that is incubating _Mad Scientists_ as a proof-of-concept NFT collection. These project teams have been using existing ecosystem dapps for the fair launch and the trade of $LAB tokens (_Stream swap, OsmosisDEX, etc._) which will be burnt to mint NFTs at a later date. They are also tapping into popular community platforms for airdrops (_OmniFlix_) and NFT trading (_Stargaze_) for future growth prospects.
+
+More than an NFT marketplace, _Backbone Labs_ is building a protocol halfway between DeFi and NFT on which creators, builders, and founders can freely experiment. Examples of new propositions include allowing NFT communities to manage and share revenues through Liquid Staking Tokens (LST) protocols, but also creating NFT-centric dApps that can work seamlessly across the ecosystem.
+
+<figure><img src="../.gitbook/assets/MadScientists_LAB.png" alt="Updates from The Lab featured Mad Scientists, the team behind $LAB and NFTfi on Osmosis."><figcaption><p>Updates from The Lab presents the latest developments in and around Osmosis.</p></figcaption></figure>
+
+### Cultivating Experiments &#x20;
+
+The joint venture between _Backbone Labs_ and _Mad Scientists_ aims to bring in a new tinkering culture and more freedom to transact in the decentralised space. This also means making new social, financial, and technological experiments. At a basic level, their plan is to start sponsoring collaborative spaces to activate new contributors and give back to the community.&#x20;
+
+In this context, hackathons are seen as a funnel for creativity to translate into new applications that can then be integrated on Osmosis to push the NFTfi space forward. Rethinking schemes such as 0% staking commissions and token buybacks are also viable options for making the most of the underlying technologies to provide engaging and fun experiences.
+
+Minting NFTs is envisioned as the first step towards building a DAO, because the initial spread of stake and ownership is still concentrated. This does not reflect the degree of decentralisation needed by DAOs to make an impact. And so, the teams will offer incentives such as royalties rights on secondary sales and timely airdrops to bring in more active participants.
+
+
+
+With over a decade of developments, blockchain technologies have reached a stage where they can deliver standardised services and innovative solutions to all stakeholders. This requires a cultural shift in the way project teams capture and distribute value while growing their communities.
+
+
+
+***
+
 ## [Tokenizing the World](https://twitter.com/0xPolygon/status/1763691036428447943)
 
 _8th March 2024 | A report by Amed K._
