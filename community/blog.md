@@ -20,6 +20,55 @@ layout:
 
 # Blog
 
+## [Boring Security Monthly: Account Abstraction](https://twitter.com/BoringSecDAO/status/1786047823122772409)
+
+_6th May 2024 | A report by Amed K._
+
+**Host: Boring Security**\
+
+
+A recurring trend in blockchain consists of adding new functionalities to crypto products before finding ways to secure these, which exposes first-time users of the technology to vulnerabilities and serious threats.
+
+This report summarises key observations shared by a discussion panel with FΞLD (contributor at _Boring Security_), NFT\_Dreww (ambassador at _Wallet Guard_), and Toven (contributor at _Server Forge_) on the implementation of Account abstraction and its implications for security best practices.
+
+
+
+### Simplifying asset storage
+
+Account abstraction is a generic blockchain concept and technology that underpins a new way for user to interact with EVM networks and ecosystems. Under this approach, users' assets can be stored in the form of Smart contracts (ERC-4337) rather than traditional Externally-owned accounts (EOAs).
+
+This technology aims to solve long-standing UX problems such as the complexity of private key management and the lack of functionalities around transaction customisation. Account abstraction introduces new solutions for batching and/or automating transactions as part of subscription-based payments, including spending limits and a lot more features.&#x20;
+
+### Identifying Technological Risks
+
+In principle, account abstraction allows developers to reduce the number of layers and micro-services between users and on-chain transactions. But, in practice, this also brings some security risks:
+
+1. **Signatures:**&#x20;
+
+When using a traditional wallet, signing a transaction such as a coin swap on an AMM requires two different types of signatures. First, to approve the Smart contract interaction for the given token, and second, to confirm the amount of tokens to be swapped. With account abstraction, these steps are bundled into one with a single signature. Therefore, there is an increased risk of interaction with erroneous addresses, and there are also fewer steps for potential drainers to rob people of their assets.
+
+2. **Delegations:**&#x20;
+
+When managing assets under the account abstraction paradigm, users have the option to delegate their entire wallet to multiple Smart contracts through an access policy. Unlike [Polkadot SDK's multi-level account abstraction functionalities](https://wiki.polkadot.network/docs/learn-account-abstraction), this is a persistent type of access by which the other Smart contracts can act on behalf of users to sign anything prescribed within the access policy. However, in this context, authorising a malicious contract as a delegate would be equivalent to getting one's private keys stolen.
+
+<figure><img src="../.gitbook/assets/BoringSecDAO.jpg" alt="Boring Security is a collective of educators sharing entry-level resources on Web3 security." width="563"><figcaption><p>Boring Security is a DAO specialised in Web3 security training and education.</p></figcaption></figure>
+
+### Prioritising the User Experience
+
+Account abstraction has a lot room for evolution, but some suggestions can already be made to improve its implementation.&#x20;
+
+An important recommendation for all major wallet builders is to make Smart contract wallets an opt-in instead of the default choice. Users could then be given some help to navigate upcoming changes through disclaimers, pop-ups, and articles discussing new features. Before opting for either the traditional or the Smart contract wallet, it will be important for newcomers to know what the basics of the technology are.
+
+And the technology itself needs refining, as delegations on smart wallets do not currently support cross-chain operations. Additionally, signatures come with some nuances that affect the ordering and execution of individual transactions. This can make it difficult for users to submit multiple transactions asynchronously without some of them being automatically revoked.
+
+
+
+Despite its rising popularity and adoption, Account abstraction is still a proof-of-concept technology that comes with noted drawbacks that users must be aware of. This is why up-to-date tutorials and learning resources will be needed to walk new users through its low-level technicalities and future use cases.
+
+
+
+***
+
 ## [Mad Scientists Enter the Lab](https://twitter.com/osmosiszone/status/1775530819215634828)
 
 _13th April 2024 | A report by Amed K._
