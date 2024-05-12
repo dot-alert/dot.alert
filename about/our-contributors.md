@@ -20,19 +20,9 @@ layout:
 
 # Our Contributors
 
-## Technical, Specialist, and Blog writers:
-
-_<mark style="background-color:blue;">Those who create our content.</mark>_
-
-_Amed K_
-
-_Anaelle LTD_
-
-
-
 ## Graphics and UI designers:
 
-_<mark style="background-color:blue;">Those who style our platform.</mark>_
+_<mark style="background-color:blue;">Those who styled our platform.</mark>_
 
 _Patricia A.P._
 
@@ -42,7 +32,7 @@ _Anaelle LTD_
 
 ## **Fundraisers:**
 
-_<mark style="background-color:blue;">Those who fund our developments.</mark>_
+_<mark style="background-color:blue;">Those who funded our developments.</mark>_
 
 Gitcoin Grants (April 2023 Beta round, GG18 Core round)
 
@@ -69,6 +59,8 @@ _Machala F_
 _Michael W_
 
 _Moshood S_
+
+_Onyinye M_
 
 _Rhoda A_
 

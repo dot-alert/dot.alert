@@ -34,9 +34,9 @@ _Osagiie I_
 
 
 
-### Podcast host:
+### Blog writer:
 
-_Onyinye M_
+_Amed  K_
 
 
 
