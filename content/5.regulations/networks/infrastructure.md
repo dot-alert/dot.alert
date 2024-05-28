@@ -8,7 +8,7 @@ _<mark style="background-color:red;">Disclaimer: This article is written by</mar
 
 
 
-Blockchain infrastructure represents the hardware and software needed to provide access to Digital Ledger Technology (DLT) to end-users. In the Polkadot ecosystem, Substrate is the core component of this infrastructure; with blockchain engineers, application developers, user interface designers, and users all interacting with the framework at different levels.
+Blockchain infrastructure represents the hardware and software needed to provide access to Digital Ledger Technology (DLT) to end-users. In the Polkadot ecosystem, the Polkadot SDK is the core component of this infrastructure; with blockchain engineers, application developers, user interface designers, and users all interacting with the framework at different levels.
 
 
 
@@ -16,7 +16,7 @@ Blockchain infrastructure represents the hardware and software needed to provide
 
 ### Blockchain Networks
 
-Substrate is used to build a variety of private or permissioned chains that go through a series of steps to become [fully permissionless](../../3.operations/bidding/parachain-slot-lease.md). This process, which involves building a runtime, authorising nodes, running a testnet and issuing a token, culminates in the removal of a superuser called "sudo" through governance vote.&#x20;
+The Polkadot SDK is used to build a variety of private or permissioned chains that go through a series of steps to become [fully permissionless](../../3.operations/bidding/parachain-slot-lease.md). This process, which involves building a runtime, authorising nodes, running a testnet and issuing a token, culminates in the removal of a superuser called "sudo" through governance vote.&#x20;
 
 Currently, there isn't any comprehensive law or bill that gives clear guidelines for establishing whether a network is decentralised or centralised. Most of the literature on this topic is written by technologists and developers in the course of their research and/or experiments. However, the question of decentralisation remains important in defining whether the assets issued on a given network can be classified as [financial products](https://www.consilium.europa.eu/en/press/press-releases/2022/06/30/digital-finance-agreement-reached-on-european-crypto-assets-regulation-mica/).
 

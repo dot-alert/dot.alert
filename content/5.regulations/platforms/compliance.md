@@ -22,7 +22,7 @@ By opposition, the rise of Web3 platforms is powered by a grassroot approach whe
 
 Regulatory bodies have understood the need to provide a legal framework under which tech companies, and tech corporations in particular, must operate. However, this is a process that still has to catch up with the realities of a fast-moving industry, as evidenced by the recent history of lawsuits, trials, and fines brought upon some of the biggest tech conglomerates. While anti-trust laws are there to help level the playing field for Web2 projects, enforcing such legislations within the decentralised web is a challenging task. Instead, regulators' focus is on investigating fraudulent [Web3 projects that operate from a centralised structure to manage assets](https://www.bis.org/publ/qtrpdf/r\_qt2112b.htm) (i.e tokens and stablecoins) and fail to comply with the requirements mandated for Virtual Assets Services Providers (also called VASPs).
 
-<figure><img src="../../../.gitbook/assets/R_PHRMPChannelsKusama.JPG" alt="A 2D representation of HRMP channels that are activated between Kusama parachains."><figcaption><p>A visualisation of active HRMP ("XCMP light") channels between Kusama network's parachains.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/R_PHRMPChannelsKusama.JPG" alt="A 2D representation of HRMP channels that are activated between Kusama parachains."><figcaption><p>A visualisation of active HRMP ("XCMP light") channels between Kusama network's parachains in 2022.</p></figcaption></figure>
 
 ### Commercialisation&#x20;
 
