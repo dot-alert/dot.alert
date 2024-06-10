@@ -20,6 +20,62 @@ layout:
 
 # Blog
 
+## [Beyond the Narratives: Multi-chain Liquid Staking](https://x.com/PolytopeLabs/status/1796226935191666815)
+
+_10th June 2024 | A report by Amed K._
+
+**Host: Polytope Labs**
+
+
+
+Over the past few years, Liquid staking has become a very popular derivative tool for DeFi users looking to release liquidity for staked tokens and get extra yields across different platforms.&#x20;
+
+This report recaps on the discussion led by Seun Lanlege (founder of _Polytope Labs_) and Thomas (community lead at _Bifrost_) as they explore the fundamental role that bridges play in facilitating the operations of multi-chain liquid staking protocols.
+
+
+
+### Expanding Opportunities for Yield Farming
+
+Liquid staking is a mechanism that token holders can leverage to earn income from both non-custodial staking and DeFi farming. Bifrost is a DeFi protocol that allows users to mint Liquid Staking Tokens (LSTs) and earn yields on multiple [dapps of the Polkadot ecosystem](https://polkadot.network/ecosystem/dapps/), depending on the level of risk that they are willing to take.&#x20;
+
+Before LSTs are minted, the Liquid Staking Protocol needs to have determined and chosen a set of validators and a nomination pool to maximise the "base yields". Once LSTs are issued, minters can use them on different platforms and for different purposes, such as:
+
+* governance operations on OpenGov
+* leverage staking
+* liquidity provision on DEXes
+* collateral for loans
+* collateral for minting stablecoins
+* collateral for providing security on decentralised bridges
+
+<figure><img src="../.gitbook/assets/PolytopeLabsBeyondTheNarratives.jpg" alt="Polytope Labs hosts &#x22;Beyond the narratives&#x22;, a series of Twitter spaces on multi-chain technologies." width="563"><figcaption><p><em>Beyond the Narratives</em> explores critical developments in multi-chain infrastructure.</p></figcaption></figure>
+
+### **Supporting Multi-chain Solutions for Liquid Staking**
+
+To align with multi-chain developments observed in DeFi, Bifrost has developed two different protocols for liquid staking: _Staking Liquidity Protocol_ (SLP) whose core features strictly belong to the Bifrost parachain, and _Multi-chain staking_ (SLPx) which has cross-chain capabilities.
+
+Bifrost uses third-party bridging infrastructure to support liquid staking for assets that are held on Ethereum and Filecoin. However, given that most of the current offerings for bridges rely on multisigs, the team recognises that more trustless and decentralised solutions are needed to prevent multi-chain liquidity from being compromised by hackers.&#x20;
+
+
+
+### Developing Resilient Bridging Infrastructure&#x20;
+
+Aside empowering users to freely move assets between existing ecosystems, comprehensive solutions are needed to standardise interoperability in the blockchain industry. Polytope Labs is developing _Hyperbridge_ as a secure bridging infrastructure with:
+
+* cryptographic verifications to authenticate cross-chain requests
+* a decentralized set of relayers for multi-chain transaction executions
+* a fee-earning model for services&#x20;
+* integration of all major Ethereum L2s and BNB chains&#x20;
+
+Optimisations for _Hyperbridge_'s cryptography are ongoing to align with the latest developments in ZKPs. These are also necessary to improve the cost of verifications on Ethereum and allow the bridge to integrate Ethereum network, just like _Snowbridge_.&#x20;
+
+
+
+Liquid staking is the new frontier of DeFi because it drives traditionally isolated protocols to push the boundaries of their native ecosystems and become multi-chain platforms. In this quest for censorship-resistant interoperability, decentralised bridges will serve as a major avenue for both portfolio managers and infrastructure builders to effectively grow and secure their revenue streams over time.
+
+
+
+***
+
 ## [Boring Security Monthly: Account Abstraction](https://twitter.com/BoringSecDAO/status/1786047823122772409)
 
 _6th May 2024 | A report by Amed K._
@@ -88,7 +144,7 @@ _Osmosis_ is a long standing DeFi hub that aims to simplify access to liquidity 
 
 More than an NFT marketplace, _Backbone Labs_ is building a protocol halfway between DeFi and NFT on which creators, builders, and founders can freely experiment. Examples of new propositions include allowing NFT communities to manage and share revenues through Liquid Staking Tokens (LST) protocols, but also creating NFT-centric dApps that can work seamlessly across the ecosystem.
 
-<figure><img src="../.gitbook/assets/MadScientists_LAB.png" alt="Updates from The Lab featured Mad Scientists, the team behind $LAB and NFTfi on Osmosis."><figcaption><p>Updates from The Lab presents the latest developments in and around Osmosis.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/MadScientists_LAB.png" alt="Updates from The Lab featured Mad Scientists, the team behind $LAB and NFTfi on Osmosis."><figcaption><p><em>Updates from The Lab</em> presents the latest developments in and around Osmosis.</p></figcaption></figure>
 
 ### Cultivating Experiments &#x20;
 
