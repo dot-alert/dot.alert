@@ -21,17 +21,11 @@ layout:
 
 [SubID](https://sub.id/)
 
-Cumulon
-
-Polkaholic
-
 
 
 ## Transaction explorers
 
 Calamar
-
-DotScanner
 
 StateScan
 
@@ -41,7 +35,7 @@ Subscan
 
 ## Data indexers
 
-[Subsquid](https://www.subsquid.io/)
+Subsquid
 
 SubQuery
 
@@ -50,6 +44,8 @@ Web3Go
 
 
 ## Decentralisation analytics
+
+[Follow the DOT](https://followthedot.live/)
 
 [Polkawatch](https://polkawatch.app/)
 

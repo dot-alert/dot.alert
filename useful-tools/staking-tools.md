@@ -6,6 +6,8 @@ description: Staking tools for the Polkadot ecosystem.
 
 ## Nominating
 
+[Bifrost](https://bifrost.app/dashboard)
+
 [Staking dashboard](https://staking.polkadot.network/#/overview)
 
 [Staking income](https://james-sangalli.github.io/dot-staking-income-web/)

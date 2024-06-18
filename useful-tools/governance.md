@@ -8,13 +8,13 @@ description: Governance platforms for the Polkadot ecosystem.
 
 [Delegation dashboard](https://delegation.polkadot.network/)
 
-OpenSquare
+[OpenSquare](https://www.opensquare.network/)
 
 [Polkassembly](https://polkadot.polkassembly.io/opengov)
 
 [Proof of chaos](https://www.proofofchaos.app/kusama/vote)
 
-Subsquare
+[Subsquare](https://www.subsquare.io/)
 
 
 

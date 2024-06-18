@@ -34,12 +34,6 @@ _Osagiie I_
 
 
 
-### Blog writer:
-
-_Amed  K_
-
-
-
 ### Advisor:
 
 _Anaelle LTD_
