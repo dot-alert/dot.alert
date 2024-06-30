@@ -20,16 +20,6 @@ layout:
 
 # Our Contributors
 
-## Graphics and UI designers:
-
-_<mark style="background-color:blue;">Those who styled our platform.</mark>_
-
-_Patricia A.P._
-
-_Anaelle LTD_
-
-
-
 ## **Fundraisers:**
 
 _<mark style="background-color:blue;">Those who funded our developments.</mark>_
@@ -63,6 +53,8 @@ _Michael W_
 _Moshood S_
 
 _Onyinye M_
+
+_Patricia A.P_
 
 _Rhoda A_
 

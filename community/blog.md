@@ -89,7 +89,7 @@ This report summarises key observations shared by a discussion panel with FΞLD 
 
 
 
-### Simplifying asset storage
+### Simplifying Asset Storage
 
 Account abstraction is a generic blockchain concept and technology that underpins a new way for user to interact with EVM networks and ecosystems. Under this approach, users' assets can be stored in the form of Smart contracts (ERC-4337) rather than traditional Externally-owned accounts (EOAs).
 
