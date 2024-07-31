@@ -28,7 +28,7 @@ Commissioners and representatives from regulatory bodies are aware that, despite
 
 ### Technologies
 
-Blockchain networks have given birth to a renewed digital infrastructure that contributes to its decentralisation and adoption by the general public. Engines, nodes, explorers, wallets, and APIs form the core of these global systems that strive to beat censorship and remain "unstoppable". In the Polkadot ecosystem, Substrate proposes re-usable code that infrastructure builders can quickly adapt and extend to create, test, launch and maintain their own permissionless blockchain network's operations.&#x20;
+Blockchain networks have given birth to a renewed digital infrastructure that contributes to its decentralisation and adoption by the general public. Engines, nodes, explorers, wallets, and APIs form the core of these global systems that strive to beat censorship and remain "unstoppable". In the Polkadot ecosystem, the SDK proposes re-usable code that infrastructure builders can quickly adapt and extend to create, test, launch and maintain their own permissionless blockchain network's operations.&#x20;
 
 Blockchain transactions are the most basic operations needed to submit information on-chain so that the state of the network can be changed. This transmission of data between [participants](../../3.operations/bidding/parachain-slot-lease.md) underpins the value proposition of decentralised networks because it relies on programmes (i.e Dapps, Smart contracts, and Bridges) as authenticators, agreements, and routers. Within the Polkadot ecosystem, application-specific blockchains secure the execution of native (i.e WASM-based) programmes via an innovative deposit system for on-chain deployment and storage.
 

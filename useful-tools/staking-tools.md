@@ -10,10 +10,6 @@ description: Staking tools for the Polkadot ecosystem.
 
 [Staking dashboard](https://staking.polkadot.network/#/overview)
 
-[Staking income](https://james-sangalli.github.io/dot-staking-income-web/)
-
-[Validator selector](https://james-sangalli.github.io/dot-validator-selector/)
-
 MyDotWallet
 
 Talisman portal&#x20;

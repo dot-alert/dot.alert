@@ -30,15 +30,11 @@ Another important anti-phishing feature of the Polkadot-JS extension is its abil
 
 The Polkadot-JS extension allows users to manage these authorizations, giving them full control over which Dapps can access their wallet and for how long. This helps prevent unauthorized access to your wallet and reduces the risk of phishing attacks.
 
-<figure><img src="../../.gitbook/assets/S_APScamDomains.JPG" alt="A chart of scam domains keywords reported to Polkadot Anti-scam team."><figcaption><p>Data analysis of domains flagged by Polkadot <a href="https://medium.com/polkadot-network/polkadots-anti-scam-initiatives-1660ef5787b7">Anti-scam team</a>.  </p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/S_APContributing.JPG" alt="Information about how to contribute to anti-phishing initiatives in the Polkadot ecosystem."><figcaption><p>Key steps for supporting Polkadot anti-phishing initiatives.</p></figcaption></figure>
 
 ### Anti-phishing Libraries
 
 The anti-phishing library is a JSON file hosted in an open source public GitHub repository. Any junior developer on their first day can easily integrate the code with an import request using python.&#x20;
 
 Several [wallets](../../useful-tools/wallets.md) that are built on top of the Polkadot-JS extension and have integrated these anti-phishing libraries. Among these wallets are Talisman, Subwallet, Nova wallet, and Fearless wallet.&#x20;
-
-<figure><img src="../../.gitbook/assets/S_APContributing.JPG" alt="Information about how to contribute to anti-phishing initiatives in the Polkadot ecosystem."><figcaption><p>Key steps for supporting Polkadot anti-phishing initiatives.</p></figcaption></figure>
 

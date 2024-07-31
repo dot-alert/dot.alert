@@ -14,7 +14,7 @@ _<mark style="background-color:red;">Disclaimer: This article is written by</mar
 
 A Decentralized Autonomous Organisation (also DAO) is a community-led group in which control and decisions are effected based on computer-coded guidelines. Prior to launching, DAOs often need support from incubators or programmes to fund their initial operations and design self-sustaining models for their treasuries.
 
-<figure><img src="../../../.gitbook/assets/O_DIGenesisDAO.PNG" alt="Landing page of Genesis DAO, a common good chain for DAOs in the Polkadot ecosystem."><figcaption><p><a href="https://www.genesis-dao.org/">Genesis DAO</a> offers common good infrastructure for deploying interoperable DAO projects.</p></figcaption></figure>
+
 
 ### How-to: Selecting a DAO Incubator Program
 

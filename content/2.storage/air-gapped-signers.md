@@ -24,8 +24,6 @@ There are two methods that you can use to set up your accounts with air-gapped s
 
 Getting started with an air-gapped signer is a process very similar to onboarding with a mobile wallet, as you can immediately create a new account or import an existing one. However, before you can start to use your accounts on Polkadot networks, you will need to add them via QR code to a dapp that supports air-gapped signers.
 
-<figure><img src="../../.gitbook/assets/S_ASPolkadotVaultTransaction.JPG" alt="A sample transaction being signed on Polkadot Vault."><figcaption><p>Overview of the transaction signing UX on <a href="https://www.parity.io/technologies/signer/">Polkadot Vault</a>. </p></figcaption></figure>
-
 
 
 ### Why are Air-gapped Signers Important?

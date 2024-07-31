@@ -24,8 +24,6 @@ Accessing auto-compounding facilities from ecosystem dapps is straightforward, a
 
 Auto-compounded staking has many advantages for ecosystem participants. Aside allowing stakers to automate some of their transactions and save on fees, users can customise their staking based on their own strategies for yield optimisation. For users in countries where crypto assets are subject to taxes, auto-compounded staking can give the option to access Capital gain tax (CGT) discounts after some time.&#x20;
 
-<figure><img src="../../.gitbook/assets/O_ASProcesses.png" alt="Flowchart of XCM auto-compounding services by Turning Network."><figcaption><p>An overview of <a href="https://docs.oak.tech/docs/xcm/integration-overview/">auto-compounding processes deployed by Turning network</a> on Shiden network.</p></figcaption></figure>
-
 
 
 ### Risks: Monitoring Markets and Protocols Updates

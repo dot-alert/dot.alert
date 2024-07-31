@@ -54,8 +54,6 @@ _Moshood S_
 
 _Onyinye M_
 
-_Patricia A.P_
-
 _Rhoda A_
 
 _Shashank R_

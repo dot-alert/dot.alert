@@ -36,6 +36,12 @@ _Joshua D_
 
 
 
+### Graphics designer:
+
+_Patricia A.P_
+
+
+
 ### Advisor:
 
 _Anaelle LTD_

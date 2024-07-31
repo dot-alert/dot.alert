@@ -34,9 +34,9 @@ Subwallet
 
 ## Air-gapped signers
 
-[Polkadot Vault](https://www.parity.io/technologies/signer/)
+Polkadot Vault
 
-[Stylo](https://stylo-app.github.io/website/)
+Stylo
 
 AirGap
 
@@ -58,7 +58,11 @@ SafePal
 
 [Banana split](https://bs.parity.io/#/)
 
+Mimir
+
 [Multix](https://multix.chainsafe.io/)
 
 [PolkaSafe](https://polkasafe.xyz/)
+
+Signet
 

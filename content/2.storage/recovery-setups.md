@@ -40,7 +40,5 @@ In the Polkadot ecosystem, the same account can be used to store multiple assets
 
 In the case of basic social recovery, users need to carefully vet their friends and keep them updated about any change to the setups. This is particularly important if the trusted person changes Polkadot account, as the recovery process needs to be maintained over time. It is also essential to make use of a reasonably long delay period that will enable early detection and prevention of malicious recovery by social peers.&#x20;
 
-<figure><img src="../../.gitbook/assets/S_RSSteps.png" alt="A block diagram showing the steps required to recover a Polkadot account via social recovery."><figcaption><p>An overview of the steps needed to fully and securely <a href="https://wiki.polkadot.network/docs/kusama-social-recovery">recover a Polkadot account via Polkadot-JS Apps</a>.</p></figcaption></figure>
-
 Account recovery setups can offer higher levels of security when used in combination. Nevertheless, the complexity of multisig accounts management and the risk of human error in relation to proxies makes them unsuitable for the average user. Instead, users need to develop a good understanding of Proxy accounts' parameters and processes through testnets prior to using these tools for the recovery of valuable assets.&#x20;
 

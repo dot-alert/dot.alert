@@ -44,8 +44,6 @@ As a new type of asset class, cryptocurrencies attract different tax treatments 
 
 In recent times, international agencies have begun to investigate the opportunities and the challenges of cryptocurrencies, in particular how they can be traded [without any compliant intermediaries](insurance.md). However, tax laws are complex to define and implement without a coherent leadership and a proven framework that can be replicated across the world. Therefore, many countries are still hesitating between the complete rejection of cryptocurrencies and the stringent taxation of digital assets. In practice, local branches from multinational mining companies or centralised crypto exchanges can be forced to shut down in one jurisdiction, while parent offices are allowed to maintain their operations elsewhere.
 
-<figure><img src="../../../.gitbook/assets/R_IPolkaTax.PNG" alt="PolkaTax is a staking reward calculator for all Polkadot ecosystem chains."><figcaption><p><a href="https://polkatax.com/">PolkaTax</a> provides a summary of staking rewards for the Polkadot ecosystem in multiple currencies.</p></figcaption></figure>
-
 ### Legal Risks
 
 The extreme [variability of tax laws relative to cryptocurrencies](https://chasebuchanan.com/crypto-taxation-portugal-traders-investors/) is gradually leading to reduced risk appetite for the asset class. For many retail users and entrepreneurs, it is often difficult to source reliable information on tax reporting procedures and timelines that match their personal and professional situations. Given that failing to declare some crypto income or assets can be interpreted as tax evasion in some countries and lead to hefty fines, it is much easier to avoid transacting and operating on blockchain networks altogether.&#x20;

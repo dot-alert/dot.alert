@@ -21,8 +21,6 @@ layout:
 
 [Polkadot network Support](https://support.polkadot.network/)
 
-[Relay Chain Podcast](https://relaychain.fm/)
-
 [Web3 Foundation Press releases](https://web3.foundation/press/)
 
 

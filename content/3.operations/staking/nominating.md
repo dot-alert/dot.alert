@@ -38,7 +38,5 @@ For optimal security, it is recommended to leave your stash in [cold storage ](.
 
 It is recommended to avoid picking validators that are operating "at capacity," as they may already be oversubscribed, which prevents you from getting any rewards. You should also consider choosing validators with a combination of low commission, minimal or no slash history, and sizable self-stake. In support of decentralisation, you could also select your validators from different geographic locations or with noticeable community involvement.
 
-<figure><img src="../../../.gitbook/assets/O_SSelection.JPG" alt="The validator selector tool screen where nominators can select validators according to specific criteria."><figcaption><p>The <a href="https://james-sangalli.github.io/dot-validator-selector/">Validator selector</a> tool screens and picks network validators according to specific criteria.</p></figcaption></figure>
-
 Finally, remember to monitor your validators to ensure that you remain eligible for rewards throughout the entire duration of your staking operations. As a safety measure, you should regularly check that your validators' commission fees are consistent, as these rates can be changed at any time and reduce your overall staking income.
 

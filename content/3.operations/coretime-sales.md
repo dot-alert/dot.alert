@@ -24,7 +24,7 @@ Buying coretime is a straightforward process whereby projects register a ParaID,
 
 While on-demand coretime is meant to be consumed almost immediately by the purchaser, bulk coretime purchases assign ownership of a specific period of coretime (also called "Region") to each purchasing account. The [non-fungible](nft-trading/) nature of this specific coretime allocation means that it can subsequently be transferred, split, consumed, renewed, or pooled.&#x20;
 
-<figure><img src="../../.gitbook/assets/O_CSPolkadotComputations.png" alt="Sample agile allocation of coretime on Polkadot."><figcaption><p>Overview of an agile coretime allocation within <a href="https://wiki.polkadot.network/docs/polkadot-direction#agile-composable-computer">Polkadot's decentralised computer</a>.</p></figcaption></figure>
+
 
 ### Risks: Managing Markets-related Overheads&#x20;
 
