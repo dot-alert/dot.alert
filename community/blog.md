@@ -32,7 +32,7 @@ Web 3 is the next generation of the internet that is built on top of blockchain 
 
 ### Who Works in Web3?
 
-Web3 attracts a diverse range of professionals, such as developers, designers, data analysts, content creators, marketers, and community managers. Currently, developers are in high demand because they are skilled in blockchain programming languages such as Solidity for the Ethereum ecosystem and Rust for the Polkadot network. As the blockchain industry matures, traditional roles such as legal advisors and compliance experts will be in demand to help investors and entrepreneurs navigate the regulatory landscape.
+Web3 attracts a diverse range of professionals, such as developers, designers, data analysts, content creators, marketers, and community managers. Currently, developers are in high demand because they are skilled in blockchain programming languages such as Solidity for the Ethereum ecosystem and Rust for the [Polkadot](../content/5.regulations/networks/) network. As the blockchain industry matures, traditional roles such as legal advisors and compliance experts will be in demand to help investors and entrepreneurs navigate the regulatory landscape.
 
 ### Where are open positions advertised?
 
@@ -42,7 +42,7 @@ Most Web3 jobs are posted on dedicated Web3 job boards which include _CryptoJobs
 
 ### What kind of working conditions are provided?
 
-Web3 jobs are well known for their flexibility and remote working conditions. Essentially, you can work from anywhere in the world, which is a true reflection of the decentralised nature of blockchain technologies. Usually, web3 companies consist of diverse groups of talents spread across the world who prioritise creativity and getting things done rather than the number of hours worked. This setup promotes work-life balance and fosters a culture of learning and experimentation.
+Web3 jobs are well known for their flexibility and remote working conditions. Essentially, you can work from anywhere in the world, which is a true reflection of the decentralised nature of blockchain technologies. Usually, web3 companies consist of [diverse groups of talents](../content/5.regulations/networks/participation.md) spread across the world who prioritise creativity and getting things done rather than the number of hours worked. This setup promotes work-life balance and fosters a culture of learning and experimentation.
 
 ### Which types of compensation are offered?
 
