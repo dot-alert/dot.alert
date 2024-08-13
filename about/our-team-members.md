@@ -20,7 +20,7 @@ layout:
 
 # Our Team
 
-### Senior promoter:
+### Senior Promoter:
 
 _Abdulkadir I_
 
@@ -32,13 +32,17 @@ _Muhaiminul  I_
 
 _Osagiie I_
 
-_Joshua D_
-
 
 
 ### Graphics designer:
 
 _Patricia A.P_
+
+
+
+### Blog writer:
+
+_Eliud K._
 
 
 

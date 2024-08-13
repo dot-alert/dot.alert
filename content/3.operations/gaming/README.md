@@ -10,5 +10,5 @@ Gameverses are standalone universes and communities that emerge from blockchain-
 
 In the Polkadot ecosystem, creators and developers propose [highly-customisable assets](game-assets.md) tied to unique narratives to offer an engaging [on-chain gaming experience](game-development.md) for a range of players profiles.
 
-<figure><img src="../../../.gitbook/assets/O_GMythosPolkadot.PNG" alt="A poster highlighting the migration of Mythical games&#x27; ecosystem to Polkadot network."><figcaption><p><a href="https://polkadot.network/blog/polkadot-and-mythical-games">Polkadot's infrastructure</a> is evolving to host gameverses from professional game tech companies. </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_GUnitySDK.JPG" alt="Unity SDK fast tracks game development in the Polkadot ecosystem."><figcaption><p>Polkadot's <a href="https://polkadotplay.org/">Unity SDK</a> supports beginner and professional game developers. </p></figcaption></figure>
 
