@@ -6,8 +6,6 @@ description: Governance platforms for the Polkadot ecosystem.
 
 ## Voting
 
-[Delegation dashboard](https://delegation.polkadot.network/)
-
 [OpenSquare](https://www.opensquare.network/)
 
 [Polkassembly](https://polkadot.polkassembly.io/opengov)
@@ -19,8 +17,6 @@ description: Governance platforms for the Polkadot ecosystem.
 
 
 ## Monitoring
-
-[Grill](https://grill.chat/polkassembly)
 
 Ryabina bots
 

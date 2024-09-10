@@ -1,5 +1,6 @@
 ---
 description: A list of contributors responsible for content creation at Dot.alert().
+hidden: true
 cover: ../.gitbook/assets/DotContributors04.png
 coverY: 0
 layout:

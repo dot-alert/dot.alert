@@ -1,5 +1,6 @@
 ---
 description: Participate in Dot.alert() monthly quizzes and enter our lucky draw.
+hidden: true
 cover: ../.gitbook/assets/DotQuiz04.png
 coverY: 0
 layout:

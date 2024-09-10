@@ -2,6 +2,7 @@
 description: >-
   Cast your vote in Dot.alert() fortnightly polls following the "Rules of the
   polls".
+hidden: true
 cover: ../.gitbook/assets/DotPoll04.png
 coverY: 0
 layout:

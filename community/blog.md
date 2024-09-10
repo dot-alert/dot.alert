@@ -20,6 +20,42 @@ layout:
 
 # Blog
 
+## Risks in the Web3 Job Market (Part 1) - When Hiring Goes Wrong
+
+_10th September 2024 | A report by Eliud K._
+
+
+
+The Web3 job market is primarily a remote-first environment, attracting talent from across the globe with the promise of decentralized workspaces and lucrative salaries.  But the job market itself is riddled with potential pitfalls for both job seekers and employers.&#x20;
+
+
+
+### Fake job opportunities&#x20;
+
+The Web3 job market attracts not only genuine job seekers, but also scammers. These bad actors usually post fake job listings with exaggerated salaries and benefits with the aim of enticing job seekers and eventually collecting their personal information. To avoid such cases, you should verify recruiters’ history and companies’ track record on public forums and social media platforms. If a job application requires you to submit a lot of identity documents upfront, and especially your Bitcoin or Ethereum [private keys](../content/2.storage/seed-secret-phrases.md), it's likely a scam.&#x20;
+
+### Fake job applicants&#x20;
+
+Recruiters in the Web3 job market also face the risk of fake job applicants, meaning they may end up hiring incompetent people. Usually, these applicants flood job postings with fake resumes and portfolios to secure a position. Later, they disappear after causing disruptions and denying a blockchain project the chance to hire qualified professionals. In some extreme cases, fake applicants can send resumes as downloadable zip files that contain spyware designed to collect sensitive information about important projects.
+
+<figure><img src="../.gitbook/assets/Blog014_Web3Recruitmentrisks (1).png" alt="Recruitment practices in the Web3 job market can be risky."><figcaption><p>Hiring and applying in the Web3 job market is tricky for both job seekers and employers.</p></figcaption></figure>
+
+### No contracts&#x20;
+
+One of the most significant risks in the Web3 job market is the lack of formal contracts. Most Web3 jobs, especially those in decentralized autonomous organizations (DAOs) or startup projects, operate without traditional employment contracts. This leaves both parties vulnerable to various risks: employers find it difficult to enforce accountability while employees risk not getting paid for the work done. Although the lack of formal contracts is primarily due to the dynamic nature of the Web3 job market, it's best to insist on having clear agreements in place.&#x20;
+
+### Complex industry&#x20;
+
+Web3 is an inherently complex industry with rapidly changing technologies and [regulations](../content/5.regulations/). For example, the Bitcoin ecosystem still grapples with regulatory challenges to this day, despite being the most established project in the decentralized space. Newer ecosystems such as Cosmos and Polkadot are constantly evolving, which can add confusion for those who contribute to their developments as a workforce. Job seekers may find themselves unprepared for the demands of their roles, while recruiters may struggle to find qualified candidates.
+
+
+
+While the perks of Web3 jobs are appealing to professionals looking to start a career in the industry, there are still some notable downsides. Navigating these risks requires a cautious approach to opportunities that may seem too good to be true.
+
+
+
+***
+
 ## Overview of the Web3 Job Market
 
 _13th August 2024 | A report by Eliud K._
@@ -30,7 +66,7 @@ Web 3 is the next generation of the internet that is built on top of blockchain 
 
 
 
-### Who Works in Web3?
+### Who works in Web3?
 
 Web3 attracts a diverse range of professionals, such as developers, designers, data analysts, content creators, marketers, and community managers. Currently, developers are in high demand because they are skilled in blockchain programming languages such as Solidity for the Ethereum ecosystem and Rust for the [Polkadot](../content/5.regulations/networks/) network. As the blockchain industry matures, traditional roles such as legal advisors and compliance experts will be in demand to help investors and entrepreneurs navigate the regulatory landscape.
 

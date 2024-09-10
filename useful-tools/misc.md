@@ -21,8 +21,6 @@ layout:
 
 [Polkadot network Support](https://support.polkadot.network/)
 
-[Web3 Foundation Press releases](https://web3.foundation/press/)
-
 
 
 ## Treasury-funded
@@ -38,6 +36,4 @@ layout:
 ## Community-made
 
 [Awesome Dot](https://github.com/Awesomedot/awesome-dot)
-
-[Polkadot Philosophy](https://polkadotphilosophy.medium.com/)
 
