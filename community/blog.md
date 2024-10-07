@@ -20,6 +20,41 @@ layout:
 
 # Blog
 
+## Risks in the Web3 Job Market (Part 2) - When Dream Jobs Turn Sour
+
+_8th October 2024 | A report by Eliud K._
+
+
+
+Web3 has fundamentally changed the way companies and individuals interact and work by introducing the concept of decentralisation at many levels. This transformation in workplace conditions is also bringing in some risks for the workforce on a global scale.
+
+
+
+### No HR department&#x20;
+
+A Human Resources (HR) department typically handles employee relations, conflict resolution, [compensation structures](../content/3.operations/community-building/crypto-payments.md), and workplace policies. However, many Web3 projects operate without a formal HR department, which can lead to issues around conflict resolution and staff grievances, because nobody is responsible for addressing these concerns. With no point of call for mediation or support, workers have to fend for themselves in case disputes arise.
+
+### No social security
+
+Conventional jobs typically come with benefits such as health cover, life insurance, and retirement plans. Meanwhile, the majority of Web3 roles don’t offer any form of social security, not even in ecosystems such as Bitcoin or Ethereum. This means that most of the Web3 workforce has no access to essential safety nets during periods of illness or unemployment. Without these financial buffers, individuals are put in a vulnerable position which can lead to unexpected financial difficulties. They need to set aside a portion of their earnings independently for their future. This requires a lot of discipline and a good understanding of investment plans.&#x20;
+
+<figure><img src="../.gitbook/assets/Blog015_Web3WorkingConditionsrisks.png" alt="Working conditions in the Web3 industry are decided by founders and project team leads."><figcaption><p>The Web3 industry is built on the concept of decentralisation where traditional workplace regulations are difficult to enforce.</p></figcaption></figure>
+
+### No workplace protection&#x20;
+
+Workplace protections such as labour laws, union representation, and safety regulations are often absent in the Web3 industry. But these legally binding arrangements are critical to ensure fair treatment, job security, and safe working environments. Without them, workers can face problems like arbitrary termination, non-payment, or overwork. For example, freelancers and contractors who make up a significant portion of the Web3 workforce often have no recourse if their contracts are unfairly terminated or if payments are delayed.
+
+### Limited career pathways
+
+While the Web3 industry can offer lucrative opportunities, career growth is not as straightforward as during periods of boom. People who are well-networked may find pathways to stability, often landing high-profile roles or advancing quickly. However, for many others, career progression is limited and job-hopping between projects may be necessary to gain professional recognition. Since many Web3 projects operate like startups, they need a lot of [funding](../content/3.operations/crowdfunding/) from their ecosystems before they can offer long-term positions to their team members or staff. With no room for advancement, employees may find themselves stuck in roles that do not allow them to showcase their skills or upskill.\
+
+
+It is crucial for interested candidates to weigh the risks and rewards of a career in Web3 before joining the workforce. The realities of this decentralised industry can be challenging to face, so taking proactive steps to safeguard your professional and financial well-being should remain your top priority.
+
+
+
+***
+
 ## Risks in the Web3 Job Market (Part 1) - When Hiring Goes Wrong
 
 _10th September 2024 | A report by Eliud K._
