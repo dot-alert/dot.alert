@@ -21,33 +21,3 @@ layout:
 
 # Our Team
 
-### Senior Promoter:
-
-_Abdulkadir I_
-
-
-
-### Promoters:
-
-_Muhaiminul  I_
-
-_Osagiie I_
-
-
-
-### Graphics designer:
-
-_Patricia A.P_
-
-
-
-### Blog writer:
-
-_Eliud K._
-
-
-
-### Advisor:
-
-_Anaelle LTD_
-

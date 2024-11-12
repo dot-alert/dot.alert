@@ -20,6 +20,50 @@ layout:
 
 # Blog
 
+## Risks in the Web3 Job Market (Part 3) - When Wages Go Missing
+
+_12th November 2024 | A report by Eliud K._
+
+
+
+As decentralized technologies gain traction, traditional employment structures regarding pay are being disrupted. If you’re entering this industry as a job seeker, it’s crucial to understand potential risks related to Web3 salary and payment methods.
+
+
+
+### No payroll
+
+Payroll systems ensure that employees and contractors are paid regularly and on time. They are also useful for handling taxes and deductions. By contrast, decentralized projects tend to lack formal payroll structures. Payments are often handled through community-managed treasuries, smart contracts, and multisig accounts.
+
+With blockchain technologies, international payments may be faster to complete, but these disbursements are rarely standardised by the issuers. This lack of predictability can cause delays and inconsistencies, especially because Web3 projects typically don’t have HR departments to [oversee these transactions](../content/1.acquisition/transaction-explorers.md). As a result, the risk of errors in payment processing increases, directly impacting workers' financial stability.
+
+### No benchmarks
+
+In Web3, standards for salaries and wages are far from established. Salaries can vary widely depending on the project’s size, funding, and location. For example, developers working within the _Cosmos_ ecosystem might receive different compensation than those working in _Avalanche_. There’s also a lack of transparency that can lead to favouritism and nepotism in some communities and DAOs. This undermines the principles of meritocracy and equal opportunities that decentralized projects want to champion.&#x20;
+
+Without clear salary expectations, workers often have to negotiate their pay check blindly. New contributors and participants from developing countries might accept much lower pay than what their counterparts would earn for the same role in traditional tech sectors. Over time, this makes it challenging to assess the fair market value of their contributions.
+
+<figure><img src="../.gitbook/assets/Blog016_Web3Salariesrisks (1).png" alt="Workers in the Web3 industry can face difficulties in the payments of their wages." width="563"><figcaption><p>Obtaining a fair compensation for their work is a challenge for Web3 community contributors and contractors. </p></figcaption></figure>
+
+### Irregular payments
+
+While traditional jobs offer fixed paydays and fiat amounts, Web3 projects pay their workforce in cryptocurrencies or tokens of volatile value. This presents significant challenges for workers, because their earnings can vary considerably even after payments are made. For instance, a payment that appears adequate in one moment may lose significant value within hours if [the exchange rate](../content/3.operations/swapping/pairs-availability.md) of a stablecoin crashes. This can dramatically impact workers' financial stability.
+
+Additionally, in ecosystems like _Polkadot_ and _Cardano_ that use decentralized on-chain treasuries, it can be hard to find support for top-up requests when funding falls short of expectations. Project teams could also be left in a vulnerable position if they rely exclusively on Web3 payments for their regular income. With no official authority to ensure that contributors and contractors receive their dues in various situations, long-term financial planning remains difficult for the Web3 workforce.
+
+### MLM schemes
+
+Multi-level marketing (MLM) involves a business model where individuals earn income not only through their sales, but also by recruiting new participants. However, this is very problematic because it blurs the lines between legitimate employment and unsustainable recruitment tactics.
+
+Such schemes are used by some projects in the Web3 industry to give the illusion of growth: they prioritise recruitment metrics over direct compensation for work done. As such, it’s crucial for workers to evaluate the small print of their salary packages to avoid being trapped in exploitative cycles where the goal posts keep moving and work remains unpaid.&#x20;
+
+
+
+While the Web3 job market offers unique opportunities, candidates need to actively engage in discussions about pay and transparency in the early stage of their job search. New recruits must constantly advocate for themselves to ensure that they receive fair and consistent compensation.
+
+
+
+***
+
 ## Risks in the Web3 Job Market (Part 2) - When Dream Jobs Turn Sour
 
 _8th October 2024 | A report by Eliud K._
@@ -38,7 +82,7 @@ A Human Resources (HR) department typically handles employee relations, conflict
 
 Conventional jobs typically come with benefits such as health cover, life insurance, and retirement plans. Meanwhile, the majority of Web3 roles don’t offer any form of social security, not even in ecosystems such as Bitcoin or Ethereum. This means that most of the Web3 workforce has no access to essential safety nets during periods of illness or unemployment. Without these financial buffers, individuals are put in a vulnerable position which can lead to unexpected financial difficulties. They need to set aside a portion of their earnings independently for their future. This requires a lot of discipline and a good understanding of investment plans.&#x20;
 
-<figure><img src="../.gitbook/assets/Blog015_Web3WorkingConditionsrisks.png" alt="Working conditions in the Web3 industry are decided by founders and project team leads."><figcaption><p>The Web3 industry is built on the concept of decentralisation where traditional workplace regulations are difficult to enforce.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Blog015_Web3WorkingConditionsrisks.png" alt="Working conditions in the Web3 industry are decided by founders and project team leads." width="563"><figcaption><p>The Web3 industry is built on the concept of decentralisation where traditional workplace regulations are difficult to enforce.</p></figcaption></figure>
 
 ### No workplace protection&#x20;
 
@@ -73,7 +117,7 @@ The Web3 job market attracts not only genuine job seekers, but also scammers. Th
 
 Recruiters in the Web3 job market also face the risk of fake job applicants, meaning they may end up hiring incompetent people. Usually, these applicants flood job postings with fake resumes and portfolios to secure a position. Later, they disappear after causing disruptions and denying a blockchain project the chance to hire qualified professionals. In some extreme cases, fake applicants can send resumes as downloadable zip files that contain spyware designed to collect sensitive information about important projects.
 
-<figure><img src="../.gitbook/assets/Blog014_Web3Recruitmentrisks (1).png" alt="Recruitment practices in the Web3 job market can be risky."><figcaption><p>Hiring and applying in the Web3 job market is tricky for both job seekers and employers.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Blog014_Web3Recruitmentrisks (1).png" alt="Recruitment practices in the Web3 job market can be risky." width="563"><figcaption><p>Hiring and applying in the Web3 job market is tricky for both job seekers and employers.</p></figcaption></figure>
 
 ### No contracts&#x20;
 
@@ -109,7 +153,7 @@ Web3 attracts a diverse range of professionals, such as developers, designers, d
 
 Most Web3 jobs are posted on dedicated Web3 job boards which include _CryptoJobsList_, _Web3.career_, and _Remote3_. Startups in the Web 3 space post open positions on their official websites, social media channels, and traditional platforms like _LinkedIn_ and _Indeed_. To get more Web3 job openings, you may also consider networking with fellow Web3 enthusiasts on _Reddit_, _Discord_, and _Telegram_.
 
-<figure><img src="../.gitbook/assets/Blog013_Web3Jobmarket (1).png" alt="The Web3 job market offers unique working conditions and compensation schemes to people around the globe. "><figcaption><p>The Web3 job market is built around diversity, flexibility, and opportunities.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Blog013_Web3Jobmarket (1).png" alt="The Web3 job market offers unique working conditions and compensation schemes to people around the globe. " width="563"><figcaption><p>The Web3 job market is built around diversity, flexibility, and opportunities.</p></figcaption></figure>
 
 ### What kind of working conditions are provided?
 
