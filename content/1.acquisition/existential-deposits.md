@@ -11,7 +11,7 @@ description: >-
 Existential Deposits (ED) are a specific number of coins needed to ensure that your account is kept "alive" on the network, whether it be a Relay chain (Polkadot, Kusama), a Parachain (Parallel Finance, Interlay) or a Common Good parachain (Asset Hub).&#x20;
 
 {% hint style="info" %}
-**An account is activated on a network once its balance is **_**above**_** the existential deposit.**&#x20;
+**An account is activated on a network once its balance is&#x20;**_**above**_**&#x20;the existential deposit.**&#x20;
 {% endhint %}
 
 Since each chain sets its own existential deposit, users rely on [wallets](../2.storage/) to keep track of existential deposits alongside their balances. Most wallets have in-built mechanisms to prevent accounts from falling below the existential deposit of their respective networks. Still, certain Polkadot wallets and dapps allow users to make custom decisions regarding existential deposits.

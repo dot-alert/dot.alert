@@ -6,7 +6,7 @@ description: Native & Multichain wallets for the Polkadot ecosystem.
 
 ## Browser extensions
 
-[Polkadot-JS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.ibp.network%2Fpolkadot#/accounts)
+Polkadot-JS
 
 Enkrypt
 

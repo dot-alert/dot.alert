@@ -8,9 +8,7 @@ description: Staking tools for the Polkadot ecosystem.
 
 [Bifrost](https://bifrost.app/dashboard)
 
-[Staking dashboard](https://staking.polkadot.network/#/overview)
-
-MyDotWallet
+[Staking dashboard](https://staking.polkadot.cloud/)
 
 Talisman portal&#x20;
 

@@ -11,7 +11,7 @@ description: >-
 Address formats are a method used to represent a single account across different [networks](../5.regulations/networks/). Relay chains have their own recognisable address format, but this is not always the case for Parachains.&#x20;
 
 {% hint style="info" %}
-**Polkadot accounts are purpose-built for interoperability: users only need to create **_**one**_** account to instantly interact with a variety of networks.**&#x20;
+**Polkadot accounts are purpose-built for interoperability: users only need to create&#x20;**_**one**_**&#x20;account to instantly interact with a variety of networks.**&#x20;
 {% endhint %}
 
 Fortunately, there is no need to open or connect your wallet every time you need to access address formats for your account. There are some online utilities that will convert any Polkadot account address into all available address formats across all networks, provided that the address that you enter is valid.

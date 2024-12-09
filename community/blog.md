@@ -20,6 +20,50 @@ layout:
 
 # Blog
 
+## Risks in the Web3 Job Market (Part 4) - When Taxes Bring Trouble
+
+_10th December 2024 | A report by Eliud K._
+
+
+
+The Web3 job market brings a wealth of opportunities for go-getters. But as more people earn income through blockchain platforms, navigating taxation becomes a challenge. Without proper guidance or tools, these complexities can lead to costly mistakes.
+
+
+
+### No Tax Summaries&#x20;
+
+Traditional companies have the obligation to send you tax summaries to report on the wages paid to you over a year. But this is generally not the case for [Web3 projects](../content/5.regulations/platforms/) and startups, as they don't provide anything similar. Whether you're earning in stablecoins or cryptocurrencies, it's often up to you to create receipts for your income by tracking on-chain transactions.&#x20;
+
+When it comes to taxes, choosing the right legal structure for your Web3 work is also very important. A sole trader or freelancer faces different tax liabilities compared to a registered company or a startup. In both cases, a major hurdle is that most accountants are not yet familiar with the Web3 industry, which means that workers likely have to create their own templates for handling tax reporting.
+
+### Low-Quality Tax Software
+
+Even though there are different crypto tax software available today, those are still in early stages of development and often fall short of sifting through the complexities of multichain transactions. Most tools are not equipped to accurately track and record [specific activities ](../content/3.operations/)like staking income, liquidity provision rewards, or airdrops.&#x20;
+
+If you're involved in ecosystems like _Ethereum_ or _Solana_ where DeFi platforms can allocate some of their native tokens to their recruits, you will probably need to use separate portfolio management tools to capture all of your balances. And this could very well mean spending extra thousands of dollars each year just to minimise the risk of getting in trouble with tax authorities.
+
+<figure><img src="../.gitbook/assets/Blog017_Web3Taxesrisks.png" alt="It can be difficult to get clarity on tax obligations when working in Web3." width="563"><figcaption><p>Navigating your tax obligations as a Web3 freelancer can turn into a costly task.</p></figcaption></figure>
+
+### Complex Crypto-Related Tax Laws
+
+[Tax laws surrounding cryptocurrencies are not only complicated](../content/5.regulations/investments/taxation.md), but they also vary widely depending on your country or state. In some jurisdictions that officially recognise cryptocurrencies, you can find helpful resources online every time there are big changes. In others, because cryptocurrencies are outright banned, your options for registering your business activities will be limited.&#x20;
+
+Working out your earnings might be straightforward when you are employed at a registered company in the _Polkadot_ ecosystem, but the absence of taxation guidelines makes it difficult to know when and how you should report your earnings. You will still have to be extra cautious during tax time, since the legal consequences of your on-chain transactions are never clearly spelt out.
+
+### Fines for Misreporting Transactions
+
+There is a significant risk in misreporting income from Web3 gigs such as [bounties](../content/3.operations/crowdfunding/treasury-spends.md) in your annual tax reports, which includes potential penalties. Misunderstanding your tax obligations can lead to hefty fines, even when the mistake is unintentional. Doing your taxes cannot be entirely automated from one year to the next, as you will miss on the chance to review and correct your previous reports.
+
+Therefore, it's crucial to run your own system for recording your inbound and outbound transactions to get a clear idea of your monthly or quarterly earnings. Never discard your records after filling your tax reports, as these need to be kept for a long time. Tax authorities and government organisations may request audits or issue lawsuits years after contentious transactions occurred, especially when they are empowered to do so by new laws.
+
+
+
+A Web3 career can seem like the holy grail for people who are self-driven, but managing taxes in the industry remains a headache. Improving your skills in bookkeeping as well as keeping up-to-date with tax regulations is necessary to maintain minimal compliance.
+
+
+
+***
+
 ## Risks in the Web3 Job Market (Part 3) - When Wages Go Missing
 
 _12th November 2024 | A report by Eliud K._
@@ -38,7 +82,7 @@ With blockchain technologies, international payments may be faster to complete, 
 
 ### No benchmarks
 
-In Web3, standards for salaries and wages are far from established. Salaries can vary widely depending on the project’s size, funding, and location. For example, developers working within the _Cosmos_ ecosystem might receive different compensation than those working in _Avalanche_. There’s also a lack of transparency that can lead to favouritism and nepotism in some communities and DAOs. This undermines the principles of meritocracy and equal opportunities that decentralized projects want to champion.&#x20;
+In Web3, standards for salaries and wages are far from established. Salaries can vary widely depending on the project’s size, funding, and location. For example, developers working within the _Cosmos_ ecosystem might receive different compensation than those working on _Avalanche_. There’s also a lack of transparency that can lead to favouritism and nepotism in some communities and DAOs. This undermines the principles of meritocracy and equal opportunities that decentralized projects want to champion.&#x20;
 
 Without clear salary expectations, workers often have to negotiate their pay check blindly. New contributors and participants from developing countries might accept much lower pay than what their counterparts would earn for the same role in traditional tech sectors. Over time, this makes it challenging to assess the fair market value of their contributions.
 
@@ -82,7 +126,7 @@ A Human Resources (HR) department typically handles employee relations, conflict
 
 Conventional jobs typically come with benefits such as health cover, life insurance, and retirement plans. Meanwhile, the majority of Web3 roles don’t offer any form of social security, not even in ecosystems such as Bitcoin or Ethereum. This means that most of the Web3 workforce has no access to essential safety nets during periods of illness or unemployment. Without these financial buffers, individuals are put in a vulnerable position which can lead to unexpected financial difficulties. They need to set aside a portion of their earnings independently for their future. This requires a lot of discipline and a good understanding of investment plans.&#x20;
 
-<figure><img src="../.gitbook/assets/Blog015_Web3WorkingConditionsrisks.png" alt="Working conditions in the Web3 industry are decided by founders and project team leads." width="563"><figcaption><p>The Web3 industry is built on the concept of decentralisation where traditional workplace regulations are difficult to enforce.</p></figcaption></figure>
+<div align="center"><figure><img src="../.gitbook/assets/Blog015_Web3WorkingConditionsrisks.png" alt="Working conditions in the Web3 industry are decided by founders and project team leads." width="563"><figcaption><p>The Web3 industry is built on the concept of decentralisation where traditional workplace regulations are difficult to enforce.</p></figcaption></figure></div>
 
 ### No workplace protection&#x20;
 
@@ -447,7 +491,7 @@ The future of blockchain technology as envisioned by Axelar Network is one where
 
 ***
 
-## [Driving innovation on BTC with Build on Bitcoin (BOB)](https://twitter.com/build\_on\_bob/status/1737722153489842264)
+## [Driving innovation on BTC with Build on Bitcoin (BOB)](https://twitter.com/build_on_bob/status/1737722153489842264)
 
 _25th December 2023 | A report by Amed K._
 
@@ -508,7 +552,7 @@ _27th November 2023 | A report by Amed K._
 
 Decentralized Autonomous Organisations (DAOs) are evolving to become the preferred model for Web3 governance because they facilitate consensus and level the playing field for individuals who want to get involved in the decision-making.
 
-Today we report on an enlightening conversation between major contributors to the ArbitrumDAO; namely Carl Cervone, Devansh Mehta, Mahesh Murthy, DisruptionJoe, Razvan-ZER8_;_ and also recap on the various tooling they propose for shaping the Arbitrum ecosystem.
+Today we report on an enlightening conversation between major contributors to the ArbitrumDAO; namely Carl Cervone, Devansh Mehta, Mahesh Murthy, DisruptionJoe, Razvan-ZER&#x38;_;_ and also recap on the various tooling they propose for shaping the Arbitrum ecosystem.
 
 
 
