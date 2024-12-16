@@ -20,5 +20,5 @@ description: Governance platforms for the Polkadot ecosystem.
 
 Ryabina bots
 
-[Web3alert](https://web3alert.io/)
+Web3alert
 

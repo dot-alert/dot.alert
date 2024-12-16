@@ -19,17 +19,13 @@ layout:
 
 [Asset Portfolio](https://substrate-portfolio.github.io/polkadot-portfolio/)
 
+[Polkatax](https://polkatax.com/staking-rewards)
+
+[StateScan](https://www.statescan.io/#/)
+
 [SubID](https://sub.id/)
 
-
-
-## Transaction explorers
-
-Calamar
-
-StateScan
-
-Subscan
+[Subscan Price converter](https://polkadot.subscan.io/tools/price_converter)
 
 
 

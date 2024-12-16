@@ -90,6 +90,7 @@
 ## Community
 
 * [Blog](community/blog.md)
+* [Careers](community/careers.md)
 * [Social Channels](community/social-channels.md)
 * [Fortnightly Polls](community/fortnightly-polls.md)
 * [Monthly Quizzes](community/monthly-quizzes.md)

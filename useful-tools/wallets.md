@@ -58,11 +58,11 @@ SafePal
 
 [Banana split](https://bs.parity.io/#/)
 
-Mimir
+[Mimir](https://mimir.global/)
 
 [Multix](https://multix.chainsafe.io/)
 
 [PolkaSafe](https://polkasafe.xyz/)
 
-Signet
+[Signet](https://talisman.xyz/signet)
 

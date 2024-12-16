@@ -10,7 +10,7 @@ description: Staking tools for the Polkadot ecosystem.
 
 [Staking dashboard](https://staking.polkadot.cloud/)
 
-Talisman portal&#x20;
+[Talisman portal](https://app.talisman.xyz/staking)&#x20;
 
 
 
