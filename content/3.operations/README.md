@@ -35,10 +35,7 @@ Being the custodian of your Polkadot assets gives you **access to various ecosys
 * [set up](community-building/crypto-communities.md) and [monetise](community-building/crypto-payments.md) communities
 * [purchase coretime](coretime-sales.md) for dapp deployment
 * capitalise on prediction markets
-* activate and maintain IoT subscriptions
-* generate and amplify metaverse-based brands
-* issue and trade tokenised assets and collectibles
-* build and maintain climate solutions via carbon credits&#x20;
+* activate and maintain IoT subscriptions&#x20;
 
 <figure><img src="../../.gitbook/assets/O_Dashboard.JPG" alt="A screenshot of the official Staking dashboard of the Polkadot and Kusama Relay chains."><figcaption><p><a href="https://staking.polkadot.network/dashboard#/overview">Polkadot Dashboard</a> for staking assets on network's validators.</p></figcaption></figure>
 

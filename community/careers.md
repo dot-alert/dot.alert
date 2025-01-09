@@ -20,6 +20,47 @@ layout:
 
 # Careers
 
+## Community Building:
+
+### Set up a meetup.
+
+_9th January 2025 | A thread by Pooja G._
+
+
+
+**Want to organize a Polkadot meetup?** Here's something exciting: you can get up to 1000 USD in $DOT to cover your costs with the [Meetups bounty](https://dotmeetup.notion.site/Meetups-bounty-cd57b5990ba443559413dec3b339ab4a)! Let's break down this bounty program.
+
+<figure><img src="../.gitbook/assets/Thread3.1.png" alt=""><figcaption></figcaption></figure>
+
+Important note: The bounty works as a post payment. You organize the meetup first, then apply for a reimbursement. The program is designed to support genuine community builders who are already active in the Polkadot ecosystem.&#x20;
+
+Before diving in, make sure you have contributions to show as a Polkadot community member. Not quite there yet? No worries! Get involved in the ecosystem first: [build your presence](../content/3.operations/community-building/crypto-communities.md) and consider which audience you will target for a meetup. Quality matters more than quantity.&#x20;
+
+
+
+Thinking of applying? The process is simple: organize your meetup, keep all invoices for venue hires, record all catering costs, and submit your proposal after the event. The community keeps track of all submissions and outcomes on a public dashboard.
+
+<figure><img src="../.gitbook/assets/Thread3.2.PNG" alt="" width="563"><figcaption></figcaption></figure>
+
+Need guidance? DOTmeetups participants are very active on social channels. Connect with experienced organizers, ask questions in preparation of your future proposals, and get valuable insights. Focus on building meaningful connections.&#x20;
+
+Documentation is key! Each proposal needs:
+
+* Event details
+* Costs breakdown
+* Photos and videos
+* Social media coverage
+
+Here's a pro tip: Before planning your meetup, thoroughly review all guidelines. Common reasons that see a proposal rejected include insufficient documentation and failure to meet basic requirements for community engagement. Make your effort count!&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqxQO9oYGDYhLWH8wMjpgL2UN5oWpW_e9h5kaf400zjWml9jxOZ6fmqJ9TcKN8Hu7xCJ9QdMbubClXyC2exPrcJoP5OXvvvTvJ-8oC2fXgk9uhQcHAuaABA3KYmoBVoq-3xZscGA?key=IWOpCYdK41mebVZCHv0ogIlp" alt="" width="563"><figcaption></figcaption></figure>
+
+Get started as a community organiser with [DOTmeetups.xyz](https://t.co/mSsKjrPV8p). Remember: building local communities is crucial for Web3 adoption, and your meetup could be the spark that ignites future innovations!&#x20;
+
+***
+
+***
+
 ## Blockchain Education:
 
 ### Get formal blockchain training.
@@ -53,8 +94,6 @@ The practical value is clear: beyond teaching blockchain, these programs provide
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_FpIfVD2SVE_63t0FLWdXwrOK75NOet2E5aAW-hd0g6UqrLvGwIFQOcT0R9eRe7AWPNkdoYCL8Ibk511RcmgdWmKNKCTWqWfwjQvL6GO5d8iJaHLvPlUJ4lN8-VtjToub21A3BQ?key=FzSjGSpIkkoTUS9hDpWgsRer" alt="" width="375"><figcaption></figcaption></figure>
 
 Your blockchain journey starts here. The tech world is changing and YOU can be at the forefront of Web3 innovation. Check out [https://polkadot.academy/](https://polkadot.academy/) to find out more.
-
-
 
 ***
 
