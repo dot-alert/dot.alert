@@ -20,6 +20,42 @@ layout:
 
 # Blog
 
+## Safety tips for the Web3 Job Market
+
+_14th January 2025 | A report by Eliud K._
+
+
+
+The crypto space has been grappling with scams since its inception as unregulated fintech. As such, it’s no surprise that fraudsters have found their way into the Web3 job market, all aiming to rob job seekers off their digital and financial assets. So, how do you protect yourself in these conditions?
+
+
+
+### Screen all job ads&#x20;
+
+Bogus jobs are often posted on Web3 job boards and social media, but they can also be sent directly to your email address. Search into job offers posted by newly-created or pseudonymous accounts on professional platforms. This will be helpful to protect your personal information and limit your exposure to mailing lists with fake job ads.
+
+### Safeguard your personal details&#x20;
+
+You should be wary of recruiters that ask you to download zip files to complete a task without a prior meeting. Law-abiding companies or startups typically conduct thorough interviews to funnel candidates remotely and do not require extensive details from you upfront. To get a better sense of what is acceptable or not for a job application, you can always [ask for feedback](../content/4.social-support/) on community forums or channels.
+
+<figure><img src="../.gitbook/assets/Blog018_Web3JobmarketSafety.png" alt="Some important safety tips for the Web3 job market include protecting yourself from social engineering scams." width="563"><figcaption><p>The Web3 job market can expose the most dutiful candidates to data breaches. </p></figcaption></figure>
+
+### Evaluate payment methods&#x20;
+
+Typically, as part of your Web3 role, you will be paid with large-cap cryptocurrencies or stablecoins. These are easier to swap or trade across CEXes and DEXes compared to niche tokens or assets. Some startups might offer compensation in their [native tokens](../content/5.regulations/investments/issuance.md), but this could cut your pay check down to zero if their project doesn’t materialise.
+
+### Research all recruiters
+
+A sure way to verify the legitimacy of a startup or team is to get in touch with former employees or past contractors and ask for background information. But since this is not always possible, you can adopt other strategies that involve verifying that any claim of partnerships, awards, and funding rounds made on official websites are valid in real life.&#x20;
+
+
+
+All in all, remaining safe in the [Web3 job market](blog.md#overview-of-the-web3-job-market) comes down to sourcing information on recruiters and staying grounded to avoid being talked into social engineering scams. Briefly checking a social media page is never enough, because a lot of projects use paid shills and bots to pitch themselves positively.
+
+
+
+***
+
 ## Risks in the Web3 Job Market (Part 4) - When Taxes Bring Trouble
 
 _10th December 2024 | A report by Eliud K._
@@ -30,13 +66,13 @@ The Web3 job market brings a wealth of opportunities for go-getters. But as more
 
 
 
-### No Tax Summaries&#x20;
+### No tax summaries&#x20;
 
 Traditional companies have the obligation to send you tax summaries to report on the wages paid to you over a year. But this is generally not the case for [Web3 projects](../content/5.regulations/platforms/) and startups, as they don't provide anything similar. Whether you're earning in stablecoins or cryptocurrencies, it's often up to you to create receipts for your income by tracking on-chain transactions.&#x20;
 
 When it comes to taxes, choosing the right legal structure for your Web3 work is also very important. A sole trader or freelancer faces different tax liabilities compared to a registered company or a startup. In both cases, a major hurdle is that most accountants are not yet familiar with the Web3 industry, which means that workers likely have to create their own templates for handling tax reporting.
 
-### Low-Quality Tax Software
+### Low-quality tax software
 
 Even though there are different crypto tax software available today, those are still in early stages of development and often fall short of sifting through the complexities of multichain transactions. Most tools are not equipped to accurately track and record [specific activities ](../content/3.operations/)like staking income, liquidity provision rewards, or airdrops.&#x20;
 
@@ -44,13 +80,13 @@ If you're involved in ecosystems like _Ethereum_ or _Solana_ where DeFi platform
 
 <figure><img src="../.gitbook/assets/Blog017_Web3Taxesrisks.png" alt="It can be difficult to get clarity on tax obligations when working in Web3." width="563"><figcaption><p>Navigating your tax obligations as a Web3 freelancer can turn into a costly task.</p></figcaption></figure>
 
-### Complex Crypto-Related Tax Laws
+### Complex crypto-related tax laws
 
 [Tax laws surrounding cryptocurrencies are not only complicated](../content/5.regulations/investments/taxation.md), but they also vary widely depending on your country or state. In some jurisdictions that officially recognise cryptocurrencies, you can find helpful resources online every time there are big changes. In others, because cryptocurrencies are outright banned, your options for registering your business activities will be limited.&#x20;
 
 Working out your earnings might be straightforward when you are employed at a registered company in the _Polkadot_ ecosystem, but the absence of taxation guidelines makes it difficult to know when and how you should report your earnings. You will still have to be extra cautious during tax time, since the legal consequences of your on-chain transactions are never clearly spelt out.
 
-### Fines for Misreporting Transactions
+### Fines for misreporting transactions
 
 There is a significant risk in misreporting income from Web3 gigs such as [bounties](../content/3.operations/crowdfunding/treasury-spends.md) in your annual tax reports, which includes potential penalties. Misunderstanding your tax obligations can lead to hefty fines, even when the mistake is unintentional. Doing your taxes cannot be entirely automated from one year to the next, as you will miss on the chance to review and correct your previous reports.
 
