@@ -22,6 +22,45 @@ layout:
 
 ## Community Building:
 
+### Organise events and conferences
+
+_23rd January 2025 | A thread by Pooja G._
+
+
+
+**Building the Future of Web3 Events!** Discover how the Events Bounty is uplifting community gatherings through dedicated event funding.&#x20;
+
+<figure><img src="../.gitbook/assets/Thread4.1.PNG" alt=""><figcaption></figcaption></figure>
+
+The curators of the Events bounty understand that meaningful connections happen face-to-face. That's why they're actively supporting event organizers who are keen to bring the community together.
+
+What makes this initiative special? More than money, it’s helping community leaders grow. Each event plays an important role in making local and global Polkadot communities stronger.&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcLxgRgOLZ_b1bXzwRq_UerGoNyL-wcc1XXbrHE1koPkjKWAzPAsmCbGqWteEl5Ha4C-0ffh6QuWII-RIhfSA3S3k-i04hDZQngEyGBlkkuzSl2v3epo-kjWU2hZCuRkse-8EgGxw?key=CKIYZOz0mT-0q45y3TAONP8p" alt="" width="563"><figcaption></figcaption></figure>
+
+Wondering what kind of events qualify?  This initiative supports various formats:
+
+* Local community meetups
+* Technical workshops
+* Regional conferences
+* Educational seminars
+
+
+
+The Events bounty provides clear guidelines. From submitting an EOI to tracking your final proposal, event organizers are mentored at every step. Curators have been selected to provide valuable insights throughout and empower community managers to deliver impactful events.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXejsoqSdjGpytKsmVdHpeaDGE8gsHc29_aJJ3YVlHNXmqA7X_XgiwrGAM7dp5yuBl1O1P5E2dbdtXJ5YIpQZh6ehZ3u2HbDtJnDGznN3QvKnGoznLd-GJziJxQ83Me5TkB5NripyA?key=CKIYZOz0mT-0q45y3TAONP8p" alt="" width="563"><figcaption></figcaption></figure>
+
+Why is the Events bounty’s approach remarkable? It goes beyond funding by offering applicants a comprehensive set of resources to ensure the success of their proposals. This includes detailed guides for your planning and direct interactions with experienced community members.&#x20;
+
+Remember: regardless of size, any event contributes to the growth of the Polkadot ecosystem. Whether you're setting up your first workshop or your tenth conference, your gathering matters for a more connected community.&#x20;
+
+<figure><img src="../.gitbook/assets/Thread4.4.PNG" alt="" width="563"><figcaption></figcaption></figure>
+
+Ready to strengthen the Polkadot ecosystem through events? Start your journey today with [dotevents.xyz/](https://dotevents.xyz/) to shape the future of decentralized communities!
+
+***
+
 ### Set up a meetup.
 
 _9th January 2025 | A thread by Pooja G._
