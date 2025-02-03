@@ -51,7 +51,7 @@ The Events bounty provides clear guidelines. From submitting an EOI to tracking 
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXejsoqSdjGpytKsmVdHpeaDGE8gsHc29_aJJ3YVlHNXmqA7X_XgiwrGAM7dp5yuBl1O1P5E2dbdtXJ5YIpQZh6ehZ3u2HbDtJnDGznN3QvKnGoznLd-GJziJxQ83Me5TkB5NripyA?key=CKIYZOz0mT-0q45y3TAONP8p" alt="" width="563"><figcaption></figcaption></figure>
 
-Why is the Events bounty’s approach remarkable? It goes beyond funding by offering applicants a comprehensive set of resources to ensure the success of their proposals. This includes detailed guides for your planning and direct interactions with experienced community members.&#x20;
+Why is the Events bounty’s approach remarkable? It goes beyond [funding](../content/3.operations/community-building/crypto-payments.md) by offering applicants a comprehensive set of resources to ensure the success of their proposals. This includes detailed guides for your planning and direct interactions with experienced community members.&#x20;
 
 Remember: regardless of size, any event contributes to the growth of the Polkadot ecosystem. Whether you're setting up your first workshop or your tenth conference, your gathering matters for a more connected community.&#x20;
 

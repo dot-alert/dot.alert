@@ -8,6 +8,8 @@ description: >-
 
 _<mark style="background-color:red;">Disclaimer: This article is written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. This article should not be used as a substitute for competent legal or financial advice from a licensed professional in your country.</mark>_
 
+**Note: Parachain slot auctions have been replaced by** [**Coretime sales**](../coretime-sales.md)**.**
+
 
 
 ## What is a Parachain Slot Lease?
