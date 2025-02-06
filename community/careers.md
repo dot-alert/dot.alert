@@ -22,7 +22,48 @@ layout:
 
 ## Community Building:
 
-### Organise events and conferences
+### Launch marketing campaigns.
+
+_6th February 2025 | A thread by Pooja G._
+
+
+
+**Exploring the Polkadot Marketing Bounty Program!** A unique opportunity for creators and strategists to shape the future of Web3 marketing. Discover how you can contribute to this exciting initiative.&#x20;
+
+<figure><img src="../.gitbook/assets/Thread5.1 (1).png" alt=""><figcaption></figcaption></figure>
+
+The Marketing Bounty program is Polkadot's way of capturing fresh outreach perspectives. Whether you're experienced in content creation, influencer partnerships, or #community building, your ideas can be funneled into growing the ecosystem.
+
+The submission process has been designed with simplicity in mind.&#x20;
+
+Start by downloading the proposal template, outline your vision, and submit it through the official Marketing Bounty Proposal Form. Curators will review, share their feedback, or get you on board straightaway.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVutBD_WRMWl9o_6YJwSfLtmWukmTKgjR8nejFAZeidvPLx7TLYe2aNhk-PkEs87jVwdYFmmFU6mLLzFHmpRLMP7DL5c9MenKd25eeV76LvEUZOLds35pINidkEW0Po-UPZfWZ?key=Iex3RDpTxtXhHgXOOjuwQlre" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+When it comes to marketing strategies, the [Polkadot DAO](../content/3.operations/voting/) welcomes original ideas for storytelling, community engagement, and brand building. Think about how you can create value while staying true to Web3 principles of decentralization and user empowerment.
+
+Key focus areas include:
+
+* KOL and influencer collaborations
+* Strategic media partnerships
+* Creative content production
+* Community-driven campaigns
+
+
+
+Transparency is fundamental to the program. Every proposal, budget allocation, and outcome is publicly tracked. Monthly reports provide insights into successful strategies and areas for improvement. Check the Marketing bounty website to understand what works.
+
+<figure><img src="../.gitbook/assets/Thread5.3.png" alt="" width="563"><figcaption></figcaption></figure>
+
+The Marketing bounty emphasizes quality over quantity. Your proposal should demonstrate a deep understanding of the Web3 landscape and Polkadot's unique position in the industry. Consider how your #marketing strategy can enhance both brand awareness and community engagement.
+
+Take a look at [marketingbounty.notion.site](https://marketingbounty.notion.site/) to kickstart your proposal. Remember: great marketing in Web3 is about highlighting the value of community-driven products.
+
+***
+
+### Organise events and conferences.
 
 _23rd January 2025 | A thread by Pooja G._
 
