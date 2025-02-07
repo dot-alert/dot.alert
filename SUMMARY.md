@@ -89,6 +89,9 @@
 
 ## Community
 
+* [Series](community/series/README.md)
+  * [On the DOT - First edition](community/series/on-the-dot-first-edition.md)
+  * [On the DOT - Special edition](community/series/on-the-dot-special-edition.md)
 * [Blog](community/blog.md)
 * [Careers](community/careers.md)
 * [Social Channels](community/social-channels.md)
