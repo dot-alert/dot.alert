@@ -28,7 +28,7 @@ _6th February 2025 | A thread by Pooja G._
 
 
 
-**Exploring the Polkadot Marketing Bounty Program!** A unique opportunity for creators and strategists to shape the future of Web3 marketing. Discover how you can contribute to this exciting initiative.&#x20;
+**Exploring the Polkadot** [**Marketing Bounty**](https://marketingbounty.notion.site/) **Program!** A unique opportunity for creators and strategists to shape the future of Web3 marketing. Discover how you can contribute to this exciting initiative.&#x20;
 
 <figure><img src="../.gitbook/assets/Thread5.1 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -59,7 +59,7 @@ Transparency is fundamental to the program. Every proposal, budget allocation, a
 
 The Marketing bounty emphasizes quality over quantity. Your proposal should demonstrate a deep understanding of the Web3 landscape and Polkadot's unique position in the industry. Consider how your #marketing strategy can enhance both brand awareness and community engagement.
 
-Take a look at [marketingbounty.notion.site](https://marketingbounty.notion.site/) to kickstart your proposal. Remember: great marketing in Web3 is about highlighting the value of community-driven products.
+Take a look at marketingbounty.notion.site to kickstart your proposal. Remember: great marketing in Web3 is about highlighting the value of community-driven products.
 
 ***
 
@@ -69,7 +69,7 @@ _23rd January 2025 | A thread by Pooja G._
 
 
 
-**Building the Future of Web3 Events!** Discover how the Events Bounty is uplifting community gatherings through dedicated event funding.&#x20;
+**Building the Future of Web3 Events!** Discover how the [Events Bounty](https://dotevents.xyz/) is uplifting community gatherings through dedicated event funding.&#x20;
 
 <figure><img src="../.gitbook/assets/Thread4.1.PNG" alt=""><figcaption></figcaption></figure>
 
@@ -98,7 +98,7 @@ Remember: regardless of size, any event contributes to the growth of the Polkado
 
 <figure><img src="../.gitbook/assets/Thread4.4.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
-Ready to strengthen the Polkadot ecosystem through events? Start your journey today with [dotevents.xyz/](https://dotevents.xyz/) to shape the future of decentralized communities!
+Ready to strengthen the Polkadot ecosystem through events? Start your journey today with dotevents.xyz/ to shape the future of decentralized communities!
 
 ***
 
