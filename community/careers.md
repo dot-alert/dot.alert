@@ -59,7 +59,7 @@ Transparency is fundamental to the program. Every proposal, budget allocation, a
 
 The Marketing bounty emphasizes quality over quantity. Your proposal should demonstrate a deep understanding of the Web3 landscape and Polkadot's unique position in the industry. Consider how your #marketing strategy can enhance both brand awareness and community engagement.
 
-Take a look at marketingbounty.notion.site to kickstart your proposal. Remember: great marketing in Web3 is about highlighting the value of community-driven products.
+Take a look at [marketingbounty.notion.site](https://marketingbounty.notion.site/) to kickstart your proposal. Remember: great marketing in Web3 is about highlighting the value of community-driven products.
 
 ***
 
@@ -98,7 +98,7 @@ Remember: regardless of size, any event contributes to the growth of the Polkado
 
 <figure><img src="../.gitbook/assets/Thread4.4.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
-Ready to strengthen the Polkadot ecosystem through events? Start your journey today with dotevents.xyz/ to shape the future of decentralized communities!
+Ready to strengthen the Polkadot ecosystem through events? Start your journey today with [dotevents.xyz/](https://dotevents.xyz/) to shape the future of decentralized communities!
 
 ***
 
