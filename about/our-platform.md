@@ -1,7 +1,5 @@
 ---
-description: >-
-  Dot.alert() is a database of insights and resources for the Polkadot
-  ecosystem.
+description: Dot.alert() is a database of insights and resources for Web3.
 cover: ../.gitbook/assets/DotPlatform04.png
 coverY: 0
 layout:
@@ -26,13 +24,13 @@ layout:
 
 Browse through to:
 
-* learn about core Polkadot technologies
-* discover popular ecosystem tools
+* learn about core Web3 technologies
+* discover popular tools
 * review advanced safety setups
-* explore ongoing regulatory developments
+* explore regulatory developments
 
 
 
 _<mark style="background-color:red;">Disclaimer: All articles presented on our platform are written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. They should not be used as a substitute for competent operational, financial, and legal advice from a licensed professional.</mark>_&#x20;
 
-Graphic designs by [Studio Quack](https://www.behance.net/bypato)
+Graphic designs by [Studio Quack](https://www.behance.net/bypato).

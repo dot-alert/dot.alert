@@ -1,7 +1,7 @@
 ---
 description: >-
-  Dot.alert() is a knowledgebase that provides practical guidelines for managing
-  assets safely across the Polkadot ecosystem.
+  Dot.alert() is a knowledgebase that provides practical guidelines for
+  navigating Web3.
 cover: .gitbook/assets/Dotalertbanner03Website (1).png
 coverY: 0
 layout:
@@ -22,9 +22,4 @@ layout:
 
 # Welcome!
 
-{% hint style="info" %}
-Check our [**Working in Web3**](community/blog.md) blog series!
-{% endhint %}
-
-<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>        <strong>Purchasing assets</strong>  </td><td><a href="content/1.acquisition/">1.acquisition</a></td><td><a href=".gitbook/assets/Dot.alert-cover1 (2).png">Dot.alert-cover1 (2).png</a></td></tr><tr><td>            <strong>Storing assets</strong> </td><td><a href="content/2.storage/">2.storage</a></td><td><a href=".gitbook/assets/Dot.alert-cover2 (1).png">Dot.alert-cover2 (1).png</a></td></tr><tr><td>     <strong>Transacting with assets</strong>           </td><td><a href="content/3.operations/">3.operations</a></td><td><a href=".gitbook/assets/Dot.alert-cover3 (1).png">Dot.alert-cover3 (1).png</a></td></tr><tr><td>          <strong>Finding support</strong></td><td><a href="content/4.social-support/">4.social-support</a></td><td><a href=".gitbook/assets/Dot.alert-cover4 (1).png">Dot.alert-cover4 (1).png</a></td></tr><tr><td>     <strong>Exploring regulations</strong></td><td><a href="content/5.regulations/">5.regulations</a></td><td><a href=".gitbook/assets/Dot.alert-cover5 (1).png">Dot.alert-cover5 (1).png</a></td></tr><tr><td>          <strong>Discovering tools</strong></td><td><a href="useful-tools/wallets.md">wallets.md</a></td><td><a href=".gitbook/assets/Dot.alert-cover6 (9).png">Dot.alert-cover6 (9).png</a></td></tr></tbody></table>
-
+<table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>                                     <strong>Assets</strong> </td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Operationscover (1).png">Operationscover (1).png</a></td></tr><tr><td>                                   <strong>Careers</strong></td><td><a href="community/careers.md">careers.md</a></td><td><a href=".gitbook/assets/Careerscover.png">Careerscover.png</a></td></tr><tr><td>                                    <strong>Ebooks</strong> </td><td><a href="community/series/">series</a></td><td><a href=".gitbook/assets/Ebookscover (3).png">Ebookscover (3).png</a></td></tr><tr><td>                                       <strong>Blog</strong></td><td><a href="community/blog.md">blog.md</a></td><td><a href=".gitbook/assets/Blogcover (1).png">Blogcover (1).png</a></td></tr></tbody></table>

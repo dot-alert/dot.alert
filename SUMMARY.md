@@ -89,11 +89,11 @@
 
 ## Community
 
-* [Ebooks](community/ebooks/README.md)
+* [Careers](community/careers.md)
+* [Ebooks](community/series/README.md)
   * [On the DOT - First edition](community/ebooks/on-the-dot-first-edition.md)
   * [On the DOT - Special edition](community/ebooks/on-the-dot-special-edition.md)
 * [Blog](community/blog.md)
-* [Careers](community/careers.md)
 * [Social Channels](community/social-channels.md)
 * [Fortnightly Polls](community/fortnightly-polls.md)
 * [Monthly Quizzes](community/monthly-quizzes.md)
