@@ -13,7 +13,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
@@ -33,7 +33,7 @@ These include :
 * Swapping on a Centralised platform
 * Buying/swapping on a Centralised exchange
 
-![You can send/receive DOT and KSM gifts in one click.](../../.gitbook/assets/A\_Gift.JPG)
+![You can send/receive DOT and KSM gifts in one click.](../../.gitbook/assets/A_Gift.JPG)
 
 You will need a Polkadot account to receive your coins/tokens, along with some understanding of the following concepts:
 
