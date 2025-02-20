@@ -22,6 +22,46 @@ layout:
 
 ## Community Building:
 
+### Generate business leads.
+
+_20th February 2025 | A thread by Pooja G._
+
+
+
+**Did you know?** **The** [**Marketing Bounty**](https://marketingbounty.notion.site/) **is fueling business development and tech sales in the Polkadot ecosystem.** Let's explore how you can contribute to scaling the network through advertising and partnerships.
+
+<figure><img src="../.gitbook/assets/Thread6.1.PNG" alt=""><figcaption></figcaption></figure>
+
+The Business Development track is focused on sustainable adoption through:
+
+* Strategic digital advertising campaigns
+* Physical advertising openings
+* Platform & app integrations
+* Cross-ecosystem partnerships
+* Innovative business solutions&#x20;
+
+
+
+Breaking News: A major opportunity is now open! The curators are actively seeking a Quality Assurance Assistant to support both the main network and ecosystem projects. This is a chance to relay the narrative of one of Web3's most innovative [platforms](../content/5.regulations/platforms/)!&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcSUOOxNZ5Pxi283FlfrlXvkP_VZ1aTiR8ns9Nbyw9xLeLxGz7bkJIAdB66mo0orBvyLhN4aK8H93pzj0NpP4yGhlumDLHl_C4bmyY_BXl1MdqoVfUFt6DFtU-d-xoIwP0NfVplQ?key=YqPHuaHtGxBLg2mQap92L4xf" alt="" width="563"><figcaption></figcaption></figure>
+
+What makes a business development proposal stand out? Scalable advertising solutions, coherent frameworks for partnerships, and measurable growth metrics. These key elements can transform your plan into a winning strategy!
+
+Speaking of quality, recent success stories include innovative DeFi integrations and strategic collaborations with traditional tech companies. These projects thrived by bridging the gap between Web3 ecosystems and mainstream business.
+
+
+
+Need inspiration? The monthly reports provide valuable insights such as current ecosystem priorities, examples of successful initiatives, growth opportunities, and patterns in resource allocation. Use this data to strengthen your proposal!
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfhYQrJgS92ISGJUu3RmtLcJ2bR-HjykiZ6qJEyLG4YaWBBsqys0cgCSh6ESgccr6ZsE1DZW40Jk5x5O3EWy1haWGBUM1dyUJW6_pskDw-9U8xFB7X09w_qEa3EAZQfXrXOmoKPsg?key=YqPHuaHtGxBLg2mQap92L4xf" alt="" width="563"><figcaption></figcaption></figure>
+
+When preparing your submission, focus on scalable and sustainable solutions. Include quantifiable deliverables and provide realistic timelines for their implementation. Showcase your long-term value proposition with clarity.
+
+Are you ready to take on your next challenge in Web3 business development? Your creativity has the potential to chart the course for the adoption of Polkadot technologies! Check out [marketingbounty.notion.site](https://marketingbounty.notion.site/).&#x20;
+
+***
+
 ### Launch marketing campaigns.
 
 _6th February 2025 | A thread by Pooja G._
@@ -135,7 +175,7 @@ Here's a pro tip: Before planning your meetup, thoroughly review all guidelines.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqxQO9oYGDYhLWH8wMjpgL2UN5oWpW_e9h5kaf400zjWml9jxOZ6fmqJ9TcKN8Hu7xCJ9QdMbubClXyC2exPrcJoP5OXvvvTvJ-8oC2fXgk9uhQcHAuaABA3KYmoBVoq-3xZscGA?key=IWOpCYdK41mebVZCHv0ogIlp" alt="" width="563"><figcaption></figcaption></figure>
 
-Get started as a community organiser with [DOTmeetups.xyz](https://t.co/mSsKjrPV8p). Remember: building local communities is crucial for Web3 adoption, and your meetup could be the spark that ignites future innovations!&#x20;
+Get started as a community organiser with DOTmeetups.xyz. Remember: building local communities is crucial for Web3 adoption, and your meetup could be the spark that ignites future innovations!&#x20;
 
 ***
 
