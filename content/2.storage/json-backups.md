@@ -24,8 +24,6 @@ As soon as an account is created through a wallet, a JSON backup file can be dow
 
 Generally-speaking, a JSON backup file is not very usable outside a wallet. If you open a JSON backup file into a text editor, you will see some legible data such as the name given to the account, the _generic address_ of the account (starting with "5"), the type of account or derivation used to generate the account, and at which block the account was created. There will also be some encoded data that remains illegible without a software and the password associated with the JSON backup.&#x20;
 
-<figure><img src="../../.gitbook/assets/S_JBPJS.JPG" alt="An interface showing one of the steps for exporting accounts from Polkadot-JS Extension to another wallet."><figcaption><p>Exporting an account from <a href="https://polkadot.js.org/extension/">Polkadot-JS Extension</a> for use on another wallet and/or device. </p></figcaption></figure>
-
 
 
 ## Why are JSON Backups Important?

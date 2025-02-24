@@ -24,8 +24,6 @@ Once a Polkadot account has been activated on-chain with an [existential deposit
 
 You can get very specific information about any account through transaction explorers, such as what date and time the account was activated, how many coins are available or locked on the account, on which parachain the account has sent assets, with which addresses, platforms, and web3 blockchain services the account has interacted, etc.&#x20;
 
-<figure><img src="../../.gitbook/assets/A_TEPortfolio.png" alt="A screenshot of all assets held in an account on the Asset Portfolio dapp interface."><figcaption><p>Customisable view of assets on <a href="https://substrate-portfolio.github.io/polkadot-portfolio/">Polkadot Portfolio</a> with no account sign-in needed.</p></figcaption></figure>
-
 
 
 ### Why are Transaction Explorers Important?

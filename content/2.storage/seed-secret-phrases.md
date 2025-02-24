@@ -26,7 +26,7 @@ Some wallets only give you one chance to note down your seed/secret phrase at th
 
 Features like email addresses and phone numbers that are offered by Centralised exchanges can never be used as substitute for a seed/secret phrase, because they are separate from the cryptographic keys of an account. For this reason, we say that wallets which provide a seed/secret phrase are "non-custodial", whereas wallets that do not generate a seed/secret phrase are "custodial" (i.e _"Not your keys, not your coins"_).
 
-<figure><img src="../../.gitbook/assets/S_SPPJSApps.JPG" alt="Polkadot-JS Apps showing some cryptography types and their corresponding seed/secret phrase."><figcaption><p>An overview of some cryptography types and their corresponding seed/secret phrase on <a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.polkadot.io#/accounts"><em>Polkadot-JS Apps</em></a>.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_SPPJSApps.JPG" alt="Polkadot-JS Apps showing some cryptography types and their corresponding seed/secret phrase."><figcaption><p>An overview of some cryptography types and their corresponding seed/secret phrase on <a href="https://anaelleltd.github.io/polkadotjs-guide/"><em>Polkadot-JS Apps</em></a>.</p></figcaption></figure>
 
 
 
