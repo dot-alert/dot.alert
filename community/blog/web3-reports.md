@@ -1,13 +1,8 @@
 ---
-description: Explore the latest developments in Web3 through Dot.alert() reports.
-cover: ../.gitbook/assets/DotBlog04 (1).png
-coverY: 0
+description: Catch up on emerging blockchain developments.
 layout:
-  cover:
-    visible: true
-    size: full
   title:
-    visible: false
+    visible: true
   description:
     visible: true
   tableOfContents:
@@ -18,238 +13,7 @@ layout:
     visible: false
 ---
 
-# Blog
-
-## Safety tips for the Web3 Job Market
-
-_14th January 2025 | A report by Eliud K._
-
-
-
-The crypto space has been grappling with scams since its inception as unregulated fintech. As such, it’s no surprise that fraudsters have found their way into the Web3 job market, all aiming to rob job seekers off their digital and financial assets. So, how do you protect yourself in these conditions?
-
-
-
-### Screen all job ads&#x20;
-
-Bogus jobs are often posted on Web3 job boards and social media, but they can also be sent directly to your email address. Search into job offers posted by newly-created or pseudonymous accounts on professional platforms. This will be helpful to protect your personal information and limit your exposure to mailing lists with fake job ads.
-
-### Safeguard your personal details&#x20;
-
-You should be wary of recruiters that ask you to download zip files to complete a task without a prior meeting. Law-abiding companies or startups typically conduct thorough interviews to funnel candidates remotely and do not require extensive details from you upfront. To get a better sense of what is acceptable or not for a job application, you can always [ask for feedback](../content/4.social-support/) on community forums or channels.
-
-<figure><img src="../.gitbook/assets/Blog018_Web3JobmarketSafety.png" alt="Some important safety tips for the Web3 job market include protecting yourself from social engineering scams." width="563"><figcaption><p>The Web3 job market can expose the most dutiful candidates to data breaches. </p></figcaption></figure>
-
-### Evaluate payment methods&#x20;
-
-Typically, as part of your Web3 role, you will be paid with large-cap cryptocurrencies or stablecoins. These are easier to swap or trade across CEXes and DEXes compared to niche tokens or assets. Some startups might offer compensation in their [native tokens](../content/5.regulations/investments/issuance.md), but this could cut your pay check down to zero if their project doesn’t materialise.
-
-### Research all recruiters
-
-A sure way to verify the legitimacy of a startup or team is to get in touch with former employees or past contractors and ask for background information. But since this is not always possible, you can adopt other strategies that involve verifying that any claim of partnerships, awards, and funding rounds made on official websites are valid in real life.&#x20;
-
-
-
-All in all, remaining safe in the [Web3 job market](blog.md#overview-of-the-web3-job-market) comes down to sourcing information on recruiters and staying grounded to avoid being talked into social engineering scams. Briefly checking a social media page is never enough, because a lot of projects use paid shills and bots to pitch themselves positively.
-
-
-
-***
-
-## Risks in the Web3 Job Market (Part 4) - When Taxes Bring Trouble
-
-_10th December 2024 | A report by Eliud K._
-
-
-
-The Web3 job market brings a wealth of opportunities for go-getters. But as more people earn income through blockchain platforms, navigating taxation becomes a challenge. Without proper guidance or tools, these complexities can lead to costly mistakes.
-
-
-
-### No tax summaries&#x20;
-
-Traditional companies have the obligation to send you tax summaries to report on the wages paid to you over a year. But this is generally not the case for [Web3 projects](../content/5.regulations/platforms/) and startups, as they don't provide anything similar. Whether you're earning in stablecoins or cryptocurrencies, it's often up to you to create receipts for your income by tracking on-chain transactions.&#x20;
-
-When it comes to taxes, choosing the right legal structure for your Web3 work is also very important. A sole trader or freelancer faces different tax liabilities compared to a registered company or a startup. In both cases, a major hurdle is that most accountants are not yet familiar with the Web3 industry, which means that workers likely have to create their own templates for handling tax reporting.
-
-### Low-quality tax software
-
-Even though there are different crypto tax software available today, those are still in early stages of development and often fall short of sifting through the complexities of multichain transactions. Most tools are not equipped to accurately track and record [specific activities ](../content/3.operations/)like staking income, liquidity provision rewards, or airdrops.&#x20;
-
-If you're involved in ecosystems like _Ethereum_ or _Solana_ where DeFi platforms can allocate some of their native tokens to their recruits, you will probably need to use separate portfolio management tools to capture all of your balances. And this could very well mean spending extra thousands of dollars each year just to minimise the risk of getting in trouble with tax authorities.
-
-<figure><img src="../.gitbook/assets/Blog017_Web3Taxesrisks.png" alt="It can be difficult to get clarity on tax obligations when working in Web3." width="563"><figcaption><p>Navigating your tax obligations as a Web3 freelancer can turn into a costly task.</p></figcaption></figure>
-
-### Complex crypto-related tax laws
-
-[Tax laws surrounding cryptocurrencies are not only complicated](../content/5.regulations/investments/taxation.md), but they also vary widely depending on your country or state. In some jurisdictions that officially recognise cryptocurrencies, you can find helpful resources online every time there are big changes. In others, because cryptocurrencies are outright banned, your options for registering your business activities will be limited.&#x20;
-
-Working out your earnings might be straightforward when you are employed at a registered company in the _Polkadot_ ecosystem, but the absence of taxation guidelines makes it difficult to know when and how you should report your earnings. You will still have to be extra cautious during tax time, since the legal consequences of your on-chain transactions are never clearly spelt out.
-
-### Fines for misreporting transactions
-
-There is a significant risk in misreporting income from Web3 gigs such as [bounties](../content/3.operations/crowdfunding/treasury-spends.md) in your annual tax reports, which includes potential penalties. Misunderstanding your tax obligations can lead to hefty fines, even when the mistake is unintentional. Doing your taxes cannot be entirely automated from one year to the next, as you will miss on the chance to review and correct your previous reports.
-
-Therefore, it's crucial to run your own system for recording your inbound and outbound transactions to get a clear idea of your monthly or quarterly earnings. Never discard your records after filling your tax reports, as these need to be kept for a long time. Tax authorities and government organisations may request audits or issue lawsuits years after contentious transactions occurred, especially when they are empowered to do so by new laws.
-
-
-
-A Web3 career can seem like the holy grail for people who are self-driven, but managing taxes in the industry remains a headache. Improving your skills in bookkeeping as well as keeping up-to-date with tax regulations is necessary to maintain minimal compliance.
-
-
-
-***
-
-## Risks in the Web3 Job Market (Part 3) - When Wages Go Missing
-
-_12th November 2024 | A report by Eliud K._
-
-
-
-As decentralized technologies gain traction, traditional employment structures regarding pay are being disrupted. If you’re entering this industry as a job seeker, it’s crucial to understand potential risks related to Web3 salary and payment methods.
-
-
-
-### No payroll
-
-Payroll systems ensure that employees and contractors are paid regularly and on time. They are also useful for handling taxes and deductions. By contrast, decentralized projects tend to lack formal payroll structures. Payments are often handled through community-managed treasuries, smart contracts, and multisig accounts.
-
-With blockchain technologies, international payments may be faster to complete, but these disbursements are rarely standardised by the issuers. This lack of predictability can cause delays and inconsistencies, especially because Web3 projects typically don’t have HR departments to [oversee these transactions](../content/1.acquisition/transaction-explorers.md). As a result, the risk of errors in payment processing increases, directly impacting workers' financial stability.
-
-### No benchmarks
-
-In Web3, standards for salaries and wages are far from established. Salaries can vary widely depending on the project’s size, funding, and location. For example, developers working within the _Cosmos_ ecosystem might receive different compensation than those working on _Avalanche_. There’s also a lack of transparency that can lead to favouritism and nepotism in some communities and DAOs. This undermines the principles of meritocracy and equal opportunities that decentralized projects want to champion.&#x20;
-
-Without clear salary expectations, workers often have to negotiate their pay check blindly. New contributors and participants from developing countries might accept much lower pay than what their counterparts would earn for the same role in traditional tech sectors. Over time, this makes it challenging to assess the fair market value of their contributions.
-
-<figure><img src="../.gitbook/assets/Blog016_Web3Salariesrisks (1).png" alt="Workers in the Web3 industry can face difficulties in the payments of their wages." width="563"><figcaption><p>Obtaining a fair compensation for their work is a challenge for Web3 community contributors and contractors. </p></figcaption></figure>
-
-### Irregular payments
-
-While traditional jobs offer fixed paydays and fiat amounts, Web3 projects pay their workforce in cryptocurrencies or tokens of volatile value. This presents significant challenges for workers, because their earnings can vary considerably even after payments are made. For instance, a payment that appears adequate in one moment may lose significant value within hours if [the exchange rate](../content/3.operations/swapping/pairs-availability.md) of a stablecoin crashes. This can dramatically impact workers' financial stability.
-
-Additionally, in ecosystems like _Polkadot_ and _Cardano_ that use decentralized on-chain treasuries, it can be hard to find support for top-up requests when funding falls short of expectations. Project teams could also be left in a vulnerable position if they rely exclusively on Web3 payments for their regular income. With no official authority to ensure that contributors and contractors receive their dues in various situations, long-term financial planning remains difficult for the Web3 workforce.
-
-### MLM schemes
-
-Multi-level marketing (MLM) involves a business model where individuals earn income not only through their sales, but also by recruiting new participants. However, this is very problematic because it blurs the lines between legitimate employment and unsustainable recruitment tactics.
-
-Such schemes are used by some projects in the Web3 industry to give the illusion of growth: they prioritise recruitment metrics over direct compensation for work done. As such, it’s crucial for workers to evaluate the small print of their salary packages to avoid being trapped in exploitative cycles where the goal posts keep moving and work remains unpaid.&#x20;
-
-
-
-While the Web3 job market offers unique opportunities, candidates need to actively engage in discussions about pay and transparency in the early stage of their job search. New recruits must constantly advocate for themselves to ensure that they receive fair and consistent compensation.
-
-
-
-***
-
-## Risks in the Web3 Job Market (Part 2) - When Dream Jobs Turn Sour
-
-_8th October 2024 | A report by Eliud K._
-
-
-
-Web3 has fundamentally changed the way companies and individuals interact and work by introducing the concept of decentralisation at many levels. This transformation in workplace conditions is also bringing in some risks for the workforce on a global scale.
-
-
-
-### No HR department&#x20;
-
-A Human Resources (HR) department typically handles employee relations, conflict resolution, [compensation structures](../content/3.operations/community-building/crypto-payments.md), and workplace policies. However, many Web3 projects operate without a formal HR department, which can lead to issues around conflict resolution and staff grievances, because nobody is responsible for addressing these concerns. With no point of call for mediation or support, workers have to fend for themselves in case disputes arise.
-
-### No social security
-
-Conventional jobs typically come with benefits such as health cover, life insurance, and retirement plans. Meanwhile, the majority of Web3 roles don’t offer any form of social security, not even in ecosystems such as Bitcoin or Ethereum. This means that most of the Web3 workforce has no access to essential safety nets during periods of illness or unemployment. Without these financial buffers, individuals are put in a vulnerable position which can lead to unexpected financial difficulties. They need to set aside a portion of their earnings independently for their future. This requires a lot of discipline and a good understanding of investment plans.&#x20;
-
-<div align="center"><figure><img src="../.gitbook/assets/Blog015_Web3WorkingConditionsrisks.png" alt="Working conditions in the Web3 industry are decided by founders and project team leads." width="563"><figcaption><p>The Web3 industry is built on the concept of decentralisation where traditional workplace regulations are difficult to enforce.</p></figcaption></figure></div>
-
-### No workplace protection&#x20;
-
-Workplace protections such as labour laws, union representation, and safety regulations are often absent in the Web3 industry. But these legally binding arrangements are critical to ensure fair treatment, job security, and safe working environments. Without them, workers can face problems like arbitrary termination, non-payment, or overwork. For example, freelancers and contractors who make up a significant portion of the Web3 workforce often have no recourse if their contracts are unfairly terminated or if payments are delayed.
-
-### Limited career pathways
-
-While the Web3 industry can offer lucrative opportunities, career growth is not as straightforward as during periods of boom. People who are well-networked may find pathways to stability, often landing high-profile roles or advancing quickly. However, for many others, career progression is limited and job-hopping between projects may be necessary to gain professional recognition. Since many Web3 projects operate like startups, they need a lot of [funding](../content/3.operations/crowdfunding/) from their ecosystems before they can offer long-term positions to their team members or staff. With no room for advancement, employees may find themselves stuck in roles that do not allow them to showcase their skills or upskill.\
-
-
-It is crucial for interested candidates to weigh the risks and rewards of a career in Web3 before joining the workforce. The realities of this decentralised industry can be challenging to face, so taking proactive steps to safeguard your professional and financial well-being should remain your top priority.
-
-
-
-***
-
-## Risks in the Web3 Job Market (Part 1) - When Hiring Goes Wrong
-
-_10th September 2024 | A report by Eliud K._
-
-
-
-The Web3 job market is primarily a remote-first environment, attracting talent from across the globe with the promise of decentralized workspaces and lucrative salaries.  But the job market itself is riddled with potential pitfalls for both job seekers and employers.&#x20;
-
-
-
-### Fake job opportunities&#x20;
-
-The Web3 job market attracts not only genuine job seekers, but also scammers. These bad actors usually post fake job listings with exaggerated salaries and benefits with the aim of enticing job seekers and eventually collecting their personal information. To avoid such cases, you should verify recruiters’ history and companies’ track record on public forums and social media platforms. If a job application requires you to submit a lot of identity documents upfront, and especially your Bitcoin or Ethereum [private keys](../content/2.storage/seed-secret-phrases.md), it's likely a scam.&#x20;
-
-### Fake job applicants&#x20;
-
-Recruiters in the Web3 job market also face the risk of fake job applicants, meaning they may end up hiring incompetent people. Usually, these applicants flood job postings with fake resumes and portfolios to secure a position. Later, they disappear after causing disruptions and denying a blockchain project the chance to hire qualified professionals. In some extreme cases, fake applicants can send resumes as downloadable zip files that contain spyware designed to collect sensitive information about important projects.
-
-<figure><img src="../.gitbook/assets/Blog014_Web3Recruitmentrisks (1).png" alt="Recruitment practices in the Web3 job market can be risky." width="563"><figcaption><p>Hiring and applying in the Web3 job market is tricky for both job seekers and employers.</p></figcaption></figure>
-
-### No contracts&#x20;
-
-One of the most significant risks in the Web3 job market is the lack of formal contracts. Most Web3 jobs, especially those in decentralized autonomous organizations (DAOs) or startup projects, operate without traditional employment contracts. This leaves both parties vulnerable to various risks: employers find it difficult to enforce accountability while employees risk not getting paid for the work done. Although the lack of formal contracts is primarily due to the dynamic nature of the Web3 job market, it's best to insist on having clear agreements in place.&#x20;
-
-### Complex industry&#x20;
-
-Web3 is an inherently complex industry with rapidly changing technologies and [regulations](../content/5.regulations/). For example, the Bitcoin ecosystem still grapples with regulatory challenges to this day, despite being the most established project in the decentralized space. Newer ecosystems such as Cosmos and Polkadot are constantly evolving, which can add confusion for those who contribute to their developments as a workforce. Job seekers may find themselves unprepared for the demands of their roles, while recruiters may struggle to find qualified candidates.
-
-
-
-While the perks of Web3 jobs are appealing to professionals looking to start a career in the industry, there are still some notable downsides. Navigating these risks requires a cautious approach to opportunities that may seem too good to be true.
-
-
-
-***
-
-## Overview of the Web3 Job Market
-
-_13th August 2024 | A report by Eliud K._
-
-
-
-Web 3 is the next generation of the internet that is built on top of blockchain technology. Unlike Web2 which is controlled by centralised entities, Web3 promises to give users control of their own data, in an open and transparent model, without any intermediaries. As this revolutionary shift in the internet model takes root, there has been a boom in the Web3 job market. If you're looking to transition into a career in Web 3, here are some answers to the questions you might have been asking yourself.
-
-
-
-### Who works in Web3?
-
-Web3 attracts a diverse range of professionals, such as developers, designers, data analysts, content creators, marketers, and community managers. Currently, developers are in high demand because they are skilled in blockchain programming languages such as Solidity for the Ethereum ecosystem and Rust for the [Polkadot](../content/5.regulations/networks/) network. As the blockchain industry matures, traditional roles such as legal advisors and compliance experts will be in demand to help investors and entrepreneurs navigate the regulatory landscape.
-
-### Where are open positions advertised?
-
-Most Web3 jobs are posted on dedicated Web3 job boards which include _CryptoJobsList_, _Web3.career_, and _Remote3_. Startups in the Web 3 space post open positions on their official websites, social media channels, and traditional platforms like _LinkedIn_ and _Indeed_. To get more Web3 job openings, you may also consider networking with fellow Web3 enthusiasts on _Reddit_, _Discord_, and _Telegram_.
-
-<figure><img src="../.gitbook/assets/Blog013_Web3Jobmarket (1).png" alt="The Web3 job market offers unique working conditions and compensation schemes to people around the globe. " width="563"><figcaption><p>The Web3 job market is built around diversity, flexibility, and opportunities.</p></figcaption></figure>
-
-### What kind of working conditions are provided?
-
-Web3 jobs are well known for their flexibility and remote working conditions. Essentially, you can work from anywhere in the world, which is a true reflection of the decentralised nature of blockchain technologies. Usually, web3 companies consist of [diverse groups of talents](../content/5.regulations/networks/participation.md) spread across the world who prioritise creativity and getting things done rather than the number of hours worked. This setup promotes work-life balance and fosters a culture of learning and experimentation.
-
-### Which types of compensation are offered?
-
-Web3 jobs offer lucrative rates that, in many cases, exceed those offered in traditional job markets. Salaries are usually paid in stablecoins or cryptocurrencies. Additionally, most Web3 companies and startups will offer their employees and contractors a stake in their project which can then be redeemed for other tokens or coins later on. Performance bonuses are also common, as they help align the interests of the team with the long-term goals of the project.
-
-
-
-The Web3 job market is flooded with opportunities in various technical and non-technical fields. Whether you are a developer, designer, or marketer, there is likely a place for you in this exciting new world. As blockchain ecosystems like Bitcoin, Solana, and NEAR continue to grow, the demand for skilled professionals will only increase, making now an ideal time to explore a career in Web3.
-
-
-
-***
+# Web3 Reports
 
 ## [Beyond the Narratives: Multi-chain Liquid Staking](https://x.com/PolytopeLabs/status/1796226935191666815)
 
@@ -278,15 +42,13 @@ Before LSTs are minted, the Liquid Staking Protocol needs to have determined and
 * collateral for minting stablecoins
 * collateral for providing security on decentralised bridges
 
-<figure><img src="../.gitbook/assets/PolytopeLabsBeyondTheNarratives.jpg" alt="Polytope Labs hosts &#x22;Beyond the narratives&#x22;, a series of Twitter spaces on multi-chain technologies." width="563"><figcaption><p><em>Beyond the Narratives</em> explores critical developments in multi-chain infrastructure.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/PolytopeLabsBeyondTheNarratives.jpg" alt="Polytope Labs hosts &#x22;Beyond the narratives&#x22;, a series of Twitter spaces on multi-chain technologies." width="563"><figcaption><p><em>Beyond the Narratives</em> explores critical developments in multi-chain infrastructure.</p></figcaption></figure>
 
 ### **Supporting Multi-chain Solutions for Liquid Staking**
 
 To align with multi-chain developments observed in DeFi, Bifrost has developed two different protocols for liquid staking: _Staking Liquidity Protocol_ (SLP) whose core features strictly belong to the Bifrost parachain, and _Multi-chain staking_ (SLPx) which has cross-chain capabilities.
 
 Bifrost uses third-party bridging infrastructure to support liquid staking for assets that are held on Ethereum and Filecoin. However, given that most of the current offerings for bridges rely on multisigs, the team recognises that more trustless and decentralised solutions are needed to prevent multi-chain liquidity from being compromised by hackers.&#x20;
-
-
 
 ### Developing Resilient Bridging Infrastructure&#x20;
 
@@ -311,7 +73,8 @@ Liquid staking is the new frontier of DeFi because it drives traditionally isola
 
 _6th May 2024 | A report by Amed K._
 
-**Host: Boring Security**\
+**Host: Boring Security**
+
 
 
 A recurring trend in blockchain consists of adding new functionalities to crypto products before finding ways to secure these, which exposes first-time users of the technology to vulnerabilities and serious threats.
@@ -338,7 +101,7 @@ When using a traditional wallet, signing a transaction such as a coin swap on an
 
 When managing assets under the account abstraction paradigm, users have the option to delegate their entire wallet to multiple Smart contracts through an access policy. Unlike [Polkadot SDK's multi-level account abstraction functionalities](https://wiki.polkadot.network/docs/learn-account-abstraction), this is a persistent type of access by which the other Smart contracts can act on behalf of users to sign anything prescribed within the access policy. However, in this context, authorising a malicious contract as a delegate would be equivalent to getting one's private keys stolen.
 
-<figure><img src="../.gitbook/assets/BoringSecDAO.jpg" alt="Boring Security is a collective of educators sharing entry-level resources on Web3 security." width="563"><figcaption><p>Boring Security is a DAO specialised in Web3 security training and education.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BoringSecDAO.jpg" alt="Boring Security is a collective of educators sharing entry-level resources on Web3 security." width="563"><figcaption><p>Boring Security is a DAO specialised in Web3 security training and education.</p></figcaption></figure>
 
 ### Prioritising the User Experience
 
@@ -360,7 +123,8 @@ Despite its rising popularity and adoption, Account abstraction is still a proof
 
 _13th April 2024 | A report by Amed K._
 
-**Host: Osmosis**\
+**Host: Osmosis**
+
 
 
 In the blockchain industry, established use cases such as DeFi and NFTs are becoming the playgrounds of choice for technologists, researchers, and economists. New projects have to be radically innovative to capture the attention of users and build their communities.
@@ -375,7 +139,7 @@ _Osmosis_ is a long standing DeFi hub that aims to simplify access to liquidity 
 
 More than an NFT marketplace, _Backbone Labs_ is building a protocol halfway between DeFi and NFT on which creators, builders, and founders can freely experiment. Examples of new propositions include allowing NFT communities to manage and share revenues through Liquid Staking Tokens (LST) protocols, but also creating NFT-centric dApps that can work seamlessly across the ecosystem.
 
-<figure><img src="../.gitbook/assets/MadScientists_LAB.png" alt="Updates from The Lab featured Mad Scientists, the team behind $LAB and NFTfi on Osmosis."><figcaption><p><em>Updates from The Lab</em> presents the latest developments in and around Osmosis.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/MadScientists_LAB.png" alt="Updates from The Lab featured Mad Scientists, the team behind $LAB and NFTfi on Osmosis."><figcaption><p><em>Updates from The Lab</em> presents the latest developments in and around Osmosis.</p></figcaption></figure>
 
 ### Cultivating Experiments &#x20;
 
@@ -413,15 +177,13 @@ In traditional finance (TradFi), contracts that govern assets are kept separatel
 
 One of the unique properties of cryptographic tokens as an asset class is that they can embed the contract that governs an asset within the asset itself. Since all assets and contracts are created and tracked on a public ledger built on a Digital Ledger Technology, all their terms, and conditions can be cross-checked at any time.  Furthermore, contracts can be programmed to execute specific transactions once certain requirements are fulfilled, which illustrates why tokenisation has the potential to save financial institutions billions in operational costs.
 
-<figure><img src="../.gitbook/assets/Polygon_TokenisationSpotlight.jpg" alt="Polygon is running a series of blog posts and X spaces focused on tokenisation."><figcaption><p>Polygon is running a five-part series focused on tokenisation for accessible, transparent, and liquid markets.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Polygon_TokenisationSpotlight.jpg" alt="Polygon is running a series of blog posts and X spaces focused on tokenisation."><figcaption><p>Polygon is running a five-part series focused on tokenisation for accessible, transparent, and liquid markets.</p></figcaption></figure>
 
 ### Integrating TradFi
 
 While digital assets can represent an opportunity for investment portfolio diversification, they are not easily tradable for many reasons. This is the case for royalties on digital art pieces traded on NFT marketplaces. Even though is possible for institutional investors to acquire royalties, difficulties remain in scaling the administration of royalty pools to, not just a handful, but millions of participants.&#x20;
 
 Tokenisation allows a wider range of asset classes to be issued both digitally and physically, including collectibles, financial contracts, and real estate deals. In this context, physical assets are kept in an accredited storage of facility and their related data is embedded digitally into a token to provide the purchaser with custom rights (intellectual, property, custody, trading, etc.).  This process can also help address pervasive problems such as bureaucracy, forgery, and fraud.
-
-
 
 ### Improving Cross-border Transactions
 
@@ -460,7 +222,7 @@ Blockchain technologies revolve around building decentralised systems, but the b
 * **Governance:** Digital communities are empowered through on-chain governance with self-executing functionalities. Members have a direct influence on protocols and their trajectories.
 * **Community-based economies:**  Decentralised organisations define the impact that they want to have within networks and become tools for value creation and value sharing among communities.
 
-<figure><img src="../.gitbook/assets/DecentralizationinBlockchain.jpg" alt="A conversation with Web3 infrastructure projects Cartesi, Phala, Polimec, and Tanssi."><figcaption><p><em>Behind the Hype</em>'s panel featured a diversity of Web3 infrastructure projects supporting truly decentralised systems.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DecentralizationinBlockchain.jpg" alt="A conversation with Web3 infrastructure projects Cartesi, Phala, Polimec, and Tanssi."><figcaption><p><em>Behind the Hype</em>'s panel featured a diversity of Web3 infrastructure projects supporting truly decentralised systems.</p></figcaption></figure>
 
 ### Spotting Real Decentralisation
 
@@ -501,15 +263,13 @@ Axelar distinguishes itself with a Programmable Interoperability stack which mak
 
 This universal tech stack allows developers to overcome the barriers imposed by each individual blockchain's infrastructure. It creates a simple and frictionless process for growing existing and future ecosystems and empowers builders to write their codebase once and run it anywhere.
 
-<figure><img src="../.gitbook/assets/Axelar_CrosschainGateway.webp" alt="The technology stack of Axelar Network for cross-chain interoperability."><figcaption><p>Axelar network proposes a chain-agnostic tech stack for building frictionless interoperable dapps.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Axelar_CrosschainGateway.webp" alt="The technology stack of Axelar Network for cross-chain interoperability."><figcaption><p>Axelar network proposes a chain-agnostic tech stack for building frictionless interoperable dapps.</p></figcaption></figure>
 
 ### Core Functionalities of GMP
 
 General Message Passing (GMP) is the main feature of Axelar's interoperability stack. It relies on the _Axelar Gateway contract_ to relay cross-chain transactions. It also comes with a set of tools for testing and running smart contracts calls that will later be finalised on the destination chain. One added advantage of GMP is that it simplifies and standardises dapp development, which can help speed the onboarding of new contributors to blockchain ecosystems.
 
 Developers who leverage GMP can grow a userbase for their dapps across multiple chains at minimal cost, because the performance of cross-chain dapps is comparable to native dapps'. Users are no longer required to manually bridge their tokens and sign multiple individual transactions because these actions are automated.
-
-
 
 ### Securing Blockchain-based Products
 
@@ -549,15 +309,13 @@ BOB has developed the first economically trustless $BTC bridge as a solution to 
 
 Under this design, anybody can become a bridge operator by depositing the required collaterals on their target chains, which guarantees that users' funds can be reimbursed in case of thefts or attacks. As part of this system, a cross-chain Bitcoin-like client also monitors bridge operators' transactions to detect unusual activities.
 
-<figure><img src="../.gitbook/assets/BoB.png" alt=""><figcaption><p>Build on Bitcoin (BOB) is pioneering an innovative toolkit for deploying novel use cases on Bitcoin.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BoB.png" alt=""><figcaption><p>Build on Bitcoin (BOB) is pioneering an innovative toolkit for deploying novel use cases on Bitcoin.</p></figcaption></figure>
 
 ### Leveraging L2s for the Bitcoin Economy
 
 Ethereum is built specifically for Smart Contracts and relies on L2s to improve its computational capabilities. By contrast, Bitcoin has no smart contracts and needs an L2 ecosystem to extend its functionalities natively; without interfering with the base layer of security, storage, and settlement.
 
 Bitcoin currently has over 300 million users, and over 90% of the people onboarding the crypto industry start their journey with BTC. Deploying L2s specialised in DeFi, NFTs, and other user-focused products would benefit the Bitcoin network by bringing in more activity, diversification, and innovation. In the absence of these, it is possible that many users end up leaving the network and eroding the value proposition of the industry.
-
-
 
 ### Fostering Future Developments on Bitcoin
 
@@ -600,7 +358,7 @@ _Plurality Labs_ is an entity that is solely focused on refining the Arbitrum Gr
 * Provide a real-world correlation or alignment for the DAO. These logical narratives will unlock complementarity between the tasks completed and allow all actors to benefit from economies of scale.
 * Engage in on-chain experiments with governance frameworks. Evaluations of grantors and grantees' success will support upward mobility by bringing in more participants and decreasing voter apathy.
 
-<figure><img src="../.gitbook/assets/Arbitrum_GGS.jpg" alt=""><figcaption><p>ArbitrumDAO leverages the Gitcoin Grants Stack to diversify its funding mechanisms. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Arbitrum_GGS.jpg" alt=""><figcaption><p>ArbitrumDAO leverages the Gitcoin Grants Stack to diversify its funding mechanisms. </p></figcaption></figure>
 
 ### Key Mechanisms of the ArbitrumDAO
 
@@ -616,11 +374,9 @@ The GAP (Grantee Accountability Protocol) is an on-chain protocol designed to en
 
 The Karma GAP protocol primarily wants to have a net positive effect, making that sure a grantee executes its project successfully to build a reputation. It also assists with impact measurement of grants in the ecosystem, which involves community sentiments on executed projects, identifying positive signalling for future and additional funding, and gauging past successes. All this data is streamlined to help the DAO make better decisions regarding the allocation of its capital.
 
-
-
 ### Governing the ArbitrumDAO
 
-The ArbitrumDAO is made of $ARB token holders and the 12-seat Arbitrum Security Council, with DAO proposals (including grants) being voted upon by members using $ARB. The weight of a member's vote is directly proportional to the amount of $ARBs s/he holds, a parameter that contrasts with the conviction voting implemented in [Polkadot OpenGov](../content/3.operations/voting/).
+The ArbitrumDAO is made of $ARB token holders and the 12-seat Arbitrum Security Council, with DAO proposals (including grants) being voted upon by members using $ARB. The weight of a member's vote is directly proportional to the amount of $ARBs s/he holds, a parameter that contrasts with the conviction voting implemented in [Polkadot OpenGov](../../content/3.operations/voting/).
 
 The ArbitrumDAO tends to approve grants for projects that are working towards well thought-out objectives, however, application timelines vary, since projects working on ecosystem Dapps, infrastructure, and tooling are currently being considered for grants. A noteworthy point is that most of the funding is milestone-gated, with payments released upon completion of specific deliverables.
 
@@ -638,7 +394,8 @@ _20th October 2023 | A report by Onyinye M._
 
 **Host: Bankless Africa**
 
-**Co-host: Canza Finance**\
+**Co-host: Canza Finance**
+
 
 
 African economies have been on a consistent path of growth and development in recent years, with an increasing number of businesses engaging in international trade. However, one significant issue faced by African businesses is navigating Foreign Exchange, because existing solutions do not address the unique challenges of poorly performing currencies and the specific risks associated with these markets.
@@ -671,7 +428,7 @@ African businesses have to contend with fluctuating exchange rates that interfer
 
 In the context of globalisation that pushes emerging markets to align with developed economies, African countries have always faced inflationary pressures. As a result, national businesses need to find hedges against inflation to protect their purchasing power and maintain their profitability.
 
-<figure><img src="../.gitbook/assets/BlogWeb3Bridge.jpg" alt="Web3Bridge is exploring a cohort-based model to train web3 developers in Africa."><figcaption><p><a href="https://twitter.com/Web3Bridge">Web3Bridge</a> runs training programmes, hackathons, and conferences for aspiring Web and Blockchain developers in Nigeria.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/BlogWeb3Bridge.jpg" alt="Web3Bridge is exploring a cohort-based model to train web3 developers in Africa."><figcaption><p><a href="https://twitter.com/Web3Bridge">Web3Bridge</a> runs training programmes, hackathons, and conferences for aspiring Web and Blockchain developers in Nigeria.</p></figcaption></figure>
 
 ### Developing Unique FinTech Solutions&#x20;
 
@@ -725,7 +482,7 @@ This positions censorship resistance as a safeguard against oppression, by ensur
 
 Censorship resistance exists whenever there is evidence that no single entity can reverse a transaction, blacklist a wallet or address, or manipulate transactions for personal gains.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="Farmers Market: an educational programme focused on DeFi topics."><figcaption><p>Farmers Market is an educational space exploring core DeFi topics and trends to empower Web3 users.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt="Farmers Market: an educational programme focused on DeFi topics."><figcaption><p>Farmers Market is an educational space exploring core DeFi topics and trends to empower Web3 users.</p></figcaption></figure>
 
 ### **Achieving Censorship Resistance**
 
@@ -778,7 +535,7 @@ The importance of on-chain community-building cannot be overstated. In the crypt
 
 While developers and tech developments facilitate onboarding, the true growth of a project stems from community engagement. And since on-chain actions can influence real-life engagement, having a strong digital presence is critical.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt="FWB FEST 2023: an internet exposition."><figcaption><p>FWB FEST 2023: An internet exposition showcasing the convergence of digital, on-chain, and real-life communities.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="FWB FEST 2023: an internet exposition."><figcaption><p>FWB FEST 2023: An internet exposition showcasing the convergence of digital, on-chain, and real-life communities.</p></figcaption></figure>
 
 ### **Inclusivity and Balance**
 
@@ -834,7 +591,7 @@ In the crypto realm, a retrospective approach is more suitable for impact measur
 
 Beyond securing funding, funded projects can also monetize their impact. Instead of solely relying on continuous funding, projects can leverage their demonstrated impact to attract more investments. Investors are increasingly interested in supporting projects with tangible and visible impact, allowing projects to sustain themselves and reduce their reliance on continuous grants.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="The Gitcoin grants programme is built on the Gitcoin Grants stack to support the funding of Public goods."><figcaption><p>The socio-financial impact of the Gitcoin grants programme on Public Goods projects.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="The Gitcoin grants programme is built on the Gitcoin Grants stack to support the funding of Public goods."><figcaption><p>The socio-financial impact of the Gitcoin grants programme on Public Goods projects.</p></figcaption></figure>
 
 ### Decentralized Measurement Standards
 
@@ -854,9 +611,8 @@ While some projects may use unique addresses for each funding round, it is possi
 
 **3. Does participating in successive rounds help projects drive engagements beyond one-time donations?**
 
-Yes, participating in successive funding rounds can indeed help projects drive ongoing engagement beyond one-time donations. However, projects are encouraged to explore more sustainable avenues beyond repetitive participation
+Yes, participating in successive funding rounds can indeed help projects drive ongoing engagement beyond one-time donations. However, projects are encouraged to explore more sustainable avenues beyond repetitive participation.
 
 
 
 Impact measurement is important for both funding platforms like Gitcoin and funded projects. It helps platforms examine the value they are providing while assisting funded projects in realising and monetising their impact. Decentralised measurement standards on the other hand further contributes to the credibility and sustainability of crypto-funded projects.
-

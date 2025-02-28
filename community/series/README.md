@@ -7,7 +7,7 @@ layout:
     visible: true
     size: full
   title:
-    visible: true
+    visible: false
   description:
     visible: true
   tableOfContents:
@@ -20,4 +20,5 @@ layout:
 
 # Ebooks
 
-<div><figure><img src="../../.gitbook/assets/Infographic_OntheD.png" alt="" width="375"><figcaption><p><a href="../ebooks/on-the-dot-first-edition.md">On the DOT - 1st edition</a></p></figcaption></figure> <figure><img src="../../.gitbook/assets/Infographic_SpecialNetworks1 (1).png" alt="" width="375"><figcaption><p><a href="../ebooks/on-the-dot-special-edition.md">On the DOT - Special edition</a></p></figcaption></figure></div>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>                               First Edition</td><td><a href="../../.gitbook/assets/OntheDOT_First (1).png">OntheDOT_First (1).png</a></td><td><a href="on-the-dot-first-edition.md">on-the-dot-first-edition.md</a></td></tr><tr><td>                             Special Edition</td><td><a href="../../.gitbook/assets/OntheDOT_Special (1).png">OntheDOT_Special (1).png</a></td><td><a href="on-the-dot-special-edition.md">on-the-dot-special-edition.md</a></td></tr></tbody></table>
+

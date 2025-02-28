@@ -89,11 +89,16 @@
 
 ## Community
 
-* [Careers](community/careers.md)
+* [Careers](community/careers/README.md)
+  * [Blockchain education](community/careers/blockchain-education.md)
+  * [Community building](community/careers/community-building.md)
 * [Ebooks](community/series/README.md)
-  * [On the DOT - First edition](community/ebooks/on-the-dot-first-edition.md)
-  * [On the DOT - Special edition](community/ebooks/on-the-dot-special-edition.md)
-* [Blog](community/blog.md)
+  * [On the DOT - First edition](community/series/on-the-dot-first-edition.md)
+  * [On the DOT - Special edition](community/series/on-the-dot-special-edition.md)
+* [Blog](community/blog/README.md)
+  * [World of Web3](community/blog/world-of-web3.md)
+  * [Working in Web3](community/blog/working-in-web3.md)
+  * [Web3 Reports](community/blog/web3-reports.md)
 * [Social Channels](community/social-channels.md)
 * [Fortnightly Polls](community/fortnightly-polls.md)
 * [Monthly Quizzes](community/monthly-quizzes.md)
