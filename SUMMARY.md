@@ -97,7 +97,6 @@
   * [On the DOT - Special edition](community/series/on-the-dot-special-edition.md)
 * [Blog](community/blog/README.md)
   * [World of Web3](community/blog/world-of-web3.md)
-  * [Work in Web3](community/blog/work-in-web3.md)
   * [Working in Web3](community/blog/working-in-web3.md)
   * [Web3 Reports](community/blog/web3-reports.md)
 * [Social Channels](community/social-channels.md)

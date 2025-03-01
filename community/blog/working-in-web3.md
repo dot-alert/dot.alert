@@ -157,7 +157,7 @@ A Human Resources (HR) department typically handles employee relations, conflict
 
 Conventional jobs typically come with benefits such as health cover, life insurance, and retirement plans. Meanwhile, the majority of Web3 roles don’t offer any form of social security, not even in ecosystems such as Bitcoin or Ethereum. This means that most of the Web3 workforce has no access to essential safety nets during periods of illness or unemployment. Without these financial buffers, individuals are put in a vulnerable position which can lead to unexpected financial difficulties. They need to set aside a portion of their earnings independently for their future. This requires a lot of discipline and a good understanding of investment plans.&#x20;
 
-<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/Blog015_Web3WorkingConditionsrisks (1).png" alt="Working conditions in the Web3 industry are decided by founders and project team leads." width="375"><figcaption><p>Web3's decentralisation makes workplace regulations difficult.</p></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/Blog015_Web3WorkingConditionsrisks (1).png" alt="Working conditions in the Web3 industry are decided by founders and project team leads." width="375"><figcaption><p>Web3's decentralisation makes workplace regulations obsolete.</p></figcaption></figure></div>
 
 ### No workplace protection&#x20;
 
@@ -165,12 +165,11 @@ Workplace protections such as labour laws, union representation, and safety regu
 
 ### Limited career pathways
 
-While the Web3 industry can offer lucrative opportunities, career growth is not as straightforward as during periods of boom. People who are well-networked may find pathways to stability, often landing high-profile roles or advancing quickly. However, for many others, career progression is limited and job-hopping between projects may be necessary to gain professional recognition. Since many Web3 projects operate like startups, they need a lot of [funding](../../content/3.operations/crowdfunding/) from their ecosystems before they can offer long-term positions to their team members or staff. With no room for advancement, employees may find themselves stuck in roles that do not allow them to showcase their skills or upskill.\
+While the Web3 industry can offer lucrative opportunities, career growth is not as straightforward as during periods of boom. People who are well-networked may find pathways to stability, often landing high-profile roles or advancing quickly. However, for many others, career progression is limited and job-hopping between projects may be necessary to gain professional recognition. Since many Web3 projects operate like startups, they need a lot of [funding](../../content/3.operations/crowdfunding/) from their ecosystems before they can offer long-term positions to their team members or staff. With no room for advancement, employees may find themselves stuck in roles that do not allow them to showcase their skills or upskill.
+
 
 
 It is crucial for interested candidates to weigh the risks and rewards of a career in Web3 before joining the workforce. The realities of this decentralised industry can be challenging to face, so taking proactive steps to safeguard your professional and financial well-being should remain your top priority.
-
-
 
 ***
 
@@ -206,8 +205,6 @@ Web3 is an inherently complex industry with rapidly changing technologies and [r
 
 While the perks of Web3 jobs are appealing to professionals looking to start a career in the industry, there are still some notable downsides. Navigating these risks requires a cautious approach to opportunities that may seem too good to be true.
 
-
-
 ***
 
 ## Overview of the Web3 Job Market
@@ -226,9 +223,9 @@ Web3 attracts a diverse range of professionals, such as developers, designers, d
 
 ### Where are open positions advertised?
 
-Most Web3 jobs are posted on dedicated Web3 job boards which include _CryptoJobsList_, _Web3.career_, and _Remote3_. Startups in the Web 3 space post open positions on their official websites, social media channels, and traditional platforms like _LinkedIn_ and _Indeed_. To get more Web3 job openings, you may also consider networking with fellow Web3 enthusiasts on _Reddit_, _Discord_, and _Telegram_.
+Most Web3 jobs are posted on dedicated Web3 job boards which include _CryptoJobsList_, _Web3.career_, and _Remote3_. Startups in the Web3 space post open positions on their official websites, social media channels, and traditional platforms like _LinkedIn_ and _Indeed_. To get more Web3 job openings, you may also consider networking with fellow Web3 enthusiasts on _Reddit_, _Discord_, and _Telegram_.
 
-<figure><img src="../../.gitbook/assets/Blog013_Web3Jobmarket (1).png" alt="The Web3 job market offers unique working conditions and compensation schemes to people around the globe. " width="375"><figcaption><p>The Web3 job market promotes diversity, flexibility,  opportunities.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blog013_Web3Jobmarket (1).png" alt="The Web3 job market offers unique working conditions and compensation schemes to people around the globe. " width="375"><figcaption><p>The Web3 job market brings diversity, flexibility, and opportunities.</p></figcaption></figure>
 
 ### What kind of working conditions are provided?
 
