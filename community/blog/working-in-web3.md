@@ -33,7 +33,7 @@ Bogus jobs are often posted on Web3 job boards and social media, but they can al
 
 You should be wary of recruiters that ask you to download zip files to complete a task without a prior meeting. Law-abiding companies or startups typically conduct thorough interviews to funnel candidates remotely and do not require extensive details from you upfront. To get a better sense of what is acceptable or not for a job application, you can always [ask for feedback](../../content/4.social-support/) on community forums or channels.
 
-<figure><img src="../../.gitbook/assets/Blog018_Web3JobmarketSafety.png" alt="Some important safety tips for the Web3 job market include protecting yourself from social engineering scams." width="563"><figcaption><p>The Web3 job market can expose the most dutiful candidates to data breaches. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blog018_Web3JobmarketSafety.png" alt="Some important safety tips for the Web3 job market include protecting yourself from social engineering scams." width="375"><figcaption><p>The Web3 job market can expose candidates to data breaches. </p></figcaption></figure>
 
 ### Evaluate payment methods&#x20;
 
@@ -73,7 +73,7 @@ Even though there are different crypto tax software available today, those are s
 
 If you're involved in ecosystems like _Ethereum_ or _Solana_ where DeFi platforms can allocate some of their native tokens to their recruits, you will probably need to use separate portfolio management tools to capture all of your balances. And this could very well mean spending extra thousands of dollars each year just to minimise the risk of getting in trouble with tax authorities.
 
-<figure><img src="../../.gitbook/assets/Blog017_Web3Taxesrisks.png" alt="It can be difficult to get clarity on tax obligations when working in Web3." width="563"><figcaption><p>Navigating your tax obligations as a Web3 freelancer can turn into a costly task.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blog017_Web3Taxesrisks.png" alt="It can be difficult to get clarity on tax obligations when working in Web3." width="375"><figcaption><p>Tax obligations can prove costly for Web3 freelancers.</p></figcaption></figure>
 
 ### Complex crypto-related tax laws
 
@@ -117,7 +117,7 @@ In Web3, standards for salaries and wages are far from established. Salaries can
 
 Without clear salary expectations, workers often have to negotiate their pay check blindly. New contributors and participants from developing countries might accept much lower pay than what their counterparts would earn for the same role in traditional tech sectors. Over time, this makes it challenging to assess the fair market value of their contributions.
 
-<figure><img src="../../.gitbook/assets/Blog016_Web3Salariesrisks (1).png" alt="Workers in the Web3 industry can face difficulties in the payments of their wages." width="563"><figcaption><p>Obtaining a fair compensation is a challenge for Web3 community contributors and contractors. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blog016_Web3Salariesrisks (1).png" alt="Workers in the Web3 industry can face difficulties in the payments of their wages." width="375"><figcaption><p>Obtaining fair compensation is a challenge for the Web3 workers. </p></figcaption></figure>
 
 ### Irregular payments
 
@@ -157,9 +157,7 @@ A Human Resources (HR) department typically handles employee relations, conflict
 
 Conventional jobs typically come with benefits such as health cover, life insurance, and retirement plans. Meanwhile, the majority of Web3 roles don’t offer any form of social security, not even in ecosystems such as Bitcoin or Ethereum. This means that most of the Web3 workforce has no access to essential safety nets during periods of illness or unemployment. Without these financial buffers, individuals are put in a vulnerable position which can lead to unexpected financial difficulties. They need to set aside a portion of their earnings independently for their future. This requires a lot of discipline and a good understanding of investment plans.&#x20;
 
-
-
-<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/Blog015_Web3WorkingConditionsrisks (1).png" alt="Working conditions in the Web3 industry are decided by founders and project team leads." width="563"><figcaption><p>Web3 is built on the concept of decentralisation whereby workplace regulations are difficult to enforce.</p></figcaption></figure></div>
+<div align="center" data-full-width="true"><figure><img src="../../.gitbook/assets/Blog015_Web3WorkingConditionsrisks (1).png" alt="Working conditions in the Web3 industry are decided by founders and project team leads." width="375"><figcaption><p>Web3's decentralisation makes workplace regulations difficult.</p></figcaption></figure></div>
 
 ### No workplace protection&#x20;
 
@@ -194,7 +192,7 @@ The Web3 job market attracts not only genuine job seekers, but also scammers. Th
 
 Recruiters in the Web3 job market also face the risk of fake job applicants, meaning they may end up hiring incompetent people. Usually, these applicants flood job postings with fake resumes and portfolios to secure a position. Later, they disappear after causing disruptions and denying a blockchain project the chance to hire qualified professionals. In some extreme cases, fake applicants can send resumes as downloadable zip files that contain spyware designed to collect sensitive information about important projects.
 
-<figure><img src="../../.gitbook/assets/Blog014_Web3Recruitmentrisks (1).png" alt="Recruitment practices in the Web3 job market can be risky." width="563"><figcaption><p>Hiring and applying in the Web3 job market is tricky for both job seekers and employers.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blog014_Web3Recruitmentrisks (1).png" alt="Recruitment practices in the Web3 job market can be risky." width="375"><figcaption><p>Hiring and applying in the Web3 job market is tricky.</p></figcaption></figure>
 
 ### No contracts&#x20;
 
@@ -230,7 +228,7 @@ Web3 attracts a diverse range of professionals, such as developers, designers, d
 
 Most Web3 jobs are posted on dedicated Web3 job boards which include _CryptoJobsList_, _Web3.career_, and _Remote3_. Startups in the Web 3 space post open positions on their official websites, social media channels, and traditional platforms like _LinkedIn_ and _Indeed_. To get more Web3 job openings, you may also consider networking with fellow Web3 enthusiasts on _Reddit_, _Discord_, and _Telegram_.
 
-<figure><img src="../../.gitbook/assets/Blog013_Web3Jobmarket (1).png" alt="The Web3 job market offers unique working conditions and compensation schemes to people around the globe. " width="563"><figcaption><p>The Web3 job market is built around diversity, flexibility, and opportunities.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blog013_Web3Jobmarket (1).png" alt="The Web3 job market offers unique working conditions and compensation schemes to people around the globe. " width="375"><figcaption><p>The Web3 job market promotes diversity, flexibility,  opportunities.</p></figcaption></figure>
 
 ### What kind of working conditions are provided?
 
