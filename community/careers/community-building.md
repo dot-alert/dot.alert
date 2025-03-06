@@ -15,6 +15,45 @@ layout:
 
 # Community building
 
+## Promote positive interactions.
+
+_6th March 2025 | A thread by Pooja G._
+
+
+
+**Let's explore an exciting opportunity in the Polkadot ecosystem - The** [**Moderation bounty**](https://polkadot.subsquare.io/treasury/bounties/24) **program!** If you're passionate about Web3 and community building, this could be your gateway to a rewarding role.&#x20;
+
+<figure><img src="../../.gitbook/assets/Thread7.1.png" alt=""><figcaption></figcaption></figure>
+
+The story begins with passionate agents who stepped up to assist and guide new users. These individuals started without compensation, driven purely by their commitment to Polkadot's vision. Their journey from volunteers to recognized ecosystem contributors is truly inspiring.
+
+What exactly do moderators do? They're the guardians working 24/7 to:
+
+* Guide newcomers around
+* Maintain positive discussions
+* Keep spaces productive
+* Relay latest developments
+
+The impact of their work is immense. With 11 team members working across different time zones and [social channels](../../content/4.social-support/) to ensure the community never sleeps. Whether you're an intern seeking guidance or a newcomer exploring Polkadot, moderators are there to help!
+
+<figure><img src="../../.gitbook/assets/Thread7.2.PNG" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+To recognize the moderation team’s valuable efforts, there is a set compensation scheme. The annual plan allocates funding for 15 hours per week per moderator, acknowledging that community support is a serious responsibility requiring time and expertise.
+
+Compensation for Polkadot moderators is performance-based. Monthly rewards depend on peer assessment ratings and impactful contributions. This approach ensures accountability and high-quality [community management](../../content/3.operations/community-building/).
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0N9zMICWL0dRn3EKRJuU4C3dbQ1rGXWuZIWQ3AFZmEzFPJjuSVqnfEz-WmG80Vy-OA0Q3Nq91qV_9K6em4bwkEEN6fhhkZZiRb9xZn20qNkpx2jXzRSGW40y8K_zX1-KylP2_gQ?key=Ur_HstWNuTvR5hPj8zyicfS2" alt="" width="563"><figcaption></figcaption></figure>
+
+One of the key features of this bounty is its dynamic nature. As the community grows, the bounty evolves to meet the increasing demands of a diverse user base. This investment in community support shows how seriously Polkadot takes its user experience.
+
+Interested in professional development? The Moderation team works closely with the Marketing bounty's new Community Management initiative. If you understand Web3 values, you are welcome to get more info on [https://polkadot.subsquare.io/treasury/bounties/24](https://polkadot.subsquare.io/treasury/bounties/24).
+
+
+
+***
+
 ## Generate business leads.
 
 _20th February 2025 | A thread by Pooja G._
@@ -48,8 +87,6 @@ Need inspiration? The monthly reports provide valuable insights such as current 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5yidVE8IUPU0nblPXt_heyqD8EI_-_sbojjbOM6plYL5uFPkmVoqqni3JHGIn4TG7TjsPXE9_wdwDI1Y2BfMR4SmlHZRmu70nkxpy9exmSr9A51m8e1BY40qoQ6BKP7bZSEXS_Q?key=YqPHuaHtGxBLg2mQap92L4xf" alt="" width="563"><figcaption></figcaption></figure>
 
 When preparing your submission, focus on scalable and sustainable solutions. Include quantifiable deliverables and provide realistic timelines for their implementation. Showcase your long-term value proposition with clarity.
-
-
 
 Are you ready to take on your next challenge in Web3 business development? Your creativity has the potential to chart the course for the adoption of Polkadot technologies! Check out [marketingbounty.notion.site](https://marketingbounty.notion.site/).
 
@@ -92,7 +129,7 @@ Transparency is fundamental to the program. Every proposal, budget allocation, a
 
 <figure><img src="../../.gitbook/assets/Thread5.3.png" alt="" width="563"><figcaption></figcaption></figure>
 
-The Marketing bounty emphasizes quality over quantity. Your proposal should demonstrate a deep understanding of the Web3 landscape and Polkadot's unique position in the industry. Consider how your #marketing strategy can enhance both brand awareness and community engagement.
+The Marketing bounty emphasizes quality over quantity. Your proposal should demonstrate a deep understanding of the Web3 landscape and Polkadot's unique position in the industry. Consider how your marketing strategy can enhance both brand awareness and community engagement.
 
 Take a look at [marketingbounty.notion.site](https://marketingbounty.notion.site/) to kickstart your proposal. Remember: great marketing in Web3 is about highlighting the value of community-driven products.
 
