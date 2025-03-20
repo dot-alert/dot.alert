@@ -21,7 +21,7 @@ _20th March 2025 | A thread by Pooja G._
 
 
 
-**Meet your Web3Security champions - The** [**Anti-Scam team**](https://polkadot.antiscam.team/)**!**&#x20;
+**Meet your Web3 Security champions - The** [**Anti-Scam team**](https://polkadot.antiscam.team/)**!**&#x20;
 
 This is a dedicated force working 24/7 to keep the Polkadot ecosystem safe and secure.&#x20;
 
