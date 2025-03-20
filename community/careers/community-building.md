@@ -15,6 +15,44 @@ layout:
 
 # Community building
 
+## Protect users from crypto scams.
+
+_20th March 2025 | A thread by Pooja G._
+
+
+
+**Meet your Web3Security champions - The** [**Anti-Scam team**](https://polkadot.antiscam.team/)**!**&#x20;
+
+This is a dedicated force working 24/7 to keep the Polkadot ecosystem safe and secure.&#x20;
+
+What does this squad have to offer? They combine proactive monitoring, educational resources, and rapid response to threats. Think of them as digital bodyguards who also teach you how to stay safe in the crypto world.&#x20;
+
+<figure><img src="../../.gitbook/assets/Thread8.1.PNG" alt=""><figcaption></figcaption></figure>
+
+
+
+Let's talk about Anti-Phishing. The Anti-Scam team actively scans websites and [social platforms](../../content/4.social-support/) for suspicious activities. They're like security cameras for the Polkadot ecosystem, constantly watching for fake sites, misleading links, and potential threats to your assets.&#x20;
+
+Looking at the numbers: In 2024 alone, this team tracked 13,103 bad actors, with 10,718 targeting the Polkadot ecosystem at large. They stand at an impressive 92.7% takedown rate! That's over 9,900 threats neutralized to keep your assets safe. &#x20;
+
+The team is building a comprehensive database of DNS registrars, streamlining the fight against dangerous websites, and exploring new strategies to combat emerging threats. Bonus: an exciting collaboration with [ChainPatrol](https://chainpatrol.io/) is in the works!
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd19R14seJ_yuqgt4AGR5tjAyeTXCWcG8-szbC3hDQ1A3EGs0K0BuPRKgbP6DuGmo-cNKvz6z2fbB3MKnESIPN3-rf6-Lw1kxUWQP2OHzSOQZaTFRjqm3TpDms_LOhP-_nt0j511g?key=YvP5_Rc3vU0iywvaG9wllWmF" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+Outreach is key! The Anti-Scam crew doesn't work in isolation. They collaborate with various partners to spread awareness about scams. This is a true neighbourhood watch program for the entire Polkadot community!&#x20;
+
+Got questions or concerns? Their social channels are your direct line to security updates. Follow their X profile for real-time alerts and check out their YouTube channel for detailed safety guides. All their resources are free and accessible.&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVv_b-nXJ41PGOYBVedV1ZUr2qewnpayT3GkZ6HwuaZCXfaoHC2AYjmHr2VXo6qHSFidhp7p65mXSstXdZPIM9DGj7yV13W_Bd_Y1agTGxO1xdNk2FcLzbiDBcfiDnX9Dh8z0a6g?key=YvP5_Rc3vU0iywvaG9wllWmF" alt="" width="563"><figcaption></figcaption></figure>
+
+The Anti-Scam bounty could be your gateway to a career in the blockchain industry. Visit [polkadot.antiscam.team](https://polkadot.antiscam.team/) to access a wealth of digital security knowledge and join the fight against crypto scams!
+
+
+
+***
+
 ## Promote positive interactions.
 
 _6th March 2025 | A thread by Pooja G._
