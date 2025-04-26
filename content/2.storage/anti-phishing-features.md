@@ -36,5 +36,5 @@ The Polkadot-JS extension allows users to manage these authorizations, giving th
 
 The anti-phishing library is a JSON file hosted in an open source public GitHub repository. Any junior developer on their first day can easily integrate the code with an import request using python.&#x20;
 
-Several [wallets](../../useful-tools/wallets.md) that are built on top of the Polkadot-JS extension and have integrated these anti-phishing libraries. Among these wallets are Talisman, Subwallet, Nova wallet, and Fearless wallet.&#x20;
+Several wallets that are built on top of the Polkadot-JS extension and have integrated these anti-phishing libraries. Among these wallets are Talisman, Subwallet, Nova wallet, and Fearless wallet.&#x20;
 

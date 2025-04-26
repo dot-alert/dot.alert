@@ -20,7 +20,7 @@ Unlike web wallets that are managed by a third-party entity, browser extension w
 
 ### How do Browser Extension Wallets Work?
 
-At a basic level, browser extension wallets allow users to create new accounts, import existing accounts, transfer tokens, and connect to Polkadot ecosystem dapps to sign transactions. However, a growing number of extensions now incorporate extra functionalities such as staking tokens, voting on OpenGov referenda, contributing to [crowdloans](../3.operations/crowdfunding/crowdloans.md), and sending NFTs.&#x20;
+At a basic level, browser extension wallets allow users to create new accounts, import existing accounts, transfer tokens, and connect to Polkadot ecosystem dapps to sign transactions. However, a growing number of extensions now incorporate extra functionalities such as staking tokens, voting on OpenGov referenda, contributing to crowdloans, and sending NFTs.&#x20;
 
 Browser extension wallets are designed to support a variety of coins and tokens from multiple Polkadot networks and projects. For convenience, they can also work as a computer-based middleware to handle operations between offline devices and online dapps. Browser extension wallets are automatically updated as soon as a newer release becomes available, which helps maintain their security features.
 

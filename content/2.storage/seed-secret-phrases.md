@@ -20,7 +20,7 @@ A Polkadot account can be created from a variety of cryptography types based on 
 
 ### How do Seed/Secret Phrases work?
 
-When you create a Polkadot account, your [wallet](../../useful-tools/wallets.md) generates a seed/secret phrase for that specific account. You must note down this seed/secret phrase carefully, as it is the actual "key" needed to gain access to your assets. It is also possible to create new accounts from an existing account without generating additional seed/secret phrases: this is done via a process called "derivation".&#x20;
+When you create a Polkadot account, your wallet generates a seed/secret phrase for that specific account. You must note down this seed/secret phrase carefully, as it is the actual "key" needed to gain access to your assets. It is also possible to create new accounts from an existing account without generating additional seed/secret phrases: this is done via a process called "derivation".&#x20;
 
 Some wallets only give you one chance to note down your seed/secret phrase at the beginning, after which they will not display it anymore. Other wallets allow you to see your account's seed/secret phrase at anytime by getting you to set up a password to lock your wallet's information beforehand. As a security measure, you will be asked to re-enter that password right before you can view any account's seed/secret phrase.
 
