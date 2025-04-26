@@ -8,7 +8,6 @@ The Polkadot ecosystem offers many options for raising funds as part of Web3 dev
 
 Currently, the most accessible fundraising avenues include:
 
-* [Crowdloans](crowdloans.md)
 * [Treasury spends](treasury-spends.md)
 * [DAO incubators](dao-incubators.md)
 * [Initial DEX Offerings](initial-dex-offerings.md)

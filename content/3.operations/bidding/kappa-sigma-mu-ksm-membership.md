@@ -30,5 +30,3 @@ Bidding for a KSM membership can be a bit of a guessing game because it is the s
 
 As a general rule, it is best to prepare for the PoI ceremony while placing small bids, because as soon as you are shortlisted, you will be asked to submit a photo of your real-life tattoo. If you fail at PoI, you run the risk of getting suspended/blocked from applying to the Society at a later time.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_BGuideKappaSM.JPG" alt="A step-by-step guide on how to participate in the Kappa Sigma Mu (KΣM) society."><figcaption><p>Step-by-step tutorials on Kappa Sigma Mu operations in the <a href="https://anaelleltd.github.io/polkadotjs-guide/2.network.html#society"><em>Guide to Polkadot-JS</em></a>.</p></figcaption></figure>
-

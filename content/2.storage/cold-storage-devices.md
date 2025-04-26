@@ -30,7 +30,7 @@ The majority of cold storage devices can be used with third-party dapps, mobile 
 
 Although users of cold storage devices benefit from state of the art security technology, they still have to submit their personal information to manufacturers and retailers when ordering their hardware. In the past, there have been database breaches during which email and postal addresses of buyers were stolen and subsequently used for phishing and scams.&#x20;
 
-Cold storage devices offer variable levels of support for the Polkadot ecosystem, and most of them only support the most basic transactions (i.e sending, receiving, and staking). Users who wish to carry out more complex on-chain operations like participating in governance or contributing to [crowdloans](../3.operations/crowdfunding/crowdloans.md) still need to transfer their assets to a hot wallet to access these functionalities.
+Cold storage devices offer variable levels of support for the Polkadot ecosystem, and most of them only support the most basic transactions (i.e sending, receiving, and staking). Users who wish to carry out more complex on-chain operations like participating in governance still need to transfer their assets to a hot wallet to access these functionalities.
 
 It is also important to note that due to the frequent runtime upgrades conducted on Relay chains and Parachains, users may experience errors while using cold storage devices from time to time. This is because the security features of these devices make it impractical to automatically synchronise the firmware with multiple networks and the dapps that they host.&#x20;
 

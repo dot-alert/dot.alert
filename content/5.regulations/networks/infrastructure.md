@@ -20,8 +20,6 @@ The Polkadot SDK is used to build a variety of private or permissioned chains th
 
 Currently, there isn't any comprehensive law or bill that gives clear guidelines for establishing whether a network is decentralised or centralised. Most of the literature on this topic is written by technologists and developers in the course of their research and/or experiments. However, the question of decentralisation remains important in defining whether the assets issued on a given network can be classified as [financial products](https://www.consilium.europa.eu/en/press/press-releases/2022/06/30/digital-finance-agreement-reached-on-european-crypto-assets-regulation-mica/).
 
-<figure><img src="../../../.gitbook/assets/R_NOAK.JPG" alt="A sample of OAK network&#x27;s Terms and conditions for their crowdloan campaign."><figcaption><p>Extract from <a href="https://oak.tech/">OAK network</a>'s crowdloan Terms and conditions.</p></figcaption></figure>
-
 ### Network Assets
 
 With the exception of Common Good parachains, all chains that are currently running in the Polkadot ecosystem use a native token that was launched at genesis. Networks often give a general outline of the terms and conditions attached to the distribution, release, and use cases of their native coin in the Tokenomics section of their whitepaper. Similarly, most active community projects and/or DAOs make use of tokens (fungible or not) to give certain rights to the holders.&#x20;

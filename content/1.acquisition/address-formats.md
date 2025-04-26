@@ -24,9 +24,8 @@ Even though the same Polkadot account will work on interoperable networks, addre
 
 In practice, this means that:
 
-* you might be able to send/receive Polkadot assets onto a Polkadot parachain, but you won't be able to send/receive Polkadot assets onto a Kusama Parachain (yet).&#x20;
-* you will not be able to sign a transaction on a Polkadot parachain with the Polkadot Ledger app.
-* you might not be able to use a Polkadot address on a transaction explorer built for Kusama.
+* you might be able to send/receive Polkadot assets onto a Polkadot parachain, but you won't be able to send/receive Polkadot assets onto a Kusama Parachain.&#x20;
+* you will not be able to use a Polkadot address on a transaction explorer built for Kusama.
 
 
 

@@ -24,8 +24,6 @@ Even though some crypto projects tend to conduct regular in real life (IRL) even
 
 [Content creation](../../../useful-tools/misc.md) plays a central role in the life of a crypto community because it represents a way to promote a project and a mean to onboard new collaborators. This usually involves creating informal videos and podcasts or publishing beginner-friendly infographics and blog posts. More experienced creators often strive to highlight the unique features and use cases of a project, which helps attract potential users and investors.  &#x20;
 
-<figure><img src="../../../.gitbook/assets/O_CBPolkadotPhilosophy.PNG" alt="A sample of in-depth articles posted by Polkadot Philosophy."><figcaption><p><a href="https://polkadotphilosophy.medium.com/">Polkadot Philosophy</a> publishes in-depth articles on the roadmap of Polkadot developments.</p></figcaption></figure>
-
 
 
 ### Risks: Managing Online Reputations&#x20;

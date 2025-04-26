@@ -22,9 +22,9 @@ Blockchain projects are entreprises, ventures, and initiatives supported by digi
 
 By releasing a range of assets to a varied audience, blockchain projects seek to grow their real-world valuation and adoption. These assets consist of fungible tokens and non-fungible tokens (NFTs) which are issued to investors to raise funds through various avenues such as private rounds with Venture Capital (VCs), public rounds on launchpads, Initial Exchange Offerings (IEOs), [Initial DEX Offerings (IDOs)](../../3.operations/crowdfunding/initial-dex-offerings.md), pre-mines, and other rewards. In the Polkadot ecosystem, Relay chain-issued assets come with pre-established use cases such as on-chain governance, staking, and crowdloans. In turn, ecosystem platforms extend these primary use cases by allowing users to mint derivatives for DeFi transactions or create wrapped assets for multichain operations on external blockchains.
 
-<figure><img src="../../../.gitbook/assets/R_IPolymesh.JPG" alt="Webpage of Polymesh network presenting its no-code approach to digital assets issuance."><figcaption><p><a href="https://polymesh.network/">Polymesh</a>'s institutional-grade infrastructure looks to facilitate the issuance of regulated assets.</p></figcaption></figure>
-
 Given that network assets can be held and traded internationally, some lawmakers are worried that they will eventually threaten the [monetary and financial sovereignty](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-august-2022-briefing-no-163/) of developing countries around the world. A widespread perspective is that the absence of a global framework for monitoring the flow of these assets is problematic and the circulation of large amounts of capital between both lawful and illicit enterprises on the global scale could make legislation difficult to enforce by regulatory bodies.
+
+<figure><img src="../../../.gitbook/assets/R_IPolkadotForum.JPG" alt="A page of Polkadot Forum with ongoing discussion threads about ecosystem initiatives."><figcaption><p>The <a href="https://forum.polkadot.network/">Polkadot Forum</a> offers a space for ecosystem coordination between investors, builders, and end-users.</p></figcaption></figure>
 
 ### Tokenomics
 
@@ -33,8 +33,6 @@ Blockchain projects come with their own tokenomics, which outline the mechanisms
 Blockchain [networks ](../networks/)further manage their token issuance by adopting a capped supply, implementing token burns, and scheduling redistribution events and airdrops. Projects that do not set a maximum token supply are driven to grow their technologies and use cases at a rapid pace, and this inflationary aspect plays an important role in pushing its adoption beyond the small circle of initial investors. In the Polkadot ecosystem, investors tend to look at metrics such as the rate of issuance and the number of tokens locked in various protocols to evaluate the performance of networks’ tokens.
 
 Regulators are concerned that the monetary nature of cryptocurrencies and their apparent value as a medium of exchange [mask their inherent volatility](https://moneysmart.gov.au/investment-warnings/cryptocurrencies) in the eyes of unsuspecting consumers. The analysis of blockchain projects and the acquisition of digital assets are highly specialised endeavours that expose participants to different kinds of risks. As a result, regulators are increasingly scrutinising issuance processes to protect investors and prevent bad actors from engaging in exploitative practices.
-
-<figure><img src="../../../.gitbook/assets/R_IPolkadotForum.JPG" alt="A page of Polkadot Forum with ongoing discussion threads about ecosystem initiatives."><figcaption><p>The <a href="https://forum.polkadot.network/">Polkadot Forum</a> offers a space for ecosystem coordination between investors, builders, and end-users.</p></figcaption></figure>
 
 
 

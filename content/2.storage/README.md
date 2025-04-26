@@ -27,7 +27,7 @@ There are **many options available for storing your assets**, but you will first
 * **Security features:** How valuable are these assets?
 * **Storage duration:** How long are you going to hold onto these assets?
 
-<figure><img src="../../.gitbook/assets/S_Wallets.JPG" alt="A screenshot of all logos for popular wallets in the Polkadot ecosystem."><figcaption><p>Polkadot <a href="https://wiki.polkadot.network/docs/build-wallets">wallets</a> ensure the availability of assets across devices and platforms.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/S_Wallets2.jpg" alt="A screenshot of all logos for popular wallets in the Polkadot ecosystem."><figcaption><p>Polkadot <a href="https://wiki.polkadot.network/docs/build-wallets">wallets</a> ensure the availability of assets across devices and platforms.</p></figcaption></figure>
 
 Most people start with custodial wallets (i.e whereby you don't actually own the assets and these can be seized by the platform you are using at any time) before moving on to [non-custodial wallets](../../useful-tools/wallets.md) (i.e you own your assets and are free to move them around). However, to "be your own bank", you will also need to set your own processes and keep up with wallet developments. This is all to ensure that your assets remain safe at all time.&#x20;
 

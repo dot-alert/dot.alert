@@ -18,8 +18,6 @@ Reddit is a social networking platform that hosts a variety of communities for l
 
 Each subreddit represents a specific project and comes with its own set of rules regarding topics, threads, resources, languages, and behaviours. Some subreddits operate in restricted mode, so that members can view posts from the team, but not create posts themselves. Regardless, subreddit members can always send a strong signal to project teams by upvoting or downvoting posts from a given topic/presentation.
 
-<figure><img src="../../.gitbook/assets/S_RDot.JPG" alt="A view of community rules and resources available for r/dot, a subreddit for Polkadot network."><figcaption><p>An overview of Community rules and resources for the <a href="https://www.reddit.com/r/dot/">r/dot</a> subreddit</p></figcaption></figure>
-
 Subreddits are usually maintained by moderators who relay important information to the community, provide technical support, and ensure that rules are followed within the forum. They also play a central role in encouraging [community interactions](./) with comments, awards, or mentions. Members can also cross-post information that they feel is relevant to the project, ask questions, answer queries, and share useful resources within subreddits.
 
 &#x20;

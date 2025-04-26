@@ -10,5 +10,5 @@ NFT trading is the practice of creating unique digital assets on-chain or purcha
 
 In the Polkadot ecosystem, users have many options for minting, storing, and retrieving their NFTs; with some platforms offering additional services to [manage NFTs](data-management.md) and [secure their value](marketplace-activities.md) over time.
 
-<figure><img src="../../../.gitbook/assets/O_NFTStatemine.JPG" alt="An overview of Anatomy of Crypto Canary, a limited edition NFT, showing the NFT painting and its ownership details."><figcaption><p><a href="https://statemine.statescan.io/#/uniques">Asset Hub</a> (Common good parachain) hosts a range of NFT assets called "Uniques".</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_NFTStatemine.JPG" alt="An overview of Anatomy of Crypto Canary, a limited edition NFT, showing the NFT painting and its ownership details."><figcaption><p><a href="https://statemine.statescan.io/#/uniques">Asset Hub</a> hosts a range of NFT assets called "Uniques".</p></figcaption></figure>
 

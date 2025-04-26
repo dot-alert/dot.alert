@@ -20,8 +20,6 @@ Ambassador and Growth programmes are the most popular options for incentivising 
 
 The Anti-scam and the Community moderation teams are special community initiatives entirely funded by bounties which are paid out by the [Community treasury](../crowdfunding/treasury-spends.md). These bounties are subdivided into daily and weekly duties (also called "child bounties") that team members (also called "child bounty implementers") undertake as one-off tasks paid upon completion or as recurring tasks paid monthly. There is a base salary paid to bounties administrators (also called "curators"), but they can also earn more by evaluating and reviewing additional tasks. To maintain high-standards across the board, there are monthly evaluations and blind peer-assessments in place.&#x20;
 
-<figure><img src="../../../.gitbook/assets/O_CBModerationBudget.PNG" alt="General rates for the Polkadot Moderation team bounty."><figcaption><p>Proposed rates for the <a href="https://polkadot.polkassembly.io/bounty/24">Polkadot Moderation team bounty</a>. </p></figcaption></figure>
-
 For content creators, budding influencers, and tinkerers, the incentives vary depending on whether they are part of existing communities, in a team, or working solo. In a popular hubs for content creators, there is often a tiered system in place to rank and reward contributors based on their output, their experience, and their standing. In more selective groups, contributors have access to networking opportunities which can lead to full-time employment. Builders who have a working Proof-Of-Concept or dApp can also request a tip from the [OpenGov](../voting/) community to receive payouts from the Treasury.
 
 
