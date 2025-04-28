@@ -117,7 +117,7 @@ In Web3, standards for salaries and wages are far from established. Salaries can
 
 Without clear salary expectations, workers often have to negotiate their pay check blindly. New contributors and participants from developing countries might accept much lower pay than what their counterparts would earn for the same role in traditional tech sectors. Over time, this makes it challenging to assess the fair market value of their contributions.
 
-<figure><img src="../../.gitbook/assets/Blog016_Web3Salariesrisks (1).png" alt="Workers in the Web3 industry can face difficulties in the payments of their wages." width="375"><figcaption><p>Obtaining fair compensation is a challenge for the Web3 workers. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blog016_Web3Salariesrisks (1).png" alt="Workers in the Web3 industry can face difficulties in the payments of their wages." width="375"><figcaption><p>Obtaining fair compensation is a challenge for Web3 workers. </p></figcaption></figure>
 
 ### Irregular payments
 
@@ -219,7 +219,7 @@ Web 3 is the next generation of the internet that is built on top of blockchain 
 
 ### Who works in Web3?
 
-Web3 attracts a diverse range of professionals, such as developers, designers, data analysts, content creators, marketers, and community managers. Currently, developers are in high demand because they are skilled in blockchain programming languages such as Solidity for the Ethereum ecosystem and Rust for the [Polkadot](../../content/5.regulations/networks/) network. As the blockchain industry matures, traditional roles such as legal advisors and compliance experts will be in demand to help investors and entrepreneurs navigate the regulatory landscape.
+Web3 attracts a diverse range of professionals, such as developers, designers, data analysts, content creators, marketers, and community managers. Currently, developers are in high demand because they are skilled in blockchain programming languages such as Solidity for the Ethereum ecosystem and Rust for [Polkadot](../../content/5.regulations/networks/) network. As the blockchain industry matures, traditional roles such as legal advisors and compliance experts will be in demand to help investors and entrepreneurs navigate the regulatory landscape.
 
 ### Where are open positions advertised?
 

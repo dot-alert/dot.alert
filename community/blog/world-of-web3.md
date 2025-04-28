@@ -21,7 +21,7 @@ _15th April 2025 | A report by Adewumi V._
 
 
 
-Getting started in Web3 can be very challenging because people are often forced to navigate complex interfaces and security layers. This initial process involving crypto exchanges and wallet setups can be discouraging, so there is a need for a solution that can make these experiences smoother for users.
+Getting started in Web3 can be very challenging because participants are often forced to navigate complex interfaces and security layers. This initial process involving crypto exchanges and wallet setups can be discouraging, so there is a need for a solution that can make these experiences smoother for users.
 
 
 
@@ -29,7 +29,7 @@ Getting started in Web3 can be very challenging because people are often forced 
 
 _Ramp Network_ is a fiat-to-crypto on-and-off-ramp Web3 solution that allows users to buy and sell cryptocurrencies from dApps, wallets, NFT Marketplaces, and other platforms.
 
-Many users hesitate to go through with Web3 because they fear they won’t be able to convert their crypto back into fiat. _Ramp Network_ solves this potential problem by allowing users to buy crypto without leaving the app. Instead of signing up on a separate exchange, users can enter their payment details and receive crypto in their wallets within minutes.
+Many users hesitate to go through with Web3 because they fear they won’t be able to convert their [crypto](../../content/3.operations/community-building/crypto-payments.md) back into fiat. _Ramp Network_ solves this potential problem by allowing users to buy crypto without leaving the app. Instead of signing up on a separate exchange, users can enter their payment details and receive crypto in their wallets within minutes.
 
 _Ramp Network_ also connects to multiple local and global payment systems, including _Visa, Mastercard, Apple Pay, Revolut_, bank transfers, and more. This ensures users can purchase crypto using familiar methods, reducing friction in the process.
 
@@ -69,7 +69,7 @@ User experience (UX) is a crucial element of Web3, shaping how users interact wi
 
 In a decentralized ecosystem where users have greater control over their data and transactions, UX must be designed to help users navigate these complexities. _WalletConnect_ plays a key role by simplifying interactions and reinforcing security across multiple platforms.&#x20;
 
-_WalletConnect_ is an on-chain UX ecosystem that addresses a major User Experience (UX) and Developer Experience (DX) challenge in Web3: the disconnect between desktop-based dApps and mobile wallets. WalletConnect provides a universal and secure way for users to connect their wallets to dApps via QR codes or deep links.
+_WalletConnect_ is an on-chain UX ecosystem that addresses a major User Experience (UX) and Developer Experience (DX) challenge in Web3: the disconnect between desktop-based dApps and [mobile wallets](../../content/2.storage/mobile-wallets.md). WalletConnect provides a universal and secure way for users to connect their wallets to dApps via QR codes or deep links.
 
 Beyond refining accessibility, composability, and connectivity, _WalletConnect_ also ensures mobile compatibility, multi-wallet support, and cross-chain interactions. It simplifies authentication with one-click “Sign-In With Ethereum” (SIWE) and reduces friction in KYC.
 
