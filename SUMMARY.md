@@ -92,6 +92,7 @@
 * [Careers](community/careers/README.md)
   * [Blockchain education](community/careers/blockchain-education.md)
   * [Community building](community/careers/community-building.md)
+  * [Technical collaboration](community/careers/technical-collaboration.md)
 * [Ebooks](community/series/README.md)
   * [On the DOT - First edition](community/series/on-the-dot-first-edition.md)
   * [On the DOT - Special edition](community/series/on-the-dot-special-edition.md)
