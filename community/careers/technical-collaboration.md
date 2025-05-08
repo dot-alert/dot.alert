@@ -17,7 +17,7 @@ layout:
 
 ## Hack on Polkadot SDK.
 
-_13th May 2025 | A thread by Pooja G._
+_8th May 2025 | A thread by Pooja G._
 
 
 
