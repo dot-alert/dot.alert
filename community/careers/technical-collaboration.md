@@ -15,6 +15,47 @@ layout:
 
 # Technical collaboration
 
+## Contribute to Polkadot SDK.
+
+_22nd May 2025 | A thread by Pooja G._
+
+
+
+**Transform your coding journey with** [**Kudos**](https://www.morekudos.com/): where blockchain developers find their perfect match! If you have ever dreamed of seamlessly connecting with Web3 projects that align with your skills, let’s see how Kudos can empower you to contribute!&#x20;
+
+<figure><img src="../../.gitbook/assets/Thread10.1.PNG" alt=""><figcaption></figcaption></figure>
+
+
+
+Kudos is an intelligent matchmaking platform designed specifically for the Polkadot ecosystem. By bringing together talented developers and cutting-edge projects, it creates the perfect environment for incubation and growth.
+
+Picture yourself browsing through opportunities that align with your skills and interests. Whether you're experienced in Rust, Ink!, or TypeScript, Kudos will help you discover relevant projects without endless GitHub searching.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKlgpFH6haJxgomkm_5qXUl54obJzjdIZcBegiqFoEVnFH2ehnvppaRsqQLoqTqCOINtAbyKW_sOhTFeJ5E0eyqLuNXpdu4rW9e2C8sFoZuMdNCs0-MamKhszbEzzHV9Ryf9i8_Q?key=soy9_QGG7QWQExVEDK95UTbe" alt="" width="563"><figcaption></figcaption></figure>
+
+For developers, the benefits are clear: find projects that match your expertise and work on meaningful contributions. Polkadot projects can tag contributions with custom rewards: native tokens, NFTs, and POAPs. This setup turns interest for coding into tangible benefits.
+
+
+
+Kudos is also pioneering a concept called "Agile Devtime" to allow projects to quickly scale their workforce when needed. This approach is effective when responding to new grants or polishing existing features, so that core developers can focus on strategic initiatives.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYh4V5FrF931EKWJ_IDtquz-ZHxSLNQ9QInw8gmtksTc03M5_r0WVoW9Rof1laBICIi52TQ7Jddi2NM_fzVtsbJ7WKue6nsp7G5QhrtEVxAhWCd9OYK8SVWRxplA_vep1oYiYEPA?key=soy9_QGG7QWQExVEDK95UTbe" alt="" width="563"><figcaption></figcaption></figure>
+
+What sets Kudos apart?
+
+* A unified access to repositories from the Polkadot ecosystem
+* Smart filtering by technology or purpose
+* High-quality task curation with clear context
+* Automated incentives distribution
+* Direct connection to 40+ leading projects
+
+\
+&#x20;Visit [morekudos.com](https://www.morekudos.com/) to join the +2000 builders that are already transforming the Polkadot ecosystem. Whether you're looking to contribute or need talented developers for your project, Kudos is where opportunity meets talent!&#x20;
+
+
+
+***
+
 ## Hack on Polkadot SDK.
 
 _8th May 2025 | A thread by Pooja G._
