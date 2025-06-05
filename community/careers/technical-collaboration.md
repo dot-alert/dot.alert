@@ -15,6 +15,45 @@ layout:
 
 # Technical collaboration
 
+## Build ink! projects.
+
+_5th June 2025 | A thread by Pooja G._
+
+
+
+**Unleash your blockchain potential with** [**Ink!ubator**](https://use.ink/inkubator/)**.** This is an open call for all Web3 developers to start their breakthrough projects!&#x20;
+
+<figure><img src="../../.gitbook/assets/Thread11.1.PNG" alt=""><figcaption></figcaption></figure>
+
+
+
+Ink!ubator is a comprehensive launchpad designed to supercharge the ink! smart contract ecosystem. Funded by the Polkadot Treasury, this initiative is all about empowering developers to create blockchain solutions across Polkadot, Kusama, and Substrate chains.
+
+The program offers a comprehensive journey for developers. From ideation to deployment, Ink!ubator provides end-to-end support to transform innovative ideas into real-world dApps. It also unlocks access to core developers, personalized mentorship, and up to $50,000 in grants!
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcK0jawf0jvDe2d955kTedR8AJsH5e8pLbg1QTx-1ExElkM0Pt1NnWjBmG0M-8yvV0xDH59fZQPLHDWWZnzHmbIeAEyWWwW6UlMXxG882f1wRsflpi6sWBFdFF007UXyvNpzKN1BQ?key=V9tIobTOdO35YTrA_DlH9EMN" alt="" width="563"><figcaption></figcaption></figure>
+
+More than funding, Ink!ubator is about creating the next generation of blockchain solutions, such as:
+
+* Building an advanced DEX
+* Creating a modular NFT marketplace
+* Developing [infrastructure](../../content/5.regulations/networks/infrastructure.md) tools
+* Pioneering new smart contract technologies
+
+
+
+What makes Ink!ubator compelling is its coverage of various project categories. Whether you're creating custom fintech services or tinkering with industry-wide frameworks, there's a track to perfect your vision.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdII3rW_d258hElyDbenW4Q6OsHEbLYy6YX8JvDZT_tajv5Sw7VRiyp44fBz-akaf-urJyLd_S64q7fr9aFyvfmgjlNtnqoltmH0KRACfKJgLUbQrYduFiJZG9f8jqC9cEtT17w?key=V9tIobTOdO35YTrA_DlH9EMN" alt="" width="563"><figcaption></figcaption></figure>
+
+The selection process is open and community-driven. Projects apply through GitHub, and monthly updates are shared on the Polkadot Forum. This ensures full visibility and helps create opportunities for feedback and collaboration.
+
+Think your project can become a big step forward for Web3 ecosystems? Don't miss your chance to transform your vision into reality! Apply at [use.ink/ubator](https://use.ink/inkubator/).
+
+
+
+***
+
 ## Contribute to Polkadot SDK.
 
 _22nd May 2025 | A thread by Pooja G._
@@ -33,7 +72,7 @@ Picture yourself browsing through opportunities that align with your skills and 
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKlgpFH6haJxgomkm_5qXUl54obJzjdIZcBegiqFoEVnFH2ehnvppaRsqQLoqTqCOINtAbyKW_sOhTFeJ5E0eyqLuNXpdu4rW9e2C8sFoZuMdNCs0-MamKhszbEzzHV9Ryf9i8_Q?key=soy9_QGG7QWQExVEDK95UTbe" alt="" width="563"><figcaption></figcaption></figure>
 
-For developers, the benefits are clear: find projects that match your expertise and work on meaningful contributions. Polkadot projects can tag contributions with custom rewards: native tokens, NFTs, and POAPs. This setup turns interest for coding into tangible benefits.
+For developers, the benefits are clear: find projects that match your expertise and work on meaningful contributions. Polkadot projects can tag contributions with custom rewards: native [tokens](../../content/3.operations/swapping/pairs-availability.md), NFTs, and POAPs. This setup turns interest for coding into tangible benefits.
 
 
 
@@ -74,7 +113,7 @@ Their impact is real: OpenGuild has distributed over $20,000 in bounties and cel
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-r-de2yWtMaNYpFf6CSbAG74Esdl_wqk8BTcMrVxC11Ny4fgr23pkn67kc5AQoNqC1sdFJmBmWAnWyZSz_DunL7wXF3NWJyPERZPjVFx0S08WE-KMDmDwnv1_e2phQRgQpA6RWw?key=_6NP5SaL_9mqwLH8mByASA2D" alt="" width="563"><figcaption></figcaption></figure>
 
-Want to see what OpenGuild members are creating? From PolFT (an Interchain Gaming NFT Leasing platform) to GmGN (a super-fast wallet using Passkeys), these doers are building practical solutions for everyday Web3 challenges using Polkadot technologies.
+Want to see what OpenGuild members are creating? From PolFT (an Interchain Gaming NFT Leasing platform) to GmGN (a super-fast wallet using Passkeys), these doers are building practical solutions for everyday Web3 challenges using [Polkadot technologies](../../content/5.regulations/networks/).
 
 
 
