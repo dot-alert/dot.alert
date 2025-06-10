@@ -15,6 +15,44 @@ layout:
 
 # World of Web3
 
+## Web3 Usability with [_Osmosis_](https://osmosis.zone/)
+
+_10th June 2025 | A report by Catherine N._
+
+
+
+Decentralized finance (DeFi) platforms often struggle with complex interfaces, slow transactions, and high fees, creating barriers for both new and experienced users. Osmosis, a decentralized exchange (DEX) within the Cosmos ecosystem, works around these hurdles by providing a user-focused trading experience for the Web3 industry.&#x20;
+
+
+
+## Which problems does _Osmosis_ solve?
+
+One of the key issues Osmosis addresses is cross-chain interoperability. In common setups, users must bridge assets manually before they become available for use. This is confusing, time-consuming, and very risky. Osmosis uses the Inter-Blockchain Communication (IBC) protocol to enable automated and low-cost transfers across 100+ blockchain networks, including Ethereum, Polkadot, and Bitcoin. This eliminates friction to make users trade as if all their assets were on a single network.
+
+The rigidity of liquidity pool structures seen in most DEXes often limits users' access to and control of their assets. Osmosis has introduced the concept of customizable liquidity pools, where liquidity providers can immediately adjust token weights, compositions, and fees through a simple interface.
+
+Other major issues that deter users from engaging with DeFi are gas fees, transaction delays, and complex UIs. Through its Cosmos-based architecture, Osmosis pushes for low-cost and high-speed transactions, making DeFi trading more accessible for beginners and more responsive to experienced traders’ needs.&#x20;
+
+<figure><img src="../../.gitbook/assets/Blog022_OsmosisTokenPools.jpg" alt="Osmosis provides user-friendly and multichain  DeFi portfolio management tools."><figcaption></figcaption></figure>
+
+## Who are the main users of _Osmosis_?
+
+Osmosis serves a broad audience which includes traders, [liquidity providers](../../content/3.operations/lending/liquidity-provision.md), and developers. Traders mostly stand to gain, with features that support transacting with assets across multiple blockchains. User feedback on Twitter and Reddit highlights the platform’s improved transaction staging and fair fees.
+
+For liquidity providers, Osmosis gives the option to have greater control over investments with customizable pool parameters and real-time analytics. Developers can use Osmosis’s open-source framework to build decentralized applications (dApps), AMMs, yield aggregators, and NFT marketplaces, all with various cross-chain integrations. Builders praise Osmosis for its ease of use and powerful cross-chain tools.
+
+
+
+## How popular is _Osmosis_ in the industry?
+
+Osmosis has established itself as a leading DeFi platform, with $39+ billion in all-time trading volume and over 1 million active users. Its success is driven by full integration with the Cosmos ecosystem and other major networks like Ethereum and Bitcoin.
+
+Osmosis has also earned recognition from media outlets like CoinDesk and CryptoSlate, highlighting its role in cross-chain and simplified decentralized trading. Osmosis continues to expand on its original proposition through new offerings like the Polaris token portal and active collaborations with NFT communities like Mad Scientists.
+
+
+
+***
+
 ## Web3 Utility with [_NOWPayments_](https://nowpayments.io/)
 
 _13th May 2025 | A report by Adewumi V._
