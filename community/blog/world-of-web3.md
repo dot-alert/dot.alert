@@ -25,7 +25,7 @@ Decentralized finance (DeFi) platforms often struggle with complex interfaces, s
 
 
 
-## Which problems does _Osmosis_ solve?
+**Which problems does&#x20;**_**Osmosis**_**&#x20;solve?**
 
 One of the key issues Osmosis addresses is cross-chain interoperability. In common setups, users must bridge assets manually before they become available for use. This is confusing, time-consuming, and very risky. Osmosis uses the Inter-Blockchain Communication (IBC) protocol to enable automated and low-cost transfers across 100+ blockchain networks, including Ethereum, Polkadot, and Bitcoin. This eliminates friction to make users trade as if all their assets were on a single network.
 
@@ -35,7 +35,7 @@ Other major issues that deter users from engaging with DeFi are gas fees, transa
 
 <figure><img src="../../.gitbook/assets/Blog022_OsmosisTokenPools.jpg" alt="Osmosis provides user-friendly and multichain  DeFi portfolio management tools."><figcaption></figcaption></figure>
 
-## Who are the main users of _Osmosis_?
+**Who are the main users of&#x20;**_**Osmosis**_**?**
 
 Osmosis serves a broad audience which includes traders, [liquidity providers](../../content/3.operations/lending/liquidity-provision.md), and developers. Traders mostly stand to gain, with features that support transacting with assets across multiple blockchains. User feedback on Twitter and Reddit highlights the platform’s improved transaction staging and fair fees.
 
@@ -43,7 +43,7 @@ For liquidity providers, Osmosis gives the option to have greater control over i
 
 
 
-## How popular is _Osmosis_ in the industry?
+**How popular is&#x20;**_**Osmosis**_**&#x20;in the industry?**
 
 Osmosis has established itself as a leading DeFi platform, with $39+ billion in all-time trading volume and over 1 million active users. Its success is driven by full integration with the Cosmos ecosystem and other major networks like Ethereum and Bitcoin.
 
@@ -63,7 +63,7 @@ As businesses and individuals embrace blockchain technology, the need for secure
 
 
 
-### Which problems does _NOWPayments_ solve?
+**Which problems does&#x20;**_**NOWPayments**_**&#x20;solve?**
 
 One of the biggest hurdles to Web3 adoption is making cryptocurrencies easy to use. Accepting payments in cryptocurrencies like Bitcoin can be complicated due to technicalities such as wallet addresses and blockchain processes. NOWPayments proposes essential tech tools like APIs, plugins, and widgets, to empower businesses to accept over 300 cryptocurrencies with minimal effort.
 
@@ -73,7 +73,7 @@ NOWPayments also seeks to enhance crypto security. The platform is non-custodial
 
 <figure><img src="../../.gitbook/assets/Blog021_NOWPaymentsStablecoins.jpg" alt="NOWPayments supports crypto payments processing for a wide range of blockchain use cases."><figcaption></figcaption></figure>
 
-### Who are the main users of _NOWPayments_?
+**Who are the main users of&#x20;**_**NOWPayments**_**?**
 
 NOWPayments is designed for a wide range of Web3 users. Businesses such as online stores, casinos, travel companies, and gaming platforms use NOWPayments to offer decentralized payment options to their customers.  These businesses get access to fast, low-cost, borderless payments across multiple blockchain [networks](../../content/5.regulations/networks/).
 
@@ -81,7 +81,7 @@ Dapps developers integrate NOWPayments' API to facilitate secure crypto transact
 
 
 
-### How popular is _NOWPayments_ in the industry?
+**How popular is&#x20;**_**NOWPayments**_**&#x20;in the industry?**
 
 Since its launch in 2019, NOWPayments has grown rapidly and is still onboarding new participants to the blockchain industry. Some of the thousands of merchants and businesses operating on the platform include ADVABET, Nownodes, and Travala.com. Users appreciate the platform for its wide range of supported cryptocurrencies and user-friendly integration options.&#x20;
 
@@ -101,7 +101,7 @@ Getting started in Web3 can be very challenging because participants are often f
 
 
 
-### Which problems does _Ramp Network_ solve?&#x20;
+**Which problems does&#x20;**_**Ramp Network**_**&#x20;solve?**&#x20;
 
 _Ramp Network_ is a fiat-to-crypto on-and-off-ramp Web3 solution that allows users to buy and sell cryptocurrencies from dApps, wallets, NFT Marketplaces, and other platforms.
 
@@ -111,7 +111,7 @@ _Ramp Network_ also connects to multiple local and global payment systems, inclu
 
 <figure><img src="../../.gitbook/assets/Blog020_RampNetworkIntegration.png" alt="Ramp Network allows Web3 users to purchase crypto directly from their preferred dApps."><figcaption></figcaption></figure>
 
-### Who are the main users of _Ramp Network_?&#x20;
+**Who are the main users of&#x20;**_**Ramp Network**_**?**&#x20;
 
 _Ramp Network_ has a use case for everyone in the Web3 ecosystem. Primarily, it is individuals who benefit the most through buying and selling crypto within dApps. According to many online reviews, _Ramp Network_ provides one of the best low-friction access to Web3 today.&#x20;
 
@@ -121,7 +121,7 @@ Brands and businesses are not left out either. By integrating _Ramp Network_’s
 
 
 
-### How popular is _Ramp Network_ in the industry?
+**How popular is&#x20;**_**Ramp Network**_**&#x20;in the industry?**
 
 With global coverage in over 150 countries, _Ramp Network_ connects to 110+ crypto assets across 40+ blockchains, including Bitcoin, Ethereum, and Solana networks. The Web3 platform is also trusted by several industry leaders, such as _Metamask_ and _Ledger_, among others.&#x20;
 
@@ -141,7 +141,7 @@ User experience (UX) is a crucial element of Web3, shaping how users interact wi
 
 
 
-### Which problems does WalletConnect solve?
+**Which problems does WalletConnect solve?**
 
 In a decentralized ecosystem where users have greater control over their data and transactions, UX must be designed to help users navigate these complexities. _WalletConnect_ plays a key role by simplifying interactions and reinforcing security across multiple platforms.&#x20;
 
@@ -151,7 +151,7 @@ Beyond refining accessibility, composability, and connectivity, _WalletConnect_ 
 
 <figure><img src="../../.gitbook/assets/Blog019_WalletCon2025.jpg" alt="WalletConnect runs a WalletCon conference to showcase UX trends in Web3."><figcaption></figcaption></figure>
 
-### Who are the main users of _WalletConnect_?&#x20;
+**Who are the main users of&#x20;**_**WalletConnect**_**?**&#x20;
 
 _WalletConnect_ serves everyone in the industry: UX designers, developers, and end users. UX designers can improve onboarding with authentication tools, while developers can use the SDK to integrate multi-wallet support into dApps. _WalletConnect_’s SDK is well-maintained and easy to use, because developers do not have to build separate solutions for each wallet.
 
@@ -159,7 +159,7 @@ End users also benefit from encrypted wallet-dApp interactions. Many users have 
 
 
 
-### How popular is _WalletConnect_ in the industry?
+**How popular is&#x20;**_**WalletConnect**_**&#x20;in the industry?**
 
 _WalletConnect_ is one of the most widely used on-chain UX solutions in Web3, serving retail users on both mobile devices and desktops. It is chain-agnostic and supports EVM networks (including Layer 2s), as well as the Solana, Cosmos, Polkadot, and Bitcoin ecosystems.&#x20;
 
