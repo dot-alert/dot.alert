@@ -15,6 +15,41 @@ layout:
 
 # Technical collaboration
 
+## Build open source projects.
+
+_19th June 2025 | A thread by Pooja G._
+
+
+
+**Developers, an opportunity awaits!** Polkadot’s [Open Source Developer Grants Bounty Program](https://github.com/PolkadotOpenSourceGrants) is now accepting applications for innovative projects! Build the future of Web3 with funding of up to $30K.
+
+This community-guided initiative aims to onboard up to 15 promising open-source projects to expand the ecosystem. Unlike traditional funding routes, this program streamlines the grant process with milestone-based payments and expert curator oversight.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc5CreB0THet5sZ69J07kkQw6292TLgDWL0H8ctIGij09Dfh2h79u7YB7WYQPL6bgcEy7VNXqoLpQUj3DroeXrgIRud5doyNkhAJbmQDtHS0VrGVVZUXGBBaRFC5SmYJeZk4lPM9w?key=7K5JPu2mWh5KL5o_VtZwYnk5" alt="" width="563"><figcaption></figcaption></figure>
+
+The program specifically targets individuals and small teams with proven experience in open-source development. Whether you're building proofs of concept, general-purpose libraries, or dApps, the bounty is there to offer support!
+
+
+
+Here is a glimpse of the application process:
+
+* Submit your proposal in the GitHub repository
+* Include project scope, technical specifications, and sustainability plan
+* Outline milestones with key deliverables
+* Demonstrate how your project addresses ongoing issues
+
+Want to maximize your chances? Focus on solving real ecosystem needs, demonstrate prior open-source contributions, and lay out specific milestones. The review process emphasizes technical feasibility and long-term value for Polkadot stakeholders.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcvb0IjwpSBpnnQHzUZ0eA1o9KvQroAFPQoipqTQLrUuJBEpmtzF3Vf_XfznhNj1nhG1DwKVCiapKqjbqmkLsTIK75g_vQqyM1a7bNSv6qM4Z1Lila9G-oP6mqt1c3UJyldL9a8?key=7K5JPu2mWh5KL5o_VtZwYnk5" alt="" width="563"><figcaption></figcaption></figure>
+
+For all approved projects, payments are released after successful milestone delivery. This structure ensures that funds go to teams that are actively building while maintaining transparency throughout the development process.
+
+Ready to apply? Visit[ https://github.com/PolkadotOpenSourceGrants](https://github.com/PolkadotOpenSourceGrants) to get started.
+
+
+
+***
+
 ## Build ink! projects.
 
 _5th June 2025 | A thread by Pooja G._
