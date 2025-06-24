@@ -25,11 +25,9 @@ layout:
 Browse through to:
 
 * learn about core Web3 technologies
-* discover popular tools
+* discover popular platforms
 * review advanced safety setups
 * explore regulatory developments
-
-
 
 _<mark style="background-color:red;">Disclaimer: All articles presented on our platform are written by</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">**Dot.alert()**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">contributors for educational purposes only. They should not be used as a substitute for competent operational, financial, and legal advice from a licensed professional.</mark>_&#x20;
 

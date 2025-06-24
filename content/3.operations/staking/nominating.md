@@ -14,7 +14,7 @@ _<mark style="background-color:red;">Disclaimer: This article is written by</mar
 
 Nominators play a central role in the election of the [validators](validating.md) who approve transactions and produce blocks. By locking their funds in staking protocols, they are not only helping protect the network from bad actors, but also maximising returns for themselves.
 
-<figure><img src="../../../.gitbook/assets/O_SDashboardKSM.JPG" alt="A screenshot of the Polkadot staking dashboard where users can manage their nominations."><figcaption><p>The <a href="https://staking.polkadot.network/#/nominate">Staking dashboard</a> is a one-stop platform for managing staking operations on Relay chains.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/O_SDashboardKSM.JPG" alt="A screenshot of the Polkadot staking dashboard where users can manage their nominations."><figcaption><p>The <a href="https://staking.polkadot.cloud/#/overview">Staking dashboard</a> is a one-stop platform for managing staking operations on Relay chains.</p></figcaption></figure>
 
 
 
