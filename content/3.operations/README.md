@@ -4,20 +4,6 @@ description: >-
   ecosystem.
 cover: ../../.gitbook/assets/Dotalertbannersection3 (1).png
 coverY: -6
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # 3.Operations

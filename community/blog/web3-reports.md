@@ -1,16 +1,5 @@
 ---
 description: Catch up on emerging blockchain developments.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Web3 Reports

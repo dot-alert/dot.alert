@@ -3,20 +3,6 @@ description: A list of contributors responsible for content creation at Dot.aler
 hidden: true
 cover: ../.gitbook/assets/DotContributors04.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # Our Contributors

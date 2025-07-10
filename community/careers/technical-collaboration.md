@@ -1,19 +1,42 @@
 ---
 description: Junior and senior roles in the Polkadot ecosystem.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Technical collaboration
+
+## Support network services.
+
+_10th July 2025 | A thread by Pooja G._
+
+
+
+Attention node operators! The [System Parachains Collator Bounty](https://polkadot.subsquare.io/treasury/bounties/32) supports essential infrastructure providers with monthly rewards of $300 in DOT and KSM!
+
+This initiative addresses a critical need by incentivizing infrastructure builders to maintain System chains like AssetHub, BridgeHub, and Coretime. This is because, unlike regular rollups, system chains generate minimal transaction fees.&#x20;
+
+The bounty is structured around performance and reliability. Collators receive monthly fixed rewards, with distribution based on their block production ratio. This model is in place to guarantee high-quality service for all system chains.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXchnhZJ4FKTBvegS-E3MP7hPxemJRfvTQIzDT01xiQy-loX6_3JcpKJl6MwDjhdS68Vd8bFoPn9anOuvcy0l_uDfOKejWgJkN2y868M7zDtzmBxUMZ77csO7dyUPgsgIxze-51Y0Q?key=8rwc_RexwhKVN2BdE4mj7tUS" alt="" width="563"><figcaption></figcaption></figure>
+
+Here are the steps for becoming eligible as a permissionless collator:
+
+* Deposit 1,000 DOT or 50 KSM
+* Register as a collator candidate&#x20;
+* Demonstrate consistent performance over time
+
+
+
+Monthly evaluations enforce transparency. Collators receive payments based on previous month's achievements and all metrics are publicly available. This data-driven approach benefits those who contribute the most to network reliability.
+
+Important note: The bounty is only a temporary solution, as the ecosystem is still working towards more sustainable long-term funding models. Its main role is to make sure that System chains can maintain optimal performance.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfpvO75O8hOtVLk6PRJDzjy5BimMO-qh-MZ1lmBuQeDOhcmPWrHH3rFfpAmfVbCNVyq97PicabymhW1VhlK_haHr-BQi2JAlI4QgklwiWVxTRjZfMUeYQbQCqKOXRBXoVuQqmbqGg?key=8rwc_RexwhKVN2BdE4mj7tUS" alt="" width="563"><figcaption></figcaption></figure>
+
+Interested in participating? Check out [https://polkadot.subsquare.io/treasury/bounties/32](https://polkadot.subsquare.io/treasury/bounties/32)  to learn more about technical requirements and join the growing network of node operators supporting Polkadot's infrastructure!
+
+
+
+***
 
 ## Build open source projects.
 

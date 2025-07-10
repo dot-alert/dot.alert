@@ -2,17 +2,6 @@
 description: >-
   Regulatory evaluations of the standards of blockchain-based insurance
   products.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Insurance
@@ -39,7 +28,7 @@ Still, the infrastructure needed for the mass adoption of cryptocurrencies remai
 
 ### Crypto Insurance <a href="#bookmark8" id="bookmark8"></a>
 
-Crypto insurance is a form of [digital assets protection](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3756619) that has been put forward by blockchain companies and blockchain-based projects to protect users' assets under very specific Terms and Conditions. At a base level, it provides coverage for losses and damages that result from a variety of events, such as theft of private keys, exchange hacks, and market volatility. Crypto insurance can take on many different forms, including insurance policies, emergency reserves, certificates of authenticity, or bailout mechanisms. Most of the crypto insurance offering isn’t always readily available for everyday users, because it is targeted at blockchain startups and investors operating within crypto markets.&#x20;
+Crypto insurance is a form of [digital assets protection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756619) that has been put forward by blockchain companies and blockchain-based projects to protect users' assets under very specific Terms and Conditions. At a base level, it provides coverage for losses and damages that result from a variety of events, such as theft of private keys, exchange hacks, and market volatility. Crypto insurance can take on many different forms, including insurance policies, emergency reserves, certificates of authenticity, or bailout mechanisms. Most of the crypto insurance offering isn’t always readily available for everyday users, because it is targeted at blockchain startups and investors operating within crypto markets.&#x20;
 
 But there are also non-financial use cases for blockchains, and these also require users to come up with strategies for preserving their assets over time. The Polkadot ecosystem provides unique blockchain-based alternatives to traditional insurance models. Kusama, the canary network for Polkadot network, proposes an experimental and risk-tolerant environment for developers to test new ideas with real value and refine Minimum Viable Products (MVPs). In this interoperable environment, the unfolding of a hack or other security breach can be mitigated through freezes initiated by on-chain governance. Proxy, multisig, and social recovery setups also contribute to more resilient self-custody practices.
 

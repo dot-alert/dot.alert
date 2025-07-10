@@ -3,20 +3,6 @@ description: Participate in Dot.alert() monthly quizzes and enter our lucky draw
 hidden: true
 cover: ../.gitbook/assets/DotQuiz04.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # Monthly Quizzes

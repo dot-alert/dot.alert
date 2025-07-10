@@ -3,20 +3,6 @@ description: Help us improve our platform by participating in Dot.alert() survey
 hidden: true
 cover: ../.gitbook/assets/DotSurvey04.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # User Surveys

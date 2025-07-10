@@ -1,16 +1,5 @@
 ---
 description: Training opportunities in the Polkadot ecosystem.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Blockchain education

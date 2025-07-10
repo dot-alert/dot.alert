@@ -2,20 +2,6 @@
 description: Open source license for Dot.alert() contributors.
 cover: ../.gitbook/assets/DotLicense04.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # Open Source License

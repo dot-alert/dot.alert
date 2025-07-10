@@ -1,16 +1,5 @@
 ---
 description: Entry-level roles in the Polkadot ecosystem.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Community building
@@ -114,7 +103,7 @@ Breaking News: A major opportunity is now open! The curators are actively seekin
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdHj7U0e0TJCDw0npeQomWzdgHdF8ywC1-P9WDJ3c5NopyafLHkD441YBtRHIRmSuvnuAOg_1ezS9zrlQ_18O1UNaZC-m1sya2lVK5cI3xAmX7oaH3NMvPKem6rq87Hm19JfeuVlA?key=YqPHuaHtGxBLg2mQap92L4xf" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;What makes a business development proposal stand out? Scalable advertising solutions, coherent frameworks for partnerships, and measurable growth metrics. These key elements can transform your plan into a winning strategy!
+What makes a business development proposal stand out? Scalable advertising solutions, coherent frameworks for partnerships, and measurable growth metrics. These key elements can transform your plan into a winning strategy!
 
 
 

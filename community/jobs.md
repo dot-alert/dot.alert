@@ -3,20 +3,6 @@ description: A list of job openings available at Dot.alert().
 hidden: true
 cover: ../.gitbook/assets/DotJobs04.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # Jobs

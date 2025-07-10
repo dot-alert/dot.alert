@@ -1,16 +1,5 @@
 ---
 description: Do your own research on the job market.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Working in Web3

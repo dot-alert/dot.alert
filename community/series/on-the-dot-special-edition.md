@@ -1,16 +1,5 @@
 ---
 description: Blockchain networks at a glance.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: true
 ---
 
 # On the DOT - Special edition

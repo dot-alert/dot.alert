@@ -1,16 +1,5 @@
 ---
 description: Keep up with popular blockchain solutions.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # World of Web3
