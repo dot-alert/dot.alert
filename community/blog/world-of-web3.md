@@ -38,7 +38,7 @@ Hyperbridge is currently the fastest-growing project within the Polkadot ecosyst
 
 Its growing influence in the Web3 space is reflected in strategic partnerships, most notably with TVVIN, a platform focused on tokenizing real-world assets like gold. As part of its collaboration with the liquid staking protocol Bifrost, Hyperbridge has replaced third-party bridge dependencies with trustless multichain operations.&#x20;
 
-Hyperbridge has also received widespread recognition from industry leaders who are praising the plstform as the most secure cross-chain bridge technology to date.&#x20;
+Hyperbridge has also received widespread recognition from industry leaders who are praising the platform as the most secure cross-chain bridge technology to date.&#x20;
 
 
 
