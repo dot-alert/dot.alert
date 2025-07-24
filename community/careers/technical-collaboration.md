@@ -4,6 +4,46 @@ description: Junior and senior roles in the Polkadot ecosystem.
 
 # Technical collaboration
 
+## Provide decentralised infrastructure services.
+
+_24th July 2025 | A thread by Pooja G._
+
+
+
+**Power your Polkadot & Kusama projects with global infrastructure excellence!** The [Infrastructure Builders Program (IBP)](https://ibp.network/) connects ambitious builders with world-class node operators delivering decentralized high-performance services.
+
+<figure><img src="../../.gitbook/assets/Thread14.1.PNG" alt=""><figcaption></figcaption></figure>
+
+
+
+The IBP brings together a distributed network of infrastructure providers, from the USA through to Costa Rica, Nigeria and South India. This worldwide coverage ensures optimal performance regardless of where users are located.
+
+The program offers three core infrastructure services: RPC endpoints maintaining 99.9% uptime, boot #nodes operating with <100ms responses, and indexer nodes providing worldwide coverage.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXermTKBrzSukwHNXvOD-aJpNeiQLFO-1UqHUWfB3b1dbOjn38UondV4JNQkSGGNwttVBkR848PHeO_bT5o2-zMFkFi66GjcyPo7nQ--Hue1nqEVjZio6rKRykgxx53PBqMCmMrv?key=VOzvQ3b_Ax64NWAWS4IfxLwo" alt="" width="563"><figcaption></figcaption></figure>
+
+The IBP follows 5 key principles:
+
+* Decentralization —closer to users
+* Autonomy —independent operators
+* Robustness —enterprise-grade equipment
+* Reliability —redundant systems
+* Sustainability — powered by 100% renewable energy
+
+
+
+The program features members that are ranked based on their undertakings. Professionals like Gatotech, Turboflakes, RadiumBlock, and Dwellir bring enterprise-level reliability, while Hobbyists contribute to diversifying the set of operators.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXewfEKEApt2dD_MVIRn7HY3jQzJgX8L3KehsNUY73DMhPFBHwtZCxerLfJfb2D1odpErhriotS8OaEw1bnSDhrOuyBYwdd0YsCOLa_Aqku7iNB2a7x_5jd_Nk4nSXQ_ZNBdm0JJ3g?key=VOzvQ3b_Ax64NWAWS4IfxLwo" alt="" width="563"><figcaption></figcaption></figure>
+
+The IBP prioritizes resilience through independent data centers, standalone hardware, and special-purpose monitoring systems. These setups ensure that dApps never experience unexpected downtime.
+
+Ready to supercharge your blockchain project with world-class infrastructure? Visit[ https://ibp.network/](https://ibp.network/) to leverage a global network of operators.&#x20;
+
+
+
+***
+
 ## Support network services.
 
 _10th July 2025 | A thread by Pooja G._
