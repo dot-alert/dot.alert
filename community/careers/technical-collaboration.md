@@ -4,6 +4,47 @@ description: Junior and senior roles in the Polkadot ecosystem.
 
 # Technical collaboration
 
+## Identify security vulnerabilities.
+
+_7th August 2025 | A thread by Pooja G._
+
+
+
+**Looking to grow your Web3 career through technical contributions?** The [Polkadot<->Kusama bridge](https://github.com/paritytech/polkadot-sdk/tree/master/bridges) presents a real opportunity for security-minded developers to get involved, contribute meaningfully, and earn bounties.
+
+<figure><img src="../../.gitbook/assets/Thread15.1.PNG" alt=""><figcaption></figcaption></figure>
+
+
+
+The Polkadot<->Kusama bridge is a major step in cross-chain interoperability, with a focus on decentralization. Securing this infrastructure has become critical, making now the perfect time for white hat hackers and security researchers to get onboard.
+
+In partnership with experts, a security bounty has been launched to find and report vulnerabilities. This is a way to make high-impact contributions to Polkadot’s core tech stack while getting paid for your expertise.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe4luPpddkD3mutFCROR6Q1xII1wExA4HJEPikc7D8gwfiWbrBFfJptQB1fTQvD-kK4DUo-jhY1iL-iM-8DfEo83sQf8tSdccSFuHkqt2-RlEepPP5sm-VCt5HEtK4OOFiD7aIbew?key=gmIedpzYHWWiCK5h3tbfQA" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+What kind of security risks are covered by this bounty?
+
+* Message forging or replay
+* Remote code execution
+* XCM-based attack vectors
+* Critical denial-of-service issues&#x20;
+
+This bounty isn't just about finding bugs: it’s a career-building opportunity. Valuable contributions will help secure key infrastructure and give you recognition within the Polkadot ecosystem and across the blockchain industry.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdGu12na-MwRtYaMeKESS9InYMWRrdrNAWvTos1CJD1xo3Axd7IsOuVj9WqppRKID9WimQwfBOInstMjNMo5z2G6SWTrOee6eBocjXyWg8gx9QtGzPGLGWzl91x43bF-s1UUelwuQ?key=gmIedpzYHWWiCK5h3tbfQA" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+Who should apply? Rust developers, security engineers, white-hat hackers, and auditors with blockchain experience. If you're ready to work on meaningful code that impacts core Web3 infrastructure, this is your entry point!
+
+Thinking of growing your career in blockchain security? Explore the Polkadot<->Kusama bridge security bounty on [https://polkadot.com/bridges-bug-bounty/](https://polkadot.com/bridges-bug-bounty/) today.&#x20;
+
+
+
+***
+
 ## Provide decentralised infrastructure services.
 
 _24th July 2025 | A thread by Pooja G._
