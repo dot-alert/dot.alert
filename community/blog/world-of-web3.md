@@ -4,6 +4,46 @@ description: Keep up with popular blockchain solutions.
 
 # World of Web3
 
+## Web3 Security with [_ChainPatrol_](https://chainpatrol.com/)
+
+_12th August 2025 | A report by Catherine N._
+
+
+
+The decentralized environment surrounding blockchain technologies offers exciting opportunities, but it also attracts malicious actors who want to take advantage of users. ChainPatrol is a Web3 security platform that is on a mission to protect communities and brands from impersonations, scams, and other online threats.
+
+
+
+**Which problems does&#x20;**_**ChainPatrol**_**&#x20;solve?**&#x20;
+
+ChainPatrol addresses some of the most common threats in the Web3 industry: phishing attacks and fake domains that deceive users into revealing sensitive information. The team combines AI technology with human expertise to identify suspicious links and remove fake websites.
+
+Additionally, ChainPatrol helps prevent users from falling victim to fake social media accounts and messages that often lead to wallet-draining incidents. First, it scans and monitors platforms like Twitter, Discord, and Telegram to detect social engineering threats, then it neutralises impersonators in real time.
+
+Its advanced detection system uses large language models (LLMs), image recognition, and proprietary threat-detection models to spot impersonations. The project is also integrated with Google SafeBrowsing to flag risks across millions of devices.
+
+<figure><img src="../../.gitbook/assets/Blog024_ChainPatrolReportBots.png" alt="ChainPatrol is a platform that provides 24/7 threat prevention tools for Web3 projects."><figcaption></figcaption></figure>
+
+**Who are the main users of&#x20;**_**ChainPatrol**_**?**
+
+ChainPatrol is built for Web3 operators who need to safeguard their community members. Blockchain projects in the Ethereum ecosystem use ChainPatrol to guard themselves against fraud and scams. Developers of dApps, NFT platforms, and crypto-wallets can integrate these services to monitor and eliminate threats 24/7.
+
+Community managers and moderators appreciate ChainPatrol’s user-friendly features, such as Discord and Slack bots, which allow users to report suspicious links and scams. ChainPatrol’s products are also well-suited for individual creators, DAOs, and other nonprofits that depend on trust and reputation to keep their business and operations going.&#x20;
+
+Many users describe ChainPatrol as a "must-have" for Web3 security, praising its speed, transparent reporting, quick phishing takedowns, and responsive support on Telegram and Slack.
+
+
+
+**How popular is&#x20;**_**ChainPatrol**_**&#x20;in the industry?**
+
+Since its launch, ChainPatrol has gained significant recognition in the Web3 space, and is starting to expand to other non-Ethereum ecosystems such as Polkadot. Trusted by major names like Arbitrum, MetaMask, and Curve Finance, the project has demonstrated its bullet-proof security capabilities.
+
+During the ARB token launch, ChainPatrol blocked over 1,200 phishing attempts across major crypto wallets in twelve days. More than 250,000 malicious assets have been reported to date, and over 150,000 threats blocked. This clearly shows the platform’s effectiveness and growing impact on Web3 security.
+
+
+
+***
+
 ## Web3 Interoperability with [_Hyperbridge_](https://hyperbridge.network/)
 
 _15th July 2025 | A report by Adewumi V._
