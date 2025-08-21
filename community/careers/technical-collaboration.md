@@ -4,6 +4,52 @@ description: Junior and senior roles in the Polkadot ecosystem.
 
 # Technical collaboration
 
+## Develop JAM client implementations.
+
+_21st  August 2025 | A thread by Pooja G._
+
+
+
+**Exploring high-level technical roles in Web3?** [Decentralized JAM](https://jam.web3.foundation/) by Web3 Foundation offers a clear path for blockchain engineers to contribute meaningfully within the Polkadot ecosystem, where creativity meets open source impact.
+
+<figure><img src="../../.gitbook/assets/Thread16.1 (1).PNG" alt=""><figcaption></figcaption></figure>
+
+
+
+So, what is Decentralized JAM (aka JAM Prize)? It's an initiative focused on supporting exceptional talent to build the future of Polkadot technologies: the "Join-Accumulate Machine" (JAM).
+
+The JAM Prize is about developing a new foundation for the decentralized web. As the proposed successor to the Relay chain, JAM introduces a minimal and scalable base layer for all Web3 operations. This is your opportunity to help reinvent the network from the ground up!
+
+<figure><img src="../../.gitbook/assets/Thread16.2.PNG" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+Technical contributions can be submitted across diverse programming languages such as:
+
+* Java, AspectJ, Kotlin, C#, Go
+* Haskell, ML, Perl, Python, Ruby, JS, Groovy, Dart
+* Brainfuck, Whitespace, Redstone
+
+Who should apply? Protocol engineers, system designers, researchers, and builders who thrive on solving hardware and software problems. Teams are expected to deliver key technical milestones throughout.
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfHptzrwH_yi_wyQkQ5aibjDw0V0d1io2Sr37smL_Ejh2wi2mlMtAJe-zTqNVjKqJ7Fe7f-KetTCSajbLNLQnChFLiqyuOvY0A6nHphO-7IURdUy9YDEUDCF-yVCFGg5_6ll4-A?key=TSkkOFU4U1U4siDpRFsbIA" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+Contributing allows you to gain hands-on experience with advanced blockchain architecture. You will also work on essential open-source infrastructure and collaborate with top researchers and developers from the Polkadot ecosystem. &#x20;
+
+What else is in it for you? A total of 10 million DOT and 100,000 KSM for prizes, long-term visibility and networking, and a chance to strengthen your Web3 portfolio through client development. You will also get to fully integrate the community of JAM implementers.&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd11WAs2whsUM73Fl9QK_LnIvhc_A9iv1r4cBIUzQFDpHCEuCI_OzCGP1WyOKP_Ir41M_yfpUuH6CTd1pXN3gU9dUs_yE1Sqd9B7w9Q-SKrfFGNmiPU0eqY6OT7e7mXGLXAI7K3zg?key=TSkkOFU4U1U4siDpRFsbIA" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+Whether you're an individual developer, a team, or a research group, Decentralized JAM offers an insightful pathway into the future of decentralized systems. Find out more about the rules of this top-tier competition at [jam.web3.foundation](https://jam.web3.foundation/).&#x20;
+
+
+
+***
+
 ## Identify security vulnerabilities.
 
 _7th August 2025 | A thread by Pooja G._

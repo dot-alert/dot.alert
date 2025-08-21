@@ -26,7 +26,7 @@ Its advanced detection system uses large language models (LLMs), image recogniti
 
 **Who are the main users of&#x20;**_**ChainPatrol**_**?**
 
-ChainPatrol is built for Web3 operators who need to safeguard their community members. Blockchain projects in the Ethereum ecosystem use ChainPatrol to guard themselves against fraud and scams. Developers of dApps, NFT platforms, and crypto-wallets can integrate these services to monitor and eliminate threats 24/7.
+ChainPatrol is built for Web3 operators who need to safeguard their [community members](../careers/community-building.md). Blockchain projects in the Ethereum ecosystem use ChainPatrol to guard themselves against fraud and scams. Developers of dApps, NFT platforms, and crypto-wallets can integrate these services to monitor and eliminate threats 24/7.
 
 Community managers and moderators appreciate ChainPatrol’s user-friendly features, such as Discord and Slack bots, which allow users to report suspicious links and scams. ChainPatrol’s products are also well-suited for individual creators, DAOs, and other nonprofits that depend on trust and reputation to keep their business and operations going.&#x20;
 
@@ -56,7 +56,7 @@ To date, more than $2 billion in crypto assets have been lost due to inefficient
 
 **Which problems does&#x20;**_**Hyperbridge**_**&#x20;solve?**&#x20;
 
-Hyperbridge is a next-generation interoperability coprocessor developed by Polytope Labs. It is built with the Polkadot SDK and designed to connect multiple blockchains. Hyperbridge takes a new approach to cross-chain connectivity by enabling the transfer of assets between blockchains without any intermediaries, with the goal of eliminating losses tied to insecure multisig bridges.&#x20;
+Hyperbridge is a next-generation interoperability coprocessor developed by Polytope Labs. It is built with the Polkadot SDK and designed to connect multiple blockchains. Hyperbridge takes a new approach to cross-chain connectivity by enabling the transfer of [assets](../../content/5.regulations/investments/issuance.md) between blockchains without any intermediaries, with the goal of eliminating losses tied to insecure multisig bridges.&#x20;
 
 Hyperbridge also deals with other key challenges hindering Web3 interoperability, such as costly on-chain verification methods and limited scalability. The platform benefits from a strong security layer inherited from Polkadot, which prevents the many governance or consensus attacks that are common in weaker bridge architectures.&#x20;
 
