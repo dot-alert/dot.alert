@@ -2,6 +2,20 @@
 description: >-
   An overview of the utility and relevance of existential deposits in the
   Polkadot ecosystem.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Existential Deposits
