@@ -7,8 +7,8 @@ coverY: -6
 layout:
   width: default
   cover:
-    visible: true
-    size: hero
+    visible: false
+    size: full
   title:
     visible: false
   description:
@@ -18,9 +18,9 @@ layout:
   outline:
     visible: false
   pagination:
-    visible: true
+    visible: false
   metadata:
-    visible: true
+    visible: false
 ---
 
 # 3.Operations

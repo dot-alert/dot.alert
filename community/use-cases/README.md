@@ -8,7 +8,7 @@ layout:
     visible: true
     size: hero
   title:
-    visible: true
+    visible: false
   description:
     visible: true
   tableOfContents:

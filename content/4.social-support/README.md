@@ -18,9 +18,9 @@ layout:
   outline:
     visible: false
   pagination:
-    visible: true
+    visible: false
   metadata:
-    visible: true
+    visible: false
 ---
 
 # 4.Support
