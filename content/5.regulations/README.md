@@ -3,7 +3,7 @@ description: >-
   Monitoring, tracking, and accounting for Web3 assets in the Polkadot
   ecosystem.
 cover: ../../.gitbook/assets/Dotalertbannersection5 (4).png
-coverY: -8
+coverY: -9.216102585663233
 layout:
   width: default
   cover:

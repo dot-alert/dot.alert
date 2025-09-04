@@ -1,7 +1,7 @@
 ---
 description: Securing, accessing, and maintaining Web3 assets in the Polkadot ecosystem.
 cover: ../../.gitbook/assets/Dotalertbannersection2.png
-coverY: -20.754151776329618
+coverY: -15.889741433676686
 layout:
   width: default
   cover:
