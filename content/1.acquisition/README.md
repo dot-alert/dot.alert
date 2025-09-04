@@ -1,12 +1,12 @@
 ---
 description: Sending, receiving, and teleporting Web3 assets in the Polkadot ecosystem.
 cover: ../../.gitbook/assets/Dotalertbannersection1 (2).png
-coverY: -160.14160700079555
+coverY: -30.86132348913639
 layout:
   width: default
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: false
   description:

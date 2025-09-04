@@ -3,7 +3,24 @@ description: >-
   Troubleshooting, discussing, and reviewing Web3 assets in the Polkadot
   ecosystem.
 cover: ../../.gitbook/assets/Dotalertbannersection4.png
-coverY: -41
+coverY: -16.677948286735337
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 4.Support

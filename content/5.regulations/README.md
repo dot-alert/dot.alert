@@ -4,6 +4,23 @@ description: >-
   ecosystem.
 cover: ../../.gitbook/assets/Dotalertbannersection5 (4).png
 coverY: -8
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 5.Regulations

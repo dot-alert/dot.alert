@@ -1,7 +1,24 @@
 ---
 description: Cookie policy for Dot.alert() visitors.
 cover: ../.gitbook/assets/DotPrivacy04.png
-coverY: 0
+coverY: 10.405717889426109
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
+  metadata:
+    visible: false
 ---
 
 # Cookie Policy
