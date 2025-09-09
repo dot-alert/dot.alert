@@ -1,22 +1,46 @@
 ---
 description: Keep up with popular blockchain solutions.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # World of Web3
+
+## Web3 Gaming with [_Mythical Games_](https://mythicalgames.com/)
+
+_9th September 2025 | A report by Adewumi V._
+
+
+
+In traditional games, players invest countless hours and money collecting items that will remain locked within the game’s ecosystem, with no real value offered beyond gameplay. Web3 gaming platform Mythical has risen to solve this challenge.
+
+
+
+**Which problems does&#x20;**_**Mythical Games**_**&#x20;solve?**
+
+Mythical Games allows real ownership of in-game items through blockchain technologies. The platform is built on the Mythos Chain, an EVM-compatible chain secured by Polkadot and designed specifically for [gameverses](../../content/3.operations/gaming/game-development.md). Players can mint and store assets directly in their Web3 wallets, which gives them the freedom to trade, sell, or transfer items without friction. &#x20;
+
+By turning in-game assets into tradable tokens, Mythical Games facilitates players’ participation in the wider game economy. This gives players an unparalleled gaming experience: they can enjoy the games and also become real-life stakeholders of the games they love. The platform is also working toward interoperability, where players can trade assets across games and ecosystems to increase the utility and longevity of digital items.
+
+<figure><img src="../../.gitbook/assets/Blog025_MythicalGamesEntertainment.PNG" alt="Mythical Games provides a blockchain platform for developers and users to build, own, and trade digital assets  across multiple ecosystems."><figcaption></figcaption></figure>
+
+\
+**Who are the main users of&#x20;**_**Mythical Games**_**?**
+
+Mythical Games serves two core audiences: players and game developers.&#x20;
+
+Players benefit from asset ownership, immersive economies, and in-game trading, which is done on both web and in-game marketplaces. There is also a convenience factor at play that increases engagement and retention over time. When players truly own their in-game items, they put more value on them and are even more motivated to keep playing to grow their collections.&#x20;
+
+Developers, on the other hand, can fully focus on the lore without worrying about complex infrastructure requirements. Mythical Games’ APIs and SDKs make it simple to quickly add features like in-game marketplaces and game assets management when needed.&#x20;
+
+\
+**How popular is&#x20;**_**Mythical Games in the industry**_**?**
+
+With over 6 million players, 200+ employees, and five global offices, Mythical Games has become a leading destination for Web3 gaming. The platform is pursuing further growth with the Mythical Marketplace and new in-game trading systems, which already support an active community of creators and collectors.
+
+Mythical Games has ongoing partnerships with top games such as FIFA Rivals, NFL Rivals, Blankos Block Party, and Pudgy Party. As the gaming industry shifts toward user empowerment and open economies, the blockchain-based platform stands as a pioneer that will shape the future of Web3 gaming.
+
+
+
+***
 
 ## Web3 Security with [_ChainPatrol_](https://chainpatrol.com/)
 
