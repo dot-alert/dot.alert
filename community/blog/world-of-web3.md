@@ -20,7 +20,7 @@ Mythical Games allows real ownership of in-game items through blockchain technol
 
 By turning in-game assets into tradable tokens, Mythical Games facilitates players’ participation in the wider game economy. This gives players an unparalleled gaming experience: they can enjoy the games and also become real-life stakeholders of the games they love. The platform is also working toward interoperability, where players can trade assets across games and ecosystems to increase the utility and longevity of digital items.
 
-<figure><img src="../../.gitbook/assets/Blog025_MythicalGamesEntertainment.PNG" alt="Mythical Games provides a blockchain platform for developers and users to build, own, and trade digital assets  across multiple ecosystems."><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Blog025_MythicalGamesPlatform.PNG" alt="Mythical Games provides a blockchain platform for developers and users to build, own, and trade digital assets  across multiple ecosystems."><figcaption></figcaption></figure>
 
 \
 **Who are the main users of&#x20;**_**Mythical Games**_**?**
