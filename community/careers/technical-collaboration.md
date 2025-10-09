@@ -1,19 +1,5 @@
 ---
 description: Junior and senior roles in the Polkadot ecosystem.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # Technical collaboration
@@ -288,7 +274,7 @@ What sets Kudos apart?
 * Direct connection to 40+ leading projects
 
 \
-&#x20;Visit [morekudos.com](https://www.morekudos.com/) to join the +2000 builders that are already transforming the Polkadot ecosystem. Whether you're looking to contribute or need talented developers for your project, Kudos is where opportunity meets talent!&#x20;
+Visit [morekudos.com](https://www.morekudos.com/) to join the +2000 builders that are already transforming the Polkadot ecosystem. Whether you're looking to contribute or need talented developers for your project, Kudos is where opportunity meets talent!&#x20;
 
 
 

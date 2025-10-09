@@ -34,13 +34,13 @@ Bogus jobs are often posted on Web3 job boards and social media, but they can al
 
 ### Safeguard your personal details&#x20;
 
-You should be wary of recruiters that ask you to download zip files to complete a task without a prior meeting. Law-abiding companies or startups typically conduct thorough interviews to funnel candidates remotely and do not require extensive details from you upfront. To get a better sense of what is acceptable or not for a job application, you can always [ask for feedback](../../content/4.social-support/) on community forums or channels.
+You should be wary of recruiters that ask you to download zip files to complete a task without a prior meeting. Law-abiding companies or startups typically conduct thorough interviews to funnel candidates remotely and do not require extensive details from you upfront. To get a better sense of what is acceptable or not for a job application, you can always ask for feedback on community forums or channels.
 
 <figure><img src="../../.gitbook/assets/Blog018_Web3JobmarketSafety.png" alt="Some important safety tips for the Web3 job market include protecting yourself from social engineering scams." width="375"><figcaption><p>The Web3 job market can expose candidates to data breaches. </p></figcaption></figure>
 
 ### Evaluate payment methods&#x20;
 
-Typically, as part of your Web3 role, you will be paid with large-cap cryptocurrencies or stablecoins. These are easier to swap or trade across CEXes and DEXes compared to niche tokens or assets. Some startups might offer compensation in their [native tokens](../../content/5.regulations/investments/issuance.md), but this could cut your pay check down to zero if their project doesn’t materialise.
+Typically, as part of your Web3 role, you will be paid with large-cap cryptocurrencies or stablecoins. These are easier to swap or trade across CEXes and DEXes compared to niche tokens or assets. Some startups might offer compensation in their native tokens, but this could cut your pay check down to zero if their project doesn’t materialise.
 
 ### Research all recruiters
 
@@ -66,13 +66,13 @@ The Web3 job market brings a wealth of opportunities for go-getters. But as more
 
 ### No tax summaries&#x20;
 
-Traditional companies have the obligation to send you tax summaries to report on the wages paid to you over a year. But this is generally not the case for [Web3 projects](../../content/5.regulations/platforms/) and startups, as they don't provide anything similar. Whether you're earning in stablecoins or cryptocurrencies, it's often up to you to create receipts for your income by tracking on-chain transactions.&#x20;
+Traditional companies have the obligation to send you tax summaries to report on the wages paid to you over a year. But this is generally not the case for Web3 projects and startups, as they don't provide anything similar. Whether you're earning in stablecoins or cryptocurrencies, it's often up to you to create receipts for your income by tracking on-chain transactions.&#x20;
 
 When it comes to taxes, choosing the right legal structure for your Web3 work is also very important. A sole trader or freelancer faces different tax liabilities compared to a registered company or a startup. In both cases, a major hurdle is that most accountants are not yet familiar with the Web3 industry, which means that workers likely have to create their own templates for handling tax reporting.
 
 ### Low-quality tax software
 
-Even though there are different crypto tax software available today, those are still in early stages of development and often fall short of sifting through the complexities of multichain transactions. Most tools are not equipped to accurately track and record [specific activities ](../../content/3.operations/)like staking income, liquidity provision rewards, or airdrops.&#x20;
+Even though there are different crypto tax software available today, those are still in early stages of development and often fall short of sifting through the complexities of multichain transactions. Most tools are not equipped to accurately track and record specific activities like staking income, liquidity provision rewards, or airdrops.&#x20;
 
 If you're involved in ecosystems like _Ethereum_ or _Solana_ where DeFi platforms can allocate some of their native tokens to their recruits, you will probably need to use separate portfolio management tools to capture all of your balances. And this could very well mean spending extra thousands of dollars each year just to minimise the risk of getting in trouble with tax authorities.
 
@@ -80,13 +80,13 @@ If you're involved in ecosystems like _Ethereum_ or _Solana_ where DeFi platform
 
 ### Complex crypto-related tax laws
 
-[Tax laws surrounding cryptocurrencies are not only complicated](../../content/5.regulations/investments/taxation.md), but they also vary widely depending on your country or state. In some jurisdictions that officially recognise cryptocurrencies, you can find helpful resources online every time there are big changes. In others, because cryptocurrencies are outright banned, your options for registering your business activities will be limited.&#x20;
+Tax laws surrounding cryptocurrencies are not only complicated, but they also vary widely depending on your country or state. In some jurisdictions that officially recognise cryptocurrencies, you can find helpful resources online every time there are big changes. In others, because cryptocurrencies are outright banned, your options for registering your business activities will be limited.&#x20;
 
 Working out your earnings might be straightforward when you are employed at a registered company in the _Polkadot_ ecosystem, but the absence of taxation guidelines makes it difficult to know when and how you should report your earnings. You will still have to be extra cautious during tax time, since the legal consequences of your on-chain transactions are never clearly spelt out.
 
 ### Fines for misreporting transactions
 
-There is a significant risk in misreporting income from Web3 gigs such as [bounties](../../content/3.operations/crowdfunding/treasury-spends.md) in your annual tax reports, which includes potential penalties. Misunderstanding your tax obligations can lead to hefty fines, even when the mistake is unintentional. Doing your taxes cannot be entirely automated from one year to the next, as you will miss on the chance to review and correct your previous reports.
+There is a significant risk in misreporting income from Web3 gigs such as bounties in your annual tax reports, which includes potential penalties. Misunderstanding your tax obligations can lead to hefty fines, even when the mistake is unintentional. Doing your taxes cannot be entirely automated from one year to the next, as you will miss on the chance to review and correct your previous reports.
 
 Therefore, it's crucial to run your own system for recording your inbound and outbound transactions to get a clear idea of your monthly or quarterly earnings. Never discard your records after filling your tax reports, as these need to be kept for a long time. Tax authorities and government organisations may request audits or issue lawsuits years after contentious transactions occurred, especially when they are empowered to do so by new laws.
 
@@ -112,7 +112,7 @@ As decentralized technologies gain traction, traditional employment structures r
 
 Payroll systems ensure that employees and contractors are paid regularly and on time. They are also useful for handling taxes and deductions. By contrast, decentralized projects tend to lack formal payroll structures. Payments are often handled through community-managed treasuries, smart contracts, and multisig accounts.
 
-With blockchain technologies, international payments may be faster to complete, but these disbursements are rarely standardised by the issuers. This lack of predictability can cause delays and inconsistencies, especially because Web3 projects typically don’t have HR departments to [oversee these transactions](../../content/1.acquisition/transaction-explorers.md). As a result, the risk of errors in payment processing increases, directly impacting workers' financial stability.
+With blockchain technologies, international payments may be faster to complete, but these disbursements are rarely standardised by the issuers. This lack of predictability can cause delays and inconsistencies, especially because Web3 projects typically don’t have HR departments to oversee these transactions. As a result, the risk of errors in payment processing increases, directly impacting workers' financial stability.
 
 ### No benchmarks
 
@@ -124,7 +124,7 @@ Without clear salary expectations, workers often have to negotiate their pay che
 
 ### Irregular payments
 
-While traditional jobs offer fixed paydays and fiat amounts, Web3 projects pay their workforce in cryptocurrencies or tokens of volatile value. This presents significant challenges for workers, because their earnings can vary considerably even after payments are made. For instance, a payment that appears adequate in one moment may lose significant value within hours if [the exchange rate](../../content/3.operations/swapping/pairs-availability.md) of a stablecoin crashes. This can dramatically impact workers' financial stability.
+While traditional jobs offer fixed paydays and fiat amounts, Web3 projects pay their workforce in cryptocurrencies or tokens of volatile value. This presents significant challenges for workers, because their earnings can vary considerably even after payments are made. For instance, a payment that appears adequate in one moment may lose significant value within hours if the exchange rate of a stablecoin crashes. This can dramatically impact workers' financial stability.
 
 Additionally, in ecosystems like _Polkadot_ and _Cardano_ that use decentralized on-chain treasuries, it can be hard to find support for top-up requests when funding falls short of expectations. Project teams could also be left in a vulnerable position if they rely exclusively on Web3 payments for their regular income. With no official authority to ensure that contributors and contractors receive their dues in various situations, long-term financial planning remains difficult for the Web3 workforce.
 
@@ -154,7 +154,7 @@ Web3 has fundamentally changed the way companies and individuals interact and wo
 
 ### No HR department&#x20;
 
-A Human Resources (HR) department typically handles employee relations, conflict resolution, [compensation structures](../../content/3.operations/community-building/crypto-payments.md), and workplace policies. However, many Web3 projects operate without a formal HR department, which can lead to issues around conflict resolution and staff grievances, because nobody is responsible for addressing these concerns. With no point of call for mediation or support, workers have to fend for themselves in case disputes arise.
+A Human Resources (HR) department typically handles employee relations, conflict resolution, compensation structures, and workplace policies. However, many Web3 projects operate without a formal HR department, which can lead to issues around conflict resolution and staff grievances, because nobody is responsible for addressing these concerns. With no point of call for mediation or support, workers have to fend for themselves in case disputes arise.
 
 ### No social security
 
@@ -168,7 +168,7 @@ Workplace protections such as labour laws, union representation, and safety regu
 
 ### Limited career pathways
 
-While the Web3 industry can offer lucrative opportunities, career growth is not as straightforward as during periods of boom. People who are well-networked may find pathways to stability, often landing high-profile roles or advancing quickly. However, for many others, career progression is limited and job-hopping between projects may be necessary to gain professional recognition. Since many Web3 projects operate like startups, they need a lot of [funding](../../content/3.operations/crowdfunding/) from their ecosystems before they can offer long-term positions to their team members or staff. With no room for advancement, employees may find themselves stuck in roles that do not allow them to showcase their skills or upskill.
+While the Web3 industry can offer lucrative opportunities, career growth is not as straightforward as during periods of boom. People who are well-networked may find pathways to stability, often landing high-profile roles or advancing quickly. However, for many others, career progression is limited and job-hopping between projects may be necessary to gain professional recognition. Since many Web3 projects operate like startups, they need a lot of funding from their ecosystems before they can offer long-term positions to their team members or staff. With no room for advancement, employees may find themselves stuck in roles that do not allow them to showcase their skills or upskill.
 
 
 
@@ -188,7 +188,7 @@ The Web3 job market is primarily a remote-first environment, attracting talent f
 
 ### Fake job opportunities&#x20;
 
-The Web3 job market attracts not only genuine job seekers, but also scammers. These bad actors usually post fake job listings with exaggerated salaries and benefits with the aim of enticing job seekers and eventually collecting their personal information. To avoid such cases, you should verify recruiters’ history and companies’ track record on public forums and social media platforms. If a job application requires you to submit a lot of identity documents upfront, and especially your Bitcoin or Ethereum [private keys](../../content/2.storage/seed-secret-phrases.md), it's likely a scam.&#x20;
+The Web3 job market attracts not only genuine job seekers, but also scammers. These bad actors usually post fake job listings with exaggerated salaries and benefits with the aim of enticing job seekers and eventually collecting their personal information. To avoid such cases, you should verify recruiters’ history and companies’ track record on public forums and social media platforms. If a job application requires you to submit a lot of identity documents upfront, and especially your Bitcoin or Ethereum private keys, it's likely a scam.&#x20;
 
 ### Fake job applicants&#x20;
 
@@ -202,7 +202,7 @@ One of the most significant risks in the Web3 job market is the lack of formal c
 
 ### Complex industry&#x20;
 
-Web3 is an inherently complex industry with rapidly changing technologies and [regulations](../../content/5.regulations/). For example, the Bitcoin ecosystem still grapples with regulatory challenges to this day, despite being the most established project in the decentralized space. Newer ecosystems such as Cosmos and Polkadot are constantly evolving, which can add confusion for those who contribute to their developments as a workforce. Job seekers may find themselves unprepared for the demands of their roles, while recruiters may struggle to find qualified candidates.
+Web3 is an inherently complex industry with rapidly changing technologies and regulations. For example, the Bitcoin ecosystem still grapples with regulatory challenges to this day, despite being the most established project in the decentralized space. Newer ecosystems such as Cosmos and Polkadot are constantly evolving, which can add confusion for those who contribute to their developments as a workforce. Job seekers may find themselves unprepared for the demands of their roles, while recruiters may struggle to find qualified candidates.
 
 
 
@@ -222,7 +222,7 @@ Web 3 is the next generation of the internet that is built on top of blockchain 
 
 ### Who works in Web3?
 
-Web3 attracts a diverse range of professionals, such as developers, designers, data analysts, content creators, marketers, and community managers. Currently, developers are in high demand because they are skilled in blockchain programming languages such as Solidity for the Ethereum ecosystem and Rust for [Polkadot](../../content/5.regulations/networks/) network. As the blockchain industry matures, traditional roles such as legal advisors and compliance experts will be in demand to help investors and entrepreneurs navigate the regulatory landscape.
+Web3 attracts a diverse range of professionals, such as developers, designers, data analysts, content creators, marketers, and community managers. Currently, developers are in high demand because they are skilled in blockchain programming languages such as Solidity for the Ethereum ecosystem and Rust for Polkadot network. As the blockchain industry matures, traditional roles such as legal advisors and compliance experts will be in demand to help investors and entrepreneurs navigate the regulatory landscape.
 
 ### Where are open positions advertised?
 
@@ -232,7 +232,7 @@ Most Web3 jobs are posted on dedicated Web3 job boards which include _CryptoJobs
 
 ### What kind of working conditions are provided?
 
-Web3 jobs are well known for their flexibility and remote working conditions. Essentially, you can work from anywhere in the world, which is a true reflection of the decentralised nature of blockchain technologies. Usually, web3 companies consist of [diverse groups of talents](../../content/5.regulations/networks/participation.md) spread across the world who prioritise creativity and getting things done rather than the number of hours worked. This setup promotes work-life balance and fosters a culture of learning and experimentation.
+Web3 jobs are well known for their flexibility and remote working conditions. Essentially, you can work from anywhere in the world, which is a true reflection of the decentralised nature of blockchain technologies. Usually, web3 companies consist of diverse groups of talents spread across the world who prioritise creativity and getting things done rather than the number of hours worked. This setup promotes work-life balance and fosters a culture of learning and experimentation.
 
 ### Which types of compensation are offered?
 

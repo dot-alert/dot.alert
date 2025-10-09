@@ -104,6 +104,7 @@
   * [Blockchain education](community/careers/blockchain-education.md)
   * [Community building](community/careers/community-building.md)
   * [Technical collaboration](community/careers/technical-collaboration.md)
+  * [Sustainable employment](community/careers/sustainable-employment.md)
 * [Social Channels](community/social-channels.md)
 * [Fortnightly Polls](community/fortnightly-polls.md)
 * [Monthly Quizzes](community/monthly-quizzes.md)

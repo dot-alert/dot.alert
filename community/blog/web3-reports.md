@@ -34,7 +34,7 @@ This report recaps on the discussion led by Seun Lanlege (founder of _Polytope L
 
 ### Expanding Opportunities for Yield Farming
 
-Liquid staking is a mechanism that token holders can leverage to earn income from both non-custodial staking and DeFi farming. Bifrost is a DeFi protocol that allows users to mint Liquid Staking Tokens (LSTs) and earn yields on multiple [dapps of the Polkadot ecosystem](https://polkadot.network/ecosystem/dapps/), depending on the level of risk that they are willing to take.&#x20;
+Liquid staking is a mechanism that token holders can leverage to earn income from both non-custodial staking and DeFi farming. Bifrost is a DeFi protocol that allows users to mint Liquid Staking Tokens (LSTs) and earn yields on multiple dapps of the Polkadot ecosystem, depending on the level of risk that they are willing to take.&#x20;
 
 Before LSTs are minted, the Liquid Staking Protocol needs to have determined and chosen a set of validators and a nomination pool to maximise the "base yields". Once LSTs are issued, minters can use them on different platforms and for different purposes, such as:
 
@@ -102,7 +102,7 @@ When using a traditional wallet, signing a transaction such as a coin swap on an
 
 2. **Delegations:**&#x20;
 
-When managing assets under the account abstraction paradigm, users have the option to delegate their entire wallet to multiple Smart contracts through an access policy. Unlike [Polkadot SDK's multi-level account abstraction functionalities](https://wiki.polkadot.network/docs/learn-account-abstraction), this is a persistent type of access by which the other Smart contracts can act on behalf of users to sign anything prescribed within the access policy. However, in this context, authorising a malicious contract as a delegate would be equivalent to getting one's private keys stolen.
+When managing assets under the account abstraction paradigm, users have the option to delegate their entire wallet to multiple Smart contracts through an access policy. Unlike Polkadot SDK's multi-level account abstraction functionalities, this is a persistent type of access by which the other Smart contracts can act on behalf of users to sign anything prescribed within the access policy. However, in this context, authorising a malicious contract as a delegate would be equivalent to getting one's private keys stolen.
 
 <figure><img src="../../.gitbook/assets/BoringSecDAO.jpg" alt="Boring Security is a collective of educators sharing entry-level resources on Web3 security." width="563"><figcaption><p>Boring Security is a DAO specialised in Web3 security training and education.</p></figcaption></figure>
 
@@ -379,7 +379,7 @@ The Karma GAP protocol primarily wants to have a net positive effect, making tha
 
 ### Governing the ArbitrumDAO
 
-The ArbitrumDAO is made of $ARB token holders and the 12-seat Arbitrum Security Council, with DAO proposals (including grants) being voted upon by members using $ARB. The weight of a member's vote is directly proportional to the amount of $ARBs s/he holds, a parameter that contrasts with the conviction voting implemented in [Polkadot OpenGov](../../content/3.operations/voting/).
+The ArbitrumDAO is made of $ARB token holders and the 12-seat Arbitrum Security Council, with DAO proposals (including grants) being voted upon by members using $ARB. The weight of a member's vote is directly proportional to the amount of $ARBs s/he holds, a parameter that contrasts with the conviction voting implemented in Polkadot OpenGov.
 
 The ArbitrumDAO tends to approve grants for projects that are working towards well thought-out objectives, however, application timelines vary, since projects working on ecosystem Dapps, infrastructure, and tooling are currently being considered for grants. A noteworthy point is that most of the funding is milestone-gated, with payments released upon completion of specific deliverables.
 

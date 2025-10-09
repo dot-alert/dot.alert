@@ -16,7 +16,7 @@ In traditional games, players invest countless hours and money collecting items 
 
 **Which problems does&#x20;**_**Mythical Games**_**&#x20;solve?**
 
-Mythical Games allows real ownership of in-game items through blockchain technologies. The platform is built on the Mythos Chain, an EVM-compatible chain secured by Polkadot and designed specifically for [gameverses](../../content/3.operations/gaming/game-development.md). Players can mint and store assets directly in their Web3 wallets, which gives them the freedom to trade, sell, or transfer items without friction. &#x20;
+Mythical Games allows real ownership of in-game items through blockchain technologies. The platform is built on the Mythos Chain, an EVM-compatible chain secured by Polkadot and designed specifically for gameverses. Players can mint and store assets directly in their Web3 wallets, which gives them the freedom to trade, sell, or transfer items without friction. &#x20;
 
 By turning in-game assets into tradable tokens, Mythical Games facilitates players’ participation in the wider game economy. This gives players an unparalleled gaming experience: they can enjoy the games and also become real-life stakeholders of the games they love. The platform is also working toward interoperability, where players can trade assets across games and ecosystems to increase the utility and longevity of digital items.
 
@@ -64,7 +64,7 @@ Its advanced detection system uses large language models (LLMs), image recogniti
 
 **Who are the main users of&#x20;**_**ChainPatrol**_**?**
 
-ChainPatrol is built for Web3 operators who need to safeguard their [community members](../careers/community-building.md). Blockchain projects in the Ethereum ecosystem use ChainPatrol to guard themselves against fraud and scams. Developers of dApps, NFT platforms, and crypto-wallets can integrate these services to monitor and eliminate threats 24/7.
+ChainPatrol is built for Web3 operators who need to safeguard their community members. Blockchain projects in the Ethereum ecosystem use ChainPatrol to guard themselves against fraud and scams. Developers of dApps, NFT platforms, and crypto-wallets can integrate these services to monitor and eliminate threats 24/7.
 
 Community managers and moderators appreciate ChainPatrol’s user-friendly features, such as Discord and Slack bots, which allow users to report suspicious links and scams. ChainPatrol’s products are also well-suited for individual creators, DAOs, and other nonprofits that depend on trust and reputation to keep their business and operations going.&#x20;
 
@@ -94,7 +94,7 @@ To date, more than $2 billion in crypto assets have been lost due to inefficient
 
 **Which problems does&#x20;**_**Hyperbridge**_**&#x20;solve?**&#x20;
 
-Hyperbridge is a next-generation interoperability coprocessor developed by Polytope Labs. It is built with the Polkadot SDK and designed to connect multiple blockchains. Hyperbridge takes a new approach to cross-chain connectivity by enabling the transfer of [assets](../../content/5.regulations/investments/issuance.md) between blockchains without any intermediaries, with the goal of eliminating losses tied to insecure multisig bridges.&#x20;
+Hyperbridge is a next-generation interoperability coprocessor developed by Polytope Labs. It is built with the Polkadot SDK and designed to connect multiple blockchains. Hyperbridge takes a new approach to cross-chain connectivity by enabling the transfer of assets between blockchains without any intermediaries, with the goal of eliminating losses tied to insecure multisig bridges.&#x20;
 
 Hyperbridge also deals with other key challenges hindering Web3 interoperability, such as costly on-chain verification methods and limited scalability. The platform benefits from a strong security layer inherited from Polkadot, which prevents the many governance or consensus attacks that are common in weaker bridge architectures.&#x20;
 
@@ -144,7 +144,7 @@ Other major issues that deter users from engaging with DeFi are gas fees, transa
 
 **Who are the main users of&#x20;**_**Osmosis**_**?**
 
-Osmosis serves a broad audience which includes traders, [liquidity providers](../../content/3.operations/lending/liquidity-provision.md), and developers. Traders mostly stand to gain, with features that support transacting with assets across multiple blockchains. User feedback on Twitter and Reddit highlights the platform’s improved transaction staging and fair fees.
+Osmosis serves a broad audience which includes traders, liquidity providers, and developers. Traders mostly stand to gain, with features that support transacting with assets across multiple blockchains. User feedback on Twitter and Reddit highlights the platform’s improved transaction staging and fair fees.
 
 For liquidity providers, Osmosis gives the option to have greater control over investments with customizable pool parameters and real-time analytics. Developers can use Osmosis’s open-source framework to build decentralized applications (dApps), AMMs, yield aggregators, and NFT marketplaces, all with various cross-chain integrations. Builders praise Osmosis for its ease of use and powerful cross-chain tools.
 
@@ -182,7 +182,7 @@ NOWPayments also seeks to enhance crypto security. The platform is non-custodial
 
 **Who are the main users of&#x20;**_**NOWPayments**_**?**
 
-NOWPayments is designed for a wide range of Web3 users. Businesses such as online stores, casinos, travel companies, and gaming platforms use NOWPayments to offer decentralized payment options to their customers.  These businesses get access to fast, low-cost, borderless payments across multiple blockchain [networks](../../content/5.regulations/networks/).
+NOWPayments is designed for a wide range of Web3 users. Businesses such as online stores, casinos, travel companies, and gaming platforms use NOWPayments to offer decentralized payment options to their customers.  These businesses get access to fast, low-cost, borderless payments across multiple blockchain networks.
 
 Dapps developers integrate NOWPayments' API to facilitate secure crypto transactions on many ecosystems. The platform’s compatibility with multiple blockchain networks like Ethereum and Polkadot makes it a preferred choice for Web3 projects looking to add payment functionality without complex coding. With features like donation buttons and widgets, it becomes easier for freelancers, content creators, and Non-profit organizations to accept payments globally without traditional banking fees and delays.
 
@@ -212,7 +212,7 @@ Getting started in Web3 can be very challenging because participants are often f
 
 _Ramp Network_ is a fiat-to-crypto on-and-off-ramp Web3 solution that allows users to buy and sell cryptocurrencies from dApps, wallets, NFT Marketplaces, and other platforms.
 
-Many users hesitate to go through with Web3 because they fear they won’t be able to convert their [crypto](../../content/3.operations/community-building/crypto-payments.md) back into fiat. _Ramp Network_ solves this potential problem by allowing users to buy crypto without leaving the app. Instead of signing up on a separate exchange, users can enter their payment details and receive crypto in their wallets within minutes.
+Many users hesitate to go through with Web3 because they fear they won’t be able to convert their crypto back into fiat. _Ramp Network_ solves this potential problem by allowing users to buy crypto without leaving the app. Instead of signing up on a separate exchange, users can enter their payment details and receive crypto in their wallets within minutes.
 
 _Ramp Network_ also connects to multiple local and global payment systems, including _Visa, Mastercard, Apple Pay, Revolut_, bank transfers, and more. This ensures users can purchase crypto using familiar methods, reducing friction in the process.
 
@@ -252,7 +252,7 @@ User experience (UX) is a crucial element of Web3, shaping how users interact wi
 
 In a decentralized ecosystem where users have greater control over their data and transactions, UX must be designed to help users navigate these complexities. _WalletConnect_ plays a key role by simplifying interactions and reinforcing security across multiple platforms.&#x20;
 
-_WalletConnect_ is an on-chain UX ecosystem that addresses a major User Experience (UX) and Developer Experience (DX) challenge in Web3: the disconnect between desktop-based dApps and [mobile wallets](../../content/2.storage/mobile-wallets.md). WalletConnect provides a universal and secure way for users to connect their wallets to dApps via QR codes or deep links.
+_WalletConnect_ is an on-chain UX ecosystem that addresses a major User Experience (UX) and Developer Experience (DX) challenge in Web3: the disconnect between desktop-based dApps and mobile wallets. WalletConnect provides a universal and secure way for users to connect their wallets to dApps via QR codes or deep links.
 
 Beyond refining accessibility, composability, and connectivity, _WalletConnect_ also ensures mobile compatibility, multi-wallet support, and cross-chain interactions. It simplifies authentication with one-click “Sign-In With Ethereum” (SIWE) and reduces friction in KYC.
 
