@@ -4,6 +4,43 @@ description: Keep up with popular blockchain solutions.
 
 # World of Web3
 
+## Web3 Crowdfunding with [_Giveth_](https://giveth.io/)
+
+_14th October 2025 | A report by Catherine N._
+
+
+
+Crowdfunding is about bringing people together to support meaningful causes. Giveth is a decentralised donation platform remodeling the work of nonprofits and social initiatives. The crypto philanthropy experience can now be rewarded through blockchain technologies.
+
+
+
+**Which problems does&#x20;**_**Giveth**_**&#x20;solve?**
+
+Traditional fundraising involves high fees, slow processes, and limited transparency. Small grassroots initiatives can't afford hefty transaction costs and donors are often left to wonder if their gift is really making a difference. As a result, people don’t want to entrust projects with donations that they might misuse.
+
+Giveth solves these challenges with a zero-fee crypto donation platform where funds are directly put in the hands of projects. This ensures that every cent reaches its intended cause without intermediaries taking a cut. The platform runs a verification system that thoroughly vets projects: this setup gives donors confidence that their contributions will support real-world impact
+
+The platform also simplifies crypto donations for newcomers. It offers an easy onboarding process that removes technical barriers. Its “GIVbacks” program rewards donors with GIV tokens for supporting eligible projects. This makes charitable giving a mutually beneficial experience for both donors and recipients.&#x20;
+
+<figure><img src="../../.gitbook/assets/Blog026_GivethCauses.jpg" alt="Giveth has implemented a strict vetting system for projects to ensure that donations make real-world impact."><figcaption></figcaption></figure>
+
+**Who are the main users of&#x20;**_**Giveth**_**?**
+
+Giveth serves a diverse crowd of Web3 enthusiasts: nonprofits, public goods, and ReFi projects. Reforestation initiatives, welfare or educational programs can use Giveth to raise funds globally without relying solely on traditional banking systems. For example, the Palestine Children's Relief Fund (PCRF) currently uses Giveth to raise funds for its humanitarian efforts.
+
+From crypto beginners to seasoned investors, individual donors appreciate Giveth's transparency and the opportunity to earn GIV tokens. Developers and Web3 builders integrate Giveth to fund innovative dApps without relying on specific grant programs.\
+
+
+**How popular is&#x20;**_**Giveth**_**&#x20;in the industry?**
+
+Since its launch, Giveth has become the most prominent platform for Web3 crowdfunding, supporting over 6,400 projects and raising nearly $4.6 million in donations from more than 22,500 givers. Notable projects like Geodework (an Ethereum Foundation team) and SEAL 911 have successfully fundraised on Giveth, which underlines the platform’s credibility.&#x20;
+
+Users praise Giveth for its easy-to-use interface and transparent donation tracking. They often highlight how GIVbacks encourage and promote long-term giving in the decentralized web. Meanwhile, media outlets have highlighted Giveth’s zero-fee model and community-driven focus as a pillar of the Ethereum ecosystem.&#x20;
+
+
+
+***
+
 ## Web3 Gaming with [_Mythical Games_](https://mythicalgames.com/)
 
 _9th September 2025 | A report by Adewumi V._
@@ -22,7 +59,6 @@ By turning in-game assets into tradable tokens, Mythical Games facilitates playe
 
 <figure><img src="../../.gitbook/assets/Blog025_MythicalGamesPlatform.PNG" alt="Mythical Games provides a blockchain platform for developers and users to build, own, and trade digital assets  across multiple ecosystems."><figcaption></figcaption></figure>
 
-\
 **Who are the main users of&#x20;**_**Mythical Games**_**?**
 
 Mythical Games serves two core audiences: players and game developers.&#x20;
@@ -32,7 +68,7 @@ Players benefit from asset ownership, immersive economies, and in-game trading, 
 Developers, on the other hand, can fully focus on the lore without worrying about complex infrastructure requirements. Mythical Games’ APIs and SDKs make it simple to quickly add features like in-game marketplaces and game assets management when needed.&#x20;
 
 \
-**How popular is&#x20;**_**Mythical Games in the industry**_**?**
+**How popular is&#x20;**_**Mythical Games**_**&#x20;in the industry?**
 
 With over 6 million players, 200+ employees, and five global offices, Mythical Games has become a leading destination for Web3 gaming. The platform is pursuing further growth with the Mythical Marketplace and new in-game trading systems, which already support an active community of creators and collectors.
 
