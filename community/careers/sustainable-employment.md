@@ -20,7 +20,7 @@ Parity Technologies is the engineering powerhouse behind the Polkadot SDK. This 
 
 The Web3 Foundation funds research, provides developers grants, and drives growth across Polkadot network. But its focus goes beyond the ecosystem to enable the next generation of Web3 products.
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Both organizations offer remote-first and globally accessible roles. Whether you're deeply technical or people-focused, there’s a program or a team to fit your profile.
 
@@ -35,7 +35,7 @@ Current openings include:
 
 The bottom line? Contribute to web technologies used by thousands of developers and users worldwide!
 
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Ready to grab your first corporate role? Visit[ parity.io/careers](https://www.parity.io/careers) for openings in Engineering and Product or head to [web3.foundation/about](https://web3.foundation/about) to learn about the ongoing ecosystem growth strategy.
 
@@ -72,7 +72,7 @@ Key roles currently in demand across startups include:
 
 Why join a Polkadot ecosystem startup? You will get to work on innovative technologies and be part of a product-driven environment. Many positions are remote and come with the flexibility that modern professionals seek.
 
-<figure><img src="../../.gitbook/assets/unknown (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Ready to start? Head over to[ polkadot.getro.com](https://polkadot.getro.com/jobs), filter by role or company, and apply directly! If you are not sure if a role is a good fit, join community forums to engage with teams before applying.
 

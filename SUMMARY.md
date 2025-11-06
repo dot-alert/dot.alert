@@ -105,6 +105,8 @@
   * [Community building](community/careers/community-building.md)
   * [Technical collaboration](community/careers/technical-collaboration.md)
   * [Sustainable employment](community/careers/sustainable-employment.md)
+  * [Professional networking](community/careers/professional-networking.md)
+  * [Web3 careers](community/careers/web3-careers.md)
 * [Social Channels](community/social-channels.md)
 * [Fortnightly Polls](community/fortnightly-polls.md)
 * [Monthly Quizzes](community/monthly-quizzes.md)
