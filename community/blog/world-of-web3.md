@@ -4,6 +4,41 @@ description: Keep up with popular blockchain solutions.
 
 # World of Web3
 
+## Web3 Governance with [_OpenGov_](https://polkadot.com/opengov)
+
+_11th November 2025 | A report by Adewumi V._
+
+
+
+Blockchain networks have struggled with achieving decentralised and transparent governance for a long time. Decision-making was either centralised around major stakeholders or overly reliant on trusted intermediaries. Polkadot’s OpenGov made a breakthrough in the field by offering a semi-automated governance system on the blockchain.&#x20;
+
+
+
+**Which problems does&#x20;**_**OpenGov**_**&#x20;solve?**
+
+OpenGov addresses centralisation in governance by enabling all users to vote through referendums. This is unlike most ecosystems where only delegates can send, approve, or reject proposals. Voters can use a “conviction voting” mechanism to amplify their voting power by locking their DOT tokens for extended periods. This is essential for balancing influence between small and large token holders.
+
+OpenGov has also introduced the Polkadot Technical Fellowship, a collective of technical experts who oversee proposed changes to network operations. While the Technical Fellowship cannot make decisions on behalf of the community, it plays a crucial role in classifying proposals as safe, malicious, or urgent. In turn, this paves the way for quicker fixes and improved decision-making without compromising on the principles of decentralisation.
+
+<figure><img src="../../.gitbook/assets/Blog027_OpenGovTechnologies.PNG" alt="OpenGov is a semi-automated blockchain governance system built on the Polkadot SDK."><figcaption></figcaption></figure>
+
+**Who are the main users of&#x20;**_**OpenGov**_**?**
+
+The primary users of OpenGov are DOT holders who can propose new directions, vote, or delegate their votes to other affiliates. Blockchain developers who are building appchains and rollups in the Polkadot ecosystem can integrate OpenGov into their projects to support decentralised decision-making.&#x20;
+
+OpenGov is not a governance tool for the Polkadot network alone, but also a new model for community-led governance in the Web3 industry. Because OpenGov allows token holders to directly influence the development of blockchain networks, protocol researchers and analysts will find a wealth of qualitative and quantitative data to report and learn from. \
+
+
+**How popular is&#x20;**_**OpenGov**_**&#x20;in the industry?**
+
+Fully operational on the Polkadot network since late 2022, OpenGov is recognised as one of the most advanced and widely adopted decentralised governance systems supported by blockchain technology. With over 1.3 million users, OpenGov introduces transparent voting across financial, social, and technical proposals, setting a new standard for governance on the web.&#x20;
+
+A notable OpenGov-related initiative is Decentralised Voices, which aims to encourage broad user participation in on-chain governance. For the past 12 months, this program has assigned over 42 million DOT and 80,000 KSM to a selection of DAOs and OpenGov delegates on a quarterly basis. As scalable community-driven governance becomes the crux of blockchain developments, OpenGov’s influence continues to expand across ecosystems.
+
+
+
+***
+
 ## Web3 Crowdfunding with [_Giveth_](https://giveth.io/)
 
 _14th October 2025 | A report by Catherine N._
