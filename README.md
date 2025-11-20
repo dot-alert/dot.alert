@@ -26,7 +26,7 @@ layout:
 # Welcome!
 
 {% hint style="info" %}
-🆕 [Web3 Governance with OpenGov](community/blog/world-of-web3.md#web3-governance-with-opengov) 🆕
+🆕 [Web3 Careers with the Polkadot Technical Fellowship](community/careers/professional-networking.md#share-your-technical-expertise) 🆕
 {% endhint %}
 
 <table data-card-size="large" data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td>                                 <strong>Use cases</strong></td><td><a href="community/use-cases/">use-cases</a></td><td><a href=".gitbook/assets/Covers_UseCases.png">Covers_UseCases.png</a></td></tr><tr><td>                                    <strong>Ebooks</strong> </td><td><a href="community/series/">series</a></td><td><a href=".gitbook/assets/Covers_Ebooks.png">Covers_Ebooks.png</a></td></tr><tr><td>                                       <strong>Blog</strong></td><td><a href="community/blog/">blog</a></td><td><a href=".gitbook/assets/Covers_Blog.png">Covers_Blog.png</a></td></tr><tr><td>                                   <strong>Careers</strong></td><td><a href="community/careers/">careers</a></td><td><a href=".gitbook/assets/Covers_Careers.png">Covers_Careers.png</a></td></tr></tbody></table>

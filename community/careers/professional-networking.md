@@ -4,6 +4,48 @@ description: Collectives in the Polkadot ecosystem.
 
 # Professional networking
 
+## Share your technical expertise.
+
+_20th November 2025 | A thread by Pooja G._&#x20;
+
+
+
+**Want to build your career as a Polkadot protocol developer while joining a network of top blockchain experts?** The [Polkadot Technical Fellowship](https://polkadot-fellows.xyz/) (PTF) is a self-governing community for engineers shaping Polkadot and Kusama networks.
+
+<figure><img src="../../.gitbook/assets/Thread20.1.PNG" alt=""><figcaption></figcaption></figure>
+
+
+
+The PTF operates on-chain via the Collectives chain and off-chain through the Fellows repository. It’s a merit-based group where members are ranked by the depth of their knowledge and hands-on contributions to Polkadot SDK and its ecosystem.
+
+Members are expected to uphold the Manifesto’s core principles, follow its governance processes, and actively maintain the codebase over long periods of time. Progression is hard-coded: your rank depends on the quality and impact of your technical work.
+
+<figure><img src="../../.gitbook/assets/unknown (22).png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+Here is a glimpse of the PTF lifecycle:\
+**Application**: Submit motivations and GitHub contributions.\
+**Induction:** Get seeded by a Fellow.\
+**Retention:** Show consistent work.\
+**Promotion:** Pass evaluations and in-person interviews.\
+**Demotion**: If inactive or unproductive.
+
+Why join?
+
+* Recognition as a Polkadot expert
+* Collaboration with top protocol and ecosystem leaders
+* Staged merit-based progression
+* A monthly salary in line with OECD incomes
+
+<figure><img src="../../.gitbook/assets/unknown (23).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Interested in onboarding the Polkadot Technical Fellowship? Learn more at[ https://polkadot-fellows.xyz](https://polkadot-fellows.xyz) and start your journey towards technical expertise for Polkadot Network and the blockchain industry.
+
+
+
+***
+
 ## Become a community ambassador.
 
 _6th November 2025 | A thread by Pooja G._
