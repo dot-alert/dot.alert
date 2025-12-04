@@ -18,8 +18,7 @@ Onboarding Polkaverse is a well-staged multistep process that starts with connec
 
 Each Polkaverse space represents a specific area of interest or a community where users can write  opinion pieces and discuss ecosystem projects while keeping an open record of their interactions. Unlike popular Web2 social media platforms like Twitter, Discord, and Reddit that are more time-consuming to navigate, searching for information on Polkaverse is done in one click and provides the most relevant posts for any keywords.&#x20;
 
-Polkaverse also gives visitors and readers the chance to voice their opinion on blog posts through reactions, comments, upvotes, or downvotes. To manage interactions and limit the amount of spam posts on the platform, users need to obtain Energy, which is used to settle platform operations on-chain. Polkaverse allows users to tip blog authors, and this feature will be extended into a full suite of Social Finance (SoFi) protocols to support creator staking and social media monetisation.\
-
+Polkaverse also gives visitors and readers the chance to voice their opinion on blog posts through reactions, comments, upvotes, or downvotes. To manage interactions and limit the amount of spam posts on the platform, users need to obtain Energy, which is used to settle platform operations on-chain. Polkaverse allows users to tip blog authors, and this feature will be extended into a full suite of Social Finance (SoFi) protocols to support creator staking and social media monetisation.<br>
 
 <figure><img src="../../.gitbook/assets/S_PVLandingpage.PNG" alt="Polkaverse is a decentralised social media platform built on Subsocial."><figcaption><p>The landing page of <a href="https://polkaverse.com/">Polkaverse</a>.</p></figcaption></figure>
 

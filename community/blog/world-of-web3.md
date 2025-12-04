@@ -26,8 +26,7 @@ OpenGov has also introduced the Polkadot Technical Fellowship, a collective of t
 
 The primary users of OpenGov are DOT holders who can propose new directions, vote, or delegate their votes to other affiliates. Blockchain developers who are building appchains and rollups in the Polkadot ecosystem can integrate OpenGov into their projects to support decentralised decision-making.&#x20;
 
-OpenGov is not a governance tool for the Polkadot network alone, but also a new model for community-led governance in the Web3 industry. Because OpenGov allows token holders to directly influence the development of blockchain networks, protocol researchers and analysts will find a wealth of qualitative and quantitative data to report and learn from. \
-
+OpenGov is not a governance tool for the Polkadot network alone, but also a new model for community-led governance in the Web3 industry. Because OpenGov allows token holders to directly influence the development of blockchain networks, protocol researchers and analysts will find a wealth of qualitative and quantitative data to report and learn from. <br>
 
 **How popular is&#x20;**_**OpenGov**_**&#x20;in the industry?**
 
@@ -63,8 +62,7 @@ The platform also simplifies crypto donations for newcomers. It offers an easy o
 
 Giveth serves a diverse crowd of Web3 enthusiasts: nonprofits, public goods, and ReFi projects. Reforestation initiatives, welfare or educational programs can use Giveth to raise funds globally without relying solely on traditional banking systems. For example, the Palestine Children's Relief Fund (PCRF) currently uses Giveth to raise funds for its humanitarian efforts.
 
-From crypto beginners to seasoned investors, individual donors appreciate Giveth's transparency and the opportunity to earn GIV tokens. Developers and Web3 builders integrate Giveth to fund innovative dApps without relying on specific grant programs.\
-
+From crypto beginners to seasoned investors, individual donors appreciate Giveth's transparency and the opportunity to earn GIV tokens. Developers and Web3 builders integrate Giveth to fund innovative dApps without relying on specific grant programs.<br>
 
 **How popular is&#x20;**_**Giveth**_**&#x20;in the industry?**
 

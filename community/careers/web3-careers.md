@@ -4,6 +4,45 @@ description: Overview of career pathways in blockchain ecosystems.
 
 # Web3 careers
 
+## Sustainable employment.
+
+_3rd December 2025 | A thread by Pooja G._
+
+
+
+**What does a long-term career in Web3 look like?**\
+In ecosystems like Ethereum and Polkadot, it’s more than just coding. It’s about building the future Web technologies.
+
+<figure><img src="../../.gitbook/assets/Recap4.1.PNG" alt="" width="563"><figcaption></figcaption></figure>
+
+The most in-demand roles today are Blockchain Engineers, Smart Contract Developers, DevOps, and Product Designers. But beyond tech, there's also a growing need for community managers, copywriters, and marketers to drive engagement and scale projects.
+
+
+
+Leading organizations like DoraHacks and Parity Technologies have global openings. Engineering focuses on building and maintaining core blockchain infrastructure. Product development turns ideas into usable tools, while community and marketing improve adoption.&#x20;
+
+<figure><img src="../../.gitbook/assets/unknown (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Many established startups are looking for both tech and non-tech talent to expand their products. These roles cover managing DAOs, running validators, and sourcing partnerships.
+
+What’s in it for you?\
+\- Remote-first work\
+\- Open-source projects\
+\- Purpose-driven teams\
+\- Cutting-edge tech
+
+
+
+Explore open roles [dotjobs.online](https://dotjobs.online/). Contribute to GitHub repos like polkadot-sdk to gain visibility amongst core teams. Browse community spaces and forums to find new projects.
+
+<figure><img src="../../.gitbook/assets/unknown (2).png" alt="" width="563"><figcaption></figcaption></figure>
+
+Web3 offers a future-proof career path: take part in hackathons or apply for grant programs from ecosystem organisations to land your first role.
+
+
+
+***
+
 ## Technical collaboration (Part 2).
 
 _25th September 2025 | A thread by Pooja G._

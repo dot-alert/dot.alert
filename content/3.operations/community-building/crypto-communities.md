@@ -16,7 +16,7 @@ Crypto communities are groups of [blockchain network participants](../../5.regul
 
 Generally-speaking, there are as many crypto communities as there are crypto projects, but their size and reach will vary depending on their history, visibility, rate of adoption, and [incentive systems](crypto-payments.md). Within the Polkadot ecosystem, the foundation of crypto communities is established via three different but interconnected tasks: moderation, scam prevention, and content creation.
 
-Moderators are active community participants who have a good knowledge of ecosystem projects and play the role of stewards for new entrants. On a day-to-day basis, they work on answering users' concerns, providing [technical support](broken-reference), running contests, and rewarding community members. They also contribute to drafting and enforcing community rules by identifying and addressing malicious behaviours and suspending or banning users.
+Moderators are active community participants who have a good knowledge of ecosystem projects and play the role of stewards for new entrants. On a day-to-day basis, they work on answering users' concerns, providing [technical support](/broken/pages/2JN5ckRXt2wwOXXjXyzv), running contests, and rewarding community members. They also contribute to drafting and enforcing community rules by identifying and addressing malicious behaviours and suspending or banning users.
 
 <figure><img src="../../../.gitbook/assets/O_CBPolkadotCodeOfConduct (1).PNG" alt="The Code of conduct of Polkadot community channels."><figcaption><p>The <a href="https://forum.polkadot.network/t/code-of-conduct/17">Code of conduct</a> summarises Moderation rules for Polkadot community channels.</p></figcaption></figure>
 

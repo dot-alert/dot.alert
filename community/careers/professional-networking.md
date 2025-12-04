@@ -62,7 +62,7 @@ The PAF is a decentralised, community-led program built on DIRECT principles: Dy
 
 Polkadot ambassadors can progress through 6 ranks by contributing to online education, governance, events, content creation, and leadership. This Fellowship gives real visibility, mentorship, and meaningful connections to members across continents.
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -75,7 +75,7 @@ Here’s what makes this program shine:
 
 With on-chain collective tools, partner programs, and localized leadership models in development, the PAF is evolving into a global engine for decentralized education and innovation.&#x20;
 
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 &#x20;The Polkadot Ambassador Fellowship is your launchpad into Web3 governance. Learn more at [https://polkadot.com/community/ambassador-program/](https://polkadot.com/community/ambassador-program/). &#x20;
 
