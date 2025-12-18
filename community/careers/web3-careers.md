@@ -4,9 +4,43 @@ description: Overview of career pathways in blockchain ecosystems.
 
 # Web3 careers
 
+## Professional networking.
+
+_18th December 2025 | A thread by Pooja G._
+
+
+
+**In Web3, your network is your career engine.**&#x20;
+
+The [Polkadot ecosystem](https://polkadot.com/) offers two powerful Fellowships to help you build reputation and connections: the Ambassador Fellowship (PAF) and the Technical Fellowship (PTF).
+
+<figure><img src="../../.gitbook/assets/Recap5.1.PNG" alt=""><figcaption></figcaption></figure>
+
+
+
+The PAF is a community-led program, members move through 6 ranks, contributing to education, governance, and leadership. The PTF is an on-chain collective, with promotions earned through long-term commitment & peer recognition.&#x20;
+
+The PAF is for non-technical community leaders. To join as a Candidate Ambassador, you can organise events or create content. Your progression will depend on how well you refine your knowledge of the industry.
+
+<figure><img src="../../.gitbook/assets/unknown.png" alt="" width="563"><figcaption></figcaption></figure>
+
+
+
+The PTF is for expert engineers. Entry begins at Rank 0 and requires endorsement from a high-ranked member. Promotions are approved on-chain with a mandatory argument detailing your achievements over a year.
+
+What makes these Fellowships special is that they aim to be transparent, meritocratic, while providing a public track record for all their members. Your rank is a powerful signal of your commitment to Web3 technologies, opening doors to positions of responsibilities.
+
+<figure><img src="../../.gitbook/assets/unknown (1).png" alt="" width="482"><figcaption></figcaption></figure>
+
+Ready to make your mark? The PAF empowers you to grow as a community builder. The PTF lets you contribute alongside top developers shaping the multi-chain future. Take the leap that will define your Web3 career at [polkadot.com](https://polkadot.com/).
+
+
+
+***
+
 ## Sustainable employment.
 
-_3rd December 2025 | A thread by Pooja G._
+_4th December 2025 | A thread by Pooja G._
 
 
 
@@ -21,7 +55,7 @@ The most in-demand roles today are Blockchain Engineers, Smart Contract Develope
 
 Leading organizations like DoraHacks and Parity Technologies have global openings. Engineering focuses on building and maintaining core blockchain infrastructure. Product development turns ideas into usable tools, while community and marketing improve adoption.&#x20;
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Many established startups are looking for both tech and non-tech talent to expand their products. These roles cover managing DAOs, running validators, and sourcing partnerships.
 
@@ -35,7 +69,7 @@ What’s in it for you?\
 
 Explore open roles [dotjobs.online](https://dotjobs.online/). Contribute to GitHub repos like polkadot-sdk to gain visibility amongst core teams. Browse community spaces and forums to find new projects.
 
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Web3 offers a future-proof career path: take part in hackathons or apply for grant programs from ecosystem organisations to land your first role.
 
