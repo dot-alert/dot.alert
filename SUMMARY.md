@@ -100,6 +100,7 @@
   * [World of Web3](community/blog/world-of-web3.md)
   * [Working in Web3](community/blog/working-in-web3.md)
   * [Web3 Reports](community/blog/web3-reports.md)
+* [Infographics](community/infographics.md)
 * [Careers](community/careers/README.md)
   * [Blockchain education](community/careers/blockchain-education.md)
   * [Community building](community/careers/community-building.md)
@@ -109,9 +110,9 @@
   * [Web3 careers](community/careers/web3-careers.md)
 * [Social Channels](community/social-channels.md)
 * [Fortnightly Polls](community/fortnightly-polls.md)
-* [Monthly Quizzes](community/monthly-quizzes.md)
 * [User Surveys](community/user-surveys.md)
 * [Jobs](community/jobs.md)
+* [Monthly Quizzes](community/monthly-quizzes.md)
 
 ## About
 

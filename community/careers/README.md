@@ -1,5 +1,6 @@
 ---
 description: Kickstart your Web3 career with Dot.alert() insights.
+hidden: true
 cover: ../../.gitbook/assets/DotJobs04.png
 coverY: 0
 ---
