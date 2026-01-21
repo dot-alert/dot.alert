@@ -25,4 +25,4 @@ layout:
 
 ## KYR: Web3 jobs, in a nutshell.
 
-Coming soon!
+<figure><img src="../.gitbook/assets/KYR.png" alt="" width="563"><figcaption></figcaption></figure>
