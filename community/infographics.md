@@ -23,6 +23,7 @@ layout:
 
 # Infographics
 
-## KYR: Web3 jobs, in a nutshell.
+## Content jobs.
 
-<figure><img src="../.gitbook/assets/KYR.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/KYR1_Web3ContentJobs.png" alt="Content jobs in the Web3 industry." width="563"><figcaption></figcaption></figure>
+
