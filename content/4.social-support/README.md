@@ -4,23 +4,6 @@ description: >-
   ecosystem.
 cover: ../../.gitbook/assets/Dotalertbannersection4.png
 coverY: -17.89405087239857
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # 4.Support

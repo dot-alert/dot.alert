@@ -4,23 +4,6 @@ description: >-
   navigating Web3.
 cover: .gitbook/assets/Dotalertbanner03Website (1).png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # Welcome!

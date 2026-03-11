@@ -1,19 +1,5 @@
 ---
 description: Bite-sized Polkadot concepts at a glance.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # On the DOT - First edition

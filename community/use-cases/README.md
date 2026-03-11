@@ -3,23 +3,6 @@ description: Explore basic Web3 concepts with Dot.alert() snippets.
 hidden: true
 cover: ../../.gitbook/assets/dot.alert_cover-images13 (1).png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # Use cases

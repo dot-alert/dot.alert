@@ -1,19 +1,5 @@
 ---
 description: Do your own research on the job market.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # Working in Web3
@@ -174,6 +160,8 @@ While the Web3 industry can offer lucrative opportunities, career growth is not 
 
 It is crucial for interested candidates to weigh the risks and rewards of a career in Web3 before joining the workforce. The realities of this decentralised industry can be challenging to face, so taking proactive steps to safeguard your professional and financial well-being should remain your top priority.
 
+
+
 ***
 
 ## Risks in the Web3 Job Market (Part 1) - When Hiring Goes Wrong
@@ -207,6 +195,8 @@ Web3 is an inherently complex industry with rapidly changing technologies and re
 
 
 While the perks of Web3 jobs are appealing to professionals looking to start a career in the industry, there are still some notable downsides. Navigating these risks requires a cautious approach to opportunities that may seem too good to be true.
+
+
 
 ***
 

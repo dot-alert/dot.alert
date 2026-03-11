@@ -3,23 +3,6 @@ description: Get a taste of the Web3 industry with Dot.alert() infographics.
 hidden: true
 cover: ../../.gitbook/assets/dot.alert_cover-images4.png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: false
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: false
 ---
 
 # Ebooks
